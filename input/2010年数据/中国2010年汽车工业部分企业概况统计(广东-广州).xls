@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(广东-广州) </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通汛地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">江门市福莱利汽车配件有限公司</td>
+<td class="shuju">广东省江门市新会区睦洲镇三牙工业区</td>
+<td class="shuju">529143</td>
+<td class="shuju">(0750)6226666</td>
+<td class="shuju">216</td>
+<td class="shuju">-</td>
+<td class="shuju">EQ.TJ.华泰刮水器总成97000只</td>
+</tr>
+<tr><td class="zhibiao">台山市国际交通器材配件有限公司</td>
+<td class="shuju">广东省台山市西湖外商投资示范区</td>
+<td class="shuju">529200</td>
+<td class="shuju">(0750)5588075</td>
+<td class="shuju">972</td>
+<td class="shuju">41134</td>
+<td class="shuju">汽车铝合金轮圈629582只</td>
+</tr>
+<tr><td class="zhibiao">广东富华重工制造有限公司</td>
+<td class="shuju">广东省台山巿三台大道北1号</td>
+<td class="shuju">529200</td>
+<td class="shuju">-</td>
+<td class="shuju">2000</td>
+<td class="shuju">38947</td>
+<td class="shuju">中集等汽车车轴112612套</td>
+</tr>
+<tr><td class="zhibiao">广东建成机械设备有限公司</td>
+<td class="shuju">广东省开平市长沙沿江东路74号</td>
+<td class="shuju">529300</td>
+<td class="shuju">(0750)2215273</td>
+<td class="shuju">354</td>
+<td class="shuju">11972</td>
+<td class="shuju">改装KP9390GDY.KP9402GDY等超重型半挂车263辆;改装KP5250GYQ.KP5251GYQ等液化气体运输车6辆;改装KP5311GDY.KP5312GDY等低温液体运输车3辆</td>
+</tr>
+<tr><td class="zhibiao">阳江市宝马利汽车空调设备有限公司</td>
+<td class="shuju">广东省阳江市江城区麻演工业区中路10号</td>
+<td class="shuju">529500</td>
+<td class="shuju">(0662)3657280</td>
+<td class="shuju">600</td>
+<td class="shuju">40101</td>
+<td class="shuju">空凋冷凝器1261300台.空调蒸发器676200台;散热器总成164100只</td>
+</tr>
+<tr><td class="zhibiao">鹤山国机南联摩托车工业有限公司</td>
+<td class="shuju">广东省鹤山市沙坪镇雁前路1950号</td>
+<td class="shuju">529700</td>
+<td class="shuju">(0750)8826302</td>
+<td class="shuju">190</td>
+<td class="shuju">44053</td>
+<td class="shuju">150.110.125二轮普通摩托车173795辆</td>
+</tr>
+<tr><td class="zhibiao">广州汽车工业集团有限公司</td>
+<td class="shuju">广州市东风中路448458号成悦大厦19-21楼</td>
+<td class="shuju">510030</td>
+<td class="shuju">(020)83150505</td>
+<td class="shuju">38670</td>
+<td class="shuju">14830736</td>
+<td class="shuju">基本型乘用车552897辆;二轮驱动SUV78359辆</td>
+</tr>
+<tr><td class="zhibiao">广州汽车集团零邰件有限公司</td>
+<td class="shuju">广州巿东风东路555号粤海集团大厦28楼</td>
+<td class="shuju">510050</td>
+<td class="shuju">(020)83858563</td>
+<td class="shuju">8656</td>
+<td class="shuju">1589276</td>
+<td class="shuju">车灯总成8553000只;座椅总成2038743只</td>
+</tr>
+<tr><td class="zhibiao">广州摩托集团公司</td>
+<td class="shuju">广州市海珠区滨江中路352号</td>
+<td class="shuju">510220</td>
+<td class="shuju">(020)84235057</td>
+<td class="shuju">3277</td>
+<td class="shuju">488618</td>
+<td class="shuju">100.110.125.150二轮普通摩托车939204辆</td>
+</tr>
+<tr><td class="zhibiao">广州汽车集团客车有限公司</td>
+<td class="shuju">广州市白云区石井镇石沙路451号</td>
+<td class="shuju">510430</td>
+<td class="shuju">(020)36414330</td>
+<td class="shuju">434</td>
+<td class="shuju">53355</td>
+<td class="shuju">客车非完整车辆717辆;客车1262辆</td>
+</tr>
+<tr><td class="zhibiao">广州市环境卫生机械设备厂</td>
+<td class="shuju">广州市白云区江高镇新广花公路塘贝路段</td>
+<td class="shuju">510450</td>
+<td class="shuju">(020)36080219</td>
+<td class="shuju">200</td>
+<td class="shuju">13201</td>
+<td class="shuju">改装GH5252ZYS.GH5162ZYS压缩式垃圾车160辆;改装GH5252ZLJ.GH5253ZLJ等自卸式垃圾车84辆;改装GH5160GSS等洒水车37辆</td>
+</tr>
+<tr><td class="zhibiao">广州维高集团有限公司</td>
+<td class="shuju">广州市白云区神山大道东8号</td>
+<td class="shuju">510460</td>
+<td class="shuju">(020)36418228</td>
+<td class="shuju">973</td>
+<td class="shuju">23574</td>
+<td class="shuju">五羊-本田摩托车仪表板总成155万只</td>
+</tr>
+<tr><td class="zhibiao">广州市福润斯汽车配件有限公司</td>
+<td class="shuju">广州市经济技术开发区东区东稚路7号</td>
+<td class="shuju">510470</td>
+<td class="shuju">(020)62952083</td>
+<td class="shuju">124</td>
+<td class="shuju">1612</td>
+<td class="shuju">汽车机油滤清器2874800只</td>
+</tr>
+<tr><td class="zhibiao">广东信源物流设备有限公司</td>
+<td class="shuju">广州市天河区元岗路399号</td>
+<td class="shuju">510507</td>
+<td class="shuju">(020)37080081</td>
+<td class="shuju">336</td>
+<td class="shuju">21965</td>
+<td class="shuju">改装厢式运输车361辆;改装邮政车328辆;改装其他厢式汽车159辆</td>
+</tr>
+<tr><td class="zhibiao">广州广爱兴汽车零部件有限公司</td>
+<td class="shuju">广州市经济技术开发区东区骏业路261号</td>
+<td class="shuju">510530</td>
+<td class="shuju">(020)82265138</td>
+<td class="shuju">321</td>
+<td class="shuju">60993</td>
+<td class="shuju">广本车门内护板1409169件;广本仪表板总成546795只;广本遮阳板265321只</td>
+</tr>
+<tr><td class="zhibiao">广州三叶电机有限公司</td>
+<td class="shuju">广州市经济技术开发区东区联广路263号</td>
+<td class="shuju">510530</td>
+<td class="shuju">(020)32020168</td>
+<td class="shuju">465</td>
+<td class="shuju">110617</td>
+<td class="shuju">重庆TSK.广州TSK电动玻璃升降器4913400只;广本.东风本田.中国本田摩托车微电机1652900台;广本.东风本田.本田(中国)刮水器总成1217100只</td>
+</tr>
+<tr><td class="zhibiao">广州广日专用汽车有限公司</td>
+<td class="shuju">广州市高新技术产业开发区科学城科林路1号</td>
+<td class="shuju">510660</td>
+<td class="shuju">(020)82075531</td>
+<td class="shuju">118</td>
+<td class="shuju">8883</td>
+<td class="shuju">改装重型半挂车80辆;改装压缩式垃圾车131辆;改装车厢可卸式垃圾车7辆</td>
+</tr>
+<tr><td class="zhibiao">广州市科密汽车制动技术开发有限公司</td>
+<td class="shuju">广州市开发区科学城揽月路80号创新基地D栋618-625单元</td>
+<td class="shuju">510663</td>
+<td class="shuju">(020)32057203</td>
+<td class="shuju">151</td>
+<td class="shuju">6500</td>
+<td class="shuju">ABS62900套;传感器57200只</td>
+</tr>
+<tr><td class="zhibiao">广汽本田汽车有限公司</td>
+<td class="shuju">广州市黄埔区广本路1号</td>
+<td class="shuju">510700</td>
+<td class="shuju">(020)62808656</td>
+<td class="shuju">7349</td>
+<td class="shuju">5576738</td>
+<td class="shuju">基本型乘用车340049辆.MPV45706辆</td>
+</tr>
+<tr><td class="zhibiao">东风本田发动机有限公司</td>
+<td class="shuju">广州市黄埔区横沙广本路111号</td>
+<td class="shuju">510700</td>
+<td class="shuju">(020)62808156</td>
+<td class="shuju">1701</td>
+<td class="shuju">1732751</td>
+<td class="shuju">汽车用汽油机商品量385868台</td>
+</tr>
+<tr><td class="zhibiao">广州昭和汽车零部件有限公司</td>
+<td class="shuju">广州市经济技术开发区东区宏明路6号</td>
+<td class="shuju">510760</td>
+<td class="shuju">(020)82268289</td>
+<td class="shuju">1580</td>
+<td class="shuju">161992</td>
+<td class="shuju">五羊-本田摩托车减振器总成13824只;东本.广本减振器总成2664026只;本田转向机总成595393台</td>
+</tr>
+<tr><td class="zhibiao">广州斯坦雷电气有限公司</td>
+<td class="shuju">广州市经济技术开发区东区骏业路138号</td>
+<td class="shuju">510760</td>
+<td class="shuju">(020)82266602</td>
+<td class="shuju">684</td>
+<td class="shuju">141837</td>
+<td class="shuju">本田车灯总成8553000只</td>
+</tr>
+<tr><td class="zhibiao">本田汽车(中国)有限公司</td>
+<td class="shuju">广州市经济技术开发区东区开创人道363号</td>
+<td class="shuju">510760</td>
+<td class="shuju">(020)32288355</td>
+<td class="shuju">800</td>
+<td class="shuju">221768</td>
+<td class="shuju">基本型乘用车25116辆</td>
+</tr>
+<tr><td class="zhibiao">广州风神汽车有限公司</td>
+<td class="shuju">广州市花都区风神大道8号</td>
+<td class="shuju">510800</td>
+<td class="shuju">(020)86871916</td>
+<td class="shuju">5065</td>
+<td class="shuju">225057</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">广州大运摩托车有限公司</td>
+<td class="shuju">广州市花都区永发大道12号</td>
+<td class="shuju">510800</td>
+<td class="shuju">(020)86888153</td>
+<td class="shuju">1011</td>
+<td class="shuju">374085</td>
+<td class="shuju">100.110.125.150二轮普通摩托车959750辆;50二轮轻便摩托车55794辆</td>
+</tr>
+<tr><td class="zhibiao">广州市毅峰汽配制造有限公司</td>
+<td class="shuju">广州市花都区汽车城综合加工区岭东路</td>
+<td class="shuju">510800</td>
+<td class="shuju">(020)86876887</td>
+<td class="shuju">320</td>
+<td class="shuju">5179</td>
+<td class="shuju">汽车机油滤清器670万只;汽车空气滤清器167万只</td>
+</tr>
+<tr><td class="zhibiao">广州市宝力轮胎有限公司</td>
+<td class="shuju">广州市花都区炭步镇松仔岗</td>
+<td class="shuju">510828</td>
+<td class="shuju">(020)86748620</td>
+<td class="shuju">502</td>
+<td class="shuju">24922</td>
+<td class="shuju">汽车轮胎外胎131万条</td>
+</tr>
+<tr><td class="zhibiao">广州精益汽车空调有限公司</td>
+<td class="shuju">广州市花都区花山镇坪山工业区5号</td>
+<td class="shuju">510880</td>
+<td class="shuju">(020)86789899</td>
+<td class="shuju">478</td>
+<td class="shuju">22898</td>
+<td class="shuju">宇通.恒通.金龙.申沃.BJ.广汽空调装置9089台</td>
+</tr>
+<tr><td class="zhibiao">广州三雅摩托车有限公司</td>
+<td class="shuju">广州从化巿城郊街新开埔顶</td>
+<td class="shuju">510900</td>
+<td class="shuju">(020)87916128</td>
+<td class="shuju">-</td>
+<td class="shuju">46281</td>
+<td class="shuju">二轮普通摩托车122914辆</td>
+</tr>
+<tr><td class="zhibiao">广州帕卡汽车零部件有限公司</td>
+<td class="shuju">广州从化市街口街安园路2号</td>
+<td class="shuju">510900</td>
+<td class="shuju">(020)87912066</td>
+<td class="shuju">86</td>
+<td class="shuju">6358</td>
+<td class="shuju">隔音件材料</td>
+</tr>
+<tr><td class="zhibiao">广州天马集团天马摩托车有限公司</td>
+<td class="shuju">广州从化市江埔街镇从樟路3号</td>
+<td class="shuju">510925</td>
+<td class="shuju">(020)87982688</td>
+<td class="shuju">642</td>
+<td class="shuju">140747</td>
+<td class="shuju">二轮普通摩托车358124辆;天马摩托车用发动机347349台;二轮轻</td>
+</tr>
+<tr><td class="zhibiao">广汽日野汽车有限公司</td>
+<td class="shuju">广州巿从化明珠工业园宝珠大道1号</td>
+<td class="shuju">510930</td>
+<td class="shuju">(020)32328125</td>
+<td class="shuju">1242</td>
+<td class="shuju">66947</td>
+<td class="shuju">半挂牵引车1206辆;载货车1069辆;货车非完整车辆955辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,271 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(重庆-重庆)(一)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">重庆志成机械股份有限公司</td>
+<td class="shuju">重庆市九龙坡区九龙镇盘龙四社</td>
+<td class="shuju">400051</td>
+<td class="shuju">(023)68965509</td>
+<td class="shuju">3500</td>
+<td class="shuju">63115</td>
+<td class="shuju">宗申.大长江.力帆.铃木.钱江.鑫源.金城等摩托车气缸盖10287000只</td>
+</tr>
+<tr><td class="zhibiao">庆铃汽车(集团)有限公司</td>
+<td class="shuju">重庆市九龙坡区中梁山协兴村1号</td>
+<td class="shuju">400052</td>
+<td class="shuju">(023)65265674</td>
+<td class="shuju">4185</td>
+<td class="shuju">1045442</td>
+<td class="shuju">载货车45614辆.汽车用柴油机自配59598台;货车非完整车辆18580辆</td>
+</tr>
+<tr><td class="zhibiao">重庆先锋渝州电器有限公司</td>
+<td class="shuju">重庆市九龙坡区华龙大道2号</td>
+<td class="shuju">400052</td>
+<td class="shuju">(023)89809163</td>
+<td class="shuju">398</td>
+<td class="shuju">9915</td>
+<td class="shuju">宗申摩托车点火线圈320万只;隆鑫摩托车继电器317万只.建设摩托车火花塞301万只</td>
+</tr>
+<tr><td class="zhibiao">宗申产业集团有限公司</td>
+<td class="shuju">重庆市巴南区炒油场宗申工业园</td>
+<td class="shuju">400152</td>
+<td class="shuju">(023)66372824</td>
+<td class="shuju">13326</td>
+<td class="shuju">1224677</td>
+<td class="shuju">摩托车用发动机3534690台;二轮普通摩托车672481辆;三轮摩托车483372辆</td>
+</tr>
+<tr><td class="zhibiao">重庆建设摩托车股份有限公司</td>
+<td class="shuju">重庆巿巴南区花溪工业园区建设大道1号</td>
+<td class="shuju">400054</td>
+<td class="shuju">(023)66297005</td>
+<td class="shuju">7500</td>
+<td class="shuju">540797</td>
+<td class="shuju">80.90.100.125等二轮普通摩托车1530418辆;摩托车用发动机1552548台;三轮摩托车16569辆</td>
+</tr>
+<tr><td class="zhibiao">重庆神箭汽车传动件有限责任公司</td>
+<td class="shuju">重庆市巴南区花溪街道莲花一村1号</td>
+<td class="shuju">400055</td>
+<td class="shuju">(023)62555350</td>
+<td class="shuju">596</td>
+<td class="shuju">25020</td>
+<td class="shuju">SOR.青山其他齿轮348万只;法士特变速器.分动器.取力器的齿轮及轴104万件</td>
+</tr>
+<tr><td class="zhibiao">南方英特空调有限公司</td>
+<td class="shuju">重庆市经济技术开发区回龙工业园区大石路1号</td>
+<td class="shuju">400060</td>
+<td class="shuju">(023)61911676</td>
+<td class="shuju">476</td>
+<td class="shuju">49543</td>
+<td class="shuju">长安福特.出口空凋装置579191台</td>
+</tr>
+<tr><td class="zhibiao">重庆隆鑫机车有限公司</td>
+<td class="shuju">重庆市南坪经济技术开发区白鹤工业园</td>
+<td class="shuju">400060</td>
+<td class="shuju">(023)89026162</td>
+<td class="shuju">6025</td>
+<td class="shuju">1059134</td>
+<td class="shuju">摩托车用发动机3510087台.二轮普通摩托车1774021辆.三轮摩托车16972辆</td>
+</tr>
+<tr><td class="zhibiao">重庆齐信汽车零部件有限公司</td>
+<td class="shuju">重庆巿南岸区四公里广黔路70号</td>
+<td class="shuju">400067</td>
+<td class="shuju">(023)62755677</td>
+<td class="shuju">1046</td>
+<td class="shuju">40539</td>
+<td class="shuju">来太机电.建安车桥转向节3149931只;来太机电.建安车桥半轴2253058根</td>
+</tr>
+<tr><td class="zhibiao">重庆望江工业有限公司</td>
+<td class="shuju">重庆市江北区郭家沱</td>
+<td class="shuju">400071</td>
+<td class="shuju">(023)60728780</td>
+<td class="shuju">5102</td>
+<td class="shuju">254581</td>
+<td class="shuju">改装其他重型改装汽车3007辆;汽车转向节526518只</td>
+</tr>
+<tr><td class="zhibiao">重庆望江铸造有限公司</td>
+<td class="shuju">重庆巿江北区郭家沱</td>
+<td class="shuju">400071</td>
+<td class="shuju">(023)67110831</td>
+<td class="shuju">200</td>
+<td class="shuju">5746</td>
+<td class="shuju">钳体.支架</td>
+</tr>
+<tr><td class="zhibiao">重庆汽车消声器有限责任公司</td>
+<td class="shuju">重庆巿九龙坡区龙泉村73号</td>
+<td class="shuju">400080</td>
+<td class="shuju">(023)68425345</td>
+<td class="shuju">281</td>
+<td class="shuju">15295</td>
+<td class="shuju">庆铃消声器排气管135800只;庆铃消声器总成65100只;庆铃三效催化转化器57700只</td>
+</tr>
+<tr><td class="zhibiao">重庆新工汽车零部件有限公司</td>
+<td class="shuju">重庆市大渡口区钢铁路66号</td>
+<td class="shuju">400084</td>
+<td class="shuju">(023)88610168</td>
+<td class="shuju">105</td>
+<td class="shuju">1615</td>
+<td class="shuju">一汽光洋.TJ转向横直拉杆30万件</td>
+</tr>
+<tr><td class="zhibiao">重庆劲扬摩托车工业有限公司</td>
+<td class="shuju">重庆市北碚区缙云大道6号</td>
+<td class="shuju">400700</td>
+<td class="shuju">(023)63179325</td>
+<td class="shuju">290</td>
+<td class="shuju">46164</td>
+<td class="shuju">90.100.110.出口等二轮普通摩托车174561辆;摩托车用发动机32224台;150.出口三轮摩托车18479辆</td>
+</tr>
+<tr><td class="zhibiao">重庆银钢科技(集团)有限公司</td>
+<td class="shuju">重庆市北碚区同兴南路71号银钢科技园</td>
+<td class="shuju">400709</td>
+<td class="shuju">(023)68327889</td>
+<td class="shuju">667</td>
+<td class="shuju">140982</td>
+<td class="shuju">70.100.110等二轮普通摩托车273874辆;摩托车用发动机454038台;50二轮轻便摩托车57644辆</td>
+</tr>
+<tr><td class="zhibiao">重庆重型汽车集团专用汽车有限责任公司</td>
+<td class="shuju">重庆市双桥区双龙西路22号</td>
+<td class="shuju">400900</td>
+<td class="shuju">(023)43332286</td>
+<td class="shuju">386</td>
+<td class="shuju">41306</td>
+<td class="shuju">改装CQZ3253.CQZ3254等重型內卸汽车1993辆;汽车油箱17423只.汽车制动鼓16284只</td>
+</tr>
+<tr><td class="zhibiao">重庆重型远东传动轴有限责任公司</td>
+<td class="shuju">重庆市双桥区敬业大道20号</td>
+<td class="shuju">400900</td>
+<td class="shuju">(023)49639837</td>
+<td class="shuju">136</td>
+<td class="shuju">9845</td>
+<td class="shuju">汽车传动轴76980只</td>
+</tr>
+<tr><td class="zhibiao">重庆卡福汽车制动转向系统有限公司</td>
+<td class="shuju">重庆市渝北区金开大道卡福西路10号</td>
+<td class="shuju">401120</td>
+<td class="shuju">(023)89053637</td>
+<td class="shuju">1663</td>
+<td class="shuju">58033</td>
+<td class="shuju">气制动元件.转向元件</td>
+</tr>
+<tr><td class="zhibiao">重庆恒通客车有限公司</td>
+<td class="shuju">重庆市渝北区翔宇路888号</td>
+<td class="shuju">401120</td>
+<td class="shuju">(023)67189246</td>
+<td class="shuju">1392</td>
+<td class="shuju">87864</td>
+<td class="shuju">客车4010辆</td>
+</tr>
+<tr><td class="zhibiao">重庆汽车空调器有限责任公司</td>
+<td class="shuju">重庆市渝北区高堡湖路1号</td>
+<td class="shuju">401120</td>
+<td class="shuju">(023)67189860</td>
+<td class="shuju">23.2</td>
+<td class="shuju">15216</td>
+<td class="shuju">长安空调装置166501台</td>
+</tr>
+<tr><td class="zhibiao">马勒发动机零部件(重庆)有限公司</td>
+<td class="shuju">重庆市渝北区两路镇汉渝路125号</td>
+<td class="shuju">401120</td>
+<td class="shuju">(023)67837145</td>
+<td class="shuju">379</td>
+<td class="shuju">7595</td>
+<td class="shuju">百力通.三菱.富士罗宾等摩托车活塞257.50万只;FOTON.长安.LZW.成发活塞173.10万只</td>
+</tr>
+<tr><td class="zhibiao">重庆银翔摩托车(集团)有限公司</td>
+<td class="shuju">重庆市渝北区空港经济开发区空港大道822号</td>
+<td class="shuju">401120</td>
+<td class="shuju">(023)67183666</td>
+<td class="shuju">2904</td>
+<td class="shuju">273746</td>
+<td class="shuju">60.90.100.125等二轮普通摩托车644292辆;摩托车用发动机1197641台;50二轮轻便摩托车153824辆</td>
+</tr>
+<tr><td class="zhibiao">重庆红岩方大汽车悬架有限公司</td>
+<td class="shuju">重庆渝北区国家农业科技园果金大道308号</td>
+<td class="shuju">401120</td>
+<td class="shuju">(023)67468800</td>
+<td class="shuju">1215</td>
+<td class="shuju">55790</td>
+<td class="shuju">汽车稳定杆41900只;汽车钢板弹簧总成1068架</td>
+</tr>
+<tr><td class="zhibiao">重庆华恩实业有限公司</td>
+<td class="shuju">重庆市北部新区出口加工区二路四号</td>
+<td class="shuju">401122</td>
+<td class="shuju">(023)86961263</td>
+<td class="shuju">278</td>
+<td class="shuju">16645</td>
+<td class="shuju">LZW.长安铃木.昌河.东风柳汽.一汽红塔等暧风机950702台;LZW.长安铃木.昌河.东南.东风柳汽散热器总成279208只</td>
+</tr>
+<tr><td class="zhibiao">重庆兆邦汽车垫片有限责任公司</td>
+<td class="shuju">重庆市经济技术开发区北区加工区二路7号</td>
+<td class="shuju">401122</td>
+<td class="shuju">(023)67469605</td>
+<td class="shuju">90</td>
+<td class="shuju">1700</td>
+<td class="shuju">汽车.摩托车密封垫</td>
+</tr>
+<tr><td class="zhibiao">上汽依维柯红岩商用车有限公司</td>
+<td class="shuju">重庆北部新区金山大道黄环北路1号</td>
+<td class="shuju">401122</td>
+<td class="shuju">(023)63112401</td>
+<td class="shuju">4119</td>
+<td class="shuju">711291</td>
+<td class="shuju">CQ3190.CQ3253.CQ3254.CQ3314货车非完整车辆32350辆;CQ4180.CQ4254半挂牵引车1737辆</td>
+</tr>
+<tr><td class="zhibiao">长安福特马自达汽车有限公司</td>
+<td class="shuju">重庆市北部新区鸳鸯镇长福西路1号</td>
+<td class="shuju">401122</td>
+<td class="shuju">(023)67458888</td>
+<td class="shuju">9254</td>
+<td class="shuju">4752313</td>
+<td class="shuju">马自达3.马自达2.新嘉年华.福克斯.沃尔沃S40.致胜等轿车402242辆;汽车用汽油机自配量221183台.S-MAXMPV5100辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(宁波-安徽)            </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">宁波市龙嘉摩托车有限公司</td>
+<td class="shuju">宁波市慈溪市宗汉工业园区</td>
+<td class="shuju">315301</td>
+<td class="shuju">(0574)63218288</td>
+<td class="shuju">171</td>
+<td class="shuju">10575</td>
+<td class="shuju">50二轮轻便摩托车20229辆;摩托车用发动机24392台;三轮摩托车11914辆</td>
+</tr>
+<tr><td class="zhibiao">宁波兴慈热动电器有限公司</td>
+<td class="shuju">宁波市慈溪巿坎墩街道永安西路398号</td>
+<td class="shuju">315303</td>
+<td class="shuju">(0574)63285221</td>
+<td class="shuju">428</td>
+<td class="shuju">12250</td>
+<td class="shuju">扬柴.朝柴.出口电热塞200万只;JL.CA.出口传感器120万只;JL.LF.CA蜂鸣器.报警器100万只</td>
+</tr>
+<tr><td class="zhibiao">宁波四维尔工业股份有限公司</td>
+<td class="shuju">宁波市慈溪巿匡堰镇工业开发区樟树村</td>
+<td class="shuju">315333</td>
+<td class="shuju">(0574)63530188</td>
+<td class="shuju">1358</td>
+<td class="shuju">92872</td>
+<td class="shuju">汽车内饰件</td>
+</tr>
+<tr><td class="zhibiao">浙江雅迪机车有限公司</td>
+<td class="shuju">宁波市慈溪巿杭州湾新区滨海大道288号</td>
+<td class="shuju">315336</td>
+<td class="shuju">(0574)63009109</td>
+<td class="shuju">16</td>
+<td class="shuju">563</td>
+<td class="shuju">125.150二轮普通摩托车50t辆</td>
+</tr>
+<tr><td class="zhibiao">宁波威猛汽车部件有限公司</td>
+<td class="shuju">宁波巿慈溪龙山慈东工业区秦渡路887号</td>
+<td class="shuju">315338</td>
+<td class="shuju">(0574)63266835</td>
+<td class="shuju">150</td>
+<td class="shuju">4308</td>
+<td class="shuju">火花塞1724万只</td>
+</tr>
+<tr><td class="zhibiao">宁波三新特种汽车有限公司</td>
+<td class="shuju">宁波巿慈溪市慈东工业区慈东大道和德路</td>
+<td class="shuju">315338</td>
+<td class="shuju">(0574)63789951</td>
+<td class="shuju">50</td>
+<td class="shuju">3568</td>
+<td class="shuju">改装混凝土搅拌运输车140辆</td>
+</tr>
+<tr><td class="zhibiao">宁波科达仪表有限公司</td>
+<td class="shuju">宁波余姚巿经济开发区茂盛路11号</td>
+<td class="shuju">315403</td>
+<td class="shuju">(0574)22683888</td>
+<td class="shuju">270</td>
+<td class="shuju">5169</td>
+<td class="shuju">铃木.大长江.钱江.轻骑等摩托车单表150万只</td>
+</tr>
+<tr><td class="zhibiao">余姚市东海橡胶制品有限公司</td>
+<td class="shuju">浙江省余姚市三七市镇工业园区</td>
+<td class="shuju">315412</td>
+<td class="shuju">(0574)62935370</td>
+<td class="shuju">243</td>
+<td class="shuju">7800</td>
+<td class="shuju">汽车脚垫.汽车用橡胶件</td>
+</tr>
+<tr><td class="zhibiao">宁波舜兴汽车电器有限公司</td>
+<td class="shuju">浙江省余姚市陆埠镇五马村</td>
+<td class="shuju">315420</td>
+<td class="shuju">(0574)62380545</td>
+<td class="shuju">121</td>
+<td class="shuju">2159</td>
+<td class="shuju">汽车分电器205194只.汽车发电机14936台</td>
+</tr>
+<tr><td class="zhibiao">宁波乔士橡塑有限公司</td>
+<td class="shuju">宁波市余姚市泗门镇西郊工业区</td>
+<td class="shuju">315470</td>
+<td class="shuju">(0574)62150628</td>
+<td class="shuju">160</td>
+<td class="shuju">3446</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">浙江阳明汽车部件有限公司</td>
+<td class="shuju">浙江省余姚巿低塘街道环镇北路46号</td>
+<td class="shuju">315490</td>
+<td class="shuju">(0574)62288182</td>
+<td class="shuju">285</td>
+<td class="shuju">3707</td>
+<td class="shuju">汽车开关160万只</td>
+</tr>
+<tr><td class="zhibiao">宁波神马汽车制造有限公司</td>
+<td class="shuju">浙江省奉化巿东郊开发区岳林东路499号</td>
+<td class="shuju">315500</td>
+<td class="shuju">(0574)88957017</td>
+<td class="shuju">131</td>
+<td class="shuju">1002</td>
+<td class="shuju">改装NPS6700.NPS6600等轻型客车36辆;改装NPS6100.增程式等中型客车33辆</td>
+</tr>
+<tr><td class="zhibiao">奉化市天风汽车空压机有限公司</td>
+<td class="shuju">浙江省奉化市尚田镇开城西街3号</td>
+<td class="shuju">315511</td>
+<td class="shuju">(0574)88637980</td>
+<td class="shuju">275</td>
+<td class="shuju">17502</td>
+<td class="shuju">潍柴.上柴.锡柴空压机总成339456台</td>
+</tr>
+<tr><td class="zhibiao">奉化市南方机械制造有限公司</td>
+<td class="shuju">浙江省奉化市尚田镇镇西路50号</td>
+<td class="shuju">315511</td>
+<td class="shuju">(0574)56377777</td>
+<td class="shuju">300</td>
+<td class="shuju">25607</td>
+<td class="shuju">汽车千斤顶54万只</td>
+</tr>
+<tr><td class="zhibiao">宁波沃特汽车部件有限公司</td>
+<td class="shuju">宁波市宁海县深圳镇南溪村</td>
+<td class="shuju">315614</td>
+<td class="shuju">(0574)65289983</td>
+<td class="shuju">313</td>
+<td class="shuju">13606</td>
+<td class="shuju">汽车底盘部件</td>
+</tr>
+<tr><td class="zhibiao">浙江三浪工业股份有限公司</td>
+<td class="shuju">宁波市象山园区莱路309号</td>
+<td class="shuju">315700</td>
+<td class="shuju">(0574)65780060</td>
+<td class="shuju">600</td>
+<td class="shuju">15000</td>
+<td class="shuju">机油尺总成</td>
+</tr>
+<tr><td class="zhibiao">宁波运生工贸有限公司</td>
+<td class="shuju">宁波市象山县墙头镇工业区</td>
+<td class="shuju">315716</td>
+<td class="shuju">(0574)65810345</td>
+<td class="shuju">99</td>
+<td class="shuju">3862</td>
+<td class="shuju">一汽光洋.吉轻等低压油管125万根</td>
+</tr>
+<tr><td class="zhibiao">雪龙集团有限公司</td>
+<td class="shuju">宁波巿北仑经济技术开发区黄山西路211号</td>
+<td class="shuju">315800</td>
+<td class="shuju">(0574)86805222</td>
+<td class="shuju">482</td>
+<td class="shuju">72551</td>
+<td class="shuju">CA.EQ.潍柴.玉柴.宇通.金龙风扇离合器4228425只;CA.EQ.潍柴.玉柴.宇通.金龙风扇3648932只</td>
+</tr>
+<tr><td class="zhibiao">浙江吉利汽车有限公司</td>
+<td class="shuju">宁波巿经济开发区新矸恒山路1528号</td>
+<td class="shuju">315800</td>
+<td class="shuju">(0574)86853058</td>
+<td class="shuju">3418</td>
+<td class="shuju">834565</td>
+<td class="shuju">帝豪.自由舰.帝豪基本型乘用车146593辆</td>
+</tr>
+<tr><td class="zhibiao">宁波亚乐克汽车部件有限公司</td>
+<td class="shuju">宁波巿保税区西区港西大道9号</td>
+<td class="shuju">315800</td>
+<td class="shuju">(0574)86820678</td>
+<td class="shuju">609</td>
+<td class="shuju">25577</td>
+<td class="shuju">固定支架6万只.扭杆3.27万件</td>
+</tr>
+<tr><td class="zhibiao">宁波润轴汽配有限公司</td>
+<td class="shuju">宁波市北仑区庐山中路2号</td>
+<td class="shuju">315806</td>
+<td class="shuju">(0574)86100678</td>
+<td class="shuju">156</td>
+<td class="shuju">3071</td>
+<td class="shuju">跃进扭杆弹簧32.7万只</td>
+</tr>
+<tr><td class="zhibiao">宁波宏协离合器有限公司</td>
+<td class="shuju">宁波巿北仑区霞浦工业区浦堤南路2号</td>
+<td class="shuju">315807</td>
+<td class="shuju">(0574)86900903</td>
+<td class="shuju">270</td>
+<td class="shuju">16300</td>
+<td class="shuju">SVW.FVW等离合器总成220万台</td>
+</tr>
+<tr><td class="zhibiao">宁波继峰汽车零部件有限公司</td>
+<td class="shuju">宁波北仑江南出口加工区纬十路69号</td>
+<td class="shuju">315821</td>
+<td class="shuju">(0574)86176888</td>
+<td class="shuju">944</td>
+<td class="shuju">36943</td>
+<td class="shuju">扶手总成.头枕总成</td>
+</tr>
+<tr><td class="zhibiao">安徽省沃巴弗电子科技有限公司</td>
+<td class="shuju">安徽省霍邱县城关镇姚李工业大道</td>
+<td class="shuju">200000</td>
+<td class="shuju">(0564)6857888</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">安徽昭通汽车电器制造有限公司</td>
+<td class="shuju">安徽贫南陵县经济开发区</td>
+<td class="shuju">200000</td>
+<td class="shuju">(0553)6811520</td>
+<td class="shuju">126</td>
+<td class="shuju">1424</td>
+<td class="shuju">EQ.三环刮水器总成9万只;EQ.三环暖风机4万台</td>
+</tr>
+<tr><td class="zhibiao">芜湖弘裕摩擦材料有限公司</td>
+<td class="shuju">安徽省弘裕摩擦材料有限公司</td>
+<td class="shuju">200000</td>
+<td class="shuju">(0553)8765487</td>
+<td class="shuju">75</td>
+<td class="shuju">1878</td>
+<td class="shuju">汽车制动片62.6万只</td>
+</tr>
+<tr><td class="zhibiao">宁国市正轼密封件有限公司</td>
+<td class="shuju">安徽国巿中溪镇工业集中区</td>
+<td class="shuju">200000</td>
+<td class="shuju">-</td>
+<td class="shuju">15</td>
+<td class="shuju">210</td>
+<td class="shuju">汽车官封件230万元</td>
+</tr>
+<tr><td class="zhibiao">安徽东星汽车部件有限公司</td>
+<td class="shuju">安徽省枞阳县横埠镇汽车工业园</td>
+<td class="shuju">200000</td>
+<td class="shuju">(0556)2028289</td>
+<td class="shuju">95</td>
+<td class="shuju">728</td>
+<td class="shuju">发动机悬置轮垫总成</td>
+</tr>
+<tr><td class="zhibiao">合肥华集汽车部件有限公司</td>
+<td class="shuju">合肥市蜀由新产业园山湖路4号</td>
+<td class="shuju">200000</td>
+<td class="shuju">(0551)2327888</td>
+<td class="shuju">109</td>
+<td class="shuju">4086</td>
+<td class="shuju">骏捷FRV.MI.海狮液压制动总泵358000台</td>
+</tr>
+<tr><td class="zhibiao">马鞍山六菱科技有限公司</td>
+<td class="shuju">安徽省马鞍山市当涂县石桥镇工业园</td>
+<td class="shuju">213131</td>
+<td class="shuju">(0555)6214988</td>
+<td class="shuju">50</td>
+<td class="shuju">500</td>
+<td class="shuju">金属载体</td>
+</tr>
+<tr><td class="zhibiao">合肥明辉汽车零部件制造有限公司</td>
+<td class="shuju">合肥市肥东县撮镇龙塘青年工业园</td>
+<td class="shuju">230000</td>
+<td class="shuju">(0553)7318559</td>
+<td class="shuju">100</td>
+<td class="shuju">2548</td>
+<td class="shuju">安凯.汇丰后桥壳3万只</td>
+</tr>
+<tr><td class="zhibiao">长亨汽车饰件(合肥)有限公司</td>
+<td class="shuju">合肥市经济技术开发区桃花工业园汤口路19号</td>
+<td class="shuju">230000</td>
+<td class="shuju">(0551)3681599</td>
+<td class="shuju">250</td>
+<td class="shuju">13600</td>
+<td class="shuju">JAC保险杠16万件</td>
+</tr>
+<tr><td class="zhibiao">安徽大洋机械制造有限公司</td>
+<td class="shuju">合肥经济技术开发区桃花工业园始信路</td>
+<td class="shuju">230000</td>
+<td class="shuju">(0551)3617688</td>
+<td class="shuju">650</td>
+<td class="shuju">32243</td>
+<td class="shuju">JAC车门5万件</td>
+</tr>
+<tr><td class="zhibiao">延锋伟世通(合肥)汽车饰件系统有限公司</td>
+<td class="shuju">合肥市经济开发区紫云路16号</td>
+<td class="shuju">230000</td>
+<td class="shuju">(0551)5735552</td>
+<td class="shuju">193</td>
+<td class="shuju">33865</td>
+<td class="shuju">模块总成</td>
+</tr>
+<tr><td class="zhibiao">合肥市自强机械制造有限公司</td>
+<td class="shuju">合肥市西县花岗镇工业聚集区纬二路</td>
+<td class="shuju">230000</td>
+<td class="shuju">(0551)8445797</td>
+<td class="shuju">40</td>
+<td class="shuju">4459</td>
+<td class="shuju">汽车铸件4800t</td>
+</tr>
+<tr><td class="zhibiao">合肥新昌汽车部件有限公司</td>
+<td class="shuju">合肥市紫云路与始信路交口69号</td>
+<td class="shuju">230000</td>
+<td class="shuju">(0551)3676209</td>
+<td class="shuju">85</td>
+<td class="shuju">560</td>
+<td class="shuju">汽车仪表台.暖风机.塑料件</td>
+</tr>
+<tr><td class="zhibiao">合肥知友工贸有限责任公司</td>
+<td class="shuju">合肥市瑶海区大兴镇伏龙村六公里处</td>
+<td class="shuju">230011</td>
+<td class="shuju">(0551)4533020</td>
+<td class="shuju">67</td>
+<td class="shuju">3623</td>
+<td class="shuju">汽车卧铺.汽车地板</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

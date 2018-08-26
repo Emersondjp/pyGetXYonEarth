@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(河北-河北)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">唐山通力齿轮有限公司</td>
+<td class="shuju">河北省唐山市高新技术产业园区火炬路206号</td>
+<td class="shuju">063020</td>
+<td class="shuju">(0315)5925890</td>
+<td class="shuju">289</td>
+<td class="shuju">13483</td>
+<td class="shuju">郑州日产.BJ.中兴手动变速器总成6.5万台;郑州日产.BJ.中兴分动器总成900台</td>
+</tr>
+<tr><td class="zhibiao">唐山齿轮集团有限公司</td>
+<td class="shuju">河北省唐山市高新技术开发区火炬路206号</td>
+<td class="shuju">063020</td>
+<td class="shuju">(0315)5929009</td>
+<td class="shuju">1655</td>
+<td class="shuju">119829</td>
+<td class="shuju">北内凸轮轴386123根;郑州日产.BJ.中兴手动变速器总成6.5万台;郑州日产.BJ.中兴分动器总成900台</td>
+</tr>
+<tr><td class="zhibiao">唐山爱信齿轮有限责任公司</td>
+<td class="shuju">河北省唐山市丰润区幸福道48号</td>
+<td class="shuju">063020</td>
+<td class="shuju">(0315)3086540</td>
+<td class="shuju">2055</td>
+<td class="shuju">129657</td>
+<td class="shuju">SY.CC.日产.DN.CA.广汽丰田手动变速器总成40.9万台</td>
+</tr>
+<tr><td class="zhibiao">唐山众兴专用汽车制造有限公司</td>
+<td class="shuju">河北省唐山市丰南区银丰镇青年路国丰大厦对过</td>
+<td class="shuju">063300</td>
+<td class="shuju">(0315)8161158</td>
+<td class="shuju">844</td>
+<td class="shuju">-</td>
+<td class="shuju">改装重型汽车491辆</td>
+</tr>
+<tr><td class="zhibiao">唐山冀东专用车有限公司</td>
+<td class="shuju">河北省唐山巿滦县新城台商工业园</td>
+<td class="shuju">063700</td>
+<td class="shuju">(0315)7167626</td>
+<td class="shuju">625</td>
+<td class="shuju">24055</td>
+<td class="shuju">改装专用汽车</td>
+</tr>
+<tr><td class="zhibiao">唐山中建二局建筑机械有限公司</td>
+<td class="shuju">河北省唐山市丰润区林荫东路</td>
+<td class="shuju">064000</td>
+<td class="shuju">(0315)3233454</td>
+<td class="shuju">236</td>
+<td class="shuju">-</td>
+<td class="shuju">改装重型汽车107辆</td>
+</tr>
+<tr><td class="zhibiao">亚新科美联(廊坊)制动系统有限公司</td>
+<td class="shuju">河北省廊坊市光明西道1号</td>
+<td class="shuju">065000</td>
+<td class="shuju">(0316)2682774</td>
+<td class="shuju">160</td>
+<td class="shuju">72291</td>
+<td class="shuju">SVW.FVW.元丰.庆铃.JMC制动盘189.9万只;潍柴.YC.康明斯等空压机总成73万台</td>
+</tr>
+<tr><td class="zhibiao">廊坊京联汽车改装有限公司</td>
+<td class="shuju">河北省廊坊市经济技术开发区翠青北道8号</td>
+<td class="shuju">065001</td>
+<td class="shuju">(0316)5918909</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">改装汽车</td>
+</tr>
+<tr><td class="zhibiao">三河市新宏昌专用车有限公司</td>
+<td class="shuju">河北省三河市黄土庄镇二百户村南</td>
+<td class="shuju">065200</td>
+<td class="shuju">(0316)3183708</td>
+<td class="shuju">1256</td>
+<td class="shuju">90676</td>
+<td class="shuju">改装重型自卸汽车12831辆</td>
+</tr>
+<tr><td class="zhibiao">三河祥达金属加工厂</td>
+<td class="shuju">河北省三河工业新区</td>
+<td class="shuju">065200</td>
+<td class="shuju">(0316)3221885</td>
+<td class="shuju">129</td>
+<td class="shuju">1300</td>
+<td class="shuju">锦恒离合器盖.中压板及压盘97370件</td>
+</tr>
+<tr><td class="zhibiao">三河市科达科技有限公司</td>
+<td class="shuju">河北省三河市杨庄镇不老淀科达路88号</td>
+<td class="shuju">065200</td>
+<td class="shuju">(0316)3652323</td>
+<td class="shuju">192</td>
+<td class="shuju">6032</td>
+<td class="shuju">一拖.潍柴消声器总成24.3万只</td>
+</tr>
+<tr><td class="zhibiao">三河鸿运汽车配件厂</td>
+<td class="shuju">河北省三河市黄土庄镇马连口村</td>
+<td class="shuju">065200</td>
+<td class="shuju">(0316)3180263</td>
+<td class="shuju">202</td>
+<td class="shuju">3086</td>
+<td class="shuju">摆臂71万件;发动机支架10万件;散热器支架5万件</td>
+</tr>
+<tr><td class="zhibiao">北京海拉车灯有限公司</td>
+<td class="shuju">河北省三河市燕郊经济开发区神威北路6号燕郊精工园</td>
+<td class="shuju">065201</td>
+<td class="shuju">(010)89492600</td>
+<td class="shuju">426</td>
+<td class="shuju">18668</td>
+<td class="shuju">一汽日产.江铃灯泡475万只</td>
+</tr>
+<tr><td class="zhibiao">三河因派克汽车部件有限公司</td>
+<td class="shuju">北京市三河市燕郊开发区北环路北侧大道养生堂公司东侧</td>
+<td class="shuju">065201</td>
+<td class="shuju">(010)61597232</td>
+<td class="shuju">328</td>
+<td class="shuju">30484</td>
+<td class="shuju">汽车仪表用软轴软管1141万根</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛新谊工程有限公司</td>
+<td class="shuju">河北省秦皇岛市海港区北环路东段118号</td>
+<td class="shuju">066001</td>
+<td class="shuju">(0335)3012030</td>
+<td class="shuju">86</td>
+<td class="shuju">4253</td>
+<td class="shuju">改装重型汽车96辆</td>
+</tr>
+<tr><td class="zhibiao">中信戴卡轮毂制造股份有限公司</td>
+<td class="shuju">河北省秦皇岛市海港区东王岭东港路355号</td>
+<td class="shuju">066003</td>
+<td class="shuju">(0335)3167441</td>
+<td class="shuju">2778</td>
+<td class="shuju">652766</td>
+<td class="shuju">汽车铝车轮总成21538491只</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛戴卡美铝车轮有限公司</td>
+<td class="shuju">河北省秦皇岛市经济技术开发区金山北路15号</td>
+<td class="shuju">066004</td>
+<td class="shuju">(0335)5910205</td>
+<td class="shuju">360</td>
+<td class="shuju">22319</td>
+<td class="shuju">天丰铝车总成21538491只</td>
+</tr>
+<tr><td class="zhibiao">旭硝子汽车玻璃(中国)有限公司</td>
+<td class="shuju">河北省秦皇岛市济技术开发区秦皇西大街108号</td>
+<td class="shuju">066004</td>
+<td class="shuju">(0335)8018326</td>
+<td class="shuju">1678</td>
+<td class="shuju">129504</td>
+<td class="shuju">广本.TJ.BJ汽车玻璃812万m2</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛市抚宁县京岛汽车改装厂</td>
+<td class="shuju">河北省秦皇岛市抚宁县长征路南街</td>
+<td class="shuju">066300</td>
+<td class="shuju">(0335)6017611</td>
+<td class="shuju">99</td>
+<td class="shuju">146242</td>
+<td class="shuju">改装重型汽车344辆</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛市思惠特专用汽车制造有限公司</td>
+<td class="shuju">河北省秦皇岛市卢龙县工业园迎宾路168号</td>
+<td class="shuju">066400</td>
+<td class="shuju">(0335)7171093</td>
+<td class="shuju">106</td>
+<td class="shuju">-</td>
+<td class="shuju">改装重汽车57辆</td>
+</tr>
+<tr><td class="zhibiao">昌黎县川港专用汽车制造有限公司</td>
+<td class="shuju">河北省昌黎县京山铁路张家庄车站北</td>
+<td class="shuju">066600</td>
+<td class="shuju">(0335)2181482</td>
+<td class="shuju">89</td>
+<td class="shuju">6452</td>
+<td class="shuju">改装重型半挂车937辆</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛泰运专用汽车制造有限公司</td>
+<td class="shuju">河北省昌黎县工业园区昌海大道8号</td>
+<td class="shuju">066609</td>
+<td class="shuju">(0335)2181482</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">承德苏垦银河连杆股份有限公司</td>
+<td class="shuju">河北省承德市开发区曲轴厂院内</td>
+<td class="shuju">067000</td>
+<td class="shuju">(0314)2123611</td>
+<td class="shuju">618</td>
+<td class="shuju">17810</td>
+<td class="shuju">现代.起亚.威亚.长城连杆总成4090609只</td>
+</tr>
+<tr><td class="zhibiao">长城汽车股份有限公司</td>
+<td class="shuju">河北省保定市朝阳南大街2266号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)2197644</td>
+<td class="shuju">20694</td>
+<td class="shuju">2175513</td>
+<td class="shuju">基本型乘用车139717辆;汽车用汽油机向配量194811台;四轮驱动运动型多用途车121294辆</td>
+</tr>
+<tr><td class="zhibiao">保定市长安展光机械有限公司</td>
+<td class="shuju">河北省保定市乐凯南大街2615号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)5932019</td>
+<td class="shuju">251</td>
+<td class="shuju">7610</td>
+<td class="shuju">哈弗.酷熊零部件7323万元</td>
+</tr>
+<tr><td class="zhibiao">河北中兴汽车制造有限公司</td>
+<td class="shuju">河北省保定市建国路860号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)2190531</td>
+<td class="shuju">1526</td>
+<td class="shuju">209696</td>
+<td class="shuju">客车47094辆;二轮驱动运动型多用途车13676辆;四轮驱动运动型多用途车4084辆</td>
+</tr>
+<tr><td class="zhibiao">保定市立中车轮制造有限公司</td>
+<td class="shuju">河北省保定市七一东路948号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)5997695</td>
+<td class="shuju">1828</td>
+<td class="shuju">101219</td>
+<td class="shuju">长城.HFJ.郎州日产.JL铝车轮总成2625051只</td>
+</tr>
+<tr><td class="zhibiao">保定市保胜车架有限公司</td>
+<td class="shuju">河北省保定市阳光南大街197号</td>
+<td class="shuju">071051</td>
+<td class="shuju">(0312)3020063</td>
+<td class="shuju">280</td>
+<td class="shuju">4506</td>
+<td class="shuju">中兴.长安车架总成4万台</td>
+</tr>
+<tr><td class="zhibiao">风帆股份有限公司</td>
+<td class="shuju">河北省保定市富昌路8号</td>
+<td class="shuju">071057</td>
+<td class="shuju">(0312)3208401</td>
+<td class="shuju">6893</td>
+<td class="shuju">333100</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">容城来福灯泡有限公司</td>
+<td class="shuju">河北省保定市容城县城东开发区容津路3号</td>
+<td class="shuju">071700</td>
+<td class="shuju">(0312)5616920</td>
+<td class="shuju">529</td>
+<td class="shuju">28275</td>
+<td class="shuju">汽车灯泡14060万只</td>
+</tr>
+<tr><td class="zhibiao">保定维德汽车铸件有限公司</td>
+<td class="shuju">河北省保定市徐水县安肃镇复兴西路(复兴路立交桥西口)</td>
+<td class="shuju">072550</td>
+<td class="shuju">(0312)8683418</td>
+<td class="shuju">1016</td>
+<td class="shuju">18383</td>
+<td class="shuju">法士特变速器壳400389只</td>
+</tr>
+<tr><td class="zhibiao">保定北奥石油物探特种车辆制造有限公司</td>
+<td class="shuju">河北省徐水县121-9信箱</td>
+<td class="shuju">072552</td>
+<td class="shuju">(0312)8752023</td>
+<td class="shuju">413</td>
+<td class="shuju">13563</td>
+<td class="shuju">改装WTC5151等沙漠车90辆;改装WTC5081XYQ等仪器车25辆;改装WTC5081TDZPL等中型汽车16辆</td>
+</tr>
+<tr><td class="zhibiao">保定宏业石油物探机械制造有限责任公司</td>
+<td class="shuju">河北省徐水县121-6信箱徐安公路北侧</td>
+<td class="shuju">072553</td>
+<td class="shuju">(0312)8649204</td>
+<td class="shuju">455</td>
+<td class="shuju">19341</td>
+<td class="shuju">改装WTJ5120TDZPL.WTJ5160TDZPL特种结构汽车22辆;改装WTJ5090TZJ.WTJ5221TZJ钻机车13辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

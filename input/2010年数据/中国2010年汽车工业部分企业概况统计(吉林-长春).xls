@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(吉林-长春)    </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">双辽市成达汽车商务有限责任公司</td>
+<td class="shuju">吉林省双辽市西工业园区</td>
+<td class="shuju">136400</td>
+<td class="shuju">(0434)7232345</td>
+<td class="shuju">82</td>
+<td class="shuju">1234</td>
+<td class="shuju">CA.江汽.四平传动带20万根;CA.江汽.四平汽车密封件140万元;CA.江汽.四平仪表用软轴软管20万根</td>
+</tr>
+<tr><td class="zhibiao">吉林省梨标机械有限责任公司</td>
+<td class="shuju">吉林省梨树县梨树镇奉化大街89号</td>
+<td class="shuju">136500</td>
+<td class="shuju">(0434)5222384</td>
+<td class="shuju">202</td>
+<td class="shuju">3100</td>
+<td class="shuju">弹簧垫圏4500万件;卡环500万件</td>
+</tr>
+<tr><td class="zhibiao">四平高强标准件制造有限公司</td>
+<td class="shuju">吉林省四平市梨树县十家堡镇</td>
+<td class="shuju">136501</td>
+<td class="shuju">(0434)5632384</td>
+<td class="shuju">70</td>
+<td class="shuju">3000</td>
+<td class="shuju">CA标准件1100万元</td>
+</tr>
+<tr><td class="zhibiao">四平华大重型装备有限公司</td>
+<td class="shuju">吉林省四平市梨树县郭家店镇道下街</td>
+<td class="shuju">136502</td>
+<td class="shuju">(0434)6945686</td>
+<td class="shuju">210</td>
+<td class="shuju">3143</td>
+<td class="shuju">支架1000t;底卒590t</td>
+</tr>
+<tr><td class="zhibiao">梨树飞达汽车部件制造有限公司</td>
+<td class="shuju">吉林省四平市梨树县十家堡镇</td>
+<td class="shuju">136515</td>
+<td class="shuju">(0434)5312878</td>
+<td class="shuju">60</td>
+<td class="shuju">2200</td>
+<td class="shuju">汽车卧铺总成2万件;护栏总成3万件</td>
+</tr>
+<tr><td class="zhibiao">吉林省元隆达工装设备有限公司</td>
+<td class="shuju">吉林省辽源市东辽县连昌村五组</td>
+<td class="shuju">136600</td>
+<td class="shuju">(0437)6165017</td>
+<td class="shuju">430</td>
+<td class="shuju">3308</td>
+<td class="shuju">汽车钣金冲压模具</td>
+</tr>
+<tr><td class="zhibiao">辽源市中州汽车工具有限公司</td>
+<td class="shuju">吉林省辽源市东辽县白泉镇金岗小街114号</td>
+<td class="shuju">136600</td>
+<td class="shuju">(0437)5891359</td>
+<td class="shuju">96</td>
+<td class="shuju">3219</td>
+<td class="shuju">板手10万件</td>
+</tr>
+<tr><td class="zhibiao">辽源市万通汽车部件有限公司</td>
+<td class="shuju">吉林省辽源市东辽县白泉镇金岗小街114号</td>
+<td class="shuju">136600</td>
+<td class="shuju">(0437)5891003</td>
+<td class="shuju">110</td>
+<td class="shuju">5100</td>
+<td class="shuju">CA气缸体7.5万只;CA皮带轮6.7万个;CA气缸盖6.7万只</td>
+</tr>
+<tr><td class="zhibiao">辽源市宏鹰汽车零部件有限公司</td>
+<td class="shuju">吉林省辽源市东辽县白泉镇金岗小街114号</td>
+<td class="shuju">136600</td>
+<td class="shuju">(0437)5891003</td>
+<td class="shuju">89</td>
+<td class="shuju">1261</td>
+<td class="shuju">德宏.大东吴发电机调节器102万只</td>
+</tr>
+<tr><td class="zhibiao">辽源市鹰力汽车电器有限公司</td>
+<td class="shuju">吉林省辽源市东辽县白泉镇金岗小街114号</td>
+<td class="shuju">136600</td>
+<td class="shuju">(0437)5891003</td>
+<td class="shuju">98</td>
+<td class="shuju">3016</td>
+<td class="shuju">CA发电机调节器50万只</td>
+</tr>
+<tr><td class="zhibiao">辽源市扬扬汽车内饰件有限公司</td>
+<td class="shuju">吉林省辽源市龙山区寿山镇011号</td>
+<td class="shuju">136614</td>
+<td class="shuju">(0437)5521886</td>
+<td class="shuju">17</td>
+<td class="shuju">187</td>
+<td class="shuju">华泰车门6706件</td>
+</tr>
+<tr><td class="zhibiao">白城红钻股份有限公司</td>
+<td class="shuju">吉林省白城市新华西大路2号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3662710</td>
+<td class="shuju">153</td>
+<td class="shuju">1287</td>
+<td class="shuju">一汽吉林.天津一汽.HFJ电动玻璃升降器232300只;CA蜂鸣器;报警器5.5万只</td>
+</tr>
+<tr><td class="zhibiao">德福派克电气系统有限公司白城分公司</td>
+<td class="shuju">吉林省白城市经济开发区开发大街1365号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3664888</td>
+<td class="shuju">420</td>
+<td class="shuju">168074</td>
+<td class="shuju">线束高压线原线38465套</td>
+</tr>
+<tr><td class="zhibiao">白城中一精锻股份有限公司</td>
+<td class="shuju">吉林省白城市明仁北街30号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3266064</td>
+<td class="shuju">297</td>
+<td class="shuju">18155</td>
+<td class="shuju">FVW.SVW连杆总成4189300只</td>
+</tr>
+<tr><td class="zhibiao">白城市盛华汽车零部件制造股份有限公司</td>
+<td class="shuju">吉林省白城市洮北区海明西路145号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3330070</td>
+<td class="shuju">301</td>
+<td class="shuju">8207</td>
+<td class="shuju">FVW.CC.SQR车门较链186.4万件</td>
+</tr>
+<tr><td class="zhibiao">白城市金事达电气有限公司</td>
+<td class="shuju">吉林省白城市经济开发区开发大街699号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3679788</td>
+<td class="shuju">420</td>
+<td class="shuju">14999</td>
+<td class="shuju">汽车线束303330套</td>
+</tr>
+<tr><td class="zhibiao">白城通业机械装备(集团)有限公司</td>
+<td class="shuju">吉林省白城市明仁北街30号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3266036</td>
+<td class="shuju">207</td>
+<td class="shuju">330</td>
+<td class="shuju">实型铸件700t</td>
+</tr>
+<tr><td class="zhibiao">白城福佳机械制造有限公司</td>
+<td class="shuju">吉林省白城市洮北区西青路20号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3298952</td>
+<td class="shuju">235</td>
+<td class="shuju">8752</td>
+<td class="shuju">一汽吉林.哈飞车门铰链116570件</td>
+</tr>
+<tr><td class="zhibiao">白城宏帝达汽车齿轮有限公司</td>
+<td class="shuju">吉林省白城市工业园区</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)5093338</td>
+<td class="shuju">179</td>
+<td class="shuju">47h4</td>
+<td class="shuju">CA.山东.临.工变速器.分动器.取力器的齿轮及轴100万件</td>
+</tr>
+<tr><td class="zhibiao">白城尼特固汽车部件有限公司</td>
+<td class="shuju">吉林省白城巿工业园区渤海街366号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3687283</td>
+<td class="shuju">74</td>
+<td class="shuju">5807</td>
+<td class="shuju">CA.马2.马3车门铰链36.4万件</td>
+</tr>
+<tr><td class="zhibiao">白城市鑫宇汽车线束有限责任公司</td>
+<td class="shuju">吉林省白城市工业园区中小企业园渤海街168号</td>
+<td class="shuju">137000</td>
+<td class="shuju">(0436)3271668</td>
+<td class="shuju">156</td>
+<td class="shuju">3212</td>
+<td class="shuju">吉林高新.问捷.一汽四环.一汽靖烨汽车线束8万套</td>
+</tr>
+<tr><td class="zhibiao">松原市金顺汽车配件制造有限公司</td>
+<td class="shuju">吉林省松原市郭尔罗斯工业集中区</td>
+<td class="shuju">138000</td>
+<td class="shuju">-</td>
+<td class="shuju">28</td>
+<td class="shuju">984</td>
+<td class="shuju">CA转向节16600只</td>
+</tr>
+<tr><td class="zhibiao">一汽通用轻型商用汽车有限公司</td>
+<td class="shuju">长春市经济技术开发区大连路999号</td>
+<td class="shuju">130000</td>
+<td class="shuju">(0431)85127504</td>
+<td class="shuju">6734</td>
+<td class="shuju">293845</td>
+<td class="shuju">货车62099辆.货车非完整车辆24356辆;多功能车(MPV)788辆</td>
+</tr>
+<tr><td class="zhibiao">一汽-大众汽车有限公司</td>
+<td class="shuju">长春市绿园区汽车开发区安庆路5号</td>
+<td class="shuju">130011</td>
+<td class="shuju">(0431)85990132</td>
+<td class="shuju">15477</td>
+<td class="shuju">13145020</td>
+<td class="shuju">基本型乘用车882827辆;汽车用汽油机自配量858511台.汽车用柴油机自配量11407台</td>
+</tr>
+<tr><td class="zhibiao">长春一汽富维汽车零部件股份有限公司</td>
+<td class="shuju">长舂市汽车产业开发区东风南街1399号</td>
+<td class="shuju">130011</td>
+<td class="shuju">(0431)85765337</td>
+<td class="shuju">2468</td>
+<td class="shuju">605950</td>
+<td class="shuju">CAJ5.CAJ6等钢圈总成3953734只;M6.C302.A501.HQ3等保险杠273846件</td>
+</tr>
+<tr><td class="zhibiao">长春市顺华汽车实业有限公司</td>
+<td class="shuju">长春巿绿园区汽车产业开发区繁荣村</td>
+<td class="shuju">130011</td>
+<td class="shuju">(0431)85031177</td>
+<td class="shuju">500</td>
+<td class="shuju">21933</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">一汽解放汽车有限公司</td>
+<td class="shuju">长春市东风大街76号</td>
+<td class="shuju">130011</td>
+<td class="shuju">(0431)85732063</td>
+<td class="shuju">21105</td>
+<td class="shuju">5360393</td>
+<td class="shuju">半挂牵引车144187辆;汽车用柴油机自配量297394台;汽车用柴油机商品量237327台</td>
+</tr>
+<tr><td class="zhibiao">中国第一汽车集团公司</td>
+<td class="shuju">长春市绿园区东风大街2259号</td>
+<td class="shuju">130012</td>
+<td class="shuju">(0431)85730701</td>
+<td class="shuju">107283</td>
+<td class="shuju">29401552</td>
+<td class="shuju">基本型乘用车1884576辆;货车113966辆;半挂牵引车144187辆</td>
+</tr>
+<tr><td class="zhibiao">长舂市灯泡电线有限公司</td>
+<td class="shuju">长舂市朝阳区开运街1244号</td>
+<td class="shuju">130012</td>
+<td class="shuju">(0431)85955591</td>
+<td class="shuju">4752</td>
+<td class="shuju">183241</td>
+<td class="shuju">FVW.CA.哈飞.CC.现代汽车线束1122582套</td>
+</tr>
+<tr><td class="zhibiao">吉林汽车制动器厂</td>
+<td class="shuju">长春巿朝阳区卫星路副16号</td>
+<td class="shuju">130012</td>
+<td class="shuju">(0431)85157013</td>
+<td class="shuju">1377</td>
+<td class="shuju">76124</td>
+<td class="shuju">CA.FVW.神龙.SQR.TJ.JL.出口等盘式制动器总成36.1万台;真空加力器2721200只;液压制动总泵546900台</td>
+</tr>
+<tr><td class="zhibiao">一汽轿车股份有限公司</td>
+<td class="shuju">长春市高新技术产业开发区尉山路4888号</td>
+<td class="shuju">130012</td>
+<td class="shuju">(0431)85781240</td>
+<td class="shuju">7253</td>
+<td class="shuju">3511802</td>
+<td class="shuju">基本型乘用车272609辆;汽车用汽油机自配量191766台.多功能车(MPV)1279辆</td>
+</tr>
+<tr><td class="zhibiao">富奥汽车零部件股份有限公司散热器分公司</td>
+<td class="shuju">长舂市汽车产业开发区凯达北街富奥大路599E号</td>
+<td class="shuju">130013</td>
+<td class="shuju">(0431)85127738</td>
+<td class="shuju">529</td>
+<td class="shuju">39852</td>
+<td class="shuju">CA.宇通.XMQ.帕金斯.重汽增压中冷器456128只;CA.宇通.XMQ.帕金斯.重汽散热器总成179665只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

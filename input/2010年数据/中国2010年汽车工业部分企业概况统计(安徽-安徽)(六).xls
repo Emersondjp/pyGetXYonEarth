@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(安徽-安徽)(六)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">安徽英杰精工机械有限公司</td>
+<td class="shuju">安徽省涡阳县城西工业园</td>
+<td class="shuju">233600</td>
+<td class="shuju">(0558)7276658</td>
+<td class="shuju">191</td>
+<td class="shuju">3457</td>
+<td class="shuju">泰州车桥.仪征跃进.仪和鼓式制动器总成76400台</td>
+</tr>
+<tr><td class="zhibiao">涡阳县群力机械有限公司</td>
+<td class="shuju">安徽省涡阳县官路口站前路</td>
+<td class="shuju">233600</td>
+<td class="shuju">(0558)7256218</td>
+<td class="shuju">63</td>
+<td class="shuju">2187</td>
+<td class="shuju">春光.五莲.合肥车桥凸轮轴60万根</td>
+</tr>
+<tr><td class="zhibiao">安徽运通汽配有限责任公司</td>
+<td class="shuju">安徽省涡阳县三星大道190号</td>
+<td class="shuju">233600</td>
+<td class="shuju">(0558)7223722</td>
+<td class="shuju">40</td>
+<td class="shuju">1380</td>
+<td class="shuju">汽车制动器衬片280万件</td>
+</tr>
+<tr><td class="zhibiao">涡阳雄霸粉末冶金制品厂</td>
+<td class="shuju">安徽省涡阳县涡蒙路淮中大道城关工业园</td>
+<td class="shuju">233600</td>
+<td class="shuju">(0558)7276838</td>
+<td class="shuju">45</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">涡阳财富康达制动元件有限公司</td>
+<td class="shuju">安徽省亳州市涡阳县经济开发区</td>
+<td class="shuju">233600</td>
+<td class="shuju">(0558)7317888</td>
+<td class="shuju">286</td>
+<td class="shuju">6645</td>
+<td class="shuju">汽车鼓式制动器总成116260台</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市银丰滤清器有限公司</td>
+<td class="shuju">安徽省固镇经济开发区纬四路408号</td>
+<td class="shuju">233700</td>
+<td class="shuju">(0552)6603000</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市新桥滤清器有限责任公司</td>
+<td class="shuju">安徽省固镇县新马桥镇</td>
+<td class="shuju">233704</td>
+<td class="shuju">(0552)6602958</td>
+<td class="shuju">20</td>
+<td class="shuju">780</td>
+<td class="shuju">摩托车机油滤清器50万只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市天宇滤清器有限公司</td>
+<td class="shuju">安徽省固镇经济开发区经二路西侧</td>
+<td class="shuju">233705</td>
+<td class="shuju">(0552)6567588</td>
+<td class="shuju">32</td>
+<td class="shuju">674</td>
+<td class="shuju">JAC等空气滤清器35500只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市振兴滤清器有限公司</td>
+<td class="shuju">安徽省固镇经济开发区纬五东路1103号</td>
+<td class="shuju">233707</td>
+<td class="shuju">(0552)6576111</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">安徽车桥有限公司</td>
+<td class="shuju">安徽省宿州市汴河东路3号</td>
+<td class="shuju">234000</td>
+<td class="shuju">(0557)3329991</td>
+<td class="shuju">610</td>
+<td class="shuju">8130</td>
+<td class="shuju">平衡轴等</td>
+</tr>
+<tr><td class="zhibiao">安徽省宿州市蔡氏铸造有限责任公司</td>
+<td class="shuju">安徽省宿州巿符离镇符离村大闸</td>
+<td class="shuju">234101</td>
+<td class="shuju">(0557)3604888</td>
+<td class="shuju">57</td>
+<td class="shuju">480</td>
+<td class="shuju">安桥.徐工.华阳等轮毂12900只</td>
+</tr>
+<tr><td class="zhibiao">安徽开乐专用车辆股份有限公司</td>
+<td class="shuju">安徽省阜阳市经济技术开发区105国道21号</td>
+<td class="shuju">236112</td>
+<td class="shuju">(0558)2221696</td>
+<td class="shuju">2754</td>
+<td class="shuju">168583</td>
+<td class="shuju">改装CA4153重型半挂车5441辆;改装运油车2562辆;改装中型自卸汽车847辆</td>
+</tr>
+<tr><td class="zhibiao">利辛县泰鑫专用汽车制造有限公司</td>
+<td class="shuju">安徽省利辛县阜蚌路198号</td>
+<td class="shuju">236700</td>
+<td class="shuju">(0558)8859688</td>
+<td class="shuju">130</td>
+<td class="shuju">1100</td>
+<td class="shuju">改装集装箱运输车68辆;改装重型半挂车65辆;改装厢式运输车18辆</td>
+</tr>
+<tr><td class="zhibiao">利辛县江淮扬天汽车有限公司</td>
+<td class="shuju">安徽省利辛县工业园创业路1号</td>
+<td class="shuju">236700</td>
+<td class="shuju">(0558)8809299</td>
+<td class="shuju">207</td>
+<td class="shuju">16464</td>
+<td class="shuju">改装重型半挂车1181辆</td>
+</tr>
+<tr><td class="zhibiao">利辛县凯盛汽车有限公司</td>
+<td class="shuju">安徽省利辛县工业园先进路2号</td>
+<td class="shuju">236700</td>
+<td class="shuju">(0558)8809111</td>
+<td class="shuju">85</td>
+<td class="shuju">6047</td>
+<td class="shuju">改装广东富华重型半挂车660辆</td>
+</tr>
+<tr><td class="zhibiao">利辛县特力捷汽车零部件制造有限公司</td>
+<td class="shuju">安徽省利辛县工业园科技路2号</td>
+<td class="shuju">236700</td>
+<td class="shuju">(0558)8832010</td>
+<td class="shuju">46</td>
+<td class="shuju">2823</td>
+<td class="shuju">汽车曲轴78356根</td>
+</tr>
+<tr><td class="zhibiao">安徽丰源车业有限公司</td>
+<td class="shuju">安徽省利辛县工业园科技路6号</td>
+<td class="shuju">236700</td>
+<td class="shuju">(0558)7189999</td>
+<td class="shuju">116</td>
+<td class="shuju">588</td>
+<td class="shuju">改装重型半挂车60辆</td>
+</tr>
+<tr><td class="zhibiao">安徽安凯华夏汽车零部件(六安)有限公司</td>
+<td class="shuju">安徽省六安市经济开发区皋城东路与东二路交口处</td>
+<td class="shuju">237000</td>
+<td class="shuju">(0564)3638123</td>
+<td class="shuju">120</td>
+<td class="shuju">1762</td>
+<td class="shuju">安凯华夏支架40万件</td>
+</tr>
+<tr><td class="zhibiao">六安市恒兴工贸有限公司</td>
+<td class="shuju">安徽省六安市裕安区私营经济园</td>
+<td class="shuju">237000</td>
+<td class="shuju">(0564)3616398</td>
+<td class="shuju">2100</td>
+<td class="shuju">1639</td>
+<td class="shuju">安凯液压举升翻转装置141万只</td>
+</tr>
+<tr><td class="zhibiao">六安市华达变速箱有限公司</td>
+<td class="shuju">安徽省六安巿大别山西路</td>
+<td class="shuju">237000</td>
+<td class="shuju">(0564)3276319</td>
+<td class="shuju">220</td>
+<td class="shuju">9247</td>
+<td class="shuju">振华.连盛.福达.玉龙.星瑞变速器壳456000只</td>
+</tr>
+<tr><td class="zhibiao">六安市龙祥齿轮有限公司</td>
+<td class="shuju">安徽省六安市裕安区私营经济园</td>
+<td class="shuju">237000</td>
+<td class="shuju">(0564)3273177</td>
+<td class="shuju">61</td>
+<td class="shuju">6470</td>
+<td class="shuju">华昌手动变速器总成86413台</td>
+</tr>
+<tr><td class="zhibiao">六安市强大齿轮有限公司</td>
+<td class="shuju">安徽省六安市裕安区私营经济园</td>
+<td class="shuju">237000</td>
+<td class="shuju">(0564)3266882</td>
+<td class="shuju">270</td>
+<td class="shuju">22316</td>
+<td class="shuju">五环.江汽.中联等减速器总成58227只;五龙.江汽.永安等其他齿轮97019只;五环.江汽.中联等差速器总成58227只</td>
+</tr>
+<tr><td class="zhibiao">六安市振华汽车变速箱有限公司</td>
+<td class="shuju">安徽省六安市裕安区私营经济园</td>
+<td class="shuju">237000</td>
+<td class="shuju">(0564)3266259</td>
+<td class="shuju">248</td>
+<td class="shuju">15001</td>
+<td class="shuju">一拖.新民.济宁.大华.合力等手动变速器总成99600台</td>
+</tr>
+<tr><td class="zhibiao">安徽长安专用车制造有限公司</td>
+<td class="shuju">安徽省六安市宁平路10号</td>
+<td class="shuju">237010</td>
+<td class="shuju">(0564)3392221</td>
+<td class="shuju">176</td>
+<td class="shuju">5189</td>
+<td class="shuju">改装EQ2102.ND1926集装箱运输车124辆;改装EQ2102J餐车35辆;改装EQ2102中型半挂车15辆</td>
+</tr>
+<tr><td class="zhibiao">安徽华夏车辆制造有限公司</td>
+<td class="shuju">安徽省六安巿裕安区大别山西路70号</td>
+<td class="shuju">237052</td>
+<td class="shuju">(0564)3988186</td>
+<td class="shuju">120</td>
+<td class="shuju">4861</td>
+<td class="shuju">改装安凯轻型客车466辆;改装重型半挂车241辆;改装安凯殡仪车61辆</td>
+</tr>
+<tr><td class="zhibiao">安徽星瑞齿轮传动有限公司</td>
+<td class="shuju">安徽省六安巿金安区新河东路10号</td>
+<td class="shuju">237156</td>
+<td class="shuju">(0564)3339555</td>
+<td class="shuju">1529</td>
+<td class="shuju">78301</td>
+<td class="shuju">JAC.合力.纽荷兰等手动变速器总成729400台</td>
+</tr>
+<tr><td class="zhibiao">六安市龙兴汽车零部件有限公司</td>
+<td class="shuju">安徽省六安市金安区孙岗镇</td>
+<td class="shuju">237166</td>
+<td class="shuju">(0564)2561096</td>
+<td class="shuju">460</td>
+<td class="shuju">26835</td>
+<td class="shuju">汽车变速器壳1432500只</td>
+</tr>
+<tr><td class="zhibiao">安徽丰汇车业配件有限公司</td>
+<td class="shuju">安徽省霍山经济开发区世林路8号</td>
+<td class="shuju">237200</td>
+<td class="shuju">(0564)5223655</td>
+<td class="shuju">30</td>
+<td class="shuju">-</td>
+<td class="shuju">制动器总成</td>
+</tr>
+<tr><td class="zhibiao">霍山汇能汽车零部件制造有限公司</td>
+<td class="shuju">安徽省霍山经济开发区世林大道</td>
+<td class="shuju">237200</td>
+<td class="shuju">(0564)5223606</td>
+<td class="shuju">48</td>
+<td class="shuju">543</td>
+<td class="shuju">全柴.JAC汽车密封件522.72万元</td>
+</tr>
+<tr><td class="zhibiao">安徽永乐机电科技有限公司</td>
+<td class="shuju">安徽省霍邱县城关镇公园路1号</td>
+<td class="shuju">2374400</td>
+<td class="shuju">(0564)6080004</td>
+<td class="shuju">60</td>
+<td class="shuju">510</td>
+<td class="shuju">平衡轴壳等</td>
+</tr>
+<tr><td class="zhibiao">安徽省广通汽车制造有限公司</td>
+<td class="shuju">安徽省巢湖市经济技术开发区金山路1号</td>
+<td class="shuju">238000</td>
+<td class="shuju">(0565)2358589</td>
+<td class="shuju">82</td>
+<td class="shuju">10467</td>
+<td class="shuju">改装CHG6751.CHG6720.CHG6800等中型客车258辆;改装CHG6662.CHG6601轻型客车737辆</td>
+</tr>
+<tr><td class="zhibiao">含山县兴达制动原件有限公司</td>
+<td class="shuju">安徽省含山县环峰镇</td>
+<td class="shuju">238100</td>
+<td class="shuju">(0565)4312955</td>
+<td class="shuju">86</td>
+<td class="shuju">2864</td>
+<td class="shuju">SH.BJ.JAC鼓式制动器总成65100台</td>
+</tr>
+<tr><td class="zhibiao">安徽辉煌机械制造有限公司</td>
+<td class="shuju">安徽省巢湖市经济开发区花山工业园</td>
+<td class="shuju">238161</td>
+<td class="shuju">(0565)4921111</td>
+<td class="shuju">105</td>
+<td class="shuju">6300</td>
+<td class="shuju">JAC.SQR轮毂104000只</td>
+</tr>
+<tr><td class="zhibiao">含山县银力铸造厂</td>
+<td class="shuju">安徽省含山县清溪镇工业集中区</td>
+<td class="shuju">238191</td>
+<td class="shuju">(0565)4925788</td>
+<td class="shuju">105</td>
+<td class="shuju">2600</td>
+<td class="shuju">支架.制动底板等</td>
+</tr>
+<tr><td class="zhibiao">安徽海德机械制造有限公司</td>
+<td class="shuju">安徽省巢湖市经济技术开发区花山工业园</td>
+<td class="shuju">238191</td>
+<td class="shuju">(0565)4921111</td>
+<td class="shuju">121</td>
+<td class="shuju">6730</td>
+<td class="shuju">玉柴.潍柴.全柴气缸体80983只</td>
+</tr>
+<tr><td class="zhibiao">巢湖慧明机械制造有限公司</td>
+<td class="shuju">安徽省含山县清溪镇工业集中区</td>
+<td class="shuju">238191</td>
+<td class="shuju">(0565)4925788</td>
+<td class="shuju">85</td>
+<td class="shuju">2200</td>
+<td class="shuju">汽车安全件3000t</td>
+</tr>
+<tr><td class="zhibiao">含山县全兴內燃机配件有限公司</td>
+<td class="shuju">安徽省含山县清溪镇工业集中区</td>
+<td class="shuju">238191</td>
+<td class="shuju">(0565)4370045</td>
+<td class="shuju">113</td>
+<td class="shuju">4450</td>
+<td class="shuju">玉柴.潍柴.全柴气缸盖148571只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

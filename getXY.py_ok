@@ -1,0 +1,54 @@
+
+#coding=utf-8
+import xlrd, xlwt, re, os, sys, time
+from xlutils.copy import copy
+import geopy
+
+FileName = u'2010国内企业-arcgis.xls'
+
+#geolocator = geopy.Nominatim(timeout=120)
+geolocator = geopy.GoogleV3()
+
+def getXY( cityName ):
+    print( cityName )
+    str_len = len( cityName )
+    location = geolocator.geocode( cityName, timeout=3 )
+    i = -1
+    while location == None:
+        if i+str_len == 0 : return (-1, -1)
+        print( cityName[0:i] )
+        time.sleep(2)
+        location = geolocator.geocode( cityName[0:i], timeout=3 )
+        i = i - 1
+    return (location.latitude, location.longitude)
+
+rb = xlrd.open_workbook( FileName )
+r_sheet = rb.sheet_by_index(1)
+
+nrows = r_sheet.nrows
+wb = xlwt.Workbook()
+
+w_sheet = wb.add_sheet(u'地址经纬度坐标')
+
+w_sheet.write(0,0,u'通讯地址')
+w_sheet.write(0,1,u'经度')
+w_sheet.write(0,2,u'维度')
+w_sheet.write(0,3,u'经纬度')
+
+for rowNo in range(1, nrows):
+    if r_sheet.cell( rowNo, 1 ).value != "" : continue
+    if unicode(r_sheet.cell( rowNo, 1 ).value).strip() == u"-" : continue
+
+    addr = r_sheet.cell( rowNo, 2 ).value
+    print(unicode(addr))
+    x, y = getXY( unicode(addr).strip() )
+    w_sheet.write( rowNo, 0, addr )
+    w_sheet.write( rowNo, 1, x )
+    w_sheet.write( rowNo, 2, y )
+    w_sheet.write( rowNo, 3, "(%s, %s)" % (x, y) )
+#    print( "Addr: %s, X: %s, Y: %s\n" % ( addr, x, y ) )
+    wb.save( 'out.xls' )
+    time.sleep(5)
+
+wb.save( 'out.xls' )
+

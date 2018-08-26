@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(深圳-广西) </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">深圳东风汽车有限公司</td>
+<td class="shuju">深圳市龙观东路221号</td>
+<td class="shuju">518109</td>
+<td class="shuju">(0755)81715651</td>
+<td class="shuju">463</td>
+<td class="shuju">25718</td>
+<td class="shuju">SE05ZS.SE12FY.SE12LY等载货车273辆;改装EQ5161ZYS.EQ5120ZYS.SE5070ZYS等压缩式垃圾车280辆;改装SE5042JHQLJ等后栏板起重运输车88辆</td>
+</tr>
+<tr><td class="zhibiao">深圳市好时代专用挂车有限公司</td>
+<td class="shuju">深圳巿宝安区观澜镇大水坑二村</td>
+<td class="shuju">518110</td>
+<td class="shuju">(0755)29508322</td>
+<td class="shuju">203</td>
+<td class="shuju">12294</td>
+<td class="shuju">改装超重型半挂车1826辆</td>
+</tr>
+<tr><td class="zhibiao">深圳市五洲龙汽车有限公司</td>
+<td class="shuju">深圳市龙岗区街道办宝龙工业区103号</td>
+<td class="shuju">518116</td>
+<td class="shuju">(0755)89933066</td>
+<td class="shuju">824</td>
+<td class="shuju">76746</td>
+<td class="shuju">改装FDG6128.FDG6110等大型客车952辆;改装FDG6803.FDG5140XTJ中型客车66辆</td>
+</tr>
+<tr><td class="zhibiao">深圳益宝实业有限公司</td>
+<td class="shuju">深圳市宝安区沙井镇上南工业区黄埔路130号</td>
+<td class="shuju">518125</td>
+<td class="shuju">(0755)27295902</td>
+<td class="shuju">450</td>
+<td class="shuju">16243</td>
+<td class="shuju">汽车机油泵40万只;汽车摇臂72万只</td>
+</tr>
+<tr><td class="zhibiao">南宁五菱桂花车辆有限公司</td>
+<td class="shuju">广西南宁市西乡塘区北湖北路50号</td>
+<td class="shuju">530001</td>
+<td class="shuju">(0771)3133125</td>
+<td class="shuju">913</td>
+<td class="shuju">33373</td>
+<td class="shuju">改装重型自卸汽车497辆;改装其他重型改装汽车55辆</td>
+</tr>
+<tr><td class="zhibiao">南宁燎旺车灯有限责任公司</td>
+<td class="shuju">广西南宁市望州南路94号</td>
+<td class="shuju">530001</td>
+<td class="shuju">(0771)5636531</td>
+<td class="shuju">659</td>
+<td class="shuju">60590</td>
+<td class="shuju">LZW.EQL.昌河.长安.LF车灯总成20146200只;嘉陵摩托车车灯总成61900只</td>
+</tr>
+<tr><td class="zhibiao">南宁八菱科技股份有限公司</td>
+<td class="shuju">广西南宁市高新工业园区科园大道科德路1号</td>
+<td class="shuju">530001</td>
+<td class="shuju">{0771)3216528</td>
+<td class="shuju">709</td>
+<td class="shuju">46543</td>
+<td class="shuju">五菱.长安.SQR.CA散热器总成1521200只;五菱暖风机437200台</td>
+</tr>
+<tr><td class="zhibiao">广西玉柴专用汽车有限公司</td>
+<td class="shuju">广西南宁市高新区总部路5号</td>
+<td class="shuju">530003</td>
+<td class="shuju">(0771)5688031</td>
+<td class="shuju">366</td>
+<td class="shuju">15769</td>
+<td class="shuju">改装NZ3258重型自卸汽车133辆;改装NZ5252ZYS.NZ5102ZYS压缩式垃圾车93辆;改装NZ5160ZXX.NZ5141ZXX等摆臂式垃圾车67辆</td>
+</tr>
+<tr><td class="zhibiao">南宁全世泰汽车零部件有限公司</td>
+<td class="shuju">广西南宁市高新大道东路17号</td>
+<td class="shuju">530003</td>
+<td class="shuju">(077113816892</td>
+<td class="shuju">100</td>
+<td class="shuju">4288</td>
+<td class="shuju">塑料件.冲压件</td>
+</tr>
+<tr><td class="zhibiao">南宁市柳川华邦电子有限公司</td>
+<td class="shuju">广西南宁市髙新区北环工业园科园西九路6号</td>
+<td class="shuju">530003</td>
+<td class="shuju">(0771)3217994</td>
+<td class="shuju">142</td>
+<td class="shuju">3020</td>
+<td class="shuju">LZW汽车线束632万套</td>
+</tr>
+<tr><td class="zhibiao">南宁市五龙车桥有限公司</td>
+<td class="shuju">广西南宁市高新区总部路工业园10号园区</td>
+<td class="shuju">530007</td>
+<td class="shuju">(0771)3810395</td>
+<td class="shuju">68</td>
+<td class="shuju">6196</td>
+<td class="shuju">汽车后桥总成33500台;汽车前桥总成21500台;汽车手f动变速器总成11500台</td>
+</tr>
+<tr><td class="zhibiao">广西银钢南益制造有限公司</td>
+<td class="shuju">广西南宁-东盟经济开发区(南宁华侨投资区)武华大道18号</td>
+<td class="shuju">530105</td>
+<td class="shuju">(0771)6301568</td>
+<td class="shuju">195</td>
+<td class="shuju">18705</td>
+<td class="shuju">90.100.110.125.150二轮普通摩托车27409辆;150.250三轮摩托车15298辆</td>
+</tr>
+<tr><td class="zhibiao">广西钛州力顺机械有限公司</td>
+<td class="shuju">广西钦州市南珠东大街小江工业园</td>
+<td class="shuju">535000</td>
+<td class="shuju">(0777)2820624</td>
+<td class="shuju">659</td>
+<td class="shuju">34605</td>
+<td class="shuju">改装其他中型改装汽车6595辆</td>
+</tr>
+<tr><td class="zhibiao">玉林市安迅机械配件有限公司</td>
+<td class="shuju">-</td>
+<td class="shuju">537000</td>
+<td class="shuju">-</td>
+<td class="shuju">120</td>
+<td class="shuju">580</td>
+<td class="shuju">油管接头等</td>
+</tr>
+<tr><td class="zhibiao">玉林正菱汽车配件有限责任公司</td>
+<td class="shuju">广西玉林市城北开发区</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)52388575</td>
+<td class="shuju">297</td>
+<td class="shuju">22032</td>
+<td class="shuju">LZW座椅总成1052907只</td>
+</tr>
+<tr><td class="zhibiao">玉林市新翰电子机械有限公司</td>
+<td class="shuju">广西玉林市玉石公路成西段西侧</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)2088128</td>
+<td class="shuju">495</td>
+<td class="shuju">8781</td>
+<td class="shuju">YC.五菱消声器排气管65万只;YC.五菱飞轮总成42万只;YC皮带轮105000个</td>
+</tr>
+<tr><td class="zhibiao">玉林市金事达电气有限公司</td>
+<td class="shuju">广西玉林巿苗园路423号</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)5809677</td>
+<td class="shuju">240</td>
+<td class="shuju">10429</td>
+<td class="shuju">汽车线束80万套</td>
+</tr>
+<tr><td class="zhibiao">玉林市嘉义机械有限公司</td>
+<td class="shuju">广西玉林巿玉柴工业园坡塘工业区</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3888820</td>
+<td class="shuju">530</td>
+<td class="shuju">8103</td>
+<td class="shuju">YC气缸体125729只</td>
+</tr>
+<tr><td class="zhibiao">玉林市惠德机械有限公司</td>
+<td class="shuju">广西玉林市天桥东路1号</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3120159</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">YC气缸盖70万只</td>
+</tr>
+<tr><td class="zhibiao">广西玉林市宏力机械有限责任公司</td>
+<td class="shuju">广西玉林市玉州区中秀路40号</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3120097</td>
+<td class="shuju">369</td>
+<td class="shuju">8104</td>
+<td class="shuju">铁件.压铸铝件等</td>
+</tr>
+<tr><td class="zhibiao">玉林市风雷机械配件制造厂</td>
+<td class="shuju">广西玉林市玉州区城两街道永上村</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)2622506</td>
+<td class="shuju">95</td>
+<td class="shuju">1300</td>
+<td class="shuju">YC消声器总成10万只</td>
+</tr>
+<tr><td class="zhibiao">玉林市振来铸造有限公司</td>
+<td class="shuju">广西玉林市玉公公路平志工业区</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3885820</td>
+<td class="shuju">1680</td>
+<td class="shuju">2350</td>
+<td class="shuju">YC皮带轮70640个</td>
+</tr>
+<tr><td class="zhibiao">玉林市力强液压器材有限公司</td>
+<td class="shuju">广西玉林市二环南路北侧玉公公路东侧</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)2339092</td>
+<td class="shuju">35</td>
+<td class="shuju">3000</td>
+<td class="shuju">液压胶管总成</td>
+</tr>
+<tr><td class="zhibiao">广西旺峰机械科技有限公司</td>
+<td class="shuju">广西玉林市玉公公路东侧玉柴工业园段</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3838999</td>
+<td class="shuju">200</td>
+<td class="shuju">50</td>
+<td class="shuju">进气管.气缸盖罩等</td>
+</tr>
+<tr><td class="zhibiao">广西玉柴全兴机械有限公司</td>
+<td class="shuju">广西玉林市天桥路168号</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)2339028</td>
+<td class="shuju">140</td>
+<td class="shuju">7000</td>
+<td class="shuju">YC动力转向泵16万只</td>
+</tr>
+<tr><td class="zhibiao">玉林市雪风汽车风扇有限公司</td>
+<td class="shuju">广西玉林市玉柴工业园A区</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3285500</td>
+<td class="shuju">450</td>
+<td class="shuju">3235</td>
+<td class="shuju">汽车风扇622089只</td>
+</tr>
+<tr><td class="zhibiao">广西玉柴曲轴有限公司</td>
+<td class="shuju">广西玉林巿经济开发区</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)3220295</td>
+<td class="shuju">328</td>
+<td class="shuju">7094</td>
+<td class="shuju">玉柴.大柴曲轴15万根</td>
+</tr>
+<tr><td class="zhibiao">广西玉柴博耐特电器有限公司</td>
+<td class="shuju">广西玉林市经济开发区二环东路</td>
+<td class="shuju">537000</td>
+<td class="shuju">(0775)2668023</td>
+<td class="shuju">100</td>
+<td class="shuju">2500</td>
+<td class="shuju">YC发电机129626台</td>
+</tr>
+<tr><td class="zhibiao">广西玉林建德配件厂</td>
+<td class="shuju">广西玉林市中秀路67号</td>
+<td class="shuju">537001</td>
+<td class="shuju">(0775)3894330</td>
+<td class="shuju">60</td>
+<td class="shuju">502</td>
+<td class="shuju">玉柴汽车密封件496万元</td>
+</tr>
+<tr><td class="zhibiao">玉林市成鑫机械有限责任公司</td>
+<td class="shuju">广西玉林市塘步岭工业区15号</td>
+<td class="shuju">537002</td>
+<td class="shuju">(0775)2668557</td>
+<td class="shuju">547</td>
+<td class="shuju">13034</td>
+<td class="shuju">玉柴连杆总成1329081只;玉柴发电机调节器4320只</td>
+</tr>
+<tr><td class="zhibiao">广西玉林达业机械配件有限公司</td>
+<td class="shuju">广西玉林市中秀路108-1</td>
+<td class="shuju">537005</td>
+<td class="shuju">(0775)3226228</td>
+<td class="shuju">550</td>
+<td class="shuju">33535</td>
+<td class="shuju">玉柴机油冷却器267155只;玉柴重工车架总成3108台</td>
+</tr>
+<tr><td class="zhibiao">广西玉柴动力机械有限公司</td>
+<td class="shuju">广西玉林市金牛路</td>
+<td class="shuju">537005</td>
+<td class="shuju">(0775)3286102</td>
+<td class="shuju">748</td>
+<td class="shuju">107206</td>
+<td class="shuju">汽车用柴油机商品量108065台</td>
+</tr>
+<tr><td class="zhibiao">广西玉柴机器集团有限公司</td>
+<td class="shuju">广西玉林市天桥西路88号</td>
+<td class="shuju">537005</td>
+<td class="shuju">(0775)3287533</td>
+<td class="shuju">20796</td>
+<td class="shuju">3172386</td>
+<td class="shuju">EQ.金龙.JAC汽车用柴油机商品量754650台</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

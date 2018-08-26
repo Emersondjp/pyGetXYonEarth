@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(广西-广西)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">广西华力集团有限公司</td>
+<td class="shuju">广西省柳州巿柳石路151号</td>
+<td class="shuju">545005</td>
+<td class="shuju">(0772)3119461</td>
+<td class="shuju">569</td>
+<td class="shuju">24441</td>
+<td class="shuju">柳汽.LZW.柳特.FOTON等减振器总成3005800只</td>
+</tr>
+<tr><td class="zhibiao">柳州市八菱柴油机配件厂</td>
+<td class="shuju">广西柳州市柳邕路273号</td>
+<td class="shuju">545005</td>
+<td class="shuju">(0772)3227302</td>
+<td class="shuju">620</td>
+<td class="shuju">20684</td>
+<td class="shuju">玉柴.柳柴.云内.正菱机器等油底壳759000只;玉柴.柳柴.云内.正菱机器等飞轮壳368000只;玉柴.柳柴.云内.正菱机器等机油泵184000只</td>
+</tr>
+<tr><td class="zhibiao">柳州市汽车齿轮总厂</td>
+<td class="shuju">广西柳州市柳邕路老机场开发区</td>
+<td class="shuju">545005</td>
+<td class="shuju">(0772)3227302</td>
+<td class="shuju">635</td>
+<td class="shuju">29505</td>
+<td class="shuju">五菱.方盛等后桥螺旋伞齿轮150650件;五菱等半轴356500根;华泰机器.正菱等其他齿轮49450R</td>
+</tr>
+<tr><td class="zhibiao">柳州市杉风橡胶制品厂</td>
+<td class="shuju">广西柳州市东环路45号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)3126776</td>
+<td class="shuju">140</td>
+<td class="shuju">1765</td>
+<td class="shuju">EQ汽车密封件490万元</td>
+</tr>
+<tr><td class="zhibiao">柳州特种汽车厂</td>
+<td class="shuju">广西柳州市社湾路26号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)3142553</td>
+<td class="shuju">574</td>
+<td class="shuju">99474</td>
+<td class="shuju">自卸汽车4735辆;牵引汽车1380辆</td>
+</tr>
+<tr><td class="zhibiao">柳州美源科技有限公司</td>
+<td class="shuju">广西柳州市高新技术开发区高新一路15号C座</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)2623436</td>
+<td class="shuju">42</td>
+<td class="shuju">3212</td>
+<td class="shuju">LZW.SQR继电器530万只;SQR刮水器总成6万只</td>
+</tr>
+<tr><td class="zhibiao">柳州利和排气控制系统有限公司</td>
+<td class="shuju">广西柳州市阳和工业新区中小企业园4号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)3591197</td>
+<td class="shuju">58</td>
+<td class="shuju">56650</td>
+<td class="shuju">LZW.柳汽三效催化转化器1200352只;LZW消声器总成508302只;LZW.柳汽消声器排气管449140只</td>
+</tr>
+<tr><td class="zhibiao">柳州远翅塑料有限公司</td>
+<td class="shuju">广西柳州市阳和工业新区阳和大道和润路南1号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)3591001</td>
+<td class="shuju">420</td>
+<td class="shuju">11280</td>
+<td class="shuju">LZW仪表板总成639634只;LZW保险扛199106件</td>
+</tr>
+<tr><td class="zhibiao">广西淞森车用部件有限公司</td>
+<td class="shuju">广西柳州市髙新区髙新一路标准厂房A座5楼</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)2633820</td>
+<td class="shuju">88</td>
+<td class="shuju">12422</td>
+<td class="shuju">LZW电喷汽油泵328436只</td>
+</tr>
+<tr><td class="zhibiao">柳州福臻车体实业有限公司</td>
+<td class="shuju">广西柳州巿阳和工业新区C-24号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0722)8852072</td>
+<td class="shuju">385</td>
+<td class="shuju">10322</td>
+<td class="shuju">模具.冲压件</td>
+</tr>
+<tr><td class="zhibiao">柳州市祥发汽车配件制造有限公司</td>
+<td class="shuju">广西柳州市基隆开发区南环路松花小区16号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0722)3259598</td>
+<td class="shuju">190</td>
+<td class="shuju">4942</td>
+<td class="shuju">柳汽货厢总成1200台</td>
+</tr>
+<tr><td class="zhibiao">柳州健龙工业技术有限公司</td>
+<td class="shuju">广西柳州市南环路206号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0722)3255829</td>
+<td class="shuju">223</td>
+<td class="shuju">4111</td>
+<td class="shuju">冲压件</td>
+</tr>
+<tr><td class="zhibiao">柳州上汽汽车变速器有限公司</td>
+<td class="shuju">广西柳州市阳和北路西一号</td>
+<td class="shuju">545006</td>
+<td class="shuju">(0772)3591916</td>
+<td class="shuju">280</td>
+<td class="shuju">96865</td>
+<td class="shuju">LZW手动变速器总成843109台</td>
+</tr>
+<tr><td class="zhibiao">柳州市澄星汽车配件制造有限责任公司</td>
+<td class="shuju">广西柳州市柳南区太阳村镇基隆村</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3731966</td>
+<td class="shuju">170</td>
+<td class="shuju">5052</td>
+<td class="shuju">汽车零部件表面涂装</td>
+</tr>
+<tr><td class="zhibiao">柳州五菱汽车有限责任公司</td>
+<td class="shuju">广西柳州市柳南区河西路18号</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3750212</td>
+<td class="shuju">6689</td>
+<td class="shuju">1201867</td>
+<td class="shuju">LZW车架总成1132190台;汽车用汽油机商品量699079台;改装LQG5010XXY.LQG5023XXY等厢式运输车30383辆</td>
+</tr>
+<tr><td class="zhibiao">柳州艾特吉安全玻璃股份有限公司</td>
+<td class="shuju">广西柳州巿西环路9号</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3716541</td>
+<td class="shuju">280</td>
+<td class="shuju">7198</td>
+<td class="shuju">LZW.柳工汽车玻璃146.68万m2</td>
+</tr>
+<tr><td class="zhibiao">广西五环车桥有限责任公司</td>
+<td class="shuju">广西柳州市红岩路四区46号</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3951052</td>
+<td class="shuju">103</td>
+<td class="shuju">3084</td>
+<td class="shuju">农用车后桥总成1755台</td>
+</tr>
+<tr><td class="zhibiao">柳州市腾龙汽车配件制造有限公司</td>
+<td class="shuju">广西柳州市烂路7号</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3996990</td>
+<td class="shuju">482</td>
+<td class="shuju">16663</td>
+<td class="shuju">LZW车门铰链2966420件;LZW油底壳486500只</td>
+</tr>
+<tr><td class="zhibiao">上汽通用五菱汽车股份有限公司</td>
+<td class="shuju">广西柳州市河西路18号</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3750508</td>
+<td class="shuju">17406</td>
+<td class="shuju">4200106</td>
+<td class="shuju">6358.6376.6381.6386.6400.6407.出口交叉型乘用车1074851辆;汽车用汽油机自配量733998台;汽车用汽油机商品量130522台</td>
+</tr>
+<tr><td class="zhibiao">柳州市骏信金属制品有限责任公司</td>
+<td class="shuju">广西柳州巿西鹅乡山头村大都湖二组</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)7264000</td>
+<td class="shuju">301</td>
+<td class="shuju">12457</td>
+<td class="shuju">五菱联发座椅骨架1122万只.天纳克消声器排气管28000只;五菱工业制动.离合.油门踏板22000只</td>
+</tr>
+<tr><td class="zhibiao">柳州市天河汽配有限责任公司</td>
+<td class="shuju">广西柳州市柳太路邱家屯</td>
+<td class="shuju">545007</td>
+<td class="shuju">(0772)3913178</td>
+<td class="shuju">120</td>
+<td class="shuju">2834</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">柳州市超顺汽车部件有限责任公司</td>
+<td class="shuju">广西柳州巿柳南区太阳村镇75号</td>
+<td class="shuju">545008</td>
+<td class="shuju">(0772)3757692</td>
+<td class="shuju">851</td>
+<td class="shuju">45139</td>
+<td class="shuju">LZW车门饺链100万件;LZW制动.离合.油门踏板46万只.LZW汽车单表314000只</td>
+</tr>
+<tr><td class="zhibiao">柳州市正虹金星锻造厂</td>
+<td class="shuju">广西柳州市柳北区石碑坪镇政府院内</td>
+<td class="shuju">545012</td>
+<td class="shuju">(0772)2542400</td>
+<td class="shuju">120</td>
+<td class="shuju">3500</td>
+<td class="shuju">桂林福达其他齿轮50万只</td>
+</tr>
+<tr><td class="zhibiao">柳州长虹机器制造公司</td>
+<td class="shuju">广西柳州巿柳北区柳长路611号</td>
+<td class="shuju">545012</td>
+<td class="shuju">(0772)2542263</td>
+<td class="shuju">448</td>
+<td class="shuju">9948</td>
+<td class="shuju">LZW转向机总成148740台;LZW车轴148740根;LZW转向助力器38761只</td>
+</tr>
+<tr><td class="zhibiao">柳州盛泰汽车部件有限公司</td>
+<td class="shuju">广西柳州市新兴工业园乐业路2号</td>
+<td class="shuju">545012</td>
+<td class="shuju">(0772)7508736</td>
+<td class="shuju">149</td>
+<td class="shuju">4289</td>
+<td class="shuju">汽车音响248万台;传感器8万只</td>
+</tr>
+<tr><td class="zhibiao">柳州市柳江联丰实业有限公司</td>
+<td class="shuju">广西柳州巿柳江县第一工业开发区联丰路1号</td>
+<td class="shuju">545100</td>
+<td class="shuju">(0772)7262728</td>
+<td class="shuju">130</td>
+<td class="shuju">8218</td>
+<td class="shuju">LZW座椅总成188570只</td>
+</tr>
+<tr><td class="zhibiao">柳州市迅达汽车配件制造有限公司</td>
+<td class="shuju">广西柳州巿柳江县第一工业开发区平湖路</td>
+<td class="shuju">545100</td>
+<td class="shuju">(0772)7266086</td>
+<td class="shuju">220</td>
+<td class="shuju">10668</td>
+<td class="shuju">LZW.东风柳汽.-汽柳特钢板弹簧总成173333架;东风柳汽传动轴25000只</td>
+</tr>
+<tr><td class="zhibiao">柳州市兴桂机械配件有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园生产基地企业路11号</td>
+<td class="shuju">545100</td>
+<td class="shuju">(0772)3269062</td>
+<td class="shuju">30</td>
+<td class="shuju">2807</td>
+<td class="shuju">法兰等</td>
+</tr>
+<tr><td class="zhibiao">柳州日高橡胶制品有限责任公司</td>
+<td class="shuju">广西柳州柳江县第三工业园永兴西路70号</td>
+<td class="shuju">545100</td>
+<td class="shuju">(0772)7266105</td>
+<td class="shuju">279</td>
+<td class="shuju">10058</td>
+<td class="shuju">柳州工程机械厂独立悬架35万套</td>
+</tr>
+<tr><td class="zhibiao">柳州众力车辆有限公司</td>
+<td class="shuju">广西柳州市南环路206号</td>
+<td class="shuju">545106</td>
+<td class="shuju">(0772)3255829</td>
+<td class="shuju">45</td>
+<td class="shuju">5384</td>
+<td class="shuju">低速货车</td>
+</tr>
+<tr><td class="zhibiao">中国重汽集团柳州运力专用汽车有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园乐业路12号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)3269389</td>
+<td class="shuju">549</td>
+<td class="shuju">101217</td>
+<td class="shuju">改装重汽ZZ3257N3847C重型白卸汽车3789辆;改装重汽ZZI257N3847C混凝土搅拌运输车900辆;改装柳汽LZ1310PELT粉粒物料运输车541辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

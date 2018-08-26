@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(上海-上海)(七)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">上海圣德曼铸造有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇昌吉路120号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59579841</td>
+<td class="shuju">1249</td>
+<td class="shuju">63070</td>
+<td class="shuju">FVW轮总成231052只;FVW曲轴102946根</td>
+</tr>
+<tr><td class="zhibiao">上海同舟汽车零部件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇塔山路1385号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59561234</td>
+<td class="shuju">1156</td>
+<td class="shuju">168591</td>
+<td class="shuju">桑塔纳轿车零部件焊接</td>
+</tr>
+<tr><td class="zhibiao">上海安谊车轮有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇双浦村</td>
+<td class="shuju">201805</td>
+<td class="shuju">-</td>
+<td class="shuju">169</td>
+<td class="shuju">468083</td>
+<td class="shuju">SVW铝车轮总成4501567只</td>
+</tr>
+<tr><td class="zhibiao">上海红湖排气系统有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇和静路1200号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59565687</td>
+<td class="shuju">371</td>
+<td class="shuju">15576</td>
+<td class="shuju">SVW.SQR.NJ.JL消声器排气管960063只</td>
+</tr>
+<tr><td class="zhibiao">上海弘安汽车配件厂</td>
+<td class="shuju">上海国际汽车城零部件配套工业园区园业路8号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59563739</td>
+<td class="shuju">268</td>
+<td class="shuju">9771</td>
+<td class="shuju">SVW.LZW消声器排气管33万只</td>
+</tr>
+<tr><td class="zhibiao">上海安丰汽车配件厂</td>
+<td class="shuju">上海市嘉定区安亭镇秦安路218号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59577696</td>
+<td class="shuju">152</td>
+<td class="shuju">6414</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">上海敏锋汽车密封件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇塔山路750号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59579917</td>
+<td class="shuju">39</td>
+<td class="shuju">4601</td>
+<td class="shuju">延锋汽车密封件765.14万元</td>
+</tr>
+<tr><td class="zhibiao">上海众浩汽车配件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇园海路555号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59563311</td>
+<td class="shuju">120</td>
+<td class="shuju">18850</td>
+<td class="shuju">安全带加强板;螺纹板;门锁螺纹板</td>
+</tr>
+<tr><td class="zhibiao">上海新安电磁阀有限公司</td>
+<td class="shuju">上海市嘉定区于塘路1015号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)69576073</td>
+<td class="shuju">42</td>
+<td class="shuju">755</td>
+<td class="shuju">SVW.HMC.BYD电磁阀26万只</td>
+</tr>
+<tr><td class="zhibiao">延锋彼欧汽车外饰系统有限公司</td>
+<td class="shuju">上海市嘉定区墨玉路540号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)39582900</td>
+<td class="shuju">1450</td>
+<td class="shuju">180255</td>
+<td class="shuju">SVW保险杠1458378件</td>
+</tr>
+<tr><td class="zhibiao">上海瑞尔实业有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇米泉南路625号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59571515</td>
+<td class="shuju">2340</td>
+<td class="shuju">56710</td>
+<td class="shuju">汽车内外饰件</td>
+</tr>
+<tr><td class="zhibiao">上海幸福瑞贝德动力总成有限公司</td>
+<td class="shuju">上海市嘉定区安序镇塔山路1358号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59564480</td>
+<td class="shuju">87</td>
+<td class="shuju">4551</td>
+<td class="shuju">SVW汽车用汽油机商品量2010台</td>
+</tr>
+<tr><td class="zhibiao">上海延锋江森安亭座椅总成有限公司</td>
+<td class="shuju">上海嘉定区安亭镇圆福151号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)69573502</td>
+<td class="shuju">471</td>
+<td class="shuju">334476</td>
+<td class="shuju">汽车座椅总成60万只</td>
+</tr>
+<tr><td class="zhibiao">佛吉亚(上海)汽车部件系统有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇园亭路58号A区</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)69576576</td>
+<td class="shuju">480</td>
+<td class="shuju">117895</td>
+<td class="shuju">SVW.SGM.EQ座椅骨架475848只</td>
+</tr>
+<tr><td class="zhibiao">上海安莱德汽车零部件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇向安路1000号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)39505515</td>
+<td class="shuju">778</td>
+<td class="shuju">130246</td>
+<td class="shuju">车身分总成</td>
+</tr>
+<tr><td class="zhibiao">上海江森汽车金属零部件有限公司</td>
+<td class="shuju">上海市惠定区安亭镇安晓路255号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)39580000</td>
+<td class="shuju">1559</td>
+<td class="shuju">35467</td>
+<td class="shuju">NISSAN.JAC.SQR.SAIC等座椅骨架327万只</td>
+</tr>
+<tr><td class="zhibiao">上海达世汽车配件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇和静路22弄5号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59575126</td>
+<td class="shuju">380</td>
+<td class="shuju">41254</td>
+<td class="shuju">汽车零部件标准件</td>
+</tr>
+<tr><td class="zhibiao">上海华特汽车配件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇园国路1388号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)69573535</td>
+<td class="shuju">620</td>
+<td class="shuju">51573</td>
+<td class="shuju">汽车用隔振垫449万件</td>
+</tr>
+<tr><td class="zhibiao">德嘉汽车配件(上海)有限公司</td>
+<td class="shuju">上海巿嘉定区安亭镇园区路1128号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)69576177</td>
+<td class="shuju">90</td>
+<td class="shuju">3133</td>
+<td class="shuju">水槽97万只</td>
+</tr>
+<tr><td class="zhibiao">上海奥众汽车部件制造有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇园区路348号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59508668</td>
+<td class="shuju">185</td>
+<td class="shuju">3417</td>
+<td class="shuju">节气门体</td>
+</tr>
+<tr><td class="zhibiao">上海市安亭机械厂</td>
+<td class="shuju">上海市嘉定区安亭镇泰中路218号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)59577379</td>
+<td class="shuju">135</td>
+<td class="shuju">1610</td>
+<td class="shuju">汽车配件</td>
+</tr>
+<tr><td class="zhibiao">上海子元汽车零部件有限公司</td>
+<td class="shuju">上海市嘉定区安亭镇园区路555号</td>
+<td class="shuju">201805</td>
+<td class="shuju">(021)69573535</td>
+<td class="shuju">609</td>
+<td class="shuju">32866</td>
+<td class="shuju">SVW.SGW.FVW等遮阳板353万只</td>
+</tr>
+<tr><td class="zhibiao">上海金合利铝轮毂制造有限公司</td>
+<td class="shuju">上海巿嘉定区沪宜公路5800号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)59581556</td>
+<td class="shuju">164</td>
+<td class="shuju">5962</td>
+<td class="shuju">SVW.SGM轮毂18万只</td>
+</tr>
+<tr><td class="zhibiao">莱尼电气系统(上海)有限公司</td>
+<td class="shuju">上海市嘉定区嘉松北路1288号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)39939990</td>
+<td class="shuju">2960</td>
+<td class="shuju">85206</td>
+<td class="shuju">SGM.SVW.奔驰.康明斯汽车线束8520600套</td>
+</tr>
+<tr><td class="zhibiao">上海坦达轨道车辆座椅系统有限公司</td>
+<td class="shuju">上海市嘉定区朱戴路1950号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)69575768</td>
+<td class="shuju">209</td>
+<td class="shuju">44835</td>
+<td class="shuju">CRH2.CRH3.CRH5卒椅调角器45336只</td>
+</tr>
+<tr><td class="zhibiao">仕驰汽车配套部件(上海)有限公司</td>
+<td class="shuju">上海市嘉定区外冈工业园汇宝路599号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)59585801</td>
+<td class="shuju">250</td>
+<td class="shuju">30330</td>
+<td class="shuju">卡特彼勒.尼桑.神刚.小松.口立.现代.出口等座椅总成13.4万只</td>
+</tr>
+<tr><td class="zhibiao">上海敏孚汽车饰件有限公司</td>
+<td class="shuju">上海市嘉定区沪宜公路5789号第三幢</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)59581818</td>
+<td class="shuju">260</td>
+<td class="shuju">19985</td>
+<td class="shuju">汽车密封件19240万元</td>
+</tr>
+<tr><td class="zhibiao">安通林汽车配件制造(上海)有限公司</td>
+<td class="shuju">上海市嘉定区外冈镇外冈工业一区恒飞路25号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)59586310</td>
+<td class="shuju">-</td>
+<td class="shuju">14055</td>
+<td class="shuju">汽车顶篷件555249件;汽车遮阳板2.31万只;汽车手动玻璃升降器22237只</td>
+</tr>
+<tr><td class="zhibiao">杜凯汽车配套部件(上海)有限公司</td>
+<td class="shuju">上海巿嘉定区外冈镇汇贤路688号2幢</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)69575811</td>
+<td class="shuju">55</td>
+<td class="shuju">8351</td>
+<td class="shuju">钢管.消音片</td>
+</tr>
+<tr><td class="zhibiao">上海隆兆汽车零部件有限公司</td>
+<td class="shuju">上海市嘉定区外冈镇汇仁路1500号9幢</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)51652031</td>
+<td class="shuju">50</td>
+<td class="shuju">2516</td>
+<td class="shuju">汽车消声器排气管112万只</td>
+</tr>
+<tr><td class="zhibiao">上海嘉昌汽配有限公司</td>
+<td class="shuju">上海市嘉定区外冈镇青松公路488号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)69952004</td>
+<td class="shuju">23</td>
+<td class="shuju">100</td>
+<td class="shuju">排气管配件</td>
+</tr>
+<tr><td class="zhibiao">上海工同汽车配件有限公司</td>
+<td class="shuju">上海市嘉定区外冈外钱公路351号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)59937297</td>
+<td class="shuju">43</td>
+<td class="shuju">1169</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">上海耀强汽车模具有限公司</td>
+<td class="shuju">上海市嘉定区外冈镇沪宜公路5196弄88号</td>
+<td class="shuju">201806</td>
+<td class="shuju">(021)59586736</td>
+<td class="shuju">38</td>
+<td class="shuju">845</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">上海大众动力总成有限公司</td>
+<td class="shuju">上海市嘉定区城北路3598号</td>
+<td class="shuju">201807</td>
+<td class="shuju">(021)59545678</td>
+<td class="shuju">745</td>
+<td class="shuju">371796</td>
+<td class="shuju">SVW.FVW汽车用汽油机商品量390936台</td>
+</tr>
+<tr><td class="zhibiao">上海中炼线材有限公司</td>
+<td class="shuju">海市嘉定区北和公路651号</td>
+<td class="shuju">201807</td>
+<td class="shuju">(021)33517528</td>
+<td class="shuju">75</td>
+<td class="shuju">22394</td>
+<td class="shuju">弹簧钢丝</td>
+</tr>
+<tr><td class="zhibiao">上海申宝特种灯泡厂</td>
+<td class="shuju">上海市嘉定区娄塘邵宅小农场</td>
+<td class="shuju">201807</td>
+<td class="shuju">(021)59548718</td>
+<td class="shuju">80</td>
+<td class="shuju">300</td>
+<td class="shuju">SVW.SH.SGM差速器壳123万只</td>
+</tr>
+<tr><td class="zhibiao">上海飞华汽车部件有限公司</td>
+<td class="shuju">上海市嘉定区徐行镇新建一路2288号</td>
+<td class="shuju">201808</td>
+<td class="shuju">(021)59553366</td>
+<td class="shuju">311</td>
+<td class="shuju">20044</td>
+<td class="shuju">荣威变速器壳16万只;POLO传动轴64万只;上汽变速器变速器.分动器.取力器的齿轮及轴40万件</td>
+</tr>
+<tr><td class="zhibiao">上海诚烨汽车零部件有限公司</td>
+<td class="shuju">上海市嘉定区宝凤路505号</td>
+<td class="shuju">201808</td>
+<td class="shuju">(021)39979311</td>
+<td class="shuju">380</td>
+<td class="shuju">9911</td>
+<td class="shuju">汽车饰板</td>
+</tr>
+<tr><td class="zhibiao">上海博昌汽车部件有限公司</td>
+<td class="shuju">上海巿嘉定区菊园新区永新路760号</td>
+<td class="shuju">201808</td>
+<td class="shuju">(021)39104637</td>
+<td class="shuju">-</td>
+<td class="shuju">5894</td>
+<td class="shuju">LZW齿轮6700只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

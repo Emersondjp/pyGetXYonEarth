@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(安徽-安徽)(五)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">蚌埠德纳森滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市高新区兴华路617号</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)4925218</td>
+<td class="shuju">86</td>
+<td class="shuju">9884</td>
+<td class="shuju">SQR.JAC空气滤清器577只;SQR.JAC机油滤清器577只;SQR.JAC柴油滤清器576只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市风驰滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市蚌山区姜桥工业园</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)4119611</td>
+<td class="shuju">52</td>
+<td class="shuju">3734</td>
+<td class="shuju">汽车空气滤清器500108只</td>
+</tr>
+<tr><td class="zhibiao">安徽金马凸轮轴有限公司</td>
+<td class="shuju">安徽省桐城市龙眠街道办事处蔡店村</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0556)6564488</td>
+<td class="shuju">60</td>
+<td class="shuju">507</td>
+<td class="shuju">汽车凸轮轴27358根</td>
+</tr>
+<tr><td class="zhibiao">蚌埠华泰滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市蚌西路168号</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)2852868</td>
+<td class="shuju">150</td>
+<td class="shuju">1849</td>
+<td class="shuju">东风云南空气滤清器167万只;东风云南机油滤清器167万只;东风云南柴油滤清器166万只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市瑞泰汽配制造有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)2823397</td>
+<td class="shuju">245</td>
+<td class="shuju">12745</td>
+<td class="shuju">SQR空气滤清器1315万只;SQR机油滤清器420万只</td>
+</tr>
+<tr><td class="zhibiao">安徽祈艾特电子科技有限公司</td>
+<td class="shuju">安徽省蚌埠市高新区华光大道1381号</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)4116116</td>
+<td class="shuju">39</td>
+<td class="shuju">445</td>
+<td class="shuju">汽车点火线圈24124只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市昊宇汽车配件有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)2827799</td>
+<td class="shuju">68</td>
+<td class="shuju">6069</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">安徽华天汽车零部件制造有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">-</td>
+<td class="shuju">85</td>
+<td class="shuju">7122</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市昊云汽车配件有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)2831276</td>
+<td class="shuju">75</td>
+<td class="shuju">6603</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市昊德汽车轴承有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">-</td>
+<td class="shuju">65</td>
+<td class="shuju">6843</td>
+<td class="shuju">昊方机电汽车轴承860万套</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市昊鹏汽车配件有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)3328302</td>
+<td class="shuju">68</td>
+<td class="shuju">5986</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市恒力液力机械有限公司</td>
+<td class="shuju">安徽省蚌埠巿工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)3725888</td>
+<td class="shuju">66</td>
+<td class="shuju">521</td>
+<td class="shuju">蚌埠液力机械厂液压举升翻转装置16500只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市齐云汽配制造有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)2821666</td>
+<td class="shuju">110</td>
+<td class="shuju">9624</td>
+<td class="shuju">JAC油箱81万只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市正固滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)2826462</td>
+<td class="shuju">50</td>
+<td class="shuju">7187</td>
+<td class="shuju">JAC.SQR柴油滤清器400万只;JAC.SQR空气滤清器200万只;JAC.SQR机油滤清器173万只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠江淮车轮有限公司淮上工厂</td>
+<td class="shuju">安徽省蚌埠市工业园区</td>
+<td class="shuju">233000</td>
+<td class="shuju">(0552)4927158</td>
+<td class="shuju">60</td>
+<td class="shuju">5673</td>
+<td class="shuju">JAC钢圈总成L00万只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠通达汽车零部件有限公司</td>
+<td class="shuju">安徽省蚌埠市高新区天河路619号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4923826</td>
+<td class="shuju">383</td>
+<td class="shuju">11763</td>
+<td class="shuju">汽车油箱268867只</td>
+</tr>
+<tr><td class="zhibiao">安徽昊方机电股份有限公司</td>
+<td class="shuju">安徽省蚌埠市髙新兴区兴华路58号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4096331</td>
+<td class="shuju">580</td>
+<td class="shuju">33423</td>
+<td class="shuju">汽车空凋电磁离合器</td>
+</tr>
+<tr><td class="zhibiao">安徽柳工起重机有限公司</td>
+<td class="shuju">安徽省蚌埠市柳工大道18号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4928470</td>
+<td class="shuju">942</td>
+<td class="shuju">81231</td>
+<td class="shuju">改装BQZ5102.BQZ5122.BQZ5160.BQZ5200.BQZ5323等汽车起重机2285辆</td>
+</tr>
+<tr><td class="zhibiao">蚌埠江淮车轮有限公司</td>
+<td class="shuju">安徽省蚌埠市禹会区大庆一路61号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4927158</td>
+<td class="shuju">338</td>
+<td class="shuju">29360</td>
+<td class="shuju">JAC.NAVECO.合叉.安徽好运等钢圈总成1555858只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市昊业滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市高新区黄山大道8018号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4128775</td>
+<td class="shuju">328</td>
+<td class="shuju">9430</td>
+<td class="shuju">全柴.朝柴机油滤清器412万只;JAC.JL.中兴柴油滤清器278万只;滤芯178万只</td>
+</tr>
+<tr><td class="zhibiao">安徽天宝商用车制造有限公司</td>
+<td class="shuju">安徽省蚌埠市东海大道6707号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4925290</td>
+<td class="shuju">527</td>
+<td class="shuju">29938</td>
+<td class="shuju">改装BQX9330Z.BQX9260Z.BQX9193XXY重型半挂车1124辆;改装BQX9380XXY.BQX9381超重型半挂车901辆</td>
+</tr>
+<tr><td class="zhibiao">蚌埠凤凰滤清器有限责任公司</td>
+<td class="shuju">安徽省蚌埠市黄山大道8028号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4128936</td>
+<td class="shuju">500</td>
+<td class="shuju">10393</td>
+<td class="shuju">汽车滤芯11178443只</td>
+</tr>
+<tr><td class="zhibiao">北泰汽车底盘系统(安徽)有限公司</td>
+<td class="shuju">安徽省蚌埠市大庆路503号</td>
+<td class="shuju">233010</td>
+<td class="shuju">(0552)4921600</td>
+<td class="shuju">804</td>
+<td class="shuju">10414</td>
+<td class="shuju">SGM.JAC.CC制动片470940只;JAC.SQR.EQ等球头销216593只;JAC盘式制动器总成57282台</td>
+</tr>
+<tr><td class="zhibiao">蚌埠金威滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市凤阳东路224号</td>
+<td class="shuju">233043</td>
+<td class="shuju">(0552)3038696</td>
+<td class="shuju">1637</td>
+<td class="shuju">44500</td>
+<td class="shuju">JAC.EQ.玉柴.锡柴.SQR等机油滤清器1995万只;JAC.EQ.玉柴.锡柴.SQR等柴油滤清器2985000只;JAC.EQ.玉柴.锡柴.SQR等汽油滤清器2985000只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠国威滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠巿髙新区兴中路888号</td>
+<td class="shuju">233043</td>
+<td class="shuju">(0552)3038696</td>
+<td class="shuju">819</td>
+<td class="shuju">22250</td>
+<td class="shuju">JAC.大众.玉柴.锡柴等机油滤清器997万只;JAC.大众.玉柴.锡柴等柴油滤清器298万;JAC.大众.玉柴.锡柴等空气滤清器26万只</td>
+</tr>
+<tr><td class="zhibiao">安徽省凤阳散热器有限公司</td>
+<td class="shuju">安徽省凤阳县临淮关濠梁西路143号</td>
+<td class="shuju">233122</td>
+<td class="shuju">(0550)6562432</td>
+<td class="shuju">396</td>
+<td class="shuju">12658</td>
+<td class="shuju">江汽.NJ.XMQ散热器总成67000只</td>
+</tr>
+<tr><td class="zhibiao">蚌埠市宏发滤清器有限公司</td>
+<td class="shuju">安徽省蚌埠市怀远县工业园区</td>
+<td class="shuju">233400</td>
+<td class="shuju">(0552)8501998</td>
+<td class="shuju">278</td>
+<td class="shuju">5228</td>
+<td class="shuju">日产.三菱机油滤清器1489736只;EQ.五十铃柴油滤清器653746只;JAC.沃尔沃空气滤清器63892只</td>
+</tr>
+<tr><td class="zhibiao">安徽兆鑫集团汽车有限公司</td>
+<td class="shuju">安徽省蒙城县307线牛群经济园区88号</td>
+<td class="shuju">233500</td>
+<td class="shuju">(0558)7652226</td>
+<td class="shuju">198</td>
+<td class="shuju">13137</td>
+<td class="shuju">改装重型半挂车1300辆</td>
+</tr>
+<tr><td class="zhibiao">安徽省蒙城县华威汽车改装有限公司</td>
+<td class="shuju">安徽省蒙城县庄周307线南侧</td>
+<td class="shuju">233500</td>
+<td class="shuju">(0558)7696355</td>
+<td class="shuju">112</td>
+<td class="shuju">16024</td>
+<td class="shuju">改装重型半挂车1511辆</td>
+</tr>
+<tr><td class="zhibiao">安徽江准安驰汽车有限公司</td>
+<td class="shuju">-</td>
+<td class="shuju">233500</td>
+<td class="shuju">(0558)7636099</td>
+<td class="shuju">290</td>
+<td class="shuju">3904</td>
+<td class="shuju">金牛.金马.鑫马载货车620辆;雪豹.威豹.杰豹二轮驱.动SUV164辆;基本型乘用车35辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

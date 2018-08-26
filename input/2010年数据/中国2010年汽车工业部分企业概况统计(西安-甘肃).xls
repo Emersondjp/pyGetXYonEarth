@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(西安-甘肃)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">西安庆安电气控制有限责任公司</td>
+<td class="shuju">西安市沣镐东路140号</td>
+<td class="shuju">710077</td>
+<td class="shuju">(029)84257413</td>
+<td class="shuju">559</td>
+<td class="shuju">5112</td>
+<td class="shuju">长安.北汽顺义刮水器总成29500只</td>
+</tr>
+<tr><td class="zhibiao">陕西法士特汽车传动集团有限责任公司</td>
+<td class="shuju">西安巿大庆路西段</td>
+<td class="shuju">710077</td>
+<td class="shuju">(029)84630660</td>
+<td class="shuju">9635</td>
+<td class="shuju">1265693</td>
+<td class="shuju">CA.EQ.BJ.SX等手动变速器总成890036台</td>
+</tr>
+<tr><td class="zhibiao">西安伊思灵华泰汽车座椅有限公司</td>
+<td class="shuju">西安市莲湖区红光路91号</td>
+<td class="shuju">710077</td>
+<td class="shuju">(029)84273516</td>
+<td class="shuju">674</td>
+<td class="shuju">33112</td>
+<td class="shuju">汽车座椅总成420053只</td>
+</tr>
+<tr><td class="zhibiao">陕西科达利五金塑胶有限公司</td>
+<td class="shuju">西安市高新区新区西三环以东南三环辅道以北</td>
+<td class="shuju">710085</td>
+<td class="shuju">(029)84686823</td>
+<td class="shuju">580</td>
+<td class="shuju">7555</td>
+<td class="shuju">BYD汽车锁1080万只;BYD车门铰链318.4万件</td>
+</tr>
+<tr><td class="zhibiao">西安西沃客车有限公司</td>
+<td class="shuju">西安市阎良经济技术开发区</td>
+<td class="shuju">710089</td>
+<td class="shuju">(029)68013104</td>
+<td class="shuju">452</td>
+<td class="shuju">21596</td>
+<td class="shuju">B7R.990.9600.9800等客车179辆</td>
+</tr>
+<tr><td class="zhibiao">比亚迪汽车有限责任公司</td>
+<td class="shuju">西安市高新区新型工业园亚迪路2</td>
+<td class="shuju">710119</td>
+<td class="shuju">(029)88889999</td>
+<td class="shuju">29109</td>
+<td class="shuju">2143840</td>
+<td class="shuju">基本型乘用车521232辆.汽车用汽油机自配量171454台</td>
+</tr>
+<tr><td class="zhibiao">陕西欧舒特汽车股份有限公司</td>
+<td class="shuju">西安高新区新型工业园锦业二路26号</td>
+<td class="shuju">710119</td>
+<td class="shuju">(029)68668569</td>
+<td class="shuju">558</td>
+<td class="shuju">40996</td>
+<td class="shuju">客车非完整车辆3052辆;客车83辆</td>
+</tr>
+<tr><td class="zhibiao">陕西汽车集团有限责任公司</td>
+<td class="shuju">西安市经济技术开发区泾渭工业园陕汽大道</td>
+<td class="shuju">710200</td>
+<td class="shuju">(029)86955330</td>
+<td class="shuju">29681</td>
+<td class="shuju">3137042</td>
+<td class="shuju">货车非完整车辆50588辆;货车38956辆;半挂牵引车33996辆</td>
+</tr>
+<tr><td class="zhibiao">陝西德仕汽车部件(集团)有限责任公司</td>
+<td class="shuju">西安市经济技术开发区泾渭工业园泾诚路中段8号</td>
+<td class="shuju">710201</td>
+<td class="shuju">(029)86957353</td>
+<td class="shuju">1479</td>
+<td class="shuju">71341</td>
+<td class="shuju">改装重型自卸汽车2431辆;SX油箱58603只</td>
+</tr>
+<tr><td class="zhibiao">陕西万方汽车零部件有限公司</td>
+<td class="shuju">西安市泾河工业园长庆东路11号</td>
+<td class="shuju">710201</td>
+<td class="shuju">(029)86069011</td>
+<td class="shuju">1095</td>
+<td class="shuju">80504</td>
+<td class="shuju">SX消声器排气管20万只</td>
+</tr>
+<tr><td class="zhibiao">西安航空制动科技有限公司</td>
+<td class="shuju">陕西省兴平市48号信箱002分箱</td>
+<td class="shuju">713106</td>
+<td class="shuju">(029)38249974</td>
+<td class="shuju">1841</td>
+<td class="shuju">60216</td>
+<td class="shuju">昌河.铃木.长安.HMC.鑫源等鼓式制动器总成347904台.天合富奥.CA.汇众制动鼓387305只;天合富奥制动盘354575只</td>
+</tr>
+<tr><td class="zhibiao">西北医疗设备总厂</td>
+<td class="shuju">陕西省三原县池阳街2号</td>
+<td class="shuju">713800</td>
+<td class="shuju">(029)32282200</td>
+<td class="shuju">625</td>
+<td class="shuju">1831</td>
+<td class="shuju">改装XB5037.XB5041.XB5033等救护车144辆</td>
+</tr>
+<tr><td class="zhibiao">陝西方圆汽车标准件有限公司</td>
+<td class="shuju">陕西省三原县清河工业园</td>
+<td class="shuju">713800</td>
+<td class="shuju">(029)32282059</td>
+<td class="shuju">681</td>
+<td class="shuju">12976</td>
+<td class="shuju">SX.法士特.汉德标准件13537万元</td>
+</tr>
+<tr><td class="zhibiao">西安燎原液压有限责任公司</td>
+<td class="shuju">陕西省城固县张赛路18号二分箱</td>
+<td class="shuju">723200</td>
+<td class="shuju">(0916)7207071</td>
+<td class="shuju">499</td>
+<td class="shuju">16039</td>
+<td class="shuju">北汽福田等液压举升翻转装置130478只</td>
+</tr>
+<tr><td class="zhibiao">兰州北方机电有限公司</td>
+<td class="shuju">兰州市城关区焦家湾南路105号</td>
+<td class="shuju">730020</td>
+<td class="shuju">(0931)8750208</td>
+<td class="shuju">420</td>
+<td class="shuju">6430</td>
+<td class="shuju">改装北奔重型自卸汽车118辆</td>
+</tr>
+<tr><td class="zhibiao">兰州通用机器制造有限公司</td>
+<td class="shuju">兰州市七里河区南湾1号</td>
+<td class="shuju">730050</td>
+<td class="shuju">(0931)2921250</td>
+<td class="shuju">1290</td>
+<td class="shuju">30797</td>
+<td class="shuju">改装LTJ5310TYL.LTJ5300TYL等压裂车45辆;改装SX1165UN.ZZ1256M4646C洗井清蜡车33辆.;改装SXI165UN.ZZ1160M4616C洗井车30辆</td>
+</tr>
+<tr><td class="zhibiao">甘肃兰驼集团有限责任公司</td>
+<td class="shuju">兰州巿七里河区民乐路8号</td>
+<td class="shuju">730050</td>
+<td class="shuju">(0931)2130034</td>
+<td class="shuju">662</td>
+<td class="shuju">5447</td>
+<td class="shuju">亚美柯三轮汽车9309辆</td>
+</tr>
+<tr><td class="zhibiao">兰州电源车辆研究所有限公司</td>
+<td class="shuju">兰州市七里河区民乐路64号</td>
+<td class="shuju">730050</td>
+<td class="shuju">(0931)2867711</td>
+<td class="shuju">319</td>
+<td class="shuju">4726</td>
+<td class="shuju">改装ND2191E48J等电源车72辆;改装ND2162E48J等工程车9辆</td>
+</tr>
+<tr><td class="zhibiao">兰州矿场机械有限公司</td>
+<td class="shuju">兰州市安宁区城临路10号</td>
+<td class="shuju">730070</td>
+<td class="shuju">(0931)7616851</td>
+<td class="shuju">120</td>
+<td class="shuju">14718</td>
+<td class="shuju">改装康明斯.VOLVO压裂车40辆;改装康明斯混砂车13辆;改装北奔.斯太尔.陕汽固井水泥车6辆</td>
+</tr>
+<tr><td class="zhibiao">兰州天智机械有限公司</td>
+<td class="shuju">兰州市安宁区高新技术开发区高新技术产业园城临路12号</td>
+<td class="shuju">730070</td>
+<td class="shuju">(0931)7660606</td>
+<td class="shuju">196</td>
+<td class="shuju">4891</td>
+<td class="shuju">改装TZJ5180TQL等清蜡车15辆;改装TZJ5210TSN等固井水泥车12辆;改装TZJ5161TGL锅炉车4辆</td>
+</tr>
+<tr><td class="zhibiao">甘肃中集华骏车辆有限公司</td>
+<td class="shuju">甘肃省白银市长安路26号</td>
+<td class="shuju">730900</td>
+<td class="shuju">(0943)8233698</td>
+<td class="shuju">414</td>
+<td class="shuju">27332</td>
+<td class="shuju">改装重型自卸汽车1598辆;全挂车962辆.改装重型半挂车447辆</td>
+</tr>
+<tr><td class="zhibiao">甘肃海林中科科技股份有限公司</td>
+<td class="shuju">甘肃省天水市秦州区岷山路55号</td>
+<td class="shuju">741018</td>
+<td class="shuju">(0938)8385435</td>
+<td class="shuju">2960</td>
+<td class="shuju">65480</td>
+<td class="shuju">富华.重汽.法士特等汽车轴承5600万套</td>
+</tr>
+<tr><td class="zhibiao">甘肃祁连山佑安制动材料有限公司</td>
+<td class="shuju">甘肃省甘谷县新兴路220号</td>
+<td class="shuju">741200</td>
+<td class="shuju">(0938)5931297</td>
+<td class="shuju">133</td>
+<td class="shuju">892</td>
+<td class="shuju">汉德.恒力摩擦材料880t</td>
+</tr>
+<tr><td class="zhibiao">定西金荣活塞环有限责任公司</td>
+<td class="shuju">甘肃省定西巿安定区交通路463号</td>
+<td class="shuju">743000</td>
+<td class="shuju">(0932)8282502</td>
+<td class="shuju">212</td>
+<td class="shuju">2384</td>
+<td class="shuju">西安缸套.潍柴等活塞环955万片;常柴汽车密封件85.68万元</td>
+</tr>
+<tr><td class="zhibiao">甘肃华腾石油机械制造有限公司</td>
+<td class="shuju">甘肃省定西市陇西县东郊王家坪</td>
+<td class="shuju">748112</td>
+<td class="shuju">(0932)6628687</td>
+<td class="shuju">368</td>
+<td class="shuju">6000</td>
+<td class="shuju">改装HTZ5200TYL等压裂车13辆;改装HTZ5310TSS输砂车8辆;改装HTZ5190THSL等混砂车8辆</td>
+</tr>
+<tr><td class="zhibiao">青海洁神装备制造集团有限公司</td>
+<td class="shuju">青海省西宁巿城北区柴达木路134号</td>
+<td class="shuju">810017</td>
+<td class="shuju">(0971)5220169</td>
+<td class="shuju">985</td>
+<td class="shuju">63706</td>
+<td class="shuju">改装专用自卸汽车1800辆</td>
+</tr>
+<tr><td class="zhibiao">青海康泰铸锻机械有限责任公司</td>
+<td class="shuju">青海省海东地区乐都县寿乐镇马家湾</td>
+<td class="shuju">810700</td>
+<td class="shuju">(0972)8628438</td>
+<td class="shuju">620</td>
+<td class="shuju">18416</td>
+<td class="shuju">锻钢件.铸钢件</td>
+</tr>
+<tr><td class="zhibiao">吴忠市万兴实业有限公司</td>
+<td class="shuju">宁夏吴忠市(利通区)柴园大道东侧001号</td>
+<td class="shuju">751100</td>
+<td class="shuju">(0953)2222999</td>
+<td class="shuju">230</td>
+<td class="shuju">8056</td>
+<td class="shuju">改装低平板重型半挂车900辆;改装轻型载货车86辆;改装其他重型汽车81辆</td>
+</tr>
+<tr><td class="zhibiao">新疆天羚汽车厂</td>
+<td class="shuju">乌鲁木齐市红山路289号</td>
+<td class="shuju">830002</td>
+<td class="shuju">(0991)2617587</td>
+<td class="shuju">338</td>
+<td class="shuju">1874</td>
+<td class="shuju">汽车修理</td>
+</tr>
+<tr><td class="zhibiao">新疆天山汽车制造有限公司</td>
+<td class="shuju">乌鲁木齐市经济技术开发区融合南路688号</td>
+<td class="shuju">830009</td>
+<td class="shuju">(0991)8790065</td>
+<td class="shuju">291</td>
+<td class="shuju">19175</td>
+<td class="shuju">改装北奔.重汽.陕汽重型自卸汽车467辆;北奔.重汽.陕汽全挂车55辆</td>
+</tr>
+<tr><td class="zhibiao">东风新疆汽车有限公司</td>
+<td class="shuju">乌鲁木齐市北京北路36号</td>
+<td class="shuju">830011</td>
+<td class="shuju">(0991)6639738</td>
+<td class="shuju">835</td>
+<td class="shuju">39554</td>
+<td class="shuju">EQ2090.EQ1120.EQ2160等载货车1248辆;DFL4240.DFL4251等半挂牵引车362辆;EQ1120J.EQ2161J等货车非完整车辆153辆</td>
+</tr>
+<tr><td class="zhibiao">新疆中通客车有限公司</td>
+<td class="shuju">乌鲁木齐市高新区北区阜新街51号</td>
+<td class="shuju">830013</td>
+<td class="shuju">(0991)6531999</td>
+<td class="shuju">224</td>
+<td class="shuju">9057</td>
+<td class="shuju">改装XJ6931.XJ6740G等中型客车324辆;改装XJ6660C轻型客车128辆;改装XJ6128W.XJ6106GC等大型客车44辆</td>
+</tr>
+<tr><td class="zhibiao">乌鲁木齐市新市区驰骋汽车配件厂</td>
+<td class="shuju">乌鲁木齐市锦州西路133号</td>
+<td class="shuju">830013</td>
+<td class="shuju">(0991)7828049</td>
+<td class="shuju">11</td>
+<td class="shuju">19</td>
+<td class="shuju">汽车配件</td>
+</tr>
+<tr><td class="zhibiao">中集车辆(集团)新疆有限公司</td>
+<td class="shuju">乌鲁木齐市高新区北冬融街199号</td>
+<td class="shuju">830013</td>
+<td class="shuju">(0991)6510818</td>
+<td class="shuju">258</td>
+<td class="shuju">3078</td>
+<td class="shuju">改装ZCZ9408重型半挂车528辆;改装SX3155重型自卸汽车55辆</td>
+</tr>
+<tr><td class="zhibiao">新疆八钢板簧有限公司</td>
+<td class="shuju">乌鲁木齐市头屯河区工业园银环路67号</td>
+<td class="shuju">830032</td>
+<td class="shuju">(0991)3967066</td>
+<td class="shuju">130</td>
+<td class="shuju">12941</td>
+<td class="shuju">陝汽钢板弹簧总成127367架</td>
+</tr>
+<tr><td class="zhibiao">新疆福田广汇专用车有限责任公司</td>
+<td class="shuju">乌鲁木齐市米东区振兴路1号广汇工业园</td>
+<td class="shuju">831400</td>
+<td class="shuju">(0991)6556111</td>
+<td class="shuju">80</td>
+<td class="shuju">35370</td>
+<td class="shuju">改装重型自卸汽车303辆;改装重型半挂牵引汽车28辆;改装厢式运输车26辆</td>
+</tr>
+<tr><td class="zhibiao">新疆正和车辆制造有限公司</td>
+<td class="shuju">乌鲁木齐市米东区友好路19号</td>
+<td class="shuju">831401</td>
+<td class="shuju">(0991)6928668</td>
+<td class="shuju">73</td>
+<td class="shuju">6654</td>
+<td class="shuju">改装重型载货车137辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(安徽-安徽)(十一)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">安徽中联汽车零部件有限公司</td>
+<td class="shuju">安徽省宁国市经济技术开发区外环西路</td>
+<td class="shuju">242300</td>
+<td class="shuju">(0563)4187958</td>
+<td class="shuju">80</td>
+<td class="shuju">746</td>
+<td class="shuju">阻尼衬套.皮圈等</td>
+</tr>
+<tr><td class="zhibiao">宁国市中益车辆部件有限公司</td>
+<td class="shuju">安徽省宁国市经济技术开发独山路</td>
+<td class="shuju">242300</td>
+<td class="shuju">(0563)4186589</td>
+<td class="shuju">77</td>
+<td class="shuju">2639</td>
+<td class="shuju">汽车贮气筒3万只</td>
+</tr>
+<tr><td class="zhibiao">宁国市海天力工业发展有限公司</td>
+<td class="shuju">安徽省宁国市梅林镇工业园区</td>
+<td class="shuju">242321</td>
+<td class="shuju">(0563)4602068</td>
+<td class="shuju">80</td>
+<td class="shuju">3000</td>
+<td class="shuju">膜片.护罩</td>
+</tr>
+<tr><td class="zhibiao">大力机械(宁国)有限公司</td>
+<td class="shuju">安徽省宁国市宁墩镇下街8号</td>
+<td class="shuju">242341</td>
+<td class="shuju">(0563)4630987</td>
+<td class="shuju">180</td>
+<td class="shuju">4760</td>
+<td class="shuju">通润千斤顶418000只</td>
+</tr>
+<tr><td class="zhibiao">宁国市格斯特密封件有限公司</td>
+<td class="shuju">安徽省宁国市宁墩镇黄岗村</td>
+<td class="shuju">242341</td>
+<td class="shuju">(0563)4646060</td>
+<td class="shuju">95</td>
+<td class="shuju">1170</td>
+<td class="shuju">汽车密封件325.50万元</td>
+</tr>
+<tr><td class="zhibiao">宁国市永泰实业有限公司</td>
+<td class="shuju">安徽省宁国市宁墩镇宁燉村</td>
+<td class="shuju">242341</td>
+<td class="shuju">(0563)4632090</td>
+<td class="shuju">175</td>
+<td class="shuju">5814</td>
+<td class="shuju">汽车千斤顶8553967只;汽车飞轮总成78833只</td>
+</tr>
+<tr><td class="zhibiao">宁国天运橡塑制品有限公司</td>
+<td class="shuju">安徽省宁国市中溪镇东波工业园区</td>
+<td class="shuju">242343</td>
+<td class="shuju">(0563)4676387</td>
+<td class="shuju">100</td>
+<td class="shuju">1000</td>
+<td class="shuju">SQR.LZW.SH.BYD.JAC.XMQ汽车密封件1255万元</td>
+</tr>
+<tr><td class="zhibiao">宁国市红桥弹簧制造有限公司</td>
+<td class="shuju">安徽省宁国巿中溪镇</td>
+<td class="shuju">242343</td>
+<td class="shuju">(0563)4690008</td>
+<td class="shuju">123</td>
+<td class="shuju">29011</td>
+<td class="shuju">汽车弹簧32000万只</td>
+</tr>
+<tr><td class="zhibiao">亚新科噪声与振动技术(安徽)有限公司</td>
+<td class="shuju">安徽省宁国市中溪镇2000号</td>
+<td class="shuju">242344</td>
+<td class="shuju">(0563)4674800</td>
+<td class="shuju">2018</td>
+<td class="shuju">43086</td>
+<td class="shuju">悬置.衬套等</td>
+</tr>
+<tr><td class="zhibiao">安徽省宁国市鑫马车辆有限公司</td>
+<td class="shuju">安徽省宁国市甲路镇</td>
+<td class="shuju">242362</td>
+<td class="shuju">(0563)4960626</td>
+<td class="shuju">62</td>
+<td class="shuju">3062</td>
+<td class="shuju">三轮汽车2500辆</td>
+</tr>
+<tr><td class="zhibiao">枞阳县银星汽车电器制造有限公司</td>
+<td class="shuju">安徽省枞阳综合开发区</td>
+<td class="shuju">242765</td>
+<td class="shuju">(0556)2825751</td>
+<td class="shuju">58</td>
+<td class="shuju">1300</td>
+<td class="shuju">JAC制动鼓62170只;JAC离合器总成62465台;JAC制动.离合.油门踏板12902只</td>
+</tr>
+<tr><td class="zhibiao">安徽池洲瑞泰汽车零部件有限责任公司</td>
+<td class="shuju">安徽省池州市经济技术开发区流金大道</td>
+<td class="shuju">242800</td>
+<td class="shuju">(0566)5115988</td>
+<td class="shuju">95</td>
+<td class="shuju">3025</td>
+<td class="shuju">SQR.JAC.昌河标准件3025万元</td>
+</tr>
+<tr><td class="zhibiao">安徽马钢和菱实业有限公司</td>
+<td class="shuju">安徽省马鞍山巿红旗南路19号</td>
+<td class="shuju">243000</td>
+<td class="shuju">(0555)2253770</td>
+<td class="shuju">223</td>
+<td class="shuju">35723</td>
+<td class="shuju">汽车标准件1265万元</td>
+</tr>
+<tr><td class="zhibiao">马鞍山嘉华汽车零部件有限公司</td>
+<td class="shuju">安徽省马鞍山巿经济技术开发区阳山路98号</td>
+<td class="shuju">243041</td>
+<td class="shuju">(0555)2108386</td>
+<td class="shuju">158</td>
+<td class="shuju">3818</td>
+<td class="shuju">冲压件</td>
+</tr>
+<tr><td class="zhibiao">安徽星马汽车股份有限公司</td>
+<td class="shuju">安徽省马鞍山市经济技术开发区红旗南路118号</td>
+<td class="shuju">243061</td>
+<td class="shuju">(0555)8323020</td>
+<td class="shuju">1218</td>
+<td class="shuju">393745</td>
+<td class="shuju">改装混凝土搅拌运输车8818辆;改装散装水泥车1989辆;改装厢式自卸车148辆</td>
+</tr>
+<tr><td class="zhibiao">安徽华菱汽车股份有限公司</td>
+<td class="shuju">安徽省马鞍山巿湖西南路359号</td>
+<td class="shuju">243061</td>
+<td class="shuju">(0555)8323770</td>
+<td class="shuju">1561</td>
+<td class="shuju">649781</td>
+<td class="shuju">货车非完整车辆23582辆;半挂牵引车7439辆</td>
+</tr>
+<tr><td class="zhibiao">马鞍山富创冶金有限公司</td>
+<td class="shuju">安徽省马鞍山市当涂县博望镇镇西工业园区</td>
+<td class="shuju">243131</td>
+<td class="shuju">(0555)6064888</td>
+<td class="shuju">92</td>
+<td class="shuju">357</td>
+<td class="shuju">翻转支架等</td>
+</tr>
+<tr><td class="zhibiao">铜陵昭通汽车电器制造有限公司</td>
+<td class="shuju">安徽省铜陵市中小企业创业园951号</td>
+<td class="shuju">244000</td>
+<td class="shuju">(0562)2681197</td>
+<td class="shuju">40</td>
+<td class="shuju">1218</td>
+<td class="shuju">汽车微电机79579台.汽车风扇49599只</td>
+</tr>
+<tr><td class="zhibiao">锐展(铜陵)科技有限公司</td>
+<td class="shuju">安徽省铜陵市经济开发区黄山大道</td>
+<td class="shuju">244060</td>
+<td class="shuju">(0562)2681022</td>
+<td class="shuju">225</td>
+<td class="shuju">113929</td>
+<td class="shuju">众泰.奥拓汽车用汽油机商品量17816台</td>
+</tr>
+<tr><td class="zhibiao">铜陵华源汽车内饰材料有限公司</td>
+<td class="shuju">安徽省锏陵市经济技术开发区泰山大道南段289号</td>
+<td class="shuju">244061</td>
+<td class="shuju">(0562)2658681</td>
+<td class="shuju">257</td>
+<td class="shuju">5353</td>
+<td class="shuju">莫森泰克遮阳板986只</td>
+</tr>
+<tr><td class="zhibiao">铜陵万象汽车零部件有限公司</td>
+<td class="shuju">安徽省铜陵县金桥工业园</td>
+<td class="shuju">244121</td>
+<td class="shuju">(0562)8293119</td>
+<td class="shuju">300</td>
+<td class="shuju">8163</td>
+<td class="shuju">EQ.重汽变速器壳32500只</td>
+</tr>
+<tr><td class="zhibiao">黄山顺昌汽车电器有限公司</td>
+<td class="shuju">安徽省黄山市屯溪区帅鑫工业园</td>
+<td class="shuju">245041</td>
+<td class="shuju">(0559)2336866</td>
+<td class="shuju">135</td>
+<td class="shuju">4453</td>
+<td class="shuju">熄火控制器35万只</td>
+</tr>
+<tr><td class="zhibiao">黄山市江淮工贸有限公司</td>
+<td class="shuju">安徽省黄山市徽州区徽州西路55号</td>
+<td class="shuju">245061</td>
+<td class="shuju">(0559)3511635</td>
+<td class="shuju">160</td>
+<td class="shuju">11197</td>
+<td class="shuju">JAC贮气筒50万只.JACU形螺栓170万只</td>
+</tr>
+<tr><td class="zhibiao">黄山金马股份有限公司</td>
+<td class="shuju">安徽省歙县经济开发区</td>
+<td class="shuju">245200</td>
+<td class="shuju">(0559)6537832</td>
+<td class="shuju">860</td>
+<td class="shuju">73500</td>
+<td class="shuju">大洋.大长江.本田.豪爵.大运.LF摩托车单表185万只;昌河.众泰.SQR.JL.EQ汽车单表48万只;众泰.江南.昌河.SQR汽车线束37万套</td>
+</tr>
+<tr><td class="zhibiao">安徽省小小科技实业有限责任公司</td>
+<td class="shuju">安徽省绩溪县生态工业园区霞间路1号</td>
+<td class="shuju">245300</td>
+<td class="shuju">(0563)8162760</td>
+<td class="shuju">190</td>
+<td class="shuju">5117</td>
+<td class="shuju">天津天海同步器齿环2992413件</td>
+</tr>
+<tr><td class="zhibiao">安徽明雁齿轮有限公司</td>
+<td class="shuju">安徽省绩溪县生态工业园区清凉峰路</td>
+<td class="shuju">245300</td>
+<td class="shuju">(0563)8159366</td>
+<td class="shuju">325</td>
+<td class="shuju">5567</td>
+<td class="shuju">力帆骏马.莱工手动变速器总成44000台</td>
+</tr>
+<tr><td class="zhibiao">黄山市汽车电器股份公司</td>
+<td class="shuju">安徽省黄山市休宁溪口镇</td>
+<td class="shuju">245436</td>
+<td class="shuju">(0559)7581086</td>
+<td class="shuju">527</td>
+<td class="shuju">30175</td>
+<td class="shuju">CA.SQR.JAC.CC.JMC开关395万只;CA.SQR.JAC.CC.JMC汽车锁395万只</td>
+</tr>
+<tr><td class="zhibiao">黄山市奇峰专用汽车有限公司</td>
+<td class="shuju">安徽省黄山市徽州区徽州西路55号</td>
+<td class="shuju">245900</td>
+<td class="shuju">(0559)3512725</td>
+<td class="shuju">120</td>
+<td class="shuju">5220</td>
+<td class="shuju">改装重型半挂车420辆.改装厢式运输车34辆</td>
+</tr>
+<tr><td class="zhibiao">黄山奔马集团有限公司</td>
+<td class="shuju">安徽省黄山市徽州区徽州东路168号</td>
+<td class="shuju">245900</td>
+<td class="shuju">(0559)3588900</td>
+<td class="shuju">230</td>
+<td class="shuju">5108</td>
+<td class="shuju">大长江摩托车离合器盖.中压板及压盘3000万件</td>
+</tr>
+<tr><td class="zhibiao">安徽省安庆环新集团有限公司</td>
+<td class="shuju">安徽省安庆巿开发区迎宾大道16号区</td>
+<td class="shuju">246000</td>
+<td class="shuju">(0556)5305030</td>
+<td class="shuju">3283</td>
+<td class="shuju">175289</td>
+<td class="shuju">汽车活塞环18498万片.汽车气缸套840万只.汽车活塞840万只</td>
+</tr>
+<tr><td class="zhibiao">安庆市振发汽车锻件有限责任公司</td>
+<td class="shuju">安徽省安庆市经济技术开发区工业园华杨路2号十片</td>
+<td class="shuju">246005</td>
+<td class="shuju">(0556)5345712</td>
+<td class="shuju">119</td>
+<td class="shuju">6683</td>
+<td class="shuju">锻压件</td>
+</tr>
+<tr><td class="zhibiao">安庆市恒瑞达汽车零部件制造有限公司</td>
+<td class="shuju">安徽省安庆市经济技术开发区3.9平方公里工业园纬二路</td>
+<td class="shuju">246005</td>
+<td class="shuju">(0556)5368688</td>
+<td class="shuju">98</td>
+<td class="shuju">3387</td>
+<td class="shuju">SQR.BYD.扬子.JAC等稳定杆852500只</td>
+</tr>
+<tr><td class="zhibiao">安徽安簧机械股份有限公司</td>
+<td class="shuju">安徽省安庆市经济开发区3.9平方公里工业园</td>
+<td class="shuju">246005</td>
+<td class="shuju">(0556)5305703</td>
+<td class="shuju">1332</td>
+<td class="shuju">60178</td>
+<td class="shuju">JAC.NJ钢板弹簧总成743387架;CC转向节259万只.JAC后桥总成18887台</td>
+</tr>
+<tr><td class="zhibiao">安庆安达尔汽车制造有限公司</td>
+<td class="shuju">安徽省安庆市望江经济开发区蓝天路36号</td>
+<td class="shuju">246200</td>
+<td class="shuju">(0556)7159966</td>
+<td class="shuju">78</td>
+<td class="shuju">540</td>
+<td class="shuju">改装纯电动轻型客车188辆</td>
+</tr>
+<tr><td class="zhibiao">安徽精科机器有限公司</td>
+<td class="shuju">安徽省安庆市潜山县梅城镇潜阳路665号</td>
+<td class="shuju">246300</td>
+<td class="shuju">(0556)8970208</td>
+<td class="shuju">580</td>
+<td class="shuju">25159</td>
+<td class="shuju">JAC.顺义.轻骑.龙强.欧铃等转向机总成398370台;JAC.BJ转向管柱281265只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

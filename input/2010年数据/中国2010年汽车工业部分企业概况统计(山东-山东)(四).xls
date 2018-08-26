@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(山东-山东)(四)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">诸城市鲁锋金属制品有限公司</td>
+<td class="shuju">山东省诸城市石桥子镇吴家楼社区</td>
+<td class="shuju">262208</td>
+<td class="shuju">(0536)6478155</td>
+<td class="shuju">48</td>
+<td class="shuju">2239</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">山东泰瑞风华汽车电子有限公司</td>
+<td class="shuju">山东省潍坊市诸城舜王街道镇驻地中九台村</td>
+<td class="shuju">262214</td>
+<td class="shuju">(0536)6489387</td>
+<td class="shuju">100</td>
+<td class="shuju">2802</td>
+<td class="shuju">福田.TJ汽车组合仪表28.30万只</td>
+</tr>
+<tr><td class="zhibiao">诸城市东发机械制造有限公司</td>
+<td class="shuju">山东省诸城市昌城镇徐家河岔村</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6401350</td>
+<td class="shuju">63</td>
+<td class="shuju">18904</td>
+<td class="shuju">汽车密封件5312万元;汽车半轴套管800823只</td>
+</tr>
+<tr><td class="zhibiao">诸城市金祥机械有限公司</td>
+<td class="shuju">山东省诸城市昌城镇开发区</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6331938</td>
+<td class="shuju">365</td>
+<td class="shuju">10689</td>
+<td class="shuju">福田.奥铃.五征散热器总成190925只</td>
+</tr>
+<tr><td class="zhibiao">山东泸河集团有限公司</td>
+<td class="shuju">山东省诸城市昌城镇泸河工业园</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6336001</td>
+<td class="shuju">2857</td>
+<td class="shuju">131972</td>
+<td class="shuju">福田.JAC.SY.顺义轮胎外胎683万条</td>
+</tr>
+<tr><td class="zhibiao">诸城市三福橡胶轮胎有限公司</td>
+<td class="shuju">山东省诸城市昌城镇杨义庄村</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6401068</td>
+<td class="shuju">110</td>
+<td class="shuju">4500</td>
+<td class="shuju">黑豹.凯马.SY轮胎外胎19万条</td>
+</tr>
+<tr><td class="zhibiao">诸城市洋晨机械制造有限公司</td>
+<td class="shuju">山东省诸城市昌城镇西行寺村</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6339978</td>
+<td class="shuju">763</td>
+<td class="shuju">65595</td>
+<td class="shuju">北汽福田货厢总成198000台</td>
+</tr>
+<tr><td class="zhibiao">山东银石泸河橡胶轮胎有限公司</td>
+<td class="shuju">山东省诸城市昌城镇泸河工业园</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6336010</td>
+<td class="shuju">539</td>
+<td class="shuju">39839</td>
+<td class="shuju">汽车轮胎外胎310288条</td>
+</tr>
+<tr><td class="zhibiao">诸城威仕达机械有限公司</td>
+<td class="shuju">山东省诸城市昌城镇小下泊村</td>
+<td class="shuju">262216</td>
+<td class="shuju">(0536)6331938</td>
+<td class="shuju">-</td>
+<td class="shuju">33928</td>
+<td class="shuju">左铰链加强版.后围板等</td>
+</tr>
+<tr><td class="zhibiao">诸城市国通汽车部件有限公司</td>
+<td class="shuju">山东省诸城巿辛兴镇孙家沙岭村</td>
+<td class="shuju">262218</td>
+<td class="shuju">(0536)6524951</td>
+<td class="shuju">120</td>
+<td class="shuju">3273</td>
+<td class="shuju">福田诸城后桥总成7000台</td>
+</tr>
+<tr><td class="zhibiao">诸城市益和盛橡胶有限公司</td>
+<td class="shuju">山东省诸城市辛兴镇徐家芦水村</td>
+<td class="shuju">262218</td>
+<td class="shuju">(0536)6528358</td>
+<td class="shuju">20</td>
+<td class="shuju">190</td>
+<td class="shuju">北汽福田轮胎外胎2万条</td>
+</tr>
+<tr><td class="zhibiao">诸城市常山汽车配件有限公司</td>
+<td class="shuju">山东省诸城市皇华镇李家大村</td>
+<td class="shuju">262226</td>
+<td class="shuju">(0536)6591177</td>
+<td class="shuju">103</td>
+<td class="shuju">10618</td>
+<td class="shuju">北汽福田车架总成1万台;北汽福田消声器总成80万只</td>
+</tr>
+<tr><td class="zhibiao">诸城市金丰钣金厂</td>
+<td class="shuju">山东省诸城市皇华镇前寿塔</td>
+<td class="shuju">262226</td>
+<td class="shuju">(0536)6592068</td>
+<td class="shuju">118</td>
+<td class="shuju">14436</td>
+<td class="shuju">北汽福田零部件</td>
+</tr>
+<tr><td class="zhibiao">诸城市富仁机械有限公司</td>
+<td class="shuju">山东省诸城巿皇华镇后寿塔</td>
+<td class="shuju">262226</td>
+<td class="shuju">(0536)6592268</td>
+<td class="shuju">30</td>
+<td class="shuju">2115</td>
+<td class="shuju">北汽福田车架总成5000台</td>
+</tr>
+<tr><td class="zhibiao">诸城市皇华镇庆福机械厂</td>
+<td class="shuju">山东省诸城市皇华镇后郝戈庄</td>
+<td class="shuju">262226</td>
+<td class="shuju">(0536)6591067</td>
+<td class="shuju">28</td>
+<td class="shuju">2180</td>
+<td class="shuju">北汽福田转轮10万件</td>
+</tr>
+<tr><td class="zhibiao">诸城市晨正汽车附件厂</td>
+<td class="shuju">山东省诸城市皇华镇范家柏戈庄</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6599188</td>
+<td class="shuju">105</td>
+<td class="shuju">18279</td>
+<td class="shuju">五征座椅总成40万只</td>
+</tr>
+<tr><td class="zhibiao">诸城市浩源机械有限公司</td>
+<td class="shuju">山东省诸城市皇皇华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6582118</td>
+<td class="shuju">22</td>
+<td class="shuju">2011</td>
+<td class="shuju">北汽福田零部件</td>
+</tr>
+<tr><td class="zhibiao">诸城市洪福橡胶有限公司</td>
+<td class="shuju">山东省诸城市皇华华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6582068</td>
+<td class="shuju">43</td>
+<td class="shuju">4361</td>
+<td class="shuju">北汽福田轮胎外胎20万条</td>
+</tr>
+<tr><td class="zhibiao">诸城市皇华镇华东机械电子有限公司</td>
+<td class="shuju">山东省诸城市皇华镇范家庄子</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6582167</td>
+<td class="shuju">37</td>
+<td class="shuju">4216</td>
+<td class="shuju">北汽福田零部件</td>
+</tr>
+<tr><td class="zhibiao">诸城市华欣铸造有限公司</td>
+<td class="shuju">山东省诸城市皇华镇李家大村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6581187</td>
+<td class="shuju">392</td>
+<td class="shuju">28744</td>
+<td class="shuju">北汽福田制动鼓100万只</td>
+</tr>
+<tr><td class="zhibiao">诸城市皇华镇凯宇机械有限公司</td>
+<td class="shuju">山东省诸城市皇华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6589128</td>
+<td class="shuju">60</td>
+<td class="shuju">3967</td>
+<td class="shuju">北汽福田零部件</td>
+</tr>
+<tr><td class="zhibiao">山东三工橡胶有限公司</td>
+<td class="shuju">山东省诸城市皇华镇</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6581138</td>
+<td class="shuju">2020</td>
+<td class="shuju">292502</td>
+<td class="shuju">北汽福田轮胎外胎860万条</td>
+</tr>
+<tr><td class="zhibiao">诸城市泰金机械有限公司</td>
+<td class="shuju">山东省诸城市皇华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6581345</td>
+<td class="shuju">38</td>
+<td class="shuju">2963</td>
+<td class="shuju">北汽福田零部件</td>
+</tr>
+<tr><td class="zhibiao">诸城市万和转向节有限公司</td>
+<td class="shuju">山东省诸城市皇华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6581018</td>
+<td class="shuju">138</td>
+<td class="shuju">12071</td>
+<td class="shuju">SX转向节300万只</td>
+</tr>
+<tr><td class="zhibiao">诸城市亿科机械电器制造有限公司</td>
+<td class="shuju">山东省诸城市皇华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6581018</td>
+<td class="shuju">60</td>
+<td class="shuju">7397</td>
+<td class="shuju">SX汽车单表200万只</td>
+</tr>
+<tr><td class="zhibiao">诸城市远航机械有限公司</td>
+<td class="shuju">山东省诸城市皇华镇朱家村</td>
+<td class="shuju">262229</td>
+<td class="shuju">(0536)6582147</td>
+<td class="shuju">50</td>
+<td class="shuju">3166</td>
+<td class="shuju">北汽福田零部件</td>
+</tr>
+<tr><td class="zhibiao">诸城海韵汽车配套有限公司</td>
+<td class="shuju">山东省港城市舜王开发区电力工业园</td>
+<td class="shuju">262233</td>
+<td class="shuju">(0536)6098106</td>
+<td class="shuju">800</td>
+<td class="shuju">-</td>
+<td class="shuju">北汽福田汽车线束35万套;北汽福田散热器5万台</td>
+</tr>
+<tr><td class="zhibiao">山东旭日汽车饰件集团有限公司</td>
+<td class="shuju">山东省日照市五莲县富强路1号</td>
+<td class="shuju">262300</td>
+<td class="shuju">(0633)3926817</td>
+<td class="shuju">620</td>
+<td class="shuju">53011</td>
+<td class="shuju">北汽福田.BJ保险杠25万件;北汽福田.BJ车灯总成25万只;北汽福田.BJ仪表板总成19万只</td>
+</tr>
+<tr><td class="zhibiao">浙江飞碟汽车制造有限公司五征分公司</td>
+<td class="shuju">山东省日照市北区工业园区</td>
+<td class="shuju">262300</td>
+<td class="shuju">(0633)5328016</td>
+<td class="shuju">1083</td>
+<td class="shuju">169495</td>
+<td class="shuju">载货车35237辆</td>
+</tr>
+<tr><td class="zhibiao">日照市北业制动泵有限公司</td>
+<td class="shuju">山东省日照市五莲县松柏乡北山前</td>
+<td class="shuju">262302</td>
+<td class="shuju">(0633)5511305</td>
+<td class="shuju">793</td>
+<td class="shuju">8427</td>
+<td class="shuju">汽车液压制动总泵8万台;汽车制动比例阀9万只</td>
+</tr>
+<tr><td class="zhibiao">山东遨游汽车制动系统股份有限公司</td>
+<td class="shuju">山东省五莲县松柏镇驻地</td>
+<td class="shuju">262302</td>
+<td class="shuju">(0633)5511114</td>
+<td class="shuju">1980</td>
+<td class="shuju">75607</td>
+<td class="shuju">JAC.曙光液压制动分泵370万只;JAC.曙光鼓式制动器总成157万台;重汽盘式制动器总成2万台</td>
+</tr>
+<tr><td class="zhibiao">山东遨游汽车部件有限公司</td>
+<td class="shuju">山东省五莲县松柏镇驻地</td>
+<td class="shuju">262302</td>
+<td class="shuju">(0633)5511114</td>
+<td class="shuju">650</td>
+<td class="shuju">42394</td>
+<td class="shuju">五征.义和驾驶室及车身总成30万台;五征车架总成15万台</td>
+</tr>
+<tr><td class="zhibiao">山东五征集团有限公司</td>
+<td class="shuju">山东省日照市北经济开发区五征汽车城</td>
+<td class="shuju">262306</td>
+<td class="shuju">(0633)5321166</td>
+<td class="shuju">7049</td>
+<td class="shuju">801570</td>
+<td class="shuju">三轮汽车504556辆;低速货车23500辆</td>
+</tr>
+<tr><td class="zhibiao">日照市时正锻压有限公司</td>
+<td class="shuju">山东省日照市五莲县高泽工业园</td>
+<td class="shuju">262313</td>
+<td class="shuju">(0633)6157328</td>
+<td class="shuju">300</td>
+<td class="shuju">3965</td>
+<td class="shuju">诸城义和车桥转向横直拉杆240万件</td>
+</tr>
+<tr><td class="zhibiao">日照兴发汽车零部件制造有限公司</td>
+<td class="shuju">山东省日照巿五莲县于里镇驻地</td>
+<td class="shuju">262318</td>
+<td class="shuju">(0633)3925080</td>
+<td class="shuju">1456</td>
+<td class="shuju">125580</td>
+<td class="shuju">五征驾驶室及车身总成74000台;五征货厢总成43000台</td>
+</tr>
+<tr><td class="zhibiao">五莲县恒瑞车辆附件有限公司</td>
+<td class="shuju">山东省日照市五莲县于里镇驻地</td>
+<td class="shuju">262318</td>
+<td class="shuju">(0633)5413178</td>
+<td class="shuju">1925</td>
+<td class="shuju">49875</td>
+<td class="shuju">五征货厢总成8万台;江苏宗申.临沂大阳后桥总成6万台;五征消声器总成6万只</td>
+</tr>
+<tr><td class="zhibiao">昌乐亨斯特汽车零部件有限公司</td>
+<td class="shuju">山东省昌乐县鄌郚镇漳河产业园</td>
+<td class="shuju">262402</td>
+<td class="shuju">-</td>
+<td class="shuju">80</td>
+<td class="shuju">3320</td>
+<td class="shuju">汽车消声器总成26万只</td>
+</tr>
+<tr><td class="zhibiao">昌乐县杰尔特汽车消音器厂</td>
+<td class="shuju">山东省昌乐县鄌郚镇高崖村</td>
+<td class="shuju">262402</td>
+<td class="shuju">-</td>
+<td class="shuju">50</td>
+<td class="shuju">780</td>
+<td class="shuju">汽车消声器总成6万只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

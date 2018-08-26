@@ -1,0 +1,583 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">河南省2006年汽车行业部分企业概况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计/人</td>
+<td class="biaotou">主营业务收入/万元</td>
+<td class="biaotou">主要产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">郑州轻型汽车制造厂</td>
+<td class="shuju">郑州市中牟县西环南路6号</td>
+<td class="shuju">451450</td>
+<td class="shuju">(0371)62195777</td>
+<td class="shuju">604</td>
+<td class="shuju">18592</td>
+<td class="shuju">改装ZQ6481轻型客车87辆;宇通客车车架总成1309台</td>
+</tr>
+<tr><td class="zhibiao">郑州日产汽车有限公司</td>
+<td class="shuju">郑州市中牟县建设南路111号</td>
+<td class="shuju">451450</td>
+<td class="shuju">(0371)62161939</td>
+<td class="shuju">2398</td>
+<td class="shuju">329407</td>
+<td class="shuju">货车24498辆;PALADIN四轮驱动运动型多功能车4327辆;PALADIN二轮驱动运动型多功能车3467辆</td>
+</tr>
+<tr><td class="zhibiao">郑州景瑞汽车板簧有限公司</td>
+<td class="shuju">郑州市中牟县白沙镇工业园区36号</td>
+<td class="shuju">451464</td>
+<td class="shuju">(0371)62360613</td>
+<td class="shuju">59</td>
+<td class="shuju">1332</td>
+<td class="shuju">华骏.盛达.扬州通华半挂车.江淮汽车等钢板弹簧总成26114架</td>
+</tr>
+<tr><td class="zhibiao">猛狮客车有限公司</td>
+<td class="shuju">郑州市国家经济技术开发区第八大街69号</td>
+<td class="shuju">450016</td>
+<td class="shuju">(0371)66785609</td>
+<td class="shuju">207</td>
+<td class="shuju">7827</td>
+<td class="shuju">LBCA55.LBC6120.LBC6100.LBC6101等客车非完整车辆124辆</td>
+</tr>
+<tr><td class="zhibiao">郑州宏达汽车工业有限公司</td>
+<td class="shuju">郑州市惠济区古荥镇</td>
+<td class="shuju">450043</td>
+<td class="shuju">(0371)63592999</td>
+<td class="shuju">160</td>
+<td class="shuju">11135</td>
+<td class="shuju">改装YC5200仓栅式汽车626辆;改装JYC5120XXY厢式运输车426辆;改装JYC9280XXY重型半挂车150辆</td>
+</tr>
+<tr><td class="zhibiao">郑州拖拉机厂车轮分厂</td>
+<td class="shuju">郑州市南阳路183号</td>
+<td class="shuju">450053</td>
+<td class="shuju">(0371)63722127</td>
+<td class="shuju">77</td>
+<td class="shuju">793</td>
+<td class="shuju">CH.华阳微客等钢圈总成174170只</td>
+</tr>
+<tr><td class="zhibiao">郑州宇通客车股份有限公司</td>
+<td class="shuju">郑州市十八里河工业园</td>
+<td class="shuju">450016</td>
+<td class="shuju">(0371)66806113</td>
+<td class="shuju">6140</td>
+<td class="shuju">567959</td>
+<td class="shuju">客车13323辆</td>
+</tr>
+<tr><td class="zhibiao">河南少林汽车股份有限公司</td>
+<td class="shuju">河南省荥阳市京城路南段001号</td>
+<td class="shuju">450100</td>
+<td class="shuju">(0371)64618210</td>
+<td class="shuju">2238</td>
+<td class="shuju">106838</td>
+<td class="shuju">改装SLG6608CG等轻型客车6368辆;改装SLG6751.SLG6821等中型客车3012辆</td>
+</tr>
+<tr><td class="zhibiao">郑州红宇专用汽车有限责任公司</td>
+<td class="shuju">郑州市中牟县建设南路32号</td>
+<td class="shuju">451450</td>
+<td class="shuju">(0371)62169445</td>
+<td class="shuju">351</td>
+<td class="shuju">25068</td>
+<td class="shuju">改装厢式运输车1283辆;改装爆破器材运输车877辆;改装冷藏车319辆</td>
+</tr>
+<tr><td class="zhibiao">郑州跃博汽车电器有限公司</td>
+<td class="shuju">河南省登封市市区东十里铺村北</td>
+<td class="shuju">452470</td>
+<td class="shuju">(0371)62800800</td>
+<td class="shuju">426</td>
+<td class="shuju">5841</td>
+<td class="shuju">宇通.少林客车汽车线束20370套;江铃.长城.BYD.双环等各种汽车锁4.58万只;宇通.厦门金龙.少林.重庆恒通中央控制器13210件</td>
+</tr>
+<tr><td class="zhibiao">新乡专用汽车厂</td>
+<td class="shuju">河南省新乡市解放大道118号</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)2827008</td>
+<td class="shuju">311</td>
+<td class="shuju">15320</td>
+<td class="shuju">改装散装水泥车600辆</td>
+</tr>
+<tr><td class="zhibiao">新乡市卓威电源有限责任公司</td>
+<td class="shuju">河南省新乡市牧野工业集约发展区北环路2号</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)5830686</td>
+<td class="shuju">220</td>
+<td class="shuju">10580</td>
+<td class="shuju">轻型汽车.低速货车蓄电池50万kVAh</td>
+</tr>
+<tr><td class="zhibiao">河南新乡三利机械股份有限公司</td>
+<td class="shuju">河南省新乡市宏力大道552号</td>
+<td class="shuju">453002</td>
+<td class="shuju">(0373)2167250</td>
+<td class="shuju">356</td>
+<td class="shuju">3143</td>
+<td class="shuju">FOTON散热器总成4560只;FOTON油箱3680只;FOTON传感器0.09万只</td>
+</tr>
+<tr><td class="zhibiao">豫北机械厂(新乡)</td>
+<td class="shuju">河南省新乡市和平路322号</td>
+<td class="shuju">453003</td>
+<td class="shuju">(0373)5088737</td>
+<td class="shuju">1454</td>
+<td class="shuju">37745</td>
+<td class="shuju">JAC.江铃NKR.长城.东风日产.凯美瑞.出口转向机总成70万台;JAC.江铃NKR.长城.东风日产.凯美瑞.出口转向助力器70万只</td>
+</tr>
+<tr><td class="zhibiao">河南新飞专用汽车有限责任公司</td>
+<td class="shuju">河南省新乡市开发区新一街</td>
+<td class="shuju">453003</td>
+<td class="shuju">(0373)5119801</td>
+<td class="shuju">680</td>
+<td class="shuju">21186</td>
+<td class="shuju">改装罐式汽车405辆;改装重型载货车554辆;改装保温车328辆</td>
+</tr>
+<tr><td class="zhibiao">豫新汽车空调股份有限公司</td>
+<td class="shuju">河南省新乡市建设中路168号</td>
+<td class="shuju">453049</td>
+<td class="shuju">(0373)3862912</td>
+<td class="shuju">2027</td>
+<td class="shuju">57471</td>
+<td class="shuju">CH.HFJ.NJ.EQ.宇通等空调装置185901台;神龙.SQR空调冷凝器261214台;神龙.SQR空调蒸发器111949台</td>
+</tr>
+<tr><td class="zhibiao">新乡航空工业(集团)有限公司</td>
+<td class="shuju">河南省新乡市建设中路168号</td>
+<td class="shuju">453049</td>
+<td class="shuju">(0373)3862212</td>
+<td class="shuju">8159</td>
+<td class="shuju">149092</td>
+<td class="shuju">NJ.YC.NISSAN机油滤清器634万只;NJ柴油滤清器106万只;NISSAN.TOYOTA.JAC.NKR等转向助力器76万只</td>
+</tr>
+<tr><td class="zhibiao">河南万向系统制动器有限公司</td>
+<td class="shuju">河南省原阳县城关镇府君庙街15号</td>
+<td class="shuju">453500</td>
+<td class="shuju">(0373)7282033</td>
+<td class="shuju">1226</td>
+<td class="shuju">28011</td>
+<td class="shuju">SC1010.SC6350.福田BJ1040.BJ1025等鼓式制动器总成39.21万台;SC6350盘式制动器总成11.32万台</td>
+</tr>
+<tr><td class="zhibiao">辉县市汽车配件有限责任公司</td>
+<td class="shuju">河南省辉县市西环路158号</td>
+<td class="shuju">453600</td>
+<td class="shuju">(0373)6232588</td>
+<td class="shuju">1700</td>
+<td class="shuju">14592</td>
+<td class="shuju">CA.EQ.红岩等后桥壳4286只;马自达6转向节7.5万只</td>
+</tr>
+<tr><td class="zhibiao">河南省新乡市荣泰锁业有限责任公司</td>
+<td class="shuju">河南省新乡市和平路南段(新原路10公里处)</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)3512992</td>
+<td class="shuju">162</td>
+<td class="shuju">1209</td>
+<td class="shuju">HFJ.东风渝安.SC等汽车锁516万只</td>
+</tr>
+<tr><td class="zhibiao">河南平和滤清器有限公司</td>
+<td class="shuju">河南省新乡市化工路484号</td>
+<td class="shuju">453700</td>
+<td class="shuju">(0373)5066402</td>
+<td class="shuju">239</td>
+<td class="shuju">4775</td>
+<td class="shuju">4G1.长安铃木.DA465.DA468等机油滤清器5151290只;4G1.长安铃木.DA465.DA468等空气滤清器24万只</td>
+</tr>
+<tr><td class="zhibiao">中车汽修集团焦作七四四七工厂</td>
+<td class="shuju">河南省焦作市解放区太行路28号</td>
+<td class="shuju">454000</td>
+<td class="shuju">(0391)2931005</td>
+<td class="shuju">349</td>
+<td class="shuju">1156</td>
+<td class="shuju">CA1092.BJ2020SJ.BJ2021.猎豹等消声器总成1770只</td>
+</tr>
+<tr><td class="zhibiao">焦作制动器股份有限公司</td>
+<td class="shuju">河南省焦作市环城北路1号</td>
+<td class="shuju">454000</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">货车.客车ABS系统0.6万套</td>
+</tr>
+<tr><td class="zhibiao">焦作平光开元汽车部件有限公司</td>
+<td class="shuju">河南省焦作市工业路1号</td>
+<td class="shuju">454001</td>
+<td class="shuju">(0391)2609135</td>
+<td class="shuju">30</td>
+<td class="shuju">302</td>
+<td class="shuju">奥拓.羚羊.福莱尔.SQR等后视镜5.60万只;奥拓.羚羊.SQR内视镜3.63万只;福莱尔电动后视镜0.31万只</td>
+</tr>
+<tr><td class="zhibiao">风神轮胎股份有限公司</td>
+<td class="shuju">河南省焦作市焦东南路48号</td>
+<td class="shuju">454003</td>
+<td class="shuju">(0391)3999011</td>
+<td class="shuju">5047</td>
+<td class="shuju">501584</td>
+<td class="shuju">汽车轮胎外胎443.47万条</td>
+</tr>
+<tr><td class="zhibiao">河南中轴集团有限公司</td>
+<td class="shuju">河南省焦作市山阳区建设东路137号</td>
+<td class="shuju">454003</td>
+<td class="shuju">(0391)3901717</td>
+<td class="shuju">2656</td>
+<td class="shuju">81572</td>
+<td class="shuju">潍柴凸轮轴60.28万根;杭发半轴97.69万根;潍柴等气缸套50.74万只</td>
+</tr>
+<tr><td class="zhibiao">河南省天阳铝合金车轮有限公司</td>
+<td class="shuju">河南省温县新洛路中段</td>
+<td class="shuju">454850</td>
+<td class="shuju">(0391)3821010</td>
+<td class="shuju">460</td>
+<td class="shuju">11988</td>
+<td class="shuju">BYD.JL.日产等铝车轮总成40万只;大阳.大运.新大洋.海兰德摩托车铝车轮总成46万只</td>
+</tr>
+<tr><td class="zhibiao">河南省安阳县红旗汽车配件有限责任公司</td>
+<td class="shuju">河南省安阳县水冶镇西环城桥北路2号</td>
+<td class="shuju">455133</td>
+<td class="shuju">(0372)5886934</td>
+<td class="shuju">145</td>
+<td class="shuju">1152</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">河南省汤阴县华兴机械制造有限公司</td>
+<td class="shuju">河南省汤阴县宜沟镇车站路</td>
+<td class="shuju">456174</td>
+<td class="shuju">(0372)6373137</td>
+<td class="shuju">745</td>
+<td class="shuju">6672</td>
+<td class="shuju">重.中型货车.半挂车制动鼓18.84万只;重.中型货车.半挂车轮毂21.73万只</td>
+</tr>
+<tr><td class="zhibiao">林州市合鑫集团园通铸业有限公司</td>
+<td class="shuju">河南省林州市桂林镇</td>
+<td class="shuju">456581</td>
+<td class="shuju">(0372)6761914</td>
+<td class="shuju">600</td>
+<td class="shuju">11354</td>
+<td class="shuju">CA.山东汽改轮毂195870只;CA.EQ差速器壳387610只;CA.EQ减速器壳256640只</td>
+</tr>
+<tr><td class="zhibiao">安阳市汽车零部件有限公司</td>
+<td class="shuju">河南省林州市姚村镇史家河工业区</td>
+<td class="shuju">456592</td>
+<td class="shuju">(0372)6522031</td>
+<td class="shuju">2200</td>
+<td class="shuju">85409</td>
+<td class="shuju">FOTON.南骏.徐工后桥总成6万台;FOTON.南骏.徐工前桥总成5万台</td>
+</tr>
+<tr><td class="zhibiao">中油特种车辆有限公司</td>
+<td class="shuju">河南省濮阳市大庆路南段12号</td>
+<td class="shuju">457001</td>
+<td class="shuju">(0393)4754692</td>
+<td class="shuju">889</td>
+<td class="shuju">33250</td>
+<td class="shuju">改装ZYT9150TYA.ZYT5090TYA中型半挂车54辆;改装ZYT5141TXL.ZYT5151TXL.ZYT5201TXL等洗井清蜡车48辆;改装ZYT5250GXH等下灰车41辆</td>
+</tr>
+<tr><td class="zhibiao">鹤壁新飞无线电四厂有限公司</td>
+<td class="shuju">河南省鹤壁市山城区汤河街15号</td>
+<td class="shuju">458000</td>
+<td class="shuju">(0392)2698160</td>
+<td class="shuju">755</td>
+<td class="shuju">16265</td>
+<td class="shuju">改装通讯车193辆</td>
+</tr>
+<tr><td class="zhibiao">河南天海电器有限公司</td>
+<td class="shuju">河南省鹤壁市淇滨区淇滨大道215号</td>
+<td class="shuju">458030</td>
+<td class="shuju">(0392)3314522</td>
+<td class="shuju">1416</td>
+<td class="shuju">33561</td>
+<td class="shuju">CA.EQ接插件92131万副;SQR.BYD.出口汽车线束305万套</td>
+</tr>
+<tr><td class="zhibiao">许昌远东传动轴有限公司</td>
+<td class="shuju">河南省许昌市北郊尚集镇</td>
+<td class="shuju">461111</td>
+<td class="shuju">(0374)5651330</td>
+<td class="shuju">1039</td>
+<td class="shuju">62636</td>
+<td class="shuju">汽车传动轴167万只</td>
+</tr>
+<tr><td class="zhibiao">河南须河车辆有限公司</td>
+<td class="shuju">河南省长葛市科技工业园区</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6221199</td>
+<td class="shuju">126</td>
+<td class="shuju">4092</td>
+<td class="shuju">改装HXC5150XWT.HXC5070XCK等厢式汽车69辆;货厢总成299台;改装HXC5242XYK.HXC5160XYK.HXC5200XYK翼开启厢式车85辆</td>
+</tr>
+<tr><td class="zhibiao">河南奔马股份有限公司</td>
+<td class="shuju">河南省长葛市人民路北段</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6108183</td>
+<td class="shuju">1820</td>
+<td class="shuju">125907</td>
+<td class="shuju">低速货车</td>
+</tr>
+<tr><td class="zhibiao">驻马店中集华骏车辆有限公司</td>
+<td class="shuju">河南省驻马店市雪松路中段736号</td>
+<td class="shuju">463000</td>
+<td class="shuju">(0396)2914384</td>
+<td class="shuju">3485</td>
+<td class="shuju">128701</td>
+<td class="shuju">改装重型自卸汽车4672辆;改装超重型半挂车8778辆;改装重型半挂车975辆</td>
+</tr>
+<tr><td class="zhibiao">河南航天车辆厂</td>
+<td class="shuju">河南省信阳市北京路187号</td>
+<td class="shuju">464000</td>
+<td class="shuju">(0376)6320016</td>
+<td class="shuju">562</td>
+<td class="shuju">7201</td>
+<td class="shuju">改装50kW工频.50kW中频.100kW.400kW.C300电源车44辆;改装厢式汽车41辆;货厢总成25台</td>
+</tr>
+<tr><td class="zhibiao">信阳银光机械有限责任公司</td>
+<td class="shuju">河南省信阳市胜利路129号</td>
+<td class="shuju">464000</td>
+<td class="shuju">(0376)6597320</td>
+<td class="shuju">446</td>
+<td class="shuju">4262</td>
+<td class="shuju">CA.HONDA.4G6.神龙.朝柴.出口等活塞销430万只</td>
+</tr>
+<tr><td class="zhibiao">河南华辰光电有限公司</td>
+<td class="shuju">河南省信阳市华夏路165号</td>
+<td class="shuju">464000</td>
+<td class="shuju">(0376)6608171</td>
+<td class="shuju">299</td>
+<td class="shuju">2067</td>
+<td class="shuju">C100摩托车离合器总成240262台</td>
+</tr>
+<tr><td class="zhibiao">平顶山隆鑫三轮摩托车有限公司</td>
+<td class="shuju">河南省平顶山市叶县迎宾大道北段</td>
+<td class="shuju">467200</td>
+<td class="shuju">(0375)8093994</td>
+<td class="shuju">620</td>
+<td class="shuju">9424</td>
+<td class="shuju">LX110ZK.LX150ZH等三轮摩托车38897辆</td>
+</tr>
+<tr><td class="zhibiao">中国建筑二局洛阳建筑工程机械厂</td>
+<td class="shuju">河南省洛阳市西工区邙岭路35号</td>
+<td class="shuju">471001</td>
+<td class="shuju">(0379)62303006</td>
+<td class="shuju">370</td>
+<td class="shuju">4535</td>
+<td class="shuju">改装JGC5170GJB.JGC5251GJB等混凝土搅拌运输车75辆;改装JGC5050TSL扫路车10辆;改装JGC5040XGC工程车5辆</td>
+</tr>
+<tr><td class="zhibiao">洛阳推达软轴控制件有限公司</td>
+<td class="shuju">河南省洛阳市九都路立交桥东300米</td>
+<td class="shuju">471002</td>
+<td class="shuju">(0379)63968422</td>
+<td class="shuju">134</td>
+<td class="shuju">568</td>
+<td class="shuju">汽车仪表用软轴软管11.16万根</td>
+</tr>
+<tr><td class="zhibiao">洛玻集团洛阳加工玻璃有限公司</td>
+<td class="shuju">河南省洛阳市高新技术开发区卓飞路</td>
+<td class="shuju">471003</td>
+<td class="shuju">(0379)64333027</td>
+<td class="shuju">617</td>
+<td class="shuju">1168</td>
+<td class="shuju">EQ.IVECO汽车玻璃18.47万平方米</td>
+</tr>
+<tr><td class="zhibiao">中国一拖集团有限公司</td>
+<td class="shuju">河南省洛阳市涧西区建设路154号</td>
+<td class="shuju">471004</td>
+<td class="shuju">(0379)64968909</td>
+<td class="shuju">25307</td>
+<td class="shuju">1026183</td>
+<td class="shuju">货车18206辆;货车非完整车辆407辆;半挂牵引车165辆</td>
+</tr>
+<tr><td class="zhibiao">洛阳市金长利车辆配件有限公司</td>
+<td class="shuju">河南省洛阳市洛龙区白马寺镇拦沟村</td>
+<td class="shuju">471013</td>
+<td class="shuju">(0379)63658559</td>
+<td class="shuju">35</td>
+<td class="shuju">270</td>
+<td class="shuju">汽车钢圈总成11160只</td>
+</tr>
+<tr><td class="zhibiao">洛阳北方易初摩托车有限公司</td>
+<td class="shuju">河南省洛阳市涧西区</td>
+<td class="shuju">471031</td>
+<td class="shuju">(0379)65118252</td>
+<td class="shuju">4059</td>
+<td class="shuju">182482</td>
+<td class="shuju">125.100.110.150二轮普通摩托车635489辆;50-250三轮摩托车7.48万辆;50二轮轻便摩托车48641辆</td>
+</tr>
+<tr><td class="zhibiao">洛阳北方企业集团有限公司</td>
+<td class="shuju">河南省洛阳市高新开发区徐家营</td>
+<td class="shuju">471031</td>
+<td class="shuju">(0379)65111894</td>
+<td class="shuju">4069</td>
+<td class="shuju">133151</td>
+<td class="shuju">125.110.100.90等二轮普通摩托车957042辆;50-125三轮摩托车130175辆;50二轮轻便摩托车53269辆</td>
+</tr>
+<tr><td class="zhibiao">洛阳LYC轴承有限公司</td>
+<td class="shuju">河南省洛阳市涧西区建设路96号</td>
+<td class="shuju">471039</td>
+<td class="shuju">(0379)64986218</td>
+<td class="shuju">8759</td>
+<td class="shuju">147395</td>
+<td class="shuju">SGM等汽车轴承1185万套</td>
+</tr>
+<tr><td class="zhibiao">三门峡戴卡轮毂制造有限公司</td>
+<td class="shuju">河南省三门峡市湖滨区东风南路10号</td>
+<td class="shuju">472000</td>
+<td class="shuju">(0398)2916771</td>
+<td class="shuju">1600</td>
+<td class="shuju">47106</td>
+<td class="shuju">SGM.华泰.出口等铝车轮总成1759892只</td>
+</tr>
+<tr><td class="zhibiao">河南中光学集团有限公司</td>
+<td class="shuju">河南省南阳市工业路508号</td>
+<td class="shuju">473003</td>
+<td class="shuju">(0377)63866508</td>
+<td class="shuju">5370</td>
+<td class="shuju">67954</td>
+<td class="shuju">改装混凝土搅拌运输车59辆</td>
+</tr>
+<tr><td class="zhibiao">南阳二机石油装备(集团)有限公司</td>
+<td class="shuju">河南省南阳市中州西路869号</td>
+<td class="shuju">473006</td>
+<td class="shuju">(0377)63577321</td>
+<td class="shuju">1768</td>
+<td class="shuju">81123</td>
+<td class="shuju">改装钻机车45辆;改装修井机77辆;改装特种结构汽车34辆</td>
+</tr>
+<tr><td class="zhibiao">河南川光金达实业公司</td>
+<td class="shuju">河南省南阳市北京路1218号</td>
+<td class="shuju">473006</td>
+<td class="shuju">(0377)63873578</td>
+<td class="shuju">235</td>
+<td class="shuju">8306</td>
+<td class="shuju">改装散装水泥车133辆;改装混凝土搅拌运输车105辆;改装厢式运输车36辆</td>
+</tr>
+<tr><td class="zhibiao">河南北方星光机电有限责任公司</td>
+<td class="shuju">河南省邓州市古城路001号</td>
+<td class="shuju">474150</td>
+<td class="shuju">(0377)62286490</td>
+<td class="shuju">836</td>
+<td class="shuju">14497</td>
+<td class="shuju">EQ.BYD.神龙.江铃.SC.捷达.CA等汽车锁272万只</td>
+</tr>
+<tr><td class="zhibiao">南阳天一密封制品有限公司</td>
+<td class="shuju">河南省内乡县建设路47号</td>
+<td class="shuju">474350</td>
+<td class="shuju">(0377)66039116</td>
+<td class="shuju">312</td>
+<td class="shuju">1072</td>
+<td class="shuju">EQ1141.DA462等汽车密封件</td>
+</tr>
+<tr><td class="zhibiao">河南金冠汽车减振器有限公司淅川汽车减振器厂</td>
+<td class="shuju">河南省淅川县城关镇老街76号</td>
+<td class="shuju">474450</td>
+<td class="shuju">(0377)69219800</td>
+<td class="shuju">1431</td>
+<td class="shuju">26048</td>
+<td class="shuju">SQR.BYD.YUTONG等减振器总成265万只</td>
+</tr>
+<tr><td class="zhibiao">河南省西峡汽车水泵股份有限公司</td>
+<td class="shuju">河南省西峡县东环路工业园区</td>
+<td class="shuju">474500</td>
+<td class="shuju">(0377)4662240</td>
+<td class="shuju">-</td>
+<td class="shuju">34293</td>
+<td class="shuju">JETTA.STN.SQR.YC水泵总成220万只;JETTA.STN.潍柴进排气歧管140万只</td>
+</tr>
+<tr><td class="zhibiao">南召县兴隆汽车配件有限责任公司</td>
+<td class="shuju">河南省南召县城关镇影院街14号</td>
+<td class="shuju">474650</td>
+<td class="shuju">(0377)66912296</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">EQ.北方奔驰半轴10.4万根;汽车转向管柱0.3万只</td>
+</tr>
+<tr><td class="zhibiao">河南英威东风机械制造有限公司</td>
+<td class="shuju">河南省南阳市北环路68号</td>
+<td class="shuju">473000</td>
+<td class="shuju">(0377)66652623</td>
+<td class="shuju">1188</td>
+<td class="shuju">14332</td>
+<td class="shuju">EQ1141.中国重汽.江淮半轴套管790772只</td>
+</tr>
+<tr><td class="zhibiao">河南红宇机械厂(国营第五一O四厂)</td>
+<td class="shuju">河南省南召县留山镇</td>
+<td class="shuju">474675</td>
+<td class="shuju">(0377)66681524</td>
+<td class="shuju">450</td>
+<td class="shuju">25068</td>
+<td class="shuju">改装厢式运输车1283辆;改装爆破器材运输车877辆;改装冷藏车319辆</td>
+</tr>
+<tr><td class="zhibiao">河南向东车桥有限公司</td>
+<td class="shuju">河南省南召县云阳镇102信箱</td>
+<td class="shuju">474677</td>
+<td class="shuju">(0377)66601194</td>
+<td class="shuju">637</td>
+<td class="shuju">5088</td>
+<td class="shuju">EQ1032.EQ1044前桥总成2288台;FOTON轻货后桥总成3499台</td>
+</tr>
+<tr><td class="zhibiao">河南向东机械厂</td>
+<td class="shuju">河南省南召县云阳镇</td>
+<td class="shuju">474677</td>
+<td class="shuju">(0377)66601384</td>
+<td class="shuju">3720</td>
+<td class="shuju">11569</td>
+<td class="shuju">FOTON轻货后桥总成3499台;EQ轻货前桥总成2288台</td>
+</tr>
+<tr><td class="zhibiao">开封市政工程机械厂</td>
+<td class="shuju">河南省开封市滨河路东段29号</td>
+<td class="shuju">475002</td>
+<td class="shuju">(0378)2926090</td>
+<td class="shuju">188</td>
+<td class="shuju">728</td>
+<td class="shuju">改装KF5101GSS.KF5100GSS5.KF5140GSS8洒水车27辆;改装KF5101GLQ.KF5040GLQ沥青洒布车28辆;改装KF5100ZLJ自卸式垃圾车6辆</td>
+</tr>
+<tr><td class="zhibiao">开封市朝阳汽车配件有限公司</td>
+<td class="shuju">河南省开封市顺河区滨河路东段</td>
+<td class="shuju">475002</td>
+<td class="shuju">(0378)2923632</td>
+<td class="shuju">590</td>
+<td class="shuju">3734</td>
+<td class="shuju">汽车制动鼓97547只;中国重汽.出口轮毂80439只</td>
+</tr>
+<tr><td class="zhibiao">商丘市宇畅挂车制造有限公司</td>
+<td class="shuju">河南省商丘市北海路999号</td>
+<td class="shuju">476000</td>
+<td class="shuju">(0370)2930009</td>
+<td class="shuju">246</td>
+<td class="shuju">5760</td>
+<td class="shuju">改装YCH9360TDP.YCH9390TDP.YCH9400等超重型半挂车523辆;改装YCH9281.YCH9281XXY等重型半挂车364辆;富华.宝华货厢总成11台</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2007》</div>
+</div>
+</body>
+</html>

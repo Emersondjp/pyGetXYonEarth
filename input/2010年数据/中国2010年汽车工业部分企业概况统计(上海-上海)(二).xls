@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(上海-上海)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">上海永佳工业车辆有限公司</td>
+<td class="shuju">上海市闵行区七宝镇华林路1号</td>
+<td class="shuju">201101</td>
+<td class="shuju">(021)64797128</td>
+<td class="shuju">53</td>
+<td class="shuju">2509</td>
+<td class="shuju">汽车轴承1.48万套</td>
+</tr>
+<tr><td class="zhibiao">迪克斯汽车电器(上海)有限公司</td>
+<td class="shuju">上海市顾六路878弄98号</td>
+<td class="shuju">201102</td>
+<td class="shuju">(021)54803535</td>
+<td class="shuju">158</td>
+<td class="shuju">7618</td>
+<td class="shuju">上柴.常柴起动机10万台;上柴.常柴发电机3万台</td>
+</tr>
+<tr><td class="zhibiao">上海黄河仪器仪表厂有限公司</td>
+<td class="shuju">上海市闵行区宜山路1718号</td>
+<td class="shuju">201103</td>
+<td class="shuju">(021)64461557</td>
+<td class="shuju">55</td>
+<td class="shuju">2153</td>
+<td class="shuju">柳工仪表板总成2.5万只;柴汽车单表20万只上柴开关3万只</td>
+</tr>
+<tr><td class="zhibiao">上海尚分仪器仪表有限公司</td>
+<td class="shuju">上海市闵行区宜山路1718号</td>
+<td class="shuju">201103</td>
+<td class="shuju">(021)64462197</td>
+<td class="shuju">42</td>
+<td class="shuju">859</td>
+<td class="shuju">上柴感应塞21.90万只</td>
+</tr>
+<tr><td class="zhibiao">上海正尧电子有限公司</td>
+<td class="shuju">上海市闵行区吴中路552号</td>
+<td class="shuju">201103</td>
+<td class="shuju">(021)54773650</td>
+<td class="shuju">35</td>
+<td class="shuju">1113</td>
+<td class="shuju">出口蜂鸣器.报警器16万只</td>
+</tr>
+<tr><td class="zhibiao">上海五友汽车零部件有限公司</td>
+<td class="shuju">上海市闵行区纪展路177号</td>
+<td class="shuju">201107</td>
+<td class="shuju">(021)62969858</td>
+<td class="shuju">103</td>
+<td class="shuju">4163</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">空调国际(上海)有限公司</td>
+<td class="shuju">上海市闵行区莘庄工业区春光路108号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)54422590</td>
+<td class="shuju">467</td>
+<td class="shuju">22894</td>
+<td class="shuju">汽车空调装置</td>
+</tr>
+<tr><td class="zhibiao">上海申沃客车有限公司</td>
+<td class="shuju">上海市光中路18号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)24160131</td>
+<td class="shuju">913</td>
+<td class="shuju">174924</td>
+<td class="shuju">客车3099辆</td>
+</tr>
+<tr><td class="zhibiao">上海汇众萨克斯减振器有限公司</td>
+<td class="shuju">上海市莘庄工业区申旺路280号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)51795188</td>
+<td class="shuju">787</td>
+<td class="shuju">83561</td>
+<td class="shuju">汽车减振器总成723万只</td>
+</tr>
+<tr><td class="zhibiao">上海沪豪汽车零部件有限公司</td>
+<td class="shuju">上海市闵行区元汇路3883号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)64901122</td>
+<td class="shuju">250</td>
+<td class="shuju">7195</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">伟巴斯特车顶供暖系统(上海)有限公司</td>
+<td class="shuju">上海市闵行区银都路466弄33号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)33577321</td>
+<td class="shuju">578</td>
+<td class="shuju">117873</td>
+<td class="shuju">SGM.SVW.DPCA.FORD电动天窗727343套</td>
+</tr>
+<tr><td class="zhibiao">福伊特驱动技术系统(上海)有限公司</td>
+<td class="shuju">上海市闵行区莘庄工业区华锦路265号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)24087674</td>
+<td class="shuju">200</td>
+<td class="shuju">31330</td>
+<td class="shuju">宇通.中通.XMQ.西沃缓速器766套;中通.黄海.青年自动变速器总成665台;安凯后桥总成50台</td>
+</tr>
+<tr><td class="zhibiao">上海兴谊客车附件有限公司</td>
+<td class="shuju">上海市闵行区沪闵路3937号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)54423022</td>
+<td class="shuju">28</td>
+<td class="shuju">853</td>
+<td class="shuju">客车横梁配件</td>
+</tr>
+<tr><td class="zhibiao">上海阔步实业有限公司</td>
+<td class="shuju">上海市闵行区光中路18号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)24160266</td>
+<td class="shuju">57</td>
+<td class="shuju">1880</td>
+<td class="shuju">申沃随车工具17063套;申沃汽车线束7659套</td>
+</tr>
+<tr><td class="zhibiao">瑞拓电气(上海)有限公司</td>
+<td class="shuju">上海市闵行区莘庄工业区光华路1258号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)64892477</td>
+<td class="shuju">420</td>
+<td class="shuju">22081</td>
+<td class="shuju">汽车线束1520万套</td>
+</tr>
+<tr><td class="zhibiao">上海金旅汽车配件有限公司</td>
+<td class="shuju">上海市闵行区莘庄工业园华方路2898号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)34099173</td>
+<td class="shuju">158</td>
+<td class="shuju">17202</td>
+<td class="shuju">车架;线束;座椅;橡塑产品</td>
+</tr>
+<tr><td class="zhibiao">雅泛迪铝业(上海)有限公司</td>
+<td class="shuju">上海市闵行区莘庄工业区申富路611号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)64896655</td>
+<td class="shuju">70</td>
+<td class="shuju">1851</td>
+<td class="shuju">汽车铝车轮总成33731只</td>
+</tr>
+<tr><td class="zhibiao">斯杲特机械零部件(上海)有限公司</td>
+<td class="shuju">上海巿闵行区景联路189号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)64340740</td>
+<td class="shuju">22</td>
+<td class="shuju">1261</td>
+<td class="shuju">丰田.本田汽车线束10.8万套</td>
+</tr>
+<tr><td class="zhibiao">爱克赛路科技(上海)有限公司</td>
+<td class="shuju">上海市闵行区曹建路151号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)64345858</td>
+<td class="shuju">69</td>
+<td class="shuju">2774</td>
+<td class="shuju">减振套.汽车球头2800万个</td>
+</tr>
+<tr><td class="zhibiao">上海臼井发动机零部件有限公司</td>
+<td class="shuju">上海巿闵行区莘庄工业区申富路1188号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)54832288</td>
+<td class="shuju">137</td>
+<td class="shuju">17133</td>
+<td class="shuju">汽车高压油管1660300根</td>
+</tr>
+<tr><td class="zhibiao">友发铝业(上海)有限公司</td>
+<td class="shuju">上海市闵行区莘庄工业区申富路611号</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)64896655</td>
+<td class="shuju">602</td>
+<td class="shuju">23632</td>
+<td class="shuju">出口轮毂921352只</td>
+</tr>
+<tr><td class="zhibiao">上海申龙客车有限公司</td>
+<td class="shuju">上海市闵行区华宁路2898号A区</td>
+<td class="shuju">201108</td>
+<td class="shuju">(021)34099000</td>
+<td class="shuju">835</td>
+<td class="shuju">83717</td>
+<td class="shuju">改装SLK6891UF1G3等中型客车1882辆;改装SLK6128F53W等大型客车930辆;改装SLK6702等轻型客车162辆</td>
+</tr>
+<tr><td class="zhibiao">喷达汽车精密部件(上海)有限公司</td>
+<td class="shuju">上海市莘庄工业区频蒙工业小区瓶安路1288号3号厂房</td>
+<td class="shuju">201109</td>
+<td class="shuju">(021)54468500</td>
+<td class="shuju">83</td>
+<td class="shuju">9508</td>
+<td class="shuju">活塞冷却喷嘴</td>
+</tr>
+<tr><td class="zhibiao">宝爱汽配(上海)有限公司</td>
+<td class="shuju">上海市闵行区沪闵路3068号</td>
+<td class="shuju">201109</td>
+<td class="shuju">(021)64903678</td>
+<td class="shuju">70</td>
+<td class="shuju">2057</td>
+<td class="shuju">汽车座套</td>
+</tr>
+<tr><td class="zhibiao">萨克斯汽车零部件系统(上海)有限公司</td>
+<td class="shuju">上海市闵行区元江路4440号</td>
+<td class="shuju">201111</td>
+<td class="shuju">(021)241699544</td>
+<td class="shuju">266</td>
+<td class="shuju">60171</td>
+<td class="shuju">汽车减振器总成1189477只;汽车离合器总成122518台;汽车飞轮总成65167只</td>
+</tr>
+<tr><td class="zhibiao">上海胜值汽车配件有限公司</td>
+<td class="shuju">上海市闵行区浦江镇元西村鲁南路201号</td>
+<td class="shuju">201112</td>
+<td class="shuju">(021)64917717</td>
+<td class="shuju">494</td>
+<td class="shuju">15025</td>
+<td class="shuju">汽车凸轮轴1800万根;汽车轮毂1650155只;汽车活塞1万只</td>
+</tr>
+<tr><td class="zhibiao">上海威克迈龙川汽车发动机零件有限公司</td>
+<td class="shuju">上海市闵行区浦江镇三鲁公路58号</td>
+<td class="shuju">201112</td>
+<td class="shuju">(021)64919716</td>
+<td class="shuju">362</td>
+<td class="shuju">31850</td>
+<td class="shuju">联合电子低压油管690万根;联合电子高压油管85万根</td>
+</tr>
+<tr><td class="zhibiao">上海荣乐汽车电子有限公司</td>
+<td class="shuju">上海市闵行区浦江镇联航路1188号7号楼1层G座</td>
+<td class="shuju">201112</td>
+<td class="shuju">(021)54326089</td>
+<td class="shuju">86</td>
+<td class="shuju">1155</td>
+<td class="shuju">力帆.斯柯达等微电机4.1万台;汽车开关500只</td>
+</tr>
+<tr><td class="zhibiao">上海机动车辆汽车配件有限公司车配八厂</td>
+<td class="shuju">上海市闵行区陈行公路1756弄156号</td>
+<td class="shuju">201114</td>
+<td class="shuju">(021)64292023</td>
+<td class="shuju">105</td>
+<td class="shuju">3098</td>
+<td class="shuju">汽车转向横直拉杆113.2万件</td>
+</tr>
+<tr><td class="zhibiao">上海沪光客车厂</td>
+<td class="shuju">上海市闵行区陈行公路3978号</td>
+<td class="shuju">201114</td>
+<td class="shuju">(021)64298520</td>
+<td class="shuju">118</td>
+<td class="shuju">3904</td>
+<td class="shuju">改装重型汽车779辆;改装斯太尔.东风.庆铃自卸式垃圾车73辆;改装超重型半挂车33辆</td>
+</tr>
+<tr><td class="zhibiao">上海沪光汽车配件有限公司</td>
+<td class="shuju">上海市闵行区陈行公路3978号</td>
+<td class="shuju">201114</td>
+<td class="shuju">(021)64298520</td>
+<td class="shuju">25</td>
+<td class="shuju">969</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">上海大郡动力控制技术有限公司</td>
+<td class="shuju">上海市闵行区浦江镇新骏环路188号1号楼3层</td>
+<td class="shuju">201114</td>
+<td class="shuju">(021)34978900</td>
+<td class="shuju">115</td>
+<td class="shuju">948</td>
+<td class="shuju">五洲龙.中通.长安中央控制器1100件</td>
+</tr>
+<tr><td class="zhibiao">上海星客特汽车销售有限公司</td>
+<td class="shuju">上海市闵行区浦江镇三鲁公路3585号8幢</td>
+<td class="shuju">201114</td>
+<td class="shuju">(021)34129550</td>
+<td class="shuju">73</td>
+<td class="shuju">27314</td>
+<td class="shuju">改装FOTON轻型客车370辆</td>
+</tr>
+<tr><td class="zhibiao">上海凯星汽配有限公司</td>
+<td class="shuju">上海市闵行区陈行公路1756弄156号</td>
+<td class="shuju">201114</td>
+<td class="shuju">(021)54338221</td>
+<td class="shuju">96</td>
+<td class="shuju">2210</td>
+<td class="shuju">桑塔纳冷却水泵</td>
+</tr>
+<tr><td class="zhibiao">上海马勒滤清系统有限责任公司</td>
+<td class="shuju">上海市奉贤工业综合开发区环城北路1199号</td>
+<td class="shuju">201200</td>
+<td class="shuju">(021)51360631</td>
+<td class="shuju">173</td>
+<td class="shuju">66102</td>
+<td class="shuju">东风日产.SVW.三星机油滤清器2149.1万只;FVW.五十铃.SGM.长安福特.东岳空气滤清器1836700只;LZW.SGM.JAC进排气歧管870800只</td>
+</tr>
+<tr><td class="zhibiao">上海通利厢车有限公司</td>
+<td class="shuju">上海市浦东合庆镇东川公路5095号</td>
+<td class="shuju">201201</td>
+<td class="shuju">(021)38970268</td>
+<td class="shuju">40</td>
+<td class="shuju">3045</td>
+<td class="shuju">改装厢式运输车348辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

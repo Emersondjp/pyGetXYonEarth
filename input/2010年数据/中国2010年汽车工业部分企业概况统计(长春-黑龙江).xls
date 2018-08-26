@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(长春-黑龙江)          </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">长春华翔轿车消声器有限责任公司</td>
+<td class="shuju">长春巿工业经济开发区育民路2088号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85011503</td>
+<td class="shuju">890</td>
+<td class="shuju">69104</td>
+<td class="shuju">汽车消声器</td>
+</tr>
+<tr><td class="zhibiao">长春佛吉亚排气系统有限公司</td>
+<td class="shuju">长春市工业经济开发区育民路2088号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85011365</td>
+<td class="shuju">407</td>
+<td class="shuju">163078</td>
+<td class="shuju">座椅.内饰.隔音.排气系统等</td>
+</tr>
+<tr><td class="zhibiao">长春市汇锋汽车齿轮有限责任公司</td>
+<td class="shuju">长春市经济技术开发区育民路888号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85011202</td>
+<td class="shuju">500</td>
+<td class="shuju">16449</td>
+<td class="shuju">齿轮</td>
+</tr>
+<tr><td class="zhibiao">长春东光集团有限公司</td>
+<td class="shuju">开春市高新区超然街2555号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0434)85158013</td>
+<td class="shuju">6143</td>
+<td class="shuju">422081</td>
+<td class="shuju">CA.FOTON.SQR等离合器总成256万台;FVW.SQR.现代等飞轮齿圈517万只;一轿.TJ.吉轻;解放车灯总成257万只</td>
+</tr>
+<tr><td class="zhibiao">长春英利汽车部件有限公司</td>
+<td class="shuju">长春市朝阳区育民路1199号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85022774</td>
+<td class="shuju">170</td>
+<td class="shuju">76226</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">吉林省佳成汽车零部件有限公司</td>
+<td class="shuju">长春巿朝阳工业开发区瑞鹏路2188号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85041918</td>
+<td class="shuju">690</td>
+<td class="shuju">37308</td>
+<td class="shuju">轿车行李箱内饰件</td>
+</tr>
+<tr><td class="zhibiao">长春市华维汽车零部件有限公司</td>
+<td class="shuju">长春市工业经济开发区育民路2488</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85025555</td>
+<td class="shuju">252</td>
+<td class="shuju">58938</td>
+<td class="shuju">冲压件;中.重型卡车车轮.刹车.底盘和传动系统</td>
+</tr>
+<tr><td class="zhibiao">天津矢崎汽车配件有限公司长春分公司</td>
+<td class="shuju">长春市工业经济开发区育民路5188号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85022509</td>
+<td class="shuju">1551</td>
+<td class="shuju">41000</td>
+<td class="shuju">汽车线束</td>
+</tr>
+<tr><td class="zhibiao">长春市富锋冲压件厂</td>
+<td class="shuju">长春市朝阳区经济开发区瑞鹏路2588号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85022509</td>
+<td class="shuju">390</td>
+<td class="shuju">17985</td>
+<td class="shuju">冲压件.隔热板</td>
+</tr>
+<tr><td class="zhibiao">长春市裕华汽车涂装有限公司</td>
+<td class="shuju">长春市朝阳区富锋镇铁东开发区7号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85023002</td>
+<td class="shuju">120</td>
+<td class="shuju">8327</td>
+<td class="shuju">装饰板.牌照板.手柄.底座等</td>
+</tr>
+<tr><td class="zhibiao">长春市长瑞汽车冲压件有限公司</td>
+<td class="shuju">长春巿朝阳区育民路588号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85011063</td>
+<td class="shuju">740</td>
+<td class="shuju">43976</td>
+<td class="shuju">汽车冲压件</td>
+</tr>
+<tr><td class="zhibiao">吉林瑞鹏集团有限公司</td>
+<td class="shuju">长春市朝阳区工业经济开发区瑞鹏路2588号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85025638</td>
+<td class="shuju">120</td>
+<td class="shuju">4440</td>
+<td class="shuju">一汽吉林.TJ.一汽哈尔滨轻型等暖风机12.3万台;一汽吉林.一汽轻型散热器总成5.9万只</td>
+</tr>
+<tr><td class="zhibiao">长春金马特种车有限公司</td>
+<td class="shuju">长春市超达路9138号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85021667</td>
+<td class="shuju">50</td>
+<td class="shuju">443</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">长春一汽备品汽车零部件有限公司</td>
+<td class="shuju">长春市高新工业技术开发区育民路1569号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85020385</td>
+<td class="shuju">120</td>
+<td class="shuju">5597</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">长春市吉发解放汽车零部件有限公司</td>
+<td class="shuju">长春市朝阳区富锋镇育民路4999号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85514777</td>
+<td class="shuju">108</td>
+<td class="shuju">4663</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">长春市振华汽车涂装有限公司</td>
+<td class="shuju">长春巿朝阳区富锋镇育民路3889号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85033659</td>
+<td class="shuju">300</td>
+<td class="shuju">15122</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">长春云顶汽车部件股份有限公司</td>
+<td class="shuju">长春市朝阳区经济开发区富锋镇育民路云顶街999号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)87058000</td>
+<td class="shuju">610</td>
+<td class="shuju">39282</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">长春市佳星汽车零部件有限责任公司</td>
+<td class="shuju">长春市朝阳经济开发区铁塔路1225号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)87011811</td>
+<td class="shuju">108</td>
+<td class="shuju">2538</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">吉林省纳资达汽车装备制造有限公司</td>
+<td class="shuju">长春巿朝阳经济开发区二期丙十九路</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85028009</td>
+<td class="shuju">160</td>
+<td class="shuju">1533</td>
+<td class="shuju">CA凸轮轴45300根;CA减速器壳1798只</td>
+</tr>
+<tr><td class="zhibiao">长春汇达汽车零部件制造有限公司</td>
+<td class="shuju">长春市朝阳区富锋镇双山村</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)86781605</td>
+<td class="shuju">32</td>
+<td class="shuju">1531</td>
+<td class="shuju">玻璃丝绵.钢丝棉.岩棉等</td>
+</tr>
+<tr><td class="zhibiao">长春柯迪装备技术有限公司</td>
+<td class="shuju">长春市工业经济开发区铁塔路333号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85026988</td>
+<td class="shuju">90</td>
+<td class="shuju">1940</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">吉林省凯达工贸有限公司</td>
+<td class="shuju">长春市六马架</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85025399</td>
+<td class="shuju">73</td>
+<td class="shuju">7541</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">本特勒长瑞汽车系统(长春)有限公司</td>
+<td class="shuju">长春市朝阳经济开发区育民路610号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)88785826</td>
+<td class="shuju">338</td>
+<td class="shuju">58025</td>
+<td class="shuju">汽车结构件和底盘件产品</td>
+</tr>
+<tr><td class="zhibiao">吉林省吉通汽车零部件有限责任公司</td>
+<td class="shuju">长春市朝阳经济开发区二期</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)86055886</td>
+<td class="shuju">80</td>
+<td class="shuju">2281</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">吉林省通用机械有限责任公司</td>
+<td class="shuju">长春市南关区净月大街1448号</td>
+<td class="shuju">130117</td>
+<td class="shuju">(0431)84513630</td>
+<td class="shuju">1000</td>
+<td class="shuju">46000</td>
+<td class="shuju">汽车轮毂200万只;改装重型汽车12辆</td>
+</tr>
+<tr><td class="zhibiao">吉林大华机械制造有限公司</td>
+<td class="shuju">吉林省长春市高新区超然街2555号</td>
+<td class="shuju">130300</td>
+<td class="shuju">(0431)85157815</td>
+<td class="shuju">1014</td>
+<td class="shuju">42220</td>
+<td class="shuju">FVW.SQR.沈阳三菱.北京现代等飞轮齿圈517万只</td>
+</tr>
+<tr><td class="zhibiao">佳木斯畅通汽车零部件有限公司</td>
+<td class="shuju">黑龙江省佳木斯市东风区光复路东段文明巷1号</td>
+<td class="shuju">154005</td>
+<td class="shuju">(0454)808331</td>
+<td class="shuju">240</td>
+<td class="shuju">3008</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">黑龙江省富锦凯马车轮制造有限公司</td>
+<td class="shuju">黑龙江省富锦巿临江社区正大街西段</td>
+<td class="shuju">156100</td>
+<td class="shuju">(0454)2346090</td>
+<td class="shuju">246</td>
+<td class="shuju">4208</td>
+<td class="shuju">哈飞钢圈总成639235只</td>
+</tr>
+<tr><td class="zhibiao">黑龙江北方专用汽车有限公司</td>
+<td class="shuju">黑龙江省牡丹江市西三条路8号</td>
+<td class="shuju">157000</td>
+<td class="shuju">(0453)6293203</td>
+<td class="shuju">75</td>
+<td class="shuju">612</td>
+<td class="shuju">改装MH5043XQY爆破器材运输车11辆;改装MH5040GJY运油车9辆;改装MH5310GYS液态食品运输车7辆</td>
+</tr>
+<tr><td class="zhibiao">牡丹江富通汽车空调有限公司</td>
+<td class="shuju">黑龙江省牡丹江市西十二条路</td>
+<td class="shuju">157003</td>
+<td class="shuju">(0453)6173011</td>
+<td class="shuju">347</td>
+<td class="shuju">55012</td>
+<td class="shuju">汽车空调压缩机45926万元</td>
+</tr>
+<tr><td class="zhibiao">牡丹江专用汽车制造有限公司</td>
+<td class="shuju">黑龙江省牡丹江巿海浪路81-5号</td>
+<td class="shuju">157003</td>
+<td class="shuju">(0453)6443598</td>
+<td class="shuju">82</td>
+<td class="shuju">5918</td>
+<td class="shuju">改装MQ5257JSQ.MQ5250JSQ等随车起重运输车272辆</td>
+</tr>
+<tr><td class="zhibiao">牡丹江森田特种车辆改装有限责任公司</td>
+<td class="shuju">黑龙江省牡丹江市东安区江南开发区乜河村</td>
+<td class="shuju">157021</td>
+<td class="shuju">(0453)6527999</td>
+<td class="shuju">200</td>
+<td class="shuju">7927</td>
+<td class="shuju">改装照明消防车57辆;改装抢险救援消防车43辆;改装水罐消防车29辆</td>
+</tr>
+<tr><td class="zhibiao">黑龙江省龙城专用车有限公司</td>
+<td class="shuju">黑龙江省鸡西市鸡冠区南山路59号</td>
+<td class="shuju">158100</td>
+<td class="shuju">(0461)8101222</td>
+<td class="shuju">120</td>
+<td class="shuju">3300</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">鸡西滨港特种汽车有限公司</td>
+<td class="shuju">黑龙江省鸡西市鸡冠区文化路98号</td>
+<td class="shuju">158100</td>
+<td class="shuju">(0467)8105567</td>
+<td class="shuju">218</td>
+<td class="shuju">7927</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">黑龙江龙华汽车有限公司</td>
+<td class="shuju">黑龙江省齐齐哈尔市卜奎南大街1288号</td>
+<td class="shuju">161000</td>
+<td class="shuju">(0452)2337385</td>
+<td class="shuju">200</td>
+<td class="shuju">4600</td>
+<td class="shuju">改装工程车134辆;改装超重型半挂车100辆;改装计量车21辆</td>
+</tr>
+<tr><td class="zhibiao">黑龙江挂车制造有限责任公司</td>
+<td class="shuju">黑龙江省齐齐哈尔市铁锋区联通大道151号</td>
+<td class="shuju">161002</td>
+<td class="shuju">(0452)2537555</td>
+<td class="shuju">223</td>
+<td class="shuju">4275</td>
+<td class="shuju">改装超挂车439辆</td>
+</tr>
+<tr><td class="zhibiao">黑龙江农牧车辆股份有限公司</td>
+<td class="shuju">黑龙江省齐齐哈尔市龙沙区卜奎南大街317号</td>
+<td class="shuju">161005</td>
+<td class="shuju">(0452)2347621</td>
+<td class="shuju">143</td>
+<td class="shuju">1345</td>
+<td class="shuju">改装重型半挂车116辆;全挂车7辆;改装超重型半挂车1辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

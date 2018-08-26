@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">云南省2006年汽车行业部分企业概况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计/人</td>
+<td class="biaotou">主营业务收入/万元</td>
+<td class="biaotou">主要产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">昆明美特铸造有限公司</td>
+<td class="shuju">昆明市昆沙路69号</td>
+<td class="shuju">650101</td>
+<td class="shuju">(0871)5376675</td>
+<td class="shuju">131</td>
+<td class="shuju">2331</td>
+<td class="shuju">YN4100.YN3100Y.YN4102飞轮总成51243只</td>
+</tr>
+<tr><td class="zhibiao">云南建筑汽车改装厂</td>
+<td class="shuju">昆明市东郊路58号</td>
+<td class="shuju">650041</td>
+<td class="shuju">(0871)3318337</td>
+<td class="shuju">93</td>
+<td class="shuju">1650</td>
+<td class="shuju">改装粉粒物料运输车80辆</td>
+</tr>
+<tr><td class="zhibiao">云南第一汽车工贸有限公司(云南专用汽车改装厂)</td>
+<td class="shuju">昆明市南过境干道石咀</td>
+<td class="shuju">650100</td>
+<td class="shuju">(0871)8173056</td>
+<td class="shuju">429</td>
+<td class="shuju">10441</td>
+<td class="shuju">改装厢式汽车67辆;改装罐式汽车8辆</td>
+</tr>
+<tr><td class="zhibiao">昆明散热器厂</td>
+<td class="shuju">昆明市西山区马街52号</td>
+<td class="shuju">650100</td>
+<td class="shuju">(0871)8421812</td>
+<td class="shuju">72</td>
+<td class="shuju">414</td>
+<td class="shuju">一汽红塔.南汽散热器总成2万只</td>
+</tr>
+<tr><td class="zhibiao">昆明昊庆粉末冶金制品有限公司</td>
+<td class="shuju">昆明市西山区春雨路1125号</td>
+<td class="shuju">650100</td>
+<td class="shuju">(0871)8420372</td>
+<td class="shuju">47</td>
+<td class="shuju">381</td>
+<td class="shuju">钢板销衬套</td>
+</tr>
+<tr><td class="zhibiao">昆明思维奇电器工贸有限公司</td>
+<td class="shuju">昆明市五华区金鼎北路</td>
+<td class="shuju">650101</td>
+<td class="shuju">(0871)5348330</td>
+<td class="shuju">31</td>
+<td class="shuju">309</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">昆明长力春鹰板簧有限公司</td>
+<td class="shuju">昆明市昆沙路252号</td>
+<td class="shuju">650101</td>
+<td class="shuju">(0871)5397163</td>
+<td class="shuju">279</td>
+<td class="shuju">16263</td>
+<td class="shuju">EQ1090.EQ1141.柳汽.LF等钢板弹簧总成434443架</td>
+</tr>
+<tr><td class="zhibiao">云南金马机械总厂</td>
+<td class="shuju">昆明市五华区林家院</td>
+<td class="shuju">650102</td>
+<td class="shuju">(0871)5091175</td>
+<td class="shuju">909</td>
+<td class="shuju">9994</td>
+<td class="shuju">JMC1031货车</td>
+</tr>
+<tr><td class="zhibiao">东风云南汽车有限公司</td>
+<td class="shuju">昆明市五华区黑林铺直街22号</td>
+<td class="shuju">650106</td>
+<td class="shuju">(0871)8184257</td>
+<td class="shuju">1620</td>
+<td class="shuju">10485</td>
+<td class="shuju">货车1120辆;客车631辆</td>
+</tr>
+<tr><td class="zhibiao">云南云汽实业有限公司</td>
+<td class="shuju">昆明市五华区黑林铺直街12号</td>
+<td class="shuju">650106</td>
+<td class="shuju">(0871)8182640</td>
+<td class="shuju">288</td>
+<td class="shuju">12028</td>
+<td class="shuju">4100Q.490Q.492Q曲轴瓦.凸轮轴瓦.连杆瓦225783对</td>
+</tr>
+<tr><td class="zhibiao">云南美的汽车产业控股有限公司</td>
+<td class="shuju">昆明市高新区昌源北路1388号美的工业园</td>
+<td class="shuju">650106</td>
+<td class="shuju">(0871)8328888</td>
+<td class="shuju">550</td>
+<td class="shuju">11611</td>
+<td class="shuju">改装中型客车646辆;改装轻型客车480辆;改装大型客车39辆</td>
+</tr>
+<tr><td class="zhibiao">云南云汽轴瓦制造有限公司</td>
+<td class="shuju">昆明市五华区黑林铺直街12号</td>
+<td class="shuju">650106</td>
+<td class="shuju">(0871)8184380</td>
+<td class="shuju">112</td>
+<td class="shuju">1280</td>
+<td class="shuju">YN.新柴等曲轴瓦.凸轮轴瓦.连杆瓦320万对</td>
+</tr>
+<tr><td class="zhibiao">云南西仪工业股份有限公司</td>
+<td class="shuju">昆明市西山区海口镇山冲</td>
+<td class="shuju">650114</td>
+<td class="shuju">(0871)8598200</td>
+<td class="shuju">3089</td>
+<td class="shuju">29424</td>
+<td class="shuju">SC.DA连杆总成377万只</td>
+</tr>
+<tr><td class="zhibiao">云南齿轮厂</td>
+<td class="shuju">昆明市五华区龙泉路663号</td>
+<td class="shuju">650202</td>
+<td class="shuju">(0871)5815536</td>
+<td class="shuju">347</td>
+<td class="shuju">1290</td>
+<td class="shuju">汽车变速器.分动器.取力器的齿轮及轴12万件</td>
+</tr>
+<tr><td class="zhibiao">昆明通晟汽车配件有限责任公司</td>
+<td class="shuju">昆明市盘龙区茨坝路12号</td>
+<td class="shuju">650203</td>
+<td class="shuju">(0871)5150128</td>
+<td class="shuju">98</td>
+<td class="shuju">1571</td>
+<td class="shuju">CA1030.CA1020.LJC1041等消声器总成29741只;CA1030.CA1020.LJC1041等消声器排气管29741只;CA1041.CA1030空气滤清器21910只</td>
+</tr>
+<tr><td class="zhibiao">昆明市凸轮轴厂</td>
+<td class="shuju">昆明市东郊黑土凹</td>
+<td class="shuju">650215</td>
+<td class="shuju">(0871)3821460</td>
+<td class="shuju">144</td>
+<td class="shuju">903</td>
+<td class="shuju">汽车凸轮轴49334根</td>
+</tr>
+<tr><td class="zhibiao">云南金马农用车制造总厂</td>
+<td class="shuju">昆明市东郊王大桥</td>
+<td class="shuju">650216</td>
+<td class="shuju">(0871)3833031</td>
+<td class="shuju">860</td>
+<td class="shuju">6135</td>
+<td class="shuju">货车303辆</td>
+</tr>
+<tr><td class="zhibiao">云南金马动力机械总厂</td>
+<td class="shuju">昆明市盘龙区光明路</td>
+<td class="shuju">650216</td>
+<td class="shuju">(0871)3834048</td>
+<td class="shuju">210</td>
+<td class="shuju">6010</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">昆明云内动力股份有限公司</td>
+<td class="shuju">昆明市穿金路715号</td>
+<td class="shuju">650224</td>
+<td class="shuju">(0871)5633185</td>
+<td class="shuju">3417</td>
+<td class="shuju">172811</td>
+<td class="shuju">YN4100QB.YN4102QB等汽车用柴油机商品量208630台</td>
+</tr>
+<tr><td class="zhibiao">云南禄丰缸套厂</td>
+<td class="shuju">云南省禄丰县城南北庄科</td>
+<td class="shuju">651200</td>
+<td class="shuju">(0878)4220141</td>
+<td class="shuju">309</td>
+<td class="shuju">741</td>
+<td class="shuju">YN4100.YN4102.YN5100等气缸套173170只</td>
+</tr>
+<tr><td class="zhibiao">云南永仁软木制品实业有限责任公司</td>
+<td class="shuju">云南省永仁县城南桥头寺</td>
+<td class="shuju">651400</td>
+<td class="shuju">(0878)6712025</td>
+<td class="shuju">20</td>
+<td class="shuju">45</td>
+<td class="shuju">汽车密封件57万元</td>
+</tr>
+<tr><td class="zhibiao">云南嘉丽泽金盾机械厂</td>
+<td class="shuju">昆明市嵩明县杨林镇</td>
+<td class="shuju">651707</td>
+<td class="shuju">(0871)7971430</td>
+<td class="shuju">55</td>
+<td class="shuju">1403</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">昆明东标紧固件有限公司</td>
+<td class="shuju">昆明市东川区铜都镇起嘎村</td>
+<td class="shuju">654100</td>
+<td class="shuju">(0871)2126998</td>
+<td class="shuju">15</td>
+<td class="shuju">179</td>
+<td class="shuju">LJC1041U形螺栓10.4万只</td>
+</tr>
+<tr><td class="zhibiao">一汽红塔云南汽车制造有限公司</td>
+<td class="shuju">云南省曲靖市南宁北路</td>
+<td class="shuju">655000</td>
+<td class="shuju">(0874)3140718</td>
+<td class="shuju">2996</td>
+<td class="shuju">120153</td>
+<td class="shuju">LJC3041自卸汽车23776辆;CA5030K11LXXY货车非完整车辆9388辆;幸福使者基本型乘用车1759辆</td>
+</tr>
+<tr><td class="zhibiao">曲靖重型机械制造有限公司</td>
+<td class="shuju">云南省曲靖市教场东路53号</td>
+<td class="shuju">655000</td>
+<td class="shuju">(0874)3144410</td>
+<td class="shuju">519</td>
+<td class="shuju">11094</td>
+<td class="shuju">一汽红塔车架总成16369台</td>
+</tr>
+<tr><td class="zhibiao">云南东亿电气工业有限公司</td>
+<td class="shuju">云南省曲靖市麒麟区酒行街72号</td>
+<td class="shuju">655000</td>
+<td class="shuju">(0874)3118816</td>
+<td class="shuju">53</td>
+<td class="shuju">600</td>
+<td class="shuju">一汽红塔汽车线束2万套</td>
+</tr>
+<tr><td class="zhibiao">国营云南模具二厂(国营第九三九厂)</td>
+<td class="shuju">云南省曲靖市麒麟区廖廓北路269号</td>
+<td class="shuju">655000</td>
+<td class="shuju">(0874)6115361</td>
+<td class="shuju">591</td>
+<td class="shuju">6346</td>
+<td class="shuju">一汽红塔.骏马.SC1020等钢圈总成30万只</td>
+</tr>
+<tr><td class="zhibiao">国营云南机器二厂</td>
+<td class="shuju">云南省曲靖市廖廓北路189号</td>
+<td class="shuju">655000</td>
+<td class="shuju">(0874)3384253</td>
+<td class="shuju">564</td>
+<td class="shuju">2889</td>
+<td class="shuju">LJ1040.LJ1041前桥总成23164台;LJ1040.LJ1041传动轴14642只;拖拉机后桥总成920台</td>
+</tr>
+<tr><td class="zhibiao">国营云南模具三厂</td>
+<td class="shuju">云南省曲靖市麒麟区南宁北路286号</td>
+<td class="shuju">655000</td>
+<td class="shuju">(0874)3140354</td>
+<td class="shuju">431</td>
+<td class="shuju">1809</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">个旧市南天汽车半轴有限公司</td>
+<td class="shuju">云南省个旧市建设路120号</td>
+<td class="shuju">661000</td>
+<td class="shuju">(0873)2223782</td>
+<td class="shuju">72</td>
+<td class="shuju">732</td>
+<td class="shuju">汽车半轴80141根</td>
+</tr>
+<tr><td class="zhibiao">云南省红河汽车配件厂</td>
+<td class="shuju">云南省蒙自县城北郊</td>
+<td class="shuju">661100</td>
+<td class="shuju">(0873)3642505</td>
+<td class="shuju">69</td>
+<td class="shuju">752</td>
+<td class="shuju">汽车前桥总成13320台</td>
+</tr>
+<tr><td class="zhibiao">云南省蒙自八一汽车配件厂</td>
+<td class="shuju">云南省蒙自县文澜镇东村</td>
+<td class="shuju">661100</td>
+<td class="shuju">(0873)3690475</td>
+<td class="shuju">63</td>
+<td class="shuju">212</td>
+<td class="shuju">EQ1090.骏马制动.离合.油门踏板6111只;骏马转向横直拉杆1333件;EQ1090贮气筒583只</td>
+</tr>
+<tr><td class="zhibiao">大理泰兴实业有限公司</td>
+<td class="shuju">云南省大理市下关泰安路84号</td>
+<td class="shuju">671000</td>
+<td class="shuju">(0872)2120315</td>
+<td class="shuju">582</td>
+<td class="shuju">2573</td>
+<td class="shuju">YN4100.YN5100.YN495活塞64.39万只</td>
+</tr>
+<tr><td class="zhibiao">云南力帆骏马车辆有限公司</td>
+<td class="shuju">云南省大理市凤仪镇工业园区</td>
+<td class="shuju">671005</td>
+<td class="shuju">(0872)2494166</td>
+<td class="shuju">4226</td>
+<td class="shuju">204164</td>
+<td class="shuju">货车15879辆</td>
+</tr>
+<tr><td class="zhibiao">楚雄活塞销有限公司</td>
+<td class="shuju">云南省楚雄市经济技术开发区乡镇企业园</td>
+<td class="shuju">675000</td>
+<td class="shuju">(0878)8989027</td>
+<td class="shuju">160</td>
+<td class="shuju">1000</td>
+<td class="shuju">YN.YC.一汽红塔.力帆等活塞销62万只</td>
+</tr>
+<tr><td class="zhibiao">云南大姚机械配件厂</td>
+<td class="shuju">云南省楚雄州大姚县金碧镇北城外88号</td>
+<td class="shuju">675400</td>
+<td class="shuju">(0878)6222753</td>
+<td class="shuju">127</td>
+<td class="shuju">1744</td>
+<td class="shuju">汽车前桥总成5.6万台;汽车减速器壳2.5万只;汽车差速器壳2.5万只</td>
+</tr>
+<tr><td class="zhibiao">大理州四方实业总公司钢板弹簧厂</td>
+<td class="shuju">云南省大理州弥渡县弥城环城西路</td>
+<td class="shuju">675600</td>
+<td class="shuju">(0872)8164346</td>
+<td class="shuju">60</td>
+<td class="shuju">1543</td>
+<td class="shuju">EQ1141.出口等钢板弹簧总成4.15万架</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2007》</div>
+</div>
+</body>
+</html>

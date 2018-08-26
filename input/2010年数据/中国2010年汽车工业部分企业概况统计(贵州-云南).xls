@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(贵州-云南)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">贵州华昌汽车电器有限公司</td>
+<td class="shuju">贵阳市小河区黄河东路81号</td>
+<td class="shuju">550009</td>
+<td class="shuju">(0851)8657888</td>
+<td class="shuju">375</td>
+<td class="shuju">21047</td>
+<td class="shuju">SVW.HMC.BYD汽车锁123万只</td>
+</tr>
+<tr><td class="zhibiao">贵州红林机械有限公司</td>
+<td class="shuju">贵阳市小河区松花江路111号</td>
+<td class="shuju">550009</td>
+<td class="shuju">(0851)3897143</td>
+<td class="shuju">2402</td>
+<td class="shuju">44807</td>
+<td class="shuju">SVW.SGM转向助力器151604只;北易.天马摩托车机油泵411157只;建设摩托车气缸盖405806只</td>
+</tr>
+<tr><td class="zhibiao">贵州航天凯峰科技有限责任公司</td>
+<td class="shuju">贵阳巿小河区红河路7号</td>
+<td class="shuju">550009</td>
+<td class="shuju">(0851)8696681</td>
+<td class="shuju">54</td>
+<td class="shuju">-</td>
+<td class="shuju">广汽长丰安全气囊195套</td>
+</tr>
+<tr><td class="zhibiao">贵阳广航铸造有限公司</td>
+<td class="shuju">贵阳市小河区黄河路1号</td>
+<td class="shuju">550009</td>
+<td class="shuju">(0851)3834276</td>
+<td class="shuju">275</td>
+<td class="shuju">12332</td>
+<td class="shuju">汽车发动机铝合金零部件</td>
+</tr>
+<tr><td class="zhibiao">贵阳黔江锻铸件厂</td>
+<td class="shuju">贵阳巿小可区黔江路8号</td>
+<td class="shuju">550009</td>
+<td class="shuju">(0851)3401148</td>
+<td class="shuju">45</td>
+<td class="shuju">472</td>
+<td class="shuju">汽车锁</td>
+</tr>
+<tr><td class="zhibiao">贵州华烽汽车零部件有限公司</td>
+<td class="shuju">贵阳市小河经济开发区长江路121号</td>
+<td class="shuju">550009</td>
+<td class="shuju">(0851)3403924</td>
+<td class="shuju">156</td>
+<td class="shuju">4636</td>
+<td class="shuju">CA.SQR.S30.CC.长丰风窗玻璃洗涤器814965件</td>
+</tr>
+<tr><td class="zhibiao">贵阳华恒机械制造有限公司</td>
+<td class="shuju">贵阳巿白云区新材料产业园</td>
+<td class="shuju">550014</td>
+<td class="shuju">(0851)4704977</td>
+<td class="shuju">126</td>
+<td class="shuju">7200</td>
+<td class="shuju">汽车减速器壳30万只.汽车气缸盖15万只</td>
+</tr>
+<tr><td class="zhibiao">中国航空工业标准件制造有限责任公司</td>
+<td class="shuju">贵阳市白云区白云南路355号</td>
+<td class="shuju">550014</td>
+<td class="shuju">(0851)4894016</td>
+<td class="shuju">1458</td>
+<td class="shuju">30759</td>
+<td class="shuju">五羊-本田摩托车标准件26691万元;LZW等标准件13346万元</td>
+</tr>
+<tr><td class="zhibiao">贵阳万江航空机电有限公司</td>
+<td class="shuju">贵阳市新添大道北段170号</td>
+<td class="shuju">550018</td>
+<td class="shuju">(0851)6310516</td>
+<td class="shuju">1289</td>
+<td class="shuju">36510</td>
+<td class="shuju">FVW.SVW.HMC.SQR等刮水器总成1821356只;FVW.SVW.出口电动玻璃升降器820100只;FVW.SVW.出口手动玻璃升降器464209只</td>
+</tr>
+<tr><td class="zhibiao">贵州雅光电子科技股份有限公司</td>
+<td class="shuju">贵阳市乌当区新添大道北段270号</td>
+<td class="shuju">550018</td>
+<td class="shuju">(0851)6302063</td>
+<td class="shuju">231</td>
+<td class="shuju">5272</td>
+<td class="shuju">车用整流桥.二极管</td>
+</tr>
+<tr><td class="zhibiao">贵州万达客车股份有限公司</td>
+<td class="shuju">贵阳市花溪区养牛村万达路1号</td>
+<td class="shuju">550025</td>
+<td class="shuju">(0851)3610853</td>
+<td class="shuju">454</td>
+<td class="shuju">25172</td>
+<td class="shuju">改装WD6608.WD6530等轻型客车2014辆;改装WD6100.WD6720等中型客车424辆</td>
+</tr>
+<tr><td class="zhibiao">贵阳华昱汽车配件有限公司</td>
+<td class="shuju">贵阳巿花溪区桐木岭加油站正对面</td>
+<td class="shuju">550025</td>
+<td class="shuju">(0851)3871631</td>
+<td class="shuju">16</td>
+<td class="shuju">402</td>
+<td class="shuju">内饰塑料件</td>
+</tr>
+<tr><td class="zhibiao">贵阳华云汽车饰件厂</td>
+<td class="shuju">贵阳市花溪区万达路</td>
+<td class="shuju">550025</td>
+<td class="shuju">(0851)3613222</td>
+<td class="shuju">138</td>
+<td class="shuju">2257</td>
+<td class="shuju">EQ等仪表板总成3626只</td>
+</tr>
+<tr><td class="zhibiao">云南力帆骏马车辆有限公司毕节骏马振兴制造厂</td>
+<td class="shuju">贵州省毕节市鸭池镇营脚村</td>
+<td class="shuju">551700</td>
+<td class="shuju">(0857)7119113</td>
+<td class="shuju">1260</td>
+<td class="shuju">75000</td>
+<td class="shuju">载货车3000辆</td>
+</tr>
+<tr><td class="zhibiao">中国振华电子集团宇光电工有限公司</td>
+<td class="shuju">贵阳市乌当区新添大道北段272号</td>
+<td class="shuju">560018</td>
+<td class="shuju">(0851)6305255</td>
+<td class="shuju">1017</td>
+<td class="shuju">26009</td>
+<td class="shuju">汽车车灯总成228212只</td>
+</tr>
+<tr><td class="zhibiao">贵州新安航空机械有限责任公司</td>
+<td class="shuju">贵州省安顺市60号信箱</td>
+<td class="shuju">561003</td>
+<td class="shuju">(0853)3390520</td>
+<td class="shuju">678</td>
+<td class="shuju">22815</td>
+<td class="shuju">汽车.摩托车配件</td>
+</tr>
+<tr><td class="zhibiao">赍州安吉有色铸造有限责任公司</td>
+<td class="shuju">贵州省安顺市西秀区蔡官镇</td>
+<td class="shuju">561003</td>
+<td class="shuju">(0853)2209055</td>
+<td class="shuju">344</td>
+<td class="shuju">2901</td>
+<td class="shuju">汽车气缸盖15921只;汽车进排气歧管124131只</td>
+</tr>
+<tr><td class="zhibiao">贵州安大航空锻造有限责任公司</td>
+<td class="shuju">贵州省安顺市西秀区黄果树大街东段322号</td>
+<td class="shuju">561005</td>
+<td class="shuju">(0853)3393256</td>
+<td class="shuju">-</td>
+<td class="shuju">3328</td>
+<td class="shuju">CY.福达曲轴8.1万根</td>
+</tr>
+<tr><td class="zhibiao">贵州双阳飞机制造厂</td>
+<td class="shuju">贵州省安顺市经济技术开发区宋旗镇</td>
+<td class="shuju">561018</td>
+<td class="shuju">(0853)3395570</td>
+<td class="shuju">93</td>
+<td class="shuju">708</td>
+<td class="shuju">金属导管</td>
+</tr>
+<tr><td class="zhibiao">贵州青年莲花汽车有限公司</td>
+<td class="shuju">贵州省安顺巿经济技术开发区双阳路</td>
+<td class="shuju">561018</td>
+<td class="shuju">{0853)3397718</td>
+<td class="shuju">388</td>
+<td class="shuju">51202</td>
+<td class="shuju">CHK7160基本型乘用车1812辆</td>
+</tr>
+<tr><td class="zhibiao">贵州云马飞机制造厂</td>
+<td class="shuju">贵州省安顺市幺铺镇</td>
+<td class="shuju">561019</td>
+<td class="shuju">(0853)3385021</td>
+<td class="shuju">3086</td>
+<td class="shuju">49577</td>
+<td class="shuju">改装YM5060ZXX.YM5020ZXX车厢可卸式垃圾车102辆;改装YM5160ZLI.YM5161等自卸式垃圾车96辆;改装YM6608.YM6660轻型客车72辆</td>
+</tr>
+<tr><td class="zhibiao">贵州航天凯宏科技有限责任公司</td>
+<td class="shuju">贵州省遵义市江川区大连路航天高新技术产业园区</td>
+<td class="shuju">563000</td>
+<td class="shuju">(0852)8694188</td>
+<td class="shuju">398</td>
+<td class="shuju">16047</td>
+<td class="shuju">LF.长安跨越.众泰.南骏等散热器总成166384只.LF.长安跨越.众泰.南骏等增压中冷器77128只</td>
+</tr>
+<tr><td class="zhibiao">贵州天义汽车电器有限公司</td>
+<td class="shuju">贵州省遵义市隋阳路33号</td>
+<td class="shuju">563002</td>
+<td class="shuju">(0852)8416979</td>
+<td class="shuju">382</td>
+<td class="shuju">7249</td>
+<td class="shuju">SVW.FVW.EQ.LZW等继电器1175.82万只</td>
+</tr>
+<tr><td class="zhibiao">遵义长征汽车零部件有限公司</td>
+<td class="shuju">贵州省遵义市高巷路79号</td>
+<td class="shuju">563002</td>
+<td class="shuju">(0852)3123088</td>
+<td class="shuju">140</td>
+<td class="shuju">4535</td>
+<td class="shuju">SC.LZW.SQR.JL.出口等点火线圈595259只;SC.LZW.SQR.JL.出口等传感器16.28万只</td>
+</tr>
+<tr><td class="zhibiao">贵州航天成功汽车制造有限公司</td>
+<td class="shuju">贵州省遵义市汇川区大连路航天高科技园区</td>
+<td class="shuju">563003</td>
+<td class="shuju">(0852)8611393</td>
+<td class="shuju">648</td>
+<td class="shuju">10246</td>
+<td class="shuju">GHT6360.GHT6400交叉型乘用车5102辆;GHT1020S.GHT1020D载货车1519辆</td>
+</tr>
+<tr><td class="zhibiao">贵州群建精密机械有限公司</td>
+<td class="shuju">贵州省遵义市汇川区大连路航汽工业园区</td>
+<td class="shuju">563003</td>
+<td class="shuju">(0852)8612274</td>
+<td class="shuju">736</td>
+<td class="shuju">38827</td>
+<td class="shuju">江铃.大柴.福田其他齿轮157万只</td>
+</tr>
+<tr><td class="zhibiao">遵义梅岭铅酸电池有限责任公司</td>
+<td class="shuju">贵州省遵义市红梅路中段80号</td>
+<td class="shuju">563003</td>
+<td class="shuju">(0852)8612975</td>
+<td class="shuju">100</td>
+<td class="shuju">4132</td>
+<td class="shuju">庆铃.YN.万达蓄电池15.3万kVAh</td>
+</tr>
+<tr><td class="zhibiao">贵州航天红光机械制造有限公司</td>
+<td class="shuju">贵州省遵义市江川区大连路航天高新技术产业园区</td>
+<td class="shuju">563003</td>
+<td class="shuju">(0852)8693133</td>
+<td class="shuju">689</td>
+<td class="shuju">27063</td>
+<td class="shuju">广西北海.一汽青岛.陝西汉德前桥总成21068台;上依红后桥壳33979只.东风.广西柳汽后桥总成22693台</td>
+</tr>
+<tr><td class="zhibiao">贵州航天凯山特种车改装有限公司</td>
+<td class="shuju">贵州省遵义市遵义县鸭溪镇吐鱼村</td>
+<td class="shuju">563108</td>
+<td class="shuju">(0852)8726948</td>
+<td class="shuju">391</td>
+<td class="shuju">18163</td>
+<td class="shuju">改装重型自卸汽车612辆.改装轻型客车150辆</td>
+</tr>
+<tr><td class="zhibiao">遵义金业机械铸造有限公司</td>
+<td class="shuju">贵州省绥阳县风华镇牛心山村</td>
+<td class="shuju">563319</td>
+<td class="shuju">(0852)6335188</td>
+<td class="shuju">138</td>
+<td class="shuju">4100</td>
+<td class="shuju">汽车制动鼓.汽车轮毂等</td>
+</tr>
+<tr><td class="zhibiao">云南建筑汽车改装厂</td>
+<td class="shuju">昆明巿东郊路58号</td>
+<td class="shuju">650041</td>
+<td class="shuju">(0871)3318337</td>
+<td class="shuju">56</td>
+<td class="shuju">1620</td>
+<td class="shuju">粉粒物枓运输车55辆</td>
+</tr>
+<tr><td class="zhibiao">昆明昊庆粉末冶金制品有限公司</td>
+<td class="shuju">昆明市西山区春雨路1125号</td>
+<td class="shuju">650100</td>
+<td class="shuju">(0871)8420372</td>
+<td class="shuju">44</td>
+<td class="shuju">528</td>
+<td class="shuju">汽车配件92万元</td>
+</tr>
+<tr><td class="zhibiao">昆明方大春鹰板簧有限公司</td>
+<td class="shuju">昆明市五华区普吉路200号</td>
+<td class="shuju">650101</td>
+<td class="shuju">(0871)5397166</td>
+<td class="shuju">232</td>
+<td class="shuju">28918</td>
+<td class="shuju">钢板弹簧总成958336架</td>
+</tr>
+<tr><td class="zhibiao">云南金马机械总厂</td>
+<td class="shuju">昆明市五华区普吉办事处林家院</td>
+<td class="shuju">650102</td>
+<td class="shuju">(0871)5091175</td>
+<td class="shuju">1075</td>
+<td class="shuju">14467</td>
+<td class="shuju">汽车内燃机配件</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

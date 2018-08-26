@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(安徽-福建)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">安庆利达汽车轴承制造有限公司</td>
+<td class="shuju">安徽省安庆市潜山县天柱山火车站南侧</td>
+<td class="shuju">246300</td>
+<td class="shuju">(0556)8933522</td>
+<td class="shuju">140</td>
+<td class="shuju">8800</td>
+<td class="shuju">JAC.SQR汽车轴承55万套</td>
+</tr>
+<tr><td class="zhibiao">安庆市盛泰汽配制造有限责任公司</td>
+<td class="shuju">安徽省安庆市太湖县经济开发区民创业园</td>
+<td class="shuju">246400</td>
+<td class="shuju">(0556)4188765</td>
+<td class="shuju">40</td>
+<td class="shuju">545</td>
+<td class="shuju">JAC.昌河.EQ安全带410万条</td>
+</tr>
+<tr><td class="zhibiao">安徽省岳西缸套有限公司</td>
+<td class="shuju">安徽省岳西县天堂镇建设西路38号</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2174140</td>
+<td class="shuju">230</td>
+<td class="shuju">3462</td>
+<td class="shuju">全柴.常柴.兴动.时风气缸套82万只</td>
+</tr>
+<tr><td class="zhibiao">安徽迅启蓄电池有限公司</td>
+<td class="shuju">安徽省岳西县天堂镇建设路69号</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2172392</td>
+<td class="shuju">360</td>
+<td class="shuju">58989</td>
+<td class="shuju">JAC.安凯.华菱.合力.杭叉等蓄电池182万kVAh</td>
+</tr>
+<tr><td class="zhibiao">安徽万瑞汽车零部件有限公司</td>
+<td class="shuju">安徽省安庆市岳西县经济开发区</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2172861</td>
+<td class="shuju">63</td>
+<td class="shuju">3090</td>
+<td class="shuju">JAC油箱18万只</td>
+</tr>
+<tr><td class="zhibiao">安徽岳塑汽车工业有限公司</td>
+<td class="shuju">安徽省岳西县天堂镇建设东路</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2184588</td>
+<td class="shuju">110</td>
+<td class="shuju">7280</td>
+<td class="shuju">变速换挡操纵杆及座总成</td>
+</tr>
+<tr><td class="zhibiao">岳西县盛宏工贸有限责任公司</td>
+<td class="shuju">安徽省岳西县莲云乡汽配工业园区</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)5769196</td>
+<td class="shuju">61</td>
+<td class="shuju">4612</td>
+<td class="shuju">JAC随车工具12万套</td>
+</tr>
+<tr><td class="zhibiao">安徽江山机械有限公司</td>
+<td class="shuju">安徽省岳西县莲云经济开发区</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2186999</td>
+<td class="shuju">78</td>
+<td class="shuju">3142</td>
+<td class="shuju">JAC制动.离合.油门踏板361450只.JAC刮水器总成20411只</td>
+</tr>
+<tr><td class="zhibiao">安徽瑞林汽配有限公司</td>
+<td class="shuju">安徽省岳西县建西匸业区</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2173950</td>
+<td class="shuju">160</td>
+<td class="shuju">4860</td>
+<td class="shuju">JAC.华晨车身铸铝件</td>
+</tr>
+<tr><td class="zhibiao">安徽润宏塑料制品有限公司</td>
+<td class="shuju">安徽省岳西县莲云经济开发区</td>
+<td class="shuju">246600</td>
+<td class="shuju">(0556)2178847</td>
+<td class="shuju">58</td>
+<td class="shuju">4000</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">安徽青松工具有限公司</td>
+<td class="shuju">安徽省安庆市岳西县长宁工业区</td>
+<td class="shuju">246620</td>
+<td class="shuju">(0556)2295458</td>
+<td class="shuju">180</td>
+<td class="shuju">12151</td>
+<td class="shuju">汽车随车工具120万套</td>
+</tr>
+<tr><td class="zhibiao">安庆市枞江汽车部件有限公司</td>
+<td class="shuju">安徽省枞阳县横埠镇汽车零部件工业园</td>
+<td class="shuju">246725</td>
+<td class="shuju">(0556)2027761</td>
+<td class="shuju">125</td>
+<td class="shuju">4015</td>
+<td class="shuju">JAC.金龙安全带80万条;JAC转向机总成4万台</td>
+</tr>
+<tr><td class="zhibiao">安徽义富汽车零部件有限公司</td>
+<td class="shuju">安徽省枞阳县汽车零部件工业园</td>
+<td class="shuju">246725</td>
+<td class="shuju">(0556)2027900</td>
+<td class="shuju">136</td>
+<td class="shuju">3896</td>
+<td class="shuju">缓冲块等</td>
+</tr>
+<tr><td class="zhibiao">安徽展大机械有限公司</td>
+<td class="shuju">安徽省枞阳县橫埠汽车零部件工业园</td>
+<td class="shuju">246725</td>
+<td class="shuju">(0556)2033658</td>
+<td class="shuju">58</td>
+<td class="shuju">61</td>
+<td class="shuju">JAC液压举升翻转装置37000只</td>
+</tr>
+<tr><td class="zhibiao">安徽汇泰车轮有限公司</td>
+<td class="shuju">安徽省枞阳汽车零部件工业园</td>
+<td class="shuju">246725</td>
+<td class="shuju">(0556)2027731</td>
+<td class="shuju">90</td>
+<td class="shuju">2500</td>
+<td class="shuju">JAC钢圏总成35万只</td>
+</tr>
+<tr><td class="zhibiao">安徽省池州市盛大专用车有限公司</td>
+<td class="shuju">安徽省池州市经济技术开发区流金大道</td>
+<td class="shuju">247000</td>
+<td class="shuju">(0566)5222000</td>
+<td class="shuju">160</td>
+<td class="shuju">2600</td>
+<td class="shuju">改装ACQ5082.ACQ5122.ACQ5140等其他中型改装汽车343辆;改装ACQ5160.ACQ5161.ACQ5164等其他型改装汽236辆</td>
+</tr>
+<tr><td class="zhibiao">福建星联汽车配件开发有限公司</td>
+<td class="shuju">福州市仓山区台屿路长岭工业小区8号</td>
+<td class="shuju">350002</td>
+<td class="shuju">(0591)83738885</td>
+<td class="shuju">78</td>
+<td class="shuju">3556</td>
+<td class="shuju">汽车仪表板总成22157只</td>
+</tr>
+<tr><td class="zhibiao">福州南配活塞销有限公司</td>
+<td class="shuju">福州市仓山区金塘路35</td>
+<td class="shuju">350002</td>
+<td class="shuju">(0591)83744014</td>
+<td class="shuju">146</td>
+<td class="shuju">2471</td>
+<td class="shuju">汽车活塞销241.10万只</td>
+</tr>
+<tr><td class="zhibiao">福州西诚汽车控制系统有限公司</td>
+<td class="shuju">福州市鼓楼区铜盘路软件园C区19号楼</td>
+<td class="shuju">350003</td>
+<td class="shuju">(0591)87881753</td>
+<td class="shuju">161</td>
+<td class="shuju">2879</td>
+<td class="shuju">三花.东南.神龙开关377822只</td>
+</tr>
+<tr><td class="zhibiao">福建新福达汽车工业有限公司</td>
+<td class="shuju">福州巿晋安区福新东路368号</td>
+<td class="shuju">350014</td>
+<td class="shuju">(0591)38123590</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">客车非完整车辆8034辆;客车693辆</td>
+</tr>
+<tr><td class="zhibiao">福州小糸大亿车灯有限公司</td>
+<td class="shuju">福建省闽侯县青口镇东南汽车城</td>
+<td class="shuju">350119</td>
+<td class="shuju">(0591)38202525</td>
+<td class="shuju">336</td>
+<td class="shuju">21495</td>
+<td class="shuju">东南.CA.马自达.出口车灯总成701943只</td>
+</tr>
+<tr><td class="zhibiao">东南(福建)汽车工业有限公司</td>
+<td class="shuju">福建省福州巿闽侯县青口镇东南汽车城</td>
+<td class="shuju">350119</td>
+<td class="shuju">(0591)22766566</td>
+<td class="shuju">3400</td>
+<td class="shuju">875836</td>
+<td class="shuju">蓝瑟.菱悦.翼神.戈蓝基本型乘用车106846辆;菱利交叉型乘用车5154辆.客车5132辆</td>
+</tr>
+<tr><td class="zhibiao">福州泰全电机有限公司</td>
+<td class="shuju">福州市闽侯县青口投资区</td>
+<td class="shuju">350119</td>
+<td class="shuju">(0591)22765233</td>
+<td class="shuju">128</td>
+<td class="shuju">12969</td>
+<td class="shuju">东南电动玻璃升降器35万只;东南.JAC风扇10万只;东南.柳汽刮水器总成5万只</td>
+</tr>
+<tr><td class="zhibiao">福州明芳汽车部件工业有限公司</td>
+<td class="shuju">福建省福州市闽侯县青口投资区</td>
+<td class="shuju">350119</td>
+<td class="shuju">(0591)38202600</td>
+<td class="shuju">322</td>
+<td class="shuju">17164</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">福建戴姆勒汽车工业有限公司</td>
+<td class="shuju">福建省福州市闽侯县青口投资区奔驰大道1号</td>
+<td class="shuju">350119</td>
+<td class="shuju">(0591)22799999</td>
+<td class="shuju">1763</td>
+<td class="shuju">330452</td>
+<td class="shuju">MPV11332辆</td>
+</tr>
+<tr><td class="zhibiao">福耀玻璃工业集团股份有限公司</td>
+<td class="shuju">福建省福清市福耀工业区二区</td>
+<td class="shuju">350301</td>
+<td class="shuju">(0591)85383777</td>
+<td class="shuju">15601</td>
+<td class="shuju">850804</td>
+<td class="shuju">大众.AUD1.GM.FOTON.本田.丰田等汽车玻璃6165万m2</td>
+</tr>
+<tr><td class="zhibiao">福建冠良汽车配件工业有限公司</td>
+<td class="shuju">福建省福清巿融侨经济开发区福玉路</td>
+<td class="shuju">350301</td>
+<td class="shuju">(0591)85375825</td>
+<td class="shuju">691</td>
+<td class="shuju">19460</td>
+<td class="shuju">各种汽车.出口制动盘168万只;各种汽车.出口离合器盖.中压板及压盘900万件;各种汽车.出口前后制动蹄总成12万只</td>
+</tr>
+<tr><td class="zhibiao">华闽南配集团股份有限公司</td>
+<td class="shuju">福建省南平市高新区长沙工业园</td>
+<td class="shuju">353000</td>
+<td class="shuju">(0599)8623933</td>
+<td class="shuju">1307</td>
+<td class="shuju">31563</td>
+<td class="shuju">三菱.LZW.SQR.CA.JL.JAC.出口等活塞环4065万片;三菱.LZW.SQR.CA.JL.JAC.出口等气缸套61万只.三菱.LZW.SQR.CA.JL.JAC.出口等活塞销966万只</td>
+</tr>
+<tr><td class="zhibiao">潭州鑫展旺化工有限公司</td>
+<td class="shuju">福建省漳州巿诏安县边贸旅游区上营工业园区</td>
+<td class="shuju">353600</td>
+<td class="shuju">(0596)3390880</td>
+<td class="shuju">185</td>
+<td class="shuju">43676</td>
+<td class="shuju">汽车漆</td>
+</tr>
+<tr><td class="zhibiao">霞浦县制动材料总厂</td>
+<td class="shuju">福建省霞浦县三沙镇奇沙176号</td>
+<td class="shuju">355101</td>
+<td class="shuju">(0593)8662070</td>
+<td class="shuju">65</td>
+<td class="shuju">1122</td>
+<td class="shuju">各种汽车.出口摩擦材料932t.摩托车摩擦材料43t</td>
+</tr>
+<tr><td class="zhibiao">福建省霞浦三沙华美实业有限公司</td>
+<td class="shuju">福建省霞浦县三沙镇西沃奇沙165号</td>
+<td class="shuju">355101</td>
+<td class="shuju">(0593)8668588</td>
+<td class="shuju">1432</td>
+<td class="shuju">39068</td>
+<td class="shuju">离合器.点火线圈等</td>
+</tr>
+<tr><td class="zhibiao">福建正阳汽车部件有限公司</td>
+<td class="shuju">福建省宁德市霞浦县三沙镇奇沙176号</td>
+<td class="shuju">355101</td>
+<td class="shuju">(0593)8666768</td>
+<td class="shuju">185</td>
+<td class="shuju">3211</td>
+<td class="shuju">汽车盘式制动器总成6485900台.汽车鼓式制动器总成1599900台</td>
+</tr>
+<tr><td class="zhibiao">福建省晋江粉末冶金制品厂</td>
+<td class="shuju">福建省晋江市安海镇龙山西路2号</td>
+<td class="shuju">362261</td>
+<td class="shuju">(0595)85708061</td>
+<td class="shuju">90</td>
+<td class="shuju">747</td>
+<td class="shuju">粉末冶金配件</td>
+</tr>
+<tr><td class="zhibiao">福建龙溪轴承(集团)股份有限公司(龙轴母公司)</td>
+<td class="shuju">福建省漳州市芗城区腾飞路388号</td>
+<td class="shuju">363000</td>
+<td class="shuju">(0596)2072156</td>
+<td class="shuju">746</td>
+<td class="shuju">35558</td>
+<td class="shuju">关节轴承</td>
+</tr>
+<tr><td class="zhibiao">正兴车轮集团有限公司</td>
+<td class="shuju">福建省漳州市北环路319国道73公里处右侧</td>
+<td class="shuju">363000</td>
+<td class="shuju">(0596)2600208</td>
+<td class="shuju">5200</td>
+<td class="shuju">751662</td>
+<td class="shuju">汽车钢圈总成1450万只</td>
+</tr>
+<tr><td class="zhibiao">福建龙溪轴承(集团)股份有限公司(龙轴合并)</td>
+<td class="shuju">福建省漳州市芗城区腾飞路388号</td>
+<td class="shuju">363000</td>
+<td class="shuju">(0596)2072156</td>
+<td class="shuju">2061</td>
+<td class="shuju">67096</td>
+<td class="shuju">江铃.德纳.台亚等汽车轴承297万套</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

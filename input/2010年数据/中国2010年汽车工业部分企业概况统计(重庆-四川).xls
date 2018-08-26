@@ -1,0 +1,287 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(重庆-四川)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">重庆江东机械有限责任公司</td>
+<td class="shuju">重庆巿万州区五桥百安坝百安大道1008号</td>
+<td class="shuju">404020</td>
+<td class="shuju">(023)58555228</td>
+<td class="shuju">765</td>
+<td class="shuju">49452</td>
+<td class="shuju">长安.哈飞.SQR.JL.渝安.柳微连杆总成3660100只</td>
+</tr>
+<tr><td class="zhibiao">四川华勋畜牧机械有限责任公司</td>
+<td class="shuju">四川省成都市双流县九江镇草金路6号</td>
+<td class="shuju">610200</td>
+<td class="shuju">(028)85790512</td>
+<td class="shuju">220</td>
+<td class="shuju">15000</td>
+<td class="shuju">改装CXJ3060ZP3.CXJ3061ZP3.CXJ3060Z3轻型自卸汽车800辆.改装CXJ3160ZP3.CXJ3164ZP3等重型自卸汽车620辆;改装CXJ3070ZP3.CXJ3071ZP3.CXJ3U0ZP3中型自卸汽车550辆</td>
+</tr>
+<tr><td class="zhibiao">四川阳光机械集团有限公司</td>
+<td class="shuju">四川省德阳市泰山北路三段425号</td>
+<td class="shuju">618000</td>
+<td class="shuju">(0838)2420902</td>
+<td class="shuju">412</td>
+<td class="shuju">5692</td>
+<td class="shuju">各种汽车.出口连杆总成23万只;各种汽车.出口曲轴86000根</td>
+</tr>
+<tr><td class="zhibiao">中车集团四川丹齿零部件有限公司</td>
+<td class="shuju">四川省丹棱县外北路1号</td>
+<td class="shuju">620200</td>
+<td class="shuju">(0833)37201411</td>
+<td class="shuju">447</td>
+<td class="shuju">9384</td>
+<td class="shuju">SC.株齿.JL.FOTON.法士特变速器.分动器.取力器的齿轮及轴129万件.丹东曙光.LZW.湖南车桥.建安其他齿轮76万只</td>
+</tr>
+<tr><td class="zhibiao">绵阳新华内燃机股份有限公司</td>
+<td class="shuju">四川省绵阳市涪城区剑门路西段228号</td>
+<td class="shuju">621000</td>
+<td class="shuju">(0816)2370000</td>
+<td class="shuju">3274</td>
+<td class="shuju">391483</td>
+<td class="shuju">汽车用汽油机商品量196931台;SY6390交叉型乘用车27507辆;SY1027.SY1026.SY1028等载货车19478辆</td>
+</tr>
+<tr><td class="zhibiao">绵阳富临精工机械股份有限公司</td>
+<td class="shuju">四川省绵阳巿板桥街268号</td>
+<td class="shuju">621000</td>
+<td class="shuju">(0816)6800668</td>
+<td class="shuju">880</td>
+<td class="shuju">23590</td>
+<td class="shuju">JAC.SQR.三菱.EQ.神龙.出口气门挺柱904万根;SQR.JAC.YN摇臂305万只;SQR.JAC.云内.出口气门推杆2113万根</td>
+</tr>
+<tr><td class="zhibiao">绵阳市天旋气门组件有限责任公司</td>
+<td class="shuju">四川省绵阳市经济技术开发区塘汛南街155号</td>
+<td class="shuju">621000</td>
+<td class="shuju">(0816)2840034</td>
+<td class="shuju">160</td>
+<td class="shuju">4218</td>
+<td class="shuju">气门导管.气门琐夹等</td>
+</tr>
+<tr><td class="zhibiao">四川绵阳三力股份有限公司</td>
+<td class="shuju">四川省绵阳巿高新区虹苑北路6号</td>
+<td class="shuju">621000</td>
+<td class="shuju">(0816)2537878</td>
+<td class="shuju">636</td>
+<td class="shuju">43266</td>
+<td class="shuju">神龙.长安.LZW转向管柱132万只</td>
+</tr>
+<tr><td class="zhibiao">中国重汽集团绵阳专用汽车有限公司</td>
+<td class="shuju">四川省绵阳山高新区辽宁大道99号</td>
+<td class="shuju">621000</td>
+<td class="shuju">(0816)5099995</td>
+<td class="shuju">165</td>
+<td class="shuju">4533</td>
+<td class="shuju">改装重型自卸汽车955辆</td>
+</tr>
+<tr><td class="zhibiao">四川绵阳德鑫机械有限公司</td>
+<td class="shuju">四川省绵阳市高新区永兴镇玉龙院村</td>
+<td class="shuju">621006</td>
+<td class="shuju">(0816)2570396</td>
+<td class="shuju">160</td>
+<td class="shuju">7960</td>
+<td class="shuju">EQ.CA转向管柱405000只</td>
+</tr>
+<tr><td class="zhibiao">中国长安汽车集团股份有限公司四川建安车桥分公司</td>
+<td class="shuju">四川省雅安市雨城区康藏路139号</td>
+<td class="shuju">625000</td>
+<td class="shuju">(0835)2635426</td>
+<td class="shuju">2707</td>
+<td class="shuju">200903</td>
+<td class="shuju">SC.EQ.吉林.众泰后桥总成1789485台;SC.SQR车轴242621根;SQR.SC独立悬架152466套</td>
+</tr>
+<tr><td class="zhibiao">四川泛华电器有限责任公司</td>
+<td class="shuju">四川省雅安市雨城区西门南路99号附1号</td>
+<td class="shuju">625000</td>
+<td class="shuju">(0835)2866817</td>
+<td class="shuju">878</td>
+<td class="shuju">30063</td>
+<td class="shuju">JAC.LF.渝安汽车线束234400套.JAC:.重汽.SX中央接线盒265000个;渝安开关25000只</td>
+</tr>
+<tr><td class="zhibiao">四川联茂机械制造有限公司</td>
+<td class="shuju">四川省雅安巿工业园区卫干路1号</td>
+<td class="shuju">625100</td>
+<td class="shuju">(0835)3220942</td>
+<td class="shuju">260</td>
+<td class="shuju">4800</td>
+<td class="shuju">汉德.北奔.重汽万向节总成45万只</td>
+</tr>
+<tr><td class="zhibiao">四川名齿齿轮制造有限公司</td>
+<td class="shuju">四川省雅安市工业园区</td>
+<td class="shuju">625100</td>
+<td class="shuju">(0835)3222759</td>
+<td class="shuju">537</td>
+<td class="shuju">9904</td>
+<td class="shuju">重汽.上依红.柳汽.EQ行星齿轮244608只;重汽.上依红.柳汽.EQ半轴齿轮857861只</td>
+</tr>
+<tr><td class="zhibiao">雅安富君铸造有限公司</td>
+<td class="shuju">四川省雅安巿工业园区</td>
+<td class="shuju">625100</td>
+<td class="shuju">(0835)3235481</td>
+<td class="shuju">110</td>
+<td class="shuju">1798</td>
+<td class="shuju">汽车减速器壳231953只;汽车差速器壳231953只;汽车制动鼓27942只</td>
+</tr>
+<tr><td class="zhibiao">零八一电子集团广元建兴机电有限公司</td>
+<td class="shuju">四川省广元巿市中区东坝乡110信箱</td>
+<td class="shuju">628017</td>
+<td class="shuju">(0839)3363903</td>
+<td class="shuju">250</td>
+<td class="shuju">2028</td>
+<td class="shuju">嘉陵摩托车盘式制动器总成12000台</td>
+</tr>
+<tr><td class="zhibiao">四川坤鼎车业有限公司</td>
+<td class="shuju">四川省遂宁巿创新工业园区南环路16号</td>
+<td class="shuju">629000</td>
+<td class="shuju">(0825)2623125</td>
+<td class="shuju">125</td>
+<td class="shuju">1708</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">四川天泉汽车空调有限公司</td>
+<td class="shuju">四川省遂宁市创新工业园区</td>
+<td class="shuju">629000</td>
+<td class="shuju">(0825)5895076</td>
+<td class="shuju">48</td>
+<td class="shuju">1200</td>
+<td class="shuju">FOTON.本田.马自达等空调压缩机3万台</td>
+</tr>
+<tr><td class="zhibiao">恩比贝克飞虹汽车零部件(四川)有限公司</td>
+<td class="shuju">四川省遂宁市创新工业园区南环路6号</td>
+<td class="shuju">629000</td>
+<td class="shuju">(0825)2316269</td>
+<td class="shuju">528</td>
+<td class="shuju">11800</td>
+<td class="shuju">长安.LZW.东安.BYD.SQR.出口等曲轴瓦.凸轮轴瓦.连杆瓦172.50万对</td>
+</tr>
+<tr><td class="zhibiao">四川富士电机有限公司</td>
+<td class="shuju">四川省遂宁市射洪县太和镇虹桥路359号</td>
+<td class="shuju">629200</td>
+<td class="shuju">(0825)6981559</td>
+<td class="shuju">699</td>
+<td class="shuju">8105</td>
+<td class="shuju">长安刮水器总成49000只;LZW手动玻璃升降器53000只;长安风扇49000只</td>
+</tr>
+<tr><td class="zhibiao">四川南充康达汽车零部件集团有限公司</td>
+<td class="shuju">四川省南充市顺庆区西华路二段133号</td>
+<td class="shuju">637000</td>
+<td class="shuju">(0817)2583772</td>
+<td class="shuju">285</td>
+<td class="shuju">7522</td>
+<td class="shuju">上依红增压中冷器116728只</td>
+</tr>
+<tr><td class="zhibiao">南充工塑零部件有限公司</td>
+<td class="shuju">四川省南充市顺庆区潆华工业园华生东路</td>
+<td class="shuju">637000</td>
+<td class="shuju">(0817)2700837</td>
+<td class="shuju">82</td>
+<td class="shuju">2450</td>
+<td class="shuju">塑料风扇叶等</td>
+</tr>
+<tr><td class="zhibiao">四川嘉宝汽车有限责任公司</td>
+<td class="shuju">四川省蓬安县相如镇建设北路266号</td>
+<td class="shuju">637800</td>
+<td class="shuju">(0817)8622294</td>
+<td class="shuju">558</td>
+<td class="shuju">26000</td>
+<td class="shuju">长安.EQ.重汽货厢总成598000台</td>
+</tr>
+<tr><td class="zhibiao">南充市攀峰滤清器有限公司</td>
+<td class="shuju">四川省南充巿嘉陵区春江路16号</td>
+<td class="shuju">637900</td>
+<td class="shuju">(0817)3662566</td>
+<td class="shuju">390</td>
+<td class="shuju">8845</td>
+<td class="shuju">上依红.SX.XMQ空气滤清器98400只;上依红散热器总成31600只.滤芯20400只</td>
+</tr>
+<tr><td class="zhibiao">东风南充汽车有限公司</td>
+<td class="shuju">四川省南充市嘉陵区嘉南路一段180号</td>
+<td class="shuju">637900</td>
+<td class="shuju">(0817)4986066</td>
+<td class="shuju">1448</td>
+<td class="shuju">88298</td>
+<td class="shuju">载货车6717辆;汽车用CNG发动机商品量8016台;客车非完整车辆933辆</td>
+</tr>
+<tr><td class="zhibiao">邻水县精工动力机械厂</td>
+<td class="shuju">四川省邻水县工业集中区一区</td>
+<td class="shuju">638500</td>
+<td class="shuju">(0826)3252761</td>
+<td class="shuju">180</td>
+<td class="shuju">4980</td>
+<td class="shuju">微车曲轴箱100500台</td>
+</tr>
+<tr><td class="zhibiao">内江金鸿曲轴有限公司</td>
+<td class="shuju">四川省内江市中区牌楼路157号</td>
+<td class="shuju">641000</td>
+<td class="shuju">(0832)2102115</td>
+<td class="shuju">2000</td>
+<td class="shuju">54895</td>
+<td class="shuju">长安.柳机.渝安.JAC.JMC.CC.SQR等曲轴220万根</td>
+</tr>
+<tr><td class="zhibiao">资阳市蓝海机械有限责任公司</td>
+<td class="shuju">四川省资阳市雁江区莲花村四社</td>
+<td class="shuju">641300</td>
+<td class="shuju">(028)26195298</td>
+<td class="shuju">95</td>
+<td class="shuju">4159</td>
+<td class="shuju">南骏货厢总成6557台</td>
+</tr>
+<tr><td class="zhibiao">简阳市兴旺汽车标准件厂</td>
+<td class="shuju">四川省简阳市新市镇新伍路48号</td>
+<td class="shuju">641400</td>
+<td class="shuju">(028)27126668</td>
+<td class="shuju">104</td>
+<td class="shuju">196208</td>
+<td class="shuju">汽车油箱3万只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

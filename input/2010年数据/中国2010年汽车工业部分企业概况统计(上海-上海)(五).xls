@@ -1,0 +1,375 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(上海-上海)(五)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">上海华普汽车有限公司</td>
+<td class="shuju">上海市金山区枫泾工业园万枫公路2888号</td>
+<td class="shuju">201501</td>
+<td class="shuju">(021)51369990</td>
+<td class="shuju">400</td>
+<td class="shuju">279429</td>
+<td class="shuju">基本型乘用车58427辆</td>
+</tr>
+<tr><td class="zhibiao">上海金山易通汽车离合器有限公司</td>
+<td class="shuju">上海市金山区枫泾工业区环米一路138号</td>
+<td class="shuju">201501</td>
+<td class="shuju">(021)67355646</td>
+<td class="shuju">130</td>
+<td class="shuju">14184</td>
+<td class="shuju">汽车皮带轮597个</td>
+</tr>
+<tr><td class="zhibiao">上海明冠实业有限公司</td>
+<td class="shuju">上海市金山区枫泾工业区王圩路135</td>
+<td class="shuju">201501</td>
+<td class="shuju">(021)67355877</td>
+<td class="shuju">236</td>
+<td class="shuju">4197</td>
+<td class="shuju">汽车开关526万只</td>
+</tr>
+<tr><td class="zhibiao">上海华普国润汽车有限公司</td>
+<td class="shuju">上海市金山区枫泾工业园万枫公路2888号</td>
+<td class="shuju">201501</td>
+<td class="shuju">(021)51369990</td>
+<td class="shuju">1470</td>
+<td class="shuju">300092</td>
+<td class="shuju">基本型乘用车58336辆</td>
+</tr>
+<tr><td class="zhibiao">上海合晟汽车零部件有限公司</td>
+<td class="shuju">上海市金山区朱泾镇新农新顺路9号</td>
+<td class="shuju">201503</td>
+<td class="shuju">(021)57340172</td>
+<td class="shuju">75</td>
+<td class="shuju">1048</td>
+<td class="shuju">汽车后视镜片220万只</td>
+</tr>
+<tr><td class="zhibiao">上海金豹实业有限公司</td>
+<td class="shuju">上海市金山工业区漕廊路3038号</td>
+<td class="shuju">201506</td>
+<td class="shuju">(021)67276818</td>
+<td class="shuju">265</td>
+<td class="shuju">7913</td>
+<td class="shuju">SVW汽车密封件196.66万元</td>
+</tr>
+<tr><td class="zhibiao">上海天普汽车零部件有限公司</td>
+<td class="shuju">上海市金山区亭卫公路4555号</td>
+<td class="shuju">201506</td>
+<td class="shuju">(021)67276408</td>
+<td class="shuju">102</td>
+<td class="shuju">3213</td>
+<td class="shuju">汽车用油管.水管</td>
+</tr>
+<tr><td class="zhibiao">上海鑫孚汽车科技有限公司</td>
+<td class="shuju">上海市金山工业区金百公路455号</td>
+<td class="shuju">201506</td>
+<td class="shuju">(021)67276777</td>
+<td class="shuju">64</td>
+<td class="shuju">1330</td>
+<td class="shuju">动力转向油管;离合器软管组件</td>
+</tr>
+<tr><td class="zhibiao">上海神富机械科技有限公司</td>
+<td class="shuju">上海市金山工业区金流路269号</td>
+<td class="shuju">201506</td>
+<td class="shuju">(021)67277118</td>
+<td class="shuju">268</td>
+<td class="shuju">5413</td>
+<td class="shuju">摩托车油箱142万只</td>
+</tr>
+<tr><td class="zhibiao">上海中茂新能源应用有限公司</td>
+<td class="shuju">上海市金山区亭卫公路6726号</td>
+<td class="shuju">201506</td>
+<td class="shuju">(021)57274522</td>
+<td class="shuju">60</td>
+<td class="shuju">5508</td>
+<td class="shuju">轻烃油9090t</td>
+</tr>
+<tr><td class="zhibiao">上海方科汽车部件有限公司</td>
+<td class="shuju">上海市金山区漕泾镇平业路99号</td>
+<td class="shuju">201507</td>
+<td class="shuju">(021)67256611</td>
+<td class="shuju">209</td>
+<td class="shuju">7052</td>
+<td class="shuju">SGM.SQR.JL.长安转向盘158900只</td>
+</tr>
+<tr><td class="zhibiao">上海岭海汽配有限公司</td>
+<td class="shuju">上海市金山区山阳九龙村洙山路305号</td>
+<td class="shuju">201508</td>
+<td class="shuju">(021)57241251</td>
+<td class="shuju">60</td>
+<td class="shuju">944</td>
+<td class="shuju">球头</td>
+</tr>
+<tr><td class="zhibiao">上海贝尼汽车科技有限公司</td>
+<td class="shuju">上海市金山区山阳镇山富东路181号</td>
+<td class="shuju">201508</td>
+<td class="shuju">(021)57248000</td>
+<td class="shuju">120</td>
+<td class="shuju">6400</td>
+<td class="shuju">皮带张紧轮</td>
+</tr>
+<tr><td class="zhibiao">上海盈田汽车零部件有限公司</td>
+<td class="shuju">上海市金山区张堰镇张漕公路97号</td>
+<td class="shuju">201514</td>
+<td class="shuju">(021)57214666</td>
+<td class="shuju">145</td>
+<td class="shuju">3529</td>
+<td class="shuju">后视镜640万只</td>
+</tr>
+<tr><td class="zhibiao">上海胜信金属制品有限公司</td>
+<td class="shuju">上海市金山区廊下镇光明村舍石北路998号</td>
+<td class="shuju">201516</td>
+<td class="shuju">(021)57202969</td>
+<td class="shuju">68</td>
+<td class="shuju">1680</td>
+<td class="shuju">捷达轮扳手.换挡拉杆</td>
+</tr>
+<tr><td class="zhibiao">上海群方汽车配件有限公司</td>
+<td class="shuju">上海市金山区吕巷镇泖湾8组</td>
+<td class="shuju">201517</td>
+<td class="shuju">(021)57375190</td>
+<td class="shuju">56</td>
+<td class="shuju">1063</td>
+<td class="shuju">起亚TDC.华晨AI后视镜18万只</td>
+</tr>
+<tr><td class="zhibiao">上海广凌气门座有限公司</td>
+<td class="shuju">上海巿金山区吕巷朱吕公路6588号</td>
+<td class="shuju">201517</td>
+<td class="shuju">(021)57370099</td>
+<td class="shuju">220</td>
+<td class="shuju">2381</td>
+<td class="shuju">进排气门座</td>
+</tr>
+<tr><td class="zhibiao">上海干巷汽车镜(集团)有限公司</td>
+<td class="shuju">上海市金山区于巷镇朱吕公路4000号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57202621</td>
+<td class="shuju">959</td>
+<td class="shuju">66512</td>
+<td class="shuju">出口后视镜43.90万只;明锐保险杠5.6万件</td>
+</tr>
+<tr><td class="zhibiao">上海梅克朗汽车镜有限公司</td>
+<td class="shuju">上海市金山区干巷镇和平工业区</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57202690</td>
+<td class="shuju">201</td>
+<td class="shuju">15397</td>
+<td class="shuju">汽车后视镜97.70万只</td>
+</tr>
+<tr><td class="zhibiao">麦格纳唐纳利(上海)汽车系统有限公司</td>
+<td class="shuju">上海市金山区金张公路2998号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57205720</td>
+<td class="shuju">748</td>
+<td class="shuju">70602</td>
+<td class="shuju">SGM.华晨.东风悦达起亚.SVW后视镜309.66万只;FVW.JL电动后视镜130.34万只</td>
+</tr>
+<tr><td class="zhibiao">华博汽车镜(上海)有限公司</td>
+<td class="shuju">上海巿金山区干巷镇和平工业区和平九组</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57207946</td>
+<td class="shuju">358</td>
+<td class="shuju">10328</td>
+<td class="shuju">汽车内视镜909.57万只;汽车后视镜434.61万只</td>
+</tr>
+<tr><td class="zhibiao">上海吕巷汽车零部件有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷张泾路885号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57203074</td>
+<td class="shuju">123</td>
+<td class="shuju">1088</td>
+<td class="shuju">汽车后视镜100万只</td>
+</tr>
+<tr><td class="zhibiao">上海依赛工业有限公司</td>
+<td class="shuju">上海市金山区巷镇干巷和平工业区</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57202733</td>
+<td class="shuju">192</td>
+<td class="shuju">20767</td>
+<td class="shuju">SVW保险杠809144件</td>
+</tr>
+<tr><td class="zhibiao">上海博迩森汽车配件有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷荣田路288号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)572088791</td>
+<td class="shuju">180</td>
+<td class="shuju">5028</td>
+<td class="shuju">麦格纳唐纳利.华翔汽车线束535.2万套</td>
+</tr>
+<tr><td class="zhibiao">上海市金山区干巷汽车配件有限公司</td>
+<td class="shuju">上海巿金山区吕巷镇干巷荣丰路82号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57208039</td>
+<td class="shuju">50</td>
+<td class="shuju">3091</td>
+<td class="shuju">车灯总成15万只</td>
+</tr>
+<tr><td class="zhibiao">德韧干巷汽车系统(上海)有限公司</td>
+<td class="shuju">上海市金山区金张公路2658号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57201098</td>
+<td class="shuju">324</td>
+<td class="shuju">19999</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">上海霍费贝特汽车部件有限公司</td>
+<td class="shuju">上海市金山区干巷镇和平工业区</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57208190</td>
+<td class="shuju">144</td>
+<td class="shuju">5422</td>
+<td class="shuju">汽车后视镜壳3600万件</td>
+</tr>
+<tr><td class="zhibiao">上海干巷车镜实业有限公司</td>
+<td class="shuju">上海市金山区朱吕公路4000号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57207116</td>
+<td class="shuju">270</td>
+<td class="shuju">15112</td>
+<td class="shuju">后视镜858万只</td>
+</tr>
+<tr><td class="zhibiao">上海汉强汽车零配件有限公司</td>
+<td class="shuju">上海巿金山区吕巷镇干巷工业园区荣丰路705弄65号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57207521</td>
+<td class="shuju">100</td>
+<td class="shuju">2122</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">上海晓燕车镜有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干林咱1808号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57201219</td>
+<td class="shuju">60</td>
+<td class="shuju">1533</td>
+<td class="shuju">汽车后视镜352万只</td>
+</tr>
+<tr><td class="zhibiao">上海慧虹汽车配件有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷张泾路885号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57207908</td>
+<td class="shuju">62</td>
+<td class="shuju">1775</td>
+<td class="shuju">汽车后视镜壳48万只</td>
+</tr>
+<tr><td class="zhibiao">上海黄汶汽车配件有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷张泾荣田路288号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57208803</td>
+<td class="shuju">206</td>
+<td class="shuju">7664</td>
+<td class="shuju">汽车后视镜零部件</td>
+</tr>
+<tr><td class="zhibiao">上海干巷五金冲压有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷荣昌路西粮库内</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57200644</td>
+<td class="shuju">45</td>
+<td class="shuju">739</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">上海慧敏汽车配件有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷工业区张泾路885号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57203074</td>
+<td class="shuju">70</td>
+<td class="shuju">2888</td>
+<td class="shuju">汽车后视镜线束</td>
+</tr>
+<tr><td class="zhibiao">上海慧嵘五金有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干巷工业区</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57203074</td>
+<td class="shuju">200</td>
+<td class="shuju">1661</td>
+<td class="shuju">汽车后视镜喷漆</td>
+</tr>
+<tr><td class="zhibiao">上海辉碟车镜有限公司</td>
+<td class="shuju">上海市金山区吕巷镇干林路1808号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57201340</td>
+<td class="shuju">160</td>
+<td class="shuju">2386</td>
+<td class="shuju">汽车后视镜463万只</td>
+</tr>
+<tr><td class="zhibiao">上海希克五金塑料有限公司</td>
+<td class="shuju">上海市金山区吕巷镇金张公路2669号</td>
+<td class="shuju">201518</td>
+<td class="shuju">(021)57205111</td>
+<td class="shuju">80</td>
+<td class="shuju">908</td>
+<td class="shuju">唐纳利.华翔.法可赛汽车密封件768万元</td>
+</tr>
+<tr><td class="zhibiao">上海华夏震旦消防设备有限公司</td>
+<td class="shuju">上海市宝山区月罗路2098号</td>
+<td class="shuju">201600</td>
+<td class="shuju">(021)57833768</td>
+<td class="shuju">135</td>
+<td class="shuju">4539</td>
+<td class="shuju">改装泡沬消防车57辆;改装干粉消防车6辆;改装水罐消防车6辆</td>
+</tr>
+<tr><td class="zhibiao">上海格拉曼国际消防装备有限公司</td>
+<td class="shuju">上海市松江区北内路32号</td>
+<td class="shuju">201600</td>
+<td class="shuju">(021)57833768</td>
+<td class="shuju">224</td>
+<td class="shuju">17526</td>
+<td class="shuju">改装绿化喷洒车157辆;改装罐式汽车33辆;改装水罐消防车32辆</td>
+</tr>
+<tr><td class="zhibiao">上海汽车地毯总厂有限公司</td>
+<td class="shuju">上海巿松江区松蒸路189号</td>
+<td class="shuju">201600</td>
+<td class="shuju">(021)67727091</td>
+<td class="shuju">552</td>
+<td class="shuju">37525</td>
+<td class="shuju">SVW.SGM.JL成型地毯320.04万套</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

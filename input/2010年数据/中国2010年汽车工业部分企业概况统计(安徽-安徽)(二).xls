@@ -1,0 +1,375 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(安徽-安徽)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">安徽江淮福臻汽车技术服务有限公司</td>
+<td class="shuju">合肥市包河工业区经七路6号</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)2293408</td>
+<td class="shuju">312</td>
+<td class="shuju">21804</td>
+<td class="shuju">JAC驾驶室及车身总成19217台</td>
+</tr>
+<tr><td class="zhibiao">正兴集团合肥车轮有限公司</td>
+<td class="shuju">合肥巿包河工业区经七路5</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)4843993</td>
+<td class="shuju">556</td>
+<td class="shuju">28263</td>
+<td class="shuju">JAC.中集钢圈总成105万只</td>
+</tr>
+<tr><td class="zhibiao">合肥圣峰工贸有限责任公司</td>
+<td class="shuju">合肥市包河区淝河镇黄镇村</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)4844289</td>
+<td class="shuju">4</td>
+<td class="shuju">113</td>
+<td class="shuju">光屯板总成</td>
+</tr>
+<tr><td class="zhibiao">安徽安凯金达汽车部件有限公司</td>
+<td class="shuju">合肥市包河区葛淝路97号</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)2297622</td>
+<td class="shuju">479</td>
+<td class="shuju">31316</td>
+<td class="shuju">JAC车架总成3900台</td>
+</tr>
+<tr><td class="zhibiao">合肥滨海工程机械有限公司</td>
+<td class="shuju">合肥市义兴镇花园路158号席井工业园6号厂房</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)3425467</td>
+<td class="shuju">66</td>
+<td class="shuju">6625</td>
+<td class="shuju">合肥车桥后桥壳48089只</td>
+</tr>
+<tr><td class="zhibiao">合肥久享机械有限责任公司</td>
+<td class="shuju">合肥市包河工业区纬五路7号</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)267828</td>
+<td class="shuju">58</td>
+<td class="shuju">1580</td>
+<td class="shuju">JAC贮气筒1333只;JAC货厢总成789台</td>
+</tr>
+<tr><td class="zhibiao">合肥常菱菱汽车零部件有限公司</td>
+<td class="shuju">合肥市包河区东流路18号</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)345980</td>
+<td class="shuju">185</td>
+<td class="shuju">2219</td>
+<td class="shuju">JAC贮气筒30万只;JAC消声器排气管15万只</td>
+</tr>
+<tr><td class="zhibiao">合肥常源汽车零部件有限责任公司</td>
+<td class="shuju">合肥市包河区工业区纬三路32号</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)4842966</td>
+<td class="shuju">68</td>
+<td class="shuju">3246</td>
+<td class="shuju">JAC驾驶室及车身总成5500台</td>
+</tr>
+<tr><td class="zhibiao">合肥市龙瑞机械有限公司</td>
+<td class="shuju">合肥市包河区葛淝路淝河工业园A区</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)4845038</td>
+<td class="shuju">76</td>
+<td class="shuju">1219</td>
+<td class="shuju">行星齿轮</td>
+</tr>
+<tr><td class="zhibiao">合肥望湖机械有限责任公司</td>
+<td class="shuju">含肥市包河工业区纬五路1号</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)3445764</td>
+<td class="shuju">50</td>
+<td class="shuju">1537</td>
+<td class="shuju">汽车货厢总成1900台</td>
+</tr>
+<tr><td class="zhibiao">安徽国风汽车电子有限公司</td>
+<td class="shuju">合肥市包河区花园路席井工业园</td>
+<td class="shuju">230051</td>
+<td class="shuju">(0551)3368236</td>
+<td class="shuju">30</td>
+<td class="shuju">825</td>
+<td class="shuju">华菱消声器总成13510只</td>
+</tr>
+<tr><td class="zhibiao">合肥开乐特种车辆有限公司</td>
+<td class="shuju">合肥市蜀山区新产业园井岗路西端</td>
+<td class="shuju">230061</td>
+<td class="shuju">(0551)5358238</td>
+<td class="shuju">198</td>
+<td class="shuju">11593</td>
+<td class="shuju">改装扫路车96辆;汽车货厢总成1085台;改装厢式汽车43辆</td>
+</tr>
+<tr><td class="zhibiao">合肥今典机械科技有限公司</td>
+<td class="shuju">合肥巿包河工业区大连路25号</td>
+<td class="shuju">230061</td>
+<td class="shuju">(0551)4842246</td>
+<td class="shuju">56</td>
+<td class="shuju">2951</td>
+<td class="shuju">常菱.三一动力转向泵11411只</td>
+</tr>
+<tr><td class="zhibiao">安徽应流机电有限责任公司</td>
+<td class="shuju">合肥市经济技术开发区民营园齐云路26号</td>
+<td class="shuju">230061</td>
+<td class="shuju">(0551)3821999</td>
+<td class="shuju">1061</td>
+<td class="shuju">122715</td>
+<td class="shuju">铸造.涂装.钣金.熔炼</td>
+</tr>
+<tr><td class="zhibiao">合肥邦立电子股份有限公司</td>
+<td class="shuju">安徽省肥西县桃花镇香蒲路3号</td>
+<td class="shuju">230088</td>
+<td class="shuju">(0551)3846508</td>
+<td class="shuju">140</td>
+<td class="shuju">5741</td>
+<td class="shuju">JAC.SQR.北汽福田.华菱传感器177万只</td>
+</tr>
+<tr><td class="zhibiao">合肥通宇电子有限责任公司</td>
+<td class="shuju">台肥市高新区机电产业园丰乐河路</td>
+<td class="shuju">230088</td>
+<td class="shuju">(0551)5367560</td>
+<td class="shuju">75</td>
+<td class="shuju">2701</td>
+<td class="shuju">JAC.华泰.CA.BJ中央控制器288101件</td>
+</tr>
+<tr><td class="zhibiao">合肥四方环卫车辆有限责任公司</td>
+<td class="shuju">合肥市经济技术开发区汤口路139号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3676906</td>
+<td class="shuju">147</td>
+<td class="shuju">1304</td>
+<td class="shuju">改装重型汽车93辆</td>
+</tr>
+<tr><td class="zhibiao">合肥昌辉汽车电子有限公司</td>
+<td class="shuju">合肥巿经济技术开发区桃源路27号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)5735702</td>
+<td class="shuju">162</td>
+<td class="shuju">5182</td>
+<td class="shuju">JAC.SQR传感器170万只;JAC.黄山开关314363只;JAC.SQR蜂鸣器.报警器11.7万只</td>
+</tr>
+<tr><td class="zhibiao">安徽汇金汽车零件有限公司</td>
+<td class="shuju">合肥市经济技术开发区始信南路62号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3507602</td>
+<td class="shuju">78</td>
+<td class="shuju">7791</td>
+<td class="shuju">汽车座椅面套</td>
+</tr>
+<tr><td class="zhibiao">安徽森力汽车电子有限公司</td>
+<td class="shuju">合肥市经济技术开发区蓬莱路东</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)7109768</td>
+<td class="shuju">190</td>
+<td class="shuju">7022</td>
+<td class="shuju">JAC.SQR汽车音响349028台</td>
+</tr>
+<tr><td class="zhibiao">合肥江淮新发汽车有限公司</td>
+<td class="shuju">合肥市经济开发区莲花路1081号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)2294276</td>
+<td class="shuju">956</td>
+<td class="shuju">31782</td>
+<td class="shuju">JAC.昌河汽车线束336913套;JAC暖风机2000台</td>
+</tr>
+<tr><td class="zhibiao">合肥美桥汽车传动及底盘系统有限公司</td>
+<td class="shuju">合肥市经济技术开发区始信路62号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)2297119</td>
+<td class="shuju">314</td>
+<td class="shuju">33148</td>
+<td class="shuju">JAC后桥总成50190台;JAC转向节129482只.JAC独立悬架62491套</td>
+</tr>
+<tr><td class="zhibiao">安徽江淮松芝空调有限公司</td>
+<td class="shuju">合肥市经济技术开发区始信路62号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)7131860</td>
+<td class="shuju">339</td>
+<td class="shuju">62573</td>
+<td class="shuju">JAC空调装置244451台</td>
+</tr>
+<tr><td class="zhibiao">合肥威尔燃油系统有责任限公司</td>
+<td class="shuju">合肥巿经济技术开发区佛掌路59号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3847100</td>
+<td class="shuju">122</td>
+<td class="shuju">6349</td>
+<td class="shuju">锡柴.玉柴.宇通柴油滤清器1005068只</td>
+</tr>
+<tr><td class="zhibiao">合肥汇通汽车零部件有限公司</td>
+<td class="shuju">合肥巿经济技术开发区汤口路99号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3845606</td>
+<td class="shuju">210</td>
+<td class="shuju">8438</td>
+<td class="shuju">轮胎罩.仪表罩.轮毂罩</td>
+</tr>
+<tr><td class="zhibiao">合肥市富园汽车改装有限公司</td>
+<td class="shuju">合肥市经济技术开发区桃花工业园汤口路9号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3825988</td>
+<td class="shuju">92</td>
+<td class="shuju">9463</td>
+<td class="shuju">改装中型汽车1323辆</td>
+</tr>
+<tr><td class="zhibiao">安徽宝能机械有限公司</td>
+<td class="shuju">合肥经济技术开发区表鸾路29路</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3848958</td>
+<td class="shuju">84</td>
+<td class="shuju">4583</td>
+<td class="shuju">昌河座椅总成53271只</td>
+</tr>
+<tr><td class="zhibiao">安徽江淮福臻车体装备有限公司</td>
+<td class="shuju">合肥经济技术开发区繁华大道216</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)2297168</td>
+<td class="shuju">165</td>
+<td class="shuju">18574</td>
+<td class="shuju">汽车模具</td>
+</tr>
+<tr><td class="zhibiao">安徽省恒泰机电设备有限责任公司</td>
+<td class="shuju">合肥市经济技术开发区汤口路95号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3854898</td>
+<td class="shuju">35</td>
+<td class="shuju">1401</td>
+<td class="shuju">JAC转向节37396只</td>
+</tr>
+<tr><td class="zhibiao">安徽安凯华夏汽车配件制造有限公司</td>
+<td class="shuju">安徽省六安市大别山西路</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3876903</td>
+<td class="shuju">290</td>
+<td class="shuju">18990</td>
+<td class="shuju">JAC液压举升翻转装置363800只</td>
+</tr>
+<tr><td class="zhibiao">合肥纳发车桥有限公司</td>
+<td class="shuju">合肥市经济技术开发区紫云路123号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3854924</td>
+<td class="shuju">40</td>
+<td class="shuju">22229</td>
+<td class="shuju">JAC前桥总成38868台;JAC车架总成19068台</td>
+</tr>
+<tr><td class="zhibiao">合肥益江汽车零部件有限公司</td>
+<td class="shuju">合肥市经济技术开发区桃花工业园</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3825205</td>
+<td class="shuju">206</td>
+<td class="shuju">8572</td>
+<td class="shuju">胶管.胶条</td>
+</tr>
+<tr><td class="zhibiao">合肥创佳汽车电器有限公司</td>
+<td class="shuju">合肥市经济技术开发区桃花工业园始信路118号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3825630</td>
+<td class="shuju">302</td>
+<td class="shuju">8326</td>
+<td class="shuju">JAC刮水器总成50万只;JAC手动玻璃升降器40万只;JAC开关8万只</td>
+</tr>
+<tr><td class="zhibiao">合肥联华机械零部件有限责任公司</td>
+<td class="shuju">合肥市经济技术开发区玉屏路318号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3681692</td>
+<td class="shuju">100</td>
+<td class="shuju">9442</td>
+<td class="shuju">发动机前支撑梁</td>
+</tr>
+<tr><td class="zhibiao">安徽佳仕龙机械制造有限责任公司</td>
+<td class="shuju">合肥巿经济技术开发区卧云路117号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3891068</td>
+<td class="shuju">120</td>
+<td class="shuju">4650</td>
+<td class="shuju">左.右门柱支架;油箱支架</td>
+</tr>
+<tr><td class="zhibiao">合肥市华联汽车配件有限公司</td>
+<td class="shuju">合肥市桃花工业园新区始信路与紫石路交叉口</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3681855</td>
+<td class="shuju">50</td>
+<td class="shuju">3030</td>
+<td class="shuju">汽车连接钢管;储气筒支架</td>
+</tr>
+<tr><td class="zhibiao">合肥美进汽车配件有限公司</td>
+<td class="shuju">合肥市经济技术开发区佛掌路东耕耘路北2号标准化化厂房</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)2351958</td>
+<td class="shuju">50</td>
+<td class="shuju">858</td>
+<td class="shuju">压板.接头</td>
+</tr>
+<tr><td class="zhibiao">合肥云鹤江森汽车座椅有限公司</td>
+<td class="shuju">合肥市经济技术开发区桃花工业园始信南路62号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3507602</td>
+<td class="shuju">603</td>
+<td class="shuju">44765</td>
+<td class="shuju">JAC座椅总成905781只</td>
+</tr>
+<tr><td class="zhibiao">广豪汽车配件(合肥)有限公司</td>
+<td class="shuju">合肥市经济技术开发区青鸾路8号民营科技园B号路E座</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3820418</td>
+<td class="shuju">62</td>
+<td class="shuju">1498</td>
+<td class="shuju">空调管路</td>
+</tr>
+<tr><td class="zhibiao">合肥动益汽车配件有限公司</td>
+<td class="shuju">合肥市经济技术开发区桃源路175号</td>
+<td class="shuju">230601</td>
+<td class="shuju">(0551)3823135</td>
+<td class="shuju">68</td>
+<td class="shuju">6119</td>
+<td class="shuju">空调配件</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

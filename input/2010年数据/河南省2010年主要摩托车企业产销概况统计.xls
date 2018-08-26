@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">河南省2010年主要摩托车企业产销概况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">排位</td>
+<td class="biaotou">企业</td>
+<td class="biaotou">摩托车产销概况</td>
+</tr>
+<tr><td class="zhibiao">1</td>
+<td class="shuju">洛阳北方易初摩托车有限公司</td>
+<td class="shuju">生产1242751辆(其中北易三轮175830辆).同比增长13.3%.销售收入29.67亿元.增长14.1%</td>
+</tr>
+<tr><td class="zhibiao">2</td>
+<td class="shuju">洛阳北方易初:轮摩托车有限公司</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">3</td>
+<td class="shuju">洛阳北方企业集团有限公司</td>
+<td class="shuju">生产103816辆.同比增长91.6%.销售收入6.21亿元.增长57.2%</td>
+</tr>
+<tr><td class="zhibiao">4</td>
+<td class="shuju">河南隆鑫机车有限公司</td>
+<td class="shuju">生产159691辆.同比增长12.8%.销售收入4.47亿元.同比增长25.9%</td>
+</tr>
+<tr><td class="zhibiao">5</td>
+<td class="shuju">洛阳大运三轮摩托车有限公司</td>
+<td class="shuju">生产91000辆.销售收入4.05亿元</td>
+</tr>
+<tr><td class="zhibiao">6</td>
+<td class="shuju">河南力之星三轮摩托车制造有限公司</td>
+<td class="shuju">生产104203辆.同比增长20.0%.销售收入3.02亿元.同比增长22.4%</td>
+</tr>
+<tr><td class="zhibiao">7</td>
+<td class="shuju">河南北方永盛摩托车有限责任公司</td>
+<td class="shuju">生产68650辆.同比增长11.7%.销售收入2.68亿元.同比增长17.5%</td>
+</tr>
+<tr><td class="zhibiao">8</td>
+<td class="shuju">洛阳珠峰华鹰三轮摩托车有限公司</td>
+<td class="shuju">生产62112辆.同比增长22.0%.销售收入2.47亿元.同比增长32%</td>
+</tr>
+<tr><td class="zhibiao">9</td>
+<td class="shuju">河南嘉陵三轮摩托车工业有限公司</td>
+<td class="shuju">生产60000辆.销售收入2.03亿元.同比增长32.0%</td>
+</tr>
+<tr><td class="zhibiao">10</td>
+<td class="shuju">河南新鸽摩托车有限公司</td>
+<td class="shuju">生产56924辆.同比增长14.2%.销售收入1.92亿元.同比增长16.4%</td>
+</tr>
+<tr><td class="zhibiao">11</td>
+<td class="shuju">长葛市鸿舟车业有限公司</td>
+<td class="shuju">生产46890辆.同比增长11.6%.销售收入1.69亿元.同比增长20.0%</td>
+</tr>
+<tr><td class="zhibiao">12</td>
+<td class="shuju">洛阳北方大河三轮摩托车有限公司</td>
+<td class="shuju">生产46742辆.同比销售收入1.64亿元</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

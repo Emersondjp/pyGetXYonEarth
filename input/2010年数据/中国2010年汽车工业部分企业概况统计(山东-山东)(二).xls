@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(山东-山东)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">山东申普交通科技有限公司</td>
+<td class="shuju">山东省淄博高新区政通路135号高科园E213</td>
+<td class="shuju">255086</td>
+<td class="shuju">(0533)3585581</td>
+<td class="shuju">36</td>
+<td class="shuju">406</td>
+<td class="shuju">山东哲人新能源科技仪表板总成188只</td>
+</tr>
+<tr><td class="zhibiao">山东中信迪生电源有限公司</td>
+<td class="shuju">山东省淄博高新区泰美路北首</td>
+<td class="shuju">255086</td>
+<td class="shuju">(0533)6217777</td>
+<td class="shuju">186</td>
+<td class="shuju">1514</td>
+<td class="shuju">电动汽车用钾离子动力电池18416kVAh</td>
+</tr>
+<tr><td class="zhibiao">淄博休普电机电器有限公司</td>
+<td class="shuju">山东省淄博市髙新区中润大道宝山路口东</td>
+<td class="shuju">255088</td>
+<td class="shuju">(0533)3988009</td>
+<td class="shuju">180</td>
+<td class="shuju">3819</td>
+<td class="shuju">电动车用直流牵引电机4万台</td>
+</tr>
+<tr><td class="zhibiao">山东唐骏欧铃汽车制造有限公司</td>
+<td class="shuju">山东省淄博市淄川经济开发区</td>
+<td class="shuju">255100</td>
+<td class="shuju">(0533)5439255</td>
+<td class="shuju">1193</td>
+<td class="shuju">233993</td>
+<td class="shuju">轻型载货车68776辆</td>
+</tr>
+<tr><td class="zhibiao">淄博隆泰工贸有限公司</td>
+<td class="shuju">山东省淄博市淄川区经济开发区双山千里马路</td>
+<td class="shuju">255100</td>
+<td class="shuju">(0533)5415768</td>
+<td class="shuju">45</td>
+<td class="shuju">-</td>
+<td class="shuju">冲压件</td>
+</tr>
+<tr><td class="zhibiao">淄博明泰电器科技有限公司</td>
+<td class="shuju">山东省淄博市淄川区龙隶镇湖南路193号</td>
+<td class="shuju">255100</td>
+<td class="shuju">(0533)5182351</td>
+<td class="shuju">30</td>
+<td class="shuju">741</td>
+<td class="shuju">陆骏等蓄电池25200kVAh</td>
+</tr>
+<tr><td class="zhibiao">山东先河悦新机电股份有限公司</td>
+<td class="shuju">山东省淄博巿淄川区洪山镇洪山大街6号</td>
+<td class="shuju">255152</td>
+<td class="shuju">(0533)5852458</td>
+<td class="shuju">883</td>
+<td class="shuju">21524</td>
+<td class="shuju">济南雅宝.日产等转向管柱3860只</td>
+</tr>
+<tr><td class="zhibiao">淄博压力容器厂</td>
+<td class="shuju">山东省淄博市博山区夏家庄路84号</td>
+<td class="shuju">255200</td>
+<td class="shuju">(0533)4281623</td>
+<td class="shuju">342</td>
+<td class="shuju">8190</td>
+<td class="shuju">改装ZBR9403GYQ.ZBR9403GDY超重型半挂车356辆</td>
+</tr>
+<tr><td class="zhibiao">山东机器(集团)有限公司</td>
+<td class="shuju">山东省淄博巿博山区八陡镇</td>
+<td class="shuju">255201</td>
+<td class="shuju">(0533)4520732</td>
+<td class="shuju">2217</td>
+<td class="shuju">64879</td>
+<td class="shuju">宝华.安鼓.富华.安徽车桥车轴69000根</td>
+</tr>
+<tr><td class="zhibiao">淄博贝尼托金属制品有限公司</td>
+<td class="shuju">山东省淄傅市博山区博沂路石炭坞1号</td>
+<td class="shuju">255201</td>
+<td class="shuju">(0533)4511996</td>
+<td class="shuju">1000</td>
+<td class="shuju">42233</td>
+<td class="shuju">汽车制动鼓352914只;汽车轮毂75827只;汽车车轴22766根</td>
+</tr>
+<tr><td class="zhibiao">博山区社会福利橡胶厂</td>
+<td class="shuju">山东省淄博市博山区八徒阵北峰峪村</td>
+<td class="shuju">255201</td>
+<td class="shuju">(0533)3021088</td>
+<td class="shuju">65</td>
+<td class="shuju">1022</td>
+<td class="shuju">特种车桥鼓式制动器总成34200台</td>
+</tr>
+<tr><td class="zhibiao">淄博铭陆车轮有限公司</td>
+<td class="shuju">山东省淄博市周村区东门路1529号</td>
+<td class="shuju">255300</td>
+<td class="shuju">(0533)6187259</td>
+<td class="shuju">86</td>
+<td class="shuju">1146</td>
+<td class="shuju">唐骏钢圈总成88086只</td>
+</tr>
+<tr><td class="zhibiao">淄博永华滤清器制造有限公司</td>
+<td class="shuju">山东省淄博市沂源经济开发区</td>
+<td class="shuju">256100</td>
+<td class="shuju">(0533)3265555</td>
+<td class="shuju">560</td>
+<td class="shuju">16500</td>
+<td class="shuju">欧曼.常柴.潍柴.莱动机油滤清器501万只;欧曼.常柴.潍柴.莱动柴油滤清器402万只;欧曼.唐骏欧铃.CA空气滤清器372万只</td>
+</tr>
+<tr><td class="zhibiao">沂源丰泽源皮革有限公司</td>
+<td class="shuju">山东省沂源县城沂河路10号</td>
+<td class="shuju">256100</td>
+<td class="shuju">(0533)3282440</td>
+<td class="shuju">580</td>
+<td class="shuju">13324</td>
+<td class="shuju">牛皮汽车坐垫革</td>
+</tr>
+<tr><td class="zhibiao">邹平奥发紧固件有限公司</td>
+<td class="shuju">山东省邹平县民营工业园</td>
+<td class="shuju">256200</td>
+<td class="shuju">(0543)4227202</td>
+<td class="shuju">188</td>
+<td class="shuju">3281</td>
+<td class="shuju">新大洲.铃木.本田.轻骑.标致摩托车车轴1300万根;新大洲.铃木.本田.轻骑.标致摩托车半轴套管60万只;SX.重汽气门挺柱40万根</td>
+</tr>
+<tr><td class="zhibiao">山东新安凯动力科技有限公司</td>
+<td class="shuju">山东省滨州市邹平县青阳工业开发区</td>
+<td class="shuju">256217</td>
+<td class="shuju">(0543)4579222</td>
+<td class="shuju">420</td>
+<td class="shuju">24364</td>
+<td class="shuju">HMC.SQR.LF变速器壳9万只</td>
+</tr>
+<tr><td class="zhibiao">山东哲人新能源科技发展有限公司</td>
+<td class="shuju">山东省邹平县好生镇经济开发区</td>
+<td class="shuju">256219</td>
+<td class="shuju">(0543)4503866</td>
+<td class="shuju">114</td>
+<td class="shuju">16893</td>
+<td class="shuju">改装电动汽车1353辆</td>
+</tr>
+<tr><td class="zhibiao">山东保水汽车改装有限公司</td>
+<td class="shuju">山东省博兴县乐安大街1988号</td>
+<td class="shuju">256500</td>
+<td class="shuju">(0543)2126088</td>
+<td class="shuju">80</td>
+<td class="shuju">5074</td>
+<td class="shuju">改装重型半挂车655辆;改装JAC清障车20辆</td>
+</tr>
+<tr><td class="zhibiao">滨州海得曲轴有限责任公司</td>
+<td class="shuju">山东省滨州巿开发区长江三路688号</td>
+<td class="shuju">256600</td>
+<td class="shuju">(0543)3402820</td>
+<td class="shuju">895</td>
+<td class="shuju">15181</td>
+<td class="shuju">朝柴.杨柴.潍柴.云内.南昌.出口曲轴238033根</td>
+</tr>
+<tr><td class="zhibiao">滨州盟威集团有限公司</td>
+<td class="shuju">山东省滨州市渤海二十一路569号</td>
+<td class="shuju">256602</td>
+<td class="shuju">(0543)3288788</td>
+<td class="shuju">5560</td>
+<td class="shuju">357682</td>
+<td class="shuju">玉柴.大柴.锡柴.潍柴.朝柴.淄柴.重汽.SQR.JL活塞2238万只;大众.FOTON轮毂189万只</td>
+</tr>
+<tr><td class="zhibiao">东营吉奥汽车有限公司</td>
+<td class="shuju">山东省东营巿东营区潍河路19号</td>
+<td class="shuju">257091</td>
+<td class="shuju">(0546)7762626</td>
+<td class="shuju">718</td>
+<td class="shuju">212668</td>
+<td class="shuju">载货车16192辆;二轮驱动SUV9952辆</td>
+</tr>
+<tr><td class="zhibiao">山东东方曼商用车有限公司</td>
+<td class="shuju">山东省东营市东营区府前大街3号</td>
+<td class="shuju">257091</td>
+<td class="shuju">(0546)7761288</td>
+<td class="shuju">288</td>
+<td class="shuju">15249</td>
+<td class="shuju">低速货车6004辆</td>
+</tr>
+<tr><td class="zhibiao">东营市科岭动力有限公司</td>
+<td class="shuju">山东省东营巿东营区南-路228号</td>
+<td class="shuju">257091</td>
+<td class="shuju">(0546)8155878</td>
+<td class="shuju">10</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">胜利油田高原石油装备有限责任公司</td>
+<td class="shuju">山东省东营市东二路233号311室</td>
+<td class="shuju">257091</td>
+<td class="shuju">(0546)8835779</td>
+<td class="shuju">2620</td>
+<td class="shuju">280328</td>
+<td class="shuju">改装连续管作业车12辆</td>
+</tr>
+<tr><td class="zhibiao">山东鸿亦机械有限公司</td>
+<td class="shuju">山东省东营市广饶县经济开发区广锦路99号</td>
+<td class="shuju">257300</td>
+<td class="shuju">(0546)6926629</td>
+<td class="shuju">840</td>
+<td class="shuju">132035</td>
+<td class="shuju">JAC.五征.徐工.柳汽后桥螺旋伞齿轮107万件</td>
+</tr>
+<tr><td class="zhibiao">山东汇丰汽车配件有限公司</td>
+<td class="shuju">山东省东营市广饶县大王镇经济开发区</td>
+<td class="shuju">257335</td>
+<td class="shuju">(0546)7726628</td>
+<td class="shuju">246</td>
+<td class="shuju">23531</td>
+<td class="shuju">传动轴178410只;万向节总成178410只</td>
+</tr>
+<tr><td class="zhibiao">山东盛泰车轮有限公司</td>
+<td class="shuju">山东省东营市广饶县大王经济开发区</td>
+<td class="shuju">257335</td>
+<td class="shuju">(0546)6898225</td>
+<td class="shuju">652</td>
+<td class="shuju">138597</td>
+<td class="shuju">钢圈总成460万只</td>
+</tr>
+<tr><td class="zhibiao">信义集团</td>
+<td class="shuju">山东省东营市广饶县大王镇常春路6号</td>
+<td class="shuju">257335</td>
+<td class="shuju">(0546)6882930</td>
+<td class="shuju">2186</td>
+<td class="shuju">306099</td>
+<td class="shuju">克莱斯勒.FOTON.GM.FVW.TJ.重汽制动片3000万只</td>
+</tr>
+<tr><td class="zhibiao">东营蒙德金马机车有限公司</td>
+<td class="shuju">山东省广饶县稻庄镇红旗路43号</td>
+<td class="shuju">257336</td>
+<td class="shuju">(0546)7729302</td>
+<td class="shuju">301</td>
+<td class="shuju">26931</td>
+<td class="shuju">宗申.轻骑三轮摩托车155084辆;改装混凝土揽拌运输车1038辆</td>
+</tr>
+<tr><td class="zhibiao">山东天海电装有限公司</td>
+<td class="shuju">山东省髙唐县经济技术开发区风帆路6号</td>
+<td class="shuju">258200</td>
+<td class="shuju">(0635)3998396</td>
+<td class="shuju">160</td>
+<td class="shuju">10976</td>
+<td class="shuju">中通.福田.时风.重汽汽车单表13000只;中通.福田.时风.重汽汽车导航系统12000套</td>
+</tr>
+<tr><td class="zhibiao">潍柴控股集团有限公司</td>
+<td class="shuju">山东省潍坊市奎文区民生东街26号</td>
+<td class="shuju">261001</td>
+<td class="shuju">(0536)8197727</td>
+<td class="shuju">42440</td>
+<td class="shuju">9113759</td>
+<td class="shuju">汽车用柴油机商品量447062台</td>
+</tr>
+<tr><td class="zhibiao">盛瑞传动股份有限公司</td>
+<td class="shuju">山东省潍坊高新区东风东街5166号天马国际商务大厦17层</td>
+<td class="shuju">261031</td>
+<td class="shuju">(0536)2297553</td>
+<td class="shuju">2600</td>
+<td class="shuju">114705</td>
+<td class="shuju">潍柴.一拖.雷沃连扦总成2427333只;潍柴.一拖.雷沃飞轮总成463388只;潍柴.一拖.雷沃水泵总成457957只</td>
+</tr>
+<tr><td class="zhibiao">山东潍柴华丰动力有限公司</td>
+<td class="shuju">山东省潍坊市高新技术产业开发区樱前街7879号</td>
+<td class="shuju">261041</td>
+<td class="shuju">(0536)8192701</td>
+<td class="shuju">780</td>
+<td class="shuju">-</td>
+<td class="shuju">R系列.495型柴油机</td>
+</tr>
+<tr><td class="zhibiao">潍坊宝利汽车有限公司</td>
+<td class="shuju">山东省潍坊市潍城区北宫西街7号</td>
+<td class="shuju">261057</td>
+<td class="shuju">(0536)8161996</td>
+<td class="shuju">225</td>
+<td class="shuju">9538</td>
+<td class="shuju">改装WFG9402.WFG9405.WFG9350等超重型半挂车877辆;改装WFG9280TJZ重型半挂车1辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

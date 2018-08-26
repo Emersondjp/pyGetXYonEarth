@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(江西-山东)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">江西江铃汽车集团改装车有限公司</td>
+<td class="shuju">江西省南昌巿迎宾大道2388号</td>
+<td class="shuju">330201</td>
+<td class="shuju">(0791)5985218</td>
+<td class="shuju">470</td>
+<td class="shuju">42893</td>
+<td class="shuju">改装JMC救护车465辆;改装JMC其他轻型改装汽车240辆;改装JMC工程车104辆</td>
+</tr>
+<tr><td class="zhibiao">江西制氧机有限公司</td>
+<td class="shuju">江西省九江市庐山区莲花路101号</td>
+<td class="shuju">332008</td>
+<td class="shuju">(0792)8903950</td>
+<td class="shuju">480</td>
+<td class="shuju">18274</td>
+<td class="shuju">改装超重型半挂车162辆;改装低温液体运输车84辆</td>
+</tr>
+<tr><td class="zhibiao">江西汇尔油泵油嘴有限公司</td>
+<td class="shuju">江西省瑞昌市赤乌中路58号</td>
+<td class="shuju">332200</td>
+<td class="shuju">(0792)4222927</td>
+<td class="shuju">710</td>
+<td class="shuju">12652</td>
+<td class="shuju">全柴.玉柴.南柴.上内.扬动等柴油泵372299只;四方.永柴等喷油器86335只</td>
+</tr>
+<tr><td class="zhibiao">江西新裕隆汽车零部件有限公司</td>
+<td class="shuju">江西省都昌县芙蓉山工业园</td>
+<td class="shuju">332600</td>
+<td class="shuju">(0792)5218222</td>
+<td class="shuju">95</td>
+<td class="shuju">1124</td>
+<td class="shuju">汽车轴承34万套</td>
+</tr>
+<tr><td class="zhibiao">中国直升机设计研究所</td>
+<td class="shuju">江西省景德镇市东郊湖田602所</td>
+<td class="shuju">333001</td>
+<td class="shuju">(0798)8465238</td>
+<td class="shuju">182</td>
+<td class="shuju">9106</td>
+<td class="shuju">JL.JMC.庆铃安全带128万条</td>
+</tr>
+<tr><td class="zhibiao">江西昌河汽车有限责任公司</td>
+<td class="shuju">江西省景德镇市新厂东路208号</td>
+<td class="shuju">333002</td>
+<td class="shuju">(0798)8462032</td>
+<td class="shuju">6383</td>
+<td class="shuju">598061</td>
+<td class="shuju">CH6390.CH6391交叉型乘用车60015辆;CH7100.CH7111.CH7160基本型乘用车76377辆.汽车用汽油机自配量68960台</td>
+</tr>
+<tr><td class="zhibiao">江西波星机械泵阀制造有限公司</td>
+<td class="shuju">江西省鄱阳县田畈街镇工业园区</td>
+<td class="shuju">333105</td>
+<td class="shuju">(0793)6321178</td>
+<td class="shuju">54</td>
+<td class="shuju">2178</td>
+<td class="shuju">安凯.宇通.金龙缓速器51000套</td>
+</tr>
+<tr><td class="zhibiao">安源客车制造有限公司</td>
+<td class="shuju">江西省萍乡市经济开发区北区汽车工业园</td>
+<td class="shuju">337000</td>
+<td class="shuju">(0799)6665010</td>
+<td class="shuju">799</td>
+<td class="shuju">18935</td>
+<td class="shuju">改装PK6531.PK6661等轻型客车1139辆;改装PK6710.PK6810.PK6105等中型客车536辆.改装PK6112.PK6120.RK6119等大型客车30辆</td>
+</tr>
+<tr><td class="zhibiao">赣州汽车改装厂</td>
+<td class="shuju">江西省赣州市经济技术开发区迎宾大道南金潭路西侧</td>
+<td class="shuju">341000</td>
+<td class="shuju">(0797)8380710</td>
+<td class="shuju">20</td>
+<td class="shuju">118</td>
+<td class="shuju">改装超重型半挂车16辆;改装东风EQ1092F19DJ1摆臂式垃圾车2辆;改装东风EQ1092F19DJ1压缩式垃圾车1辆</td>
+</tr>
+<tr><td class="zhibiao">江西行新汽车工程塑料有限责任公司</td>
+<td class="shuju">江西省井冈山经济技术开发区赣中大道9号</td>
+<td class="shuju">343100</td>
+<td class="shuju">(0796)8402282</td>
+<td class="shuju">188</td>
+<td class="shuju">3636</td>
+<td class="shuju">JMC转向盘502492只;JMC保险杠43240件</td>
+</tr>
+<tr><td class="zhibiao">江西江铃底盘股份有限公司</td>
+<td class="shuju">江西省抚州市金a大道168号</td>
+<td class="shuju">344000</td>
+<td class="shuju">(0794)8623185</td>
+<td class="shuju">1298</td>
+<td class="shuju">89397</td>
+<td class="shuju">JMC.BJ后桥总成197661台</td>
+</tr>
+<tr><td class="zhibiao">威海新韩精工有限公司</td>
+<td class="shuju">山东省威海市经区烕海出口加工区香港路91号</td>
+<td class="shuju">204205</td>
+<td class="shuju">(0631)3630600</td>
+<td class="shuju">321</td>
+<td class="shuju">6864</td>
+<td class="shuju">汽车电机轴</td>
+</tr>
+<tr><td class="zhibiao">海特电子集团有限公司</td>
+<td class="shuju">山东省枣庄市高新区复元五路泰国工业园</td>
+<td class="shuju">217800</td>
+<td class="shuju">(0632)5195098</td>
+<td class="shuju">610</td>
+<td class="shuju">147262</td>
+<td class="shuju">磷酸铁锂电池组蓄电池64000kVAh</td>
+</tr>
+<tr><td class="zhibiao">中国重汽济南动力有限公司</td>
+<td class="shuju">济南市英雄山路165号</td>
+<td class="shuju">250002</td>
+<td class="shuju">(0531)85582114</td>
+<td class="shuju">10806</td>
+<td class="shuju">1576988</td>
+<td class="shuju">汽车用柴油机商品量101505台;重汽.杭发.玉柴.重康等喷油器1357745只;重汽.杭发.玉柴.重康等柴油泵271430只</td>
+</tr>
+<tr><td class="zhibiao">中国重型汽车集团有限公司</td>
+<td class="shuju">济南市英雄山路165号</td>
+<td class="shuju">250002</td>
+<td class="shuju">(0531)85582114</td>
+<td class="shuju">27302</td>
+<td class="shuju">8119180</td>
+<td class="shuju">货车非完整车辆99879辆;载货车76786辆</td>
+</tr>
+<tr><td class="zhibiao">中国重汽济南动力有限公司(本部)</td>
+<td class="shuju">济南市英雄山路165号</td>
+<td class="shuju">250002</td>
+<td class="shuju">(0531)85582114</td>
+<td class="shuju">3590</td>
+<td class="shuju">1240880</td>
+<td class="shuju">重汽汽车用柴油机商品量103881台;重汽手动变速器总成107664台</td>
+</tr>
+<tr><td class="zhibiao">中国重汽集团济南桥箱有限公司</td>
+<td class="shuju">济南市高新区孙村镇西顿邱一.二.三村</td>
+<td class="shuju">250012</td>
+<td class="shuju">(0531)85588396</td>
+<td class="shuju">1639</td>
+<td class="shuju">784756</td>
+<td class="shuju">重汽后桥总成584014台;重汽离合器总成187637台</td>
+</tr>
+<tr><td class="zhibiao">济南轻骑摩托车股份有限公司</td>
+<td class="shuju">济南巿历下区和平路34号</td>
+<td class="shuju">250014</td>
+<td class="shuju">(0531)86599768</td>
+<td class="shuju">4472</td>
+<td class="shuju">134192</td>
+<td class="shuju">150.125.90等二轮普通摩托车295606辆;摩托车用发动机394530台;50二轮轻便摩托车38196辆</td>
+</tr>
+<tr><td class="zhibiao">重汽集团济南考格尔专用汽车有限公司</td>
+<td class="shuju">济南市天桥区蓝翔路17号</td>
+<td class="shuju">250032</td>
+<td class="shuju">(0531)85765599</td>
+<td class="shuju">550</td>
+<td class="shuju">55472</td>
+<td class="shuju">改装重型自卸汽车6000辆;辗改装JHL5250GJB.JHL5251GJB混凝上搅拌运输车400辆;改装JHL5160GXW.JHL5250GXW.JHL5101GXW.JHL5051GXW吸污车15辆</td>
+</tr>
+<tr><td class="zhibiao">山东百昌汽车零部件有限公司</td>
+<td class="shuju">济南市历城区董家镇前二舍村南</td>
+<td class="shuju">250100</td>
+<td class="shuju">(0531)88200588</td>
+<td class="shuju">210</td>
+<td class="shuju">6000</td>
+<td class="shuju">轴承座20万件</td>
+</tr>
+<tr><td class="zhibiao">济南峻玮机械有限公司</td>
+<td class="shuju">济南市历城区荷花办事处荷花路中段</td>
+<td class="shuju">250100</td>
+<td class="shuju">(0531)88772959</td>
+<td class="shuju">31</td>
+<td class="shuju">8133</td>
+<td class="shuju">STR平衡轴59700件</td>
+</tr>
+<tr><td class="zhibiao">山东鲁得贝车灯股份有限公司</td>
+<td class="shuju">济南市髙新区开拓路777号</td>
+<td class="shuju">250101</td>
+<td class="shuju">(0531)88879705</td>
+<td class="shuju">327</td>
+<td class="shuju">20925</td>
+<td class="shuju">重汽.商特.CA.福田车灯总成31万只</td>
+</tr>
+<tr><td class="zhibiao">济南必威思成骅汽车零部件制造有限公司</td>
+<td class="shuju">济南市历城区机场路5477号</td>
+<td class="shuju">250107</td>
+<td class="shuju">(0531)88741868</td>
+<td class="shuju">90</td>
+<td class="shuju">1380</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">采埃孚商用车转向机(山东)有限公司</td>
+<td class="shuju">济南市历城区遥墙镇机场路4647号</td>
+<td class="shuju">250107</td>
+<td class="shuju">(0531)81628888</td>
+<td class="shuju">236</td>
+<td class="shuju">78199</td>
+<td class="shuju">重汽转向机总成22万台</td>
+</tr>
+<tr><td class="zhibiao">福士汽车零部件(济南)有限公司</td>
+<td class="shuju">济南市历城区机场路4277号</td>
+<td class="shuju">250107</td>
+<td class="shuju">(0531)89021520</td>
+<td class="shuju">384</td>
+<td class="shuju">18328</td>
+<td class="shuju">重汽标准件1800万元</td>
+</tr>
+<tr><td class="zhibiao">中国重汽济南卡车股份有限公司</td>
+<td class="shuju">济南市神区党家庄镇南首</td>
+<td class="shuju">250116</td>
+<td class="shuju">(0531)85587004</td>
+<td class="shuju">4737</td>
+<td class="shuju">2729498</td>
+<td class="shuju">载货车131588辆</td>
+</tr>
+<tr><td class="zhibiao">中国重型汽车集团济南大可汽车改装有限公司</td>
+<td class="shuju">济南市市中区党家庄镇</td>
+<td class="shuju">250116</td>
+<td class="shuju">(0531)87991062</td>
+<td class="shuju">214</td>
+<td class="shuju">20464</td>
+<td class="shuju">重汽货厢总成1708台</td>
+</tr>
+<tr><td class="zhibiao">中国人民解放军第6455工厂</td>
+<td class="shuju">济南市市中区党家庄</td>
+<td class="shuju">250116</td>
+<td class="shuju">(0531)87996455</td>
+<td class="shuju">524</td>
+<td class="shuju">18597</td>
+<td class="shuju">改装中型自卸汽车795辆;改装中型半挂车67辆</td>
+</tr>
+<tr><td class="zhibiao">山东重骑摩托车(集团)厂</td>
+<td class="shuju">济南市市中区党家庄镇西</td>
+<td class="shuju">250116</td>
+<td class="shuju">(0531)87591267</td>
+<td class="shuju">886</td>
+<td class="shuju">9008</td>
+<td class="shuju">二轮普通摩托车33852辆</td>
+</tr>
+<tr><td class="zhibiao">中国重汽济南卡车股份有限公司(合并)</td>
+<td class="shuju">山东省济南市市中区党家镇南首</td>
+<td class="shuju">250116</td>
+<td class="shuju">(0531)85587004</td>
+<td class="shuju">6463</td>
+<td class="shuju">2890380</td>
+<td class="shuju">货车131588辆;后桥总成584014台;离合器总成187637台</td>
+</tr>
+<tr><td class="zhibiao">中国重汽集团济南特种车有限公司</td>
+<td class="shuju">济南市槐荫区济兖公路583号</td>
+<td class="shuju">250117</td>
+<td class="shuju">(0531)85582793</td>
+<td class="shuju">469</td>
+<td class="shuju">128939</td>
+<td class="shuju">载货车1183辆;半挂牵引车133辆</td>
+</tr>
+<tr><td class="zhibiao">济南实力客车制造有限公司</td>
+<td class="shuju">济南市章丘市明水经济开发区西外环实力汽车工业园</td>
+<td class="shuju">250200</td>
+<td class="shuju">(0531)83328282</td>
+<td class="shuju">54</td>
+<td class="shuju">3016</td>
+<td class="shuju">改装工程车12辆;改装救护车10辆;改装检测车6辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

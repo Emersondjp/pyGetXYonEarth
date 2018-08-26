@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(长春-长春)          </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">长春市繁荣冲压有限公司</td>
+<td class="shuju">长春巿汽车产业开发区长沈路7266号</td>
+<td class="shuju">130013</td>
+<td class="shuju">(0431)85032858</td>
+<td class="shuju">290</td>
+<td class="shuju">11000</td>
+<td class="shuju">座倚支架.加强板等</td>
+</tr>
+<tr><td class="zhibiao">蒂森克虏伯富奥汽车转向柱(长春)有限公司</td>
+<td class="shuju">长春巿汽车产业开发区昆山路4477号</td>
+<td class="shuju">130030</td>
+<td class="shuju">(0431)87056339</td>
+<td class="shuju">154</td>
+<td class="shuju">70236</td>
+<td class="shuju">FVW.M6.TJ.长城.出口等转向管柱1377993只</td>
+</tr>
+<tr><td class="zhibiao">富奥汽车零部件股份有限公司传动轴分公司</td>
+<td class="shuju">长春巿汽车产业开发区富奥大路5599A号</td>
+<td class="shuju">130031</td>
+<td class="shuju">(0432)85127700</td>
+<td class="shuju">561</td>
+<td class="shuju">49306</td>
+<td class="shuju">CA.北奔.CC传动轴310146只</td>
+</tr>
+<tr><td class="zhibiao">富奥汽车零部件股份有限公司制动控制系统分公司</td>
+<td class="shuju">长春市汽车产业开发区富奥大路599D号</td>
+<td class="shuju">130031</td>
+<td class="shuju">(0431)85122169</td>
+<td class="shuju">295</td>
+<td class="shuju">12208</td>
+<td class="shuju">阀类44.64万件;汽车零部件103万件</td>
+</tr>
+<tr><td class="zhibiao">长春古河汽车线束有限公司</td>
+<td class="shuju">长春巿经济技术开发区浦东路329号</td>
+<td class="shuju">130031</td>
+<td class="shuju">(0431)84613301</td>
+<td class="shuju">2452</td>
+<td class="shuju">3847</td>
+<td class="shuju">一汽丰越.出口汽车线束93724套</td>
+</tr>
+<tr><td class="zhibiao">长春皮尔金顿安全玻璃有限公司</td>
+<td class="shuju">长春巿经济技术开发区吉林大路4356号</td>
+<td class="shuju">130031</td>
+<td class="shuju">(0431)84882892</td>
+<td class="shuju">380</td>
+<td class="shuju">9640</td>
+<td class="shuju">NSG汽车玻璃76.24万m2</td>
+</tr>
+<tr><td class="zhibiao">邦迪汽车系统(长春)有限公司</td>
+<td class="shuju">长春市经济开发区浦东路25号</td>
+<td class="shuju">130031</td>
+<td class="shuju">(0431)84602261</td>
+<td class="shuju">480</td>
+<td class="shuju">38409</td>
+<td class="shuju">EA888.EA111.AUDI.BORA等低压油管19249346根;AUDI.BORA.EA888.帕萨特等制动软管1741万只</td>
+</tr>
+<tr><td class="zhibiao">李尔长春汽车内饰件系统有限公司</td>
+<td class="shuju">长春市经济技术开发区苏州北路270号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84699020</td>
+<td class="shuju">750</td>
+<td class="shuju">211901</td>
+<td class="shuju">FVW座椅总成178427只</td>
+</tr>
+<tr><td class="zhibiao">富奥汽车零部件股份有限公司</td>
+<td class="shuju">长春市经济技术开发区深圳街245号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84686288</td>
+<td class="shuju">6148</td>
+<td class="shuju">2111419</td>
+<td class="shuju">CA.YUTONG.XMQ.CA等散热器总成798321只;CA转向机总成1480482台;CA钢板弹簧总成1437320架</td>
+</tr>
+<tr><td class="zhibiao">盈佳科技(长春)有限公司</td>
+<td class="shuju">长春市经济技术开发区东南湖大路2899号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84678896</td>
+<td class="shuju">273</td>
+<td class="shuju">10976</td>
+<td class="shuju">FVW汽车锁2901947只;FVW电动玻璃升降器269133只</td>
+</tr>
+<tr><td class="zhibiao">长春爱尔铃克铃尔有限公司</td>
+<td class="shuju">长春巿经济技术开发发区浦东路329号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85878502</td>
+<td class="shuju">236</td>
+<td class="shuju">21124</td>
+<td class="shuju">汽车密封件7100万元</td>
+</tr>
+<tr><td class="zhibiao">长春派格汽车塑料技术有限公司</td>
+<td class="shuju">长春巿经济技术开发区浦东路3281号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84689234</td>
+<td class="shuju">410</td>
+<td class="shuju">34555</td>
+<td class="shuju">汽车车门内护板218756件</td>
+</tr>
+<tr><td class="zhibiao">杜邦高性能涂料(长春)有限公司</td>
+<td class="shuju">长春巿经济开发区昆山路1833号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84616000</td>
+<td class="shuju">380</td>
+<td class="shuju">69350</td>
+<td class="shuju">汽车油漆产品</td>
+</tr>
+<tr><td class="zhibiao">一汽丰田(长春)发动机有限公司</td>
+<td class="shuju">长春市经济技术开发区世纪大街3888号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84826319</td>
+<td class="shuju">532</td>
+<td class="shuju">199804</td>
+<td class="shuju">汽车用汽油机商品量96590台</td>
+</tr>
+<tr><td class="zhibiao">长春海拉车灯有限公司</td>
+<td class="shuju">长春市经济开发区昆山路593号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85078101</td>
+<td class="shuju">800</td>
+<td class="shuju">20214</td>
+<td class="shuju">SVW.FVW灯泡900万只</td>
+</tr>
+<tr><td class="zhibiao">富奥汽车零部件股份有限公司电子电器分公司</td>
+<td class="shuju">长春市经济技术开发区浦东路2258号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84612950</td>
+<td class="shuju">75</td>
+<td class="shuju">5578</td>
+<td class="shuju">解放汽车线束62996套;TJ电动玻璃升降器50640只</td>
+</tr>
+<tr><td class="zhibiao">富奥汽车零部件股份有限公司底盘结构件分公司</td>
+<td class="shuju">长春巿汽车产业开发区富奥大路599C号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85122198</td>
+<td class="shuju">578</td>
+<td class="shuju">27522</td>
+<td class="shuju">CA凸轮轴427370根;CA独立悬架44283套</td>
+</tr>
+<tr><td class="zhibiao">长春市常春汽车内饰件有限公司</td>
+<td class="shuju">长春巿经济技术开发区会展大街1831号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)81929688</td>
+<td class="shuju">602</td>
+<td class="shuju">43226</td>
+<td class="shuju">上海通用北盛.JETTA车门内护板248309件</td>
+</tr>
+<tr><td class="zhibiao">长春华翔汽车塑料件制造有限公司</td>
+<td class="shuju">长春市经济技术开发区东南湖大路5001号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)87066306</td>
+<td class="shuju">363</td>
+<td class="shuju">18608</td>
+<td class="shuju">迈腾.奥迪保险杠224499件</td>
+</tr>
+<tr><td class="zhibiao">海拉精密模具(长春)有限公司</td>
+<td class="shuju">长春市经济技术开发区金川街745号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85078708</td>
+<td class="shuju">150</td>
+<td class="shuju">6700</td>
+<td class="shuju">车用灯具65套</td>
+</tr>
+<tr><td class="zhibiao">长春德联化工有限公司</td>
+<td class="shuju">长春市经济技术开发区昆山路4518号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85888104</td>
+<td class="shuju">146</td>
+<td class="shuju">43126</td>
+<td class="shuju">防冻液9484624kg;制动液634266L</td>
+</tr>
+<tr><td class="zhibiao">福耀集团长春有限公司</td>
+<td class="shuju">长春市经济技术开发区浦东路4499号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84605056</td>
+<td class="shuju">1373</td>
+<td class="shuju">115360</td>
+<td class="shuju">汽车玻璃790万m2</td>
+</tr>
+<tr><td class="zhibiao">长春奥托立夫汽车安全系统有限公司</td>
+<td class="shuju">长春市经济技术开发区世纪大街1831号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84696462</td>
+<td class="shuju">197</td>
+<td class="shuju">61176</td>
+<td class="shuju">FVW.华晨.宝马安全带470万条.FVW.CC安全气囊85万套</td>
+</tr>
+<tr><td class="zhibiao">长春科德宝.宝翎滤清器有限公司</td>
+<td class="shuju">长春市经济技术开发区昆山路3315号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84612320</td>
+<td class="shuju">269</td>
+<td class="shuju">12118</td>
+<td class="shuju">JETTA.北京现代.CA.SY.FOTON空气滤清器42.8万只</td>
+</tr>
+<tr><td class="zhibiao">长春博泽汽车部件有限公司</td>
+<td class="shuju">长春市经济技术开发区温州街1177号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84991092</td>
+<td class="shuju">466</td>
+<td class="shuju">150000</td>
+<td class="shuju">FVW.李尔座椅总成4011622只;江森电动玻璃升降器2056982只</td>
+</tr>
+<tr><td class="zhibiao">长春藤仓电装有限公司</td>
+<td class="shuju">长春市经济技术开发区浦东路25号欧美工业园</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85800010</td>
+<td class="shuju">1286</td>
+<td class="shuju">54361</td>
+<td class="shuju">AUDIA6L汽车线束116510套</td>
+</tr>
+<tr><td class="zhibiao">一汽客车有限公司</td>
+<td class="shuju">长春市经济技术开发区昆山路3969号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84626526</td>
+<td class="shuju">1498</td>
+<td class="shuju">113500</td>
+<td class="shuju">客车非完整车辆3541辆;改装大型客车2580辆;客车1587辆</td>
+</tr>
+<tr><td class="zhibiao">格拉默车辆内饰(长春)有限公司</td>
+<td class="shuju">长春市经济技术开发区浦东路24号12号厂房</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85072983</td>
+<td class="shuju">1200</td>
+<td class="shuju">45832</td>
+<td class="shuju">汽车内饰件</td>
+</tr>
+<tr><td class="zhibiao">天合富奥商用车转向器(长春)有限公司</td>
+<td class="shuju">长春市经济技术开发区东南湖大路4789号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)87053531</td>
+<td class="shuju">288</td>
+<td class="shuju">35154</td>
+<td class="shuju">CA货车.北奔转向机总成169819台</td>
+</tr>
+<tr><td class="zhibiao">大陆汽车电子(长春)有限公司</td>
+<td class="shuju">长春市经济技术开发区武汉路1981号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84684040</td>
+<td class="shuju">1865</td>
+<td class="shuju">486110</td>
+<td class="shuju">重汽传感器1129万只;北京现代.LZW发动机管理系统13158230套</td>
+</tr>
+<tr><td class="zhibiao">福耀(长春)巴士玻璃有限公司</td>
+<td class="shuju">长春经济开发区浦东路4499号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84605141</td>
+<td class="shuju">141</td>
+<td class="shuju">9938</td>
+<td class="shuju">一汽解放汽车玻璃62万m2</td>
+</tr>
+<tr><td class="zhibiao">长春索菲玛汽车滤清器有限公司</td>
+<td class="shuju">长春市汽车产业开发区世纪大街3248号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)85803423</td>
+<td class="shuju">233</td>
+<td class="shuju">8888</td>
+<td class="shuju">FVW.华晨.SY.CC.TJ.哈飞汽油滤清器1537516只;华晨空气滤清器52165只</td>
+</tr>
+<tr><td class="zhibiao">长春德尔塔-富维江森自控汽车饰件系统有限公司</td>
+<td class="shuju">长春市南湖大路4736号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)82937094</td>
+<td class="shuju">2500</td>
+<td class="shuju">94900</td>
+<td class="shuju">CA座椅总成437421只</td>
+</tr>
+<tr><td class="zhibiao">长春旭阳佛吉亚毯业有限公司</td>
+<td class="shuju">长春巿净月开发区千朋路800号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)88608102</td>
+<td class="shuju">299</td>
+<td class="shuju">16285</td>
+<td class="shuju">马自达.奔腾.高尔夫.奥迪等成型地毯496150套</td>
+</tr>
+<tr><td class="zhibiao">长春富奥汽车机电有限公司</td>
+<td class="shuju">长春市经济技术开发区扬州街1399号</td>
+<td class="shuju">130033</td>
+<td class="shuju">(0431)84806030</td>
+<td class="shuju">328</td>
+<td class="shuju">9518</td>
+<td class="shuju">TJ电喷汽油泵300461只.解放化油器26587只</td>
+</tr>
+<tr><td class="zhibiao">吉林省东宇压铸有限公司</td>
+<td class="shuju">长春巿富锋镇迎新村</td>
+<td class="shuju">130041</td>
+<td class="shuju">(0431)85800337</td>
+<td class="shuju">35</td>
+<td class="shuju">522</td>
+<td class="shuju">水泵壳体</td>
+</tr>
+<tr><td class="zhibiao">一汽专用汽车有限公司</td>
+<td class="shuju">长春市经济技术开发区兴隆大路6333号</td>
+<td class="shuju">130102</td>
+<td class="shuju">(0431)84599130</td>
+<td class="shuju">1050</td>
+<td class="shuju">64332</td>
+<td class="shuju">货车非完整车辆2917辆</td>
+</tr>
+<tr><td class="zhibiao">长春一汽四环汽车制动器有限公司</td>
+<td class="shuju">长春市朝阳区育民路629号</td>
+<td class="shuju">130103</td>
+<td class="shuju">(0431)85545062</td>
+<td class="shuju">757</td>
+<td class="shuju">109679</td>
+<td class="shuju">汽车制动器</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

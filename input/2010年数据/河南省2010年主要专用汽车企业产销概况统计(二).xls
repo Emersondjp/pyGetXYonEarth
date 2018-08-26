@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">河南省2010年主要专用汽车企业产销概况统计(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">销收排位</td>
+<td class="biaotou">企业</td>
+<td class="biaotou">专用汽车产销概况</td>
+</tr>
+<tr><td class="zhibiao">10</td>
+<td class="shuju">河南新飞专用汽车有限责任公司</td>
+<td class="shuju">生产2837辆.同比增长16.9%.销售收入2.86亿元</td>
+</tr>
+<tr><td class="zhibiao">11</td>
+<td class="shuju">鹤壁新飞无线电四厂有限公司</td>
+<td class="shuju">生产295辆.销售收入1.55亿元</td>
+</tr>
+<tr><td class="zhibiao">12</td>
+<td class="shuju">河南川光金达实业公司</td>
+<td class="shuju">生产801辆.销售收入1.55亿元</td>
+</tr>
+<tr><td class="zhibiao">13</td>
+<td class="shuju">河南冰熊冷藏汽车有限公司</td>
+<td class="shuju">生产1678辆.销售收入1.43亿元</td>
+</tr>
+<tr><td class="zhibiao">14</td>
+<td class="shuju">河南皇马车辆有限公司</td>
+<td class="shuju">生产1900辆.增长46.2%.销售收入1.17亿元.同比增长11.4%</td>
+</tr>
+<tr><td class="zhibiao">15</td>
+<td class="shuju">商丘市宇畅挂车制造有限公司</td>
+<td class="shuju">生产1909辆.销售收入1.04亿元</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

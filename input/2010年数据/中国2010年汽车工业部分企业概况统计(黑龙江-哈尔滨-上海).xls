@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(黑龙江-哈尔滨-上海)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">大庆油田石油专用设备有限公司</td>
+<td class="shuju">黑龙江省大庆市萨尔图区登峰村</td>
+<td class="shuju">163112</td>
+<td class="shuju">(0459)5800718</td>
+<td class="shuju">96</td>
+<td class="shuju">9540</td>
+<td class="shuju">改装FT600轻型汽车63辆;改装DQJ5257GGSBJ.DQJ5255GGSCA等供水车25辆;改装散装水泥车10辆</td>
+</tr>
+<tr><td class="zhibiao">大庆高新区飞驰减振器制造有限公司</td>
+<td class="shuju">黑龙江省大庆高新区安萨路19号</td>
+<td class="shuju">163316</td>
+<td class="shuju">(0459)4300925</td>
+<td class="shuju">152</td>
+<td class="shuju">4780</td>
+<td class="shuju">哈飞.沈汽.联美减振器总成6万只</td>
+</tr>
+<tr><td class="zhibiao">大庆汽车改装厂</td>
+<td class="shuju">黑龙江省大庆市让胡路区乘南庄</td>
+<td class="shuju">163411</td>
+<td class="shuju">(0459)5696760</td>
+<td class="shuju">480</td>
+<td class="shuju">6266</td>
+<td class="shuju">改装DQG5092TSJ.DQG5071TSJ等试井车248辆;改装DQG5161TCJ等测井车32辆;改装DQG5310GXH下灰车21辆</td>
+</tr>
+<tr><td class="zhibiao">大庆中油庆瑞石油科技有限公司</td>
+<td class="shuju">黑龙江省大庆市红岗区铁人生态园区兴园路66号</td>
+<td class="shuju">163414</td>
+<td class="shuju">(0459)5295388</td>
+<td class="shuju">406</td>
+<td class="shuju">10103</td>
+<td class="shuju">改装ND52500GJY8加油车6辆;改装LTJ5300TYL105压裂车4辆</td>
+</tr>
+<tr><td class="zhibiao">北安市进发塑料制品有限责任公司</td>
+<td class="shuju">黑龙江省北安市铁西区西直街9号</td>
+<td class="shuju">164000</td>
+<td class="shuju">(0456)6429995</td>
+<td class="shuju">90</td>
+<td class="shuju">9000</td>
+<td class="shuju">汽车塑料件1700t</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨市扬天汽车改装有限责任公司</td>
+<td class="shuju">哈尔滨市松北区盈蒲街A3厂房</td>
+<td class="shuju">150028</td>
+<td class="shuju">(0451)88102738</td>
+<td class="shuju">12</td>
+<td class="shuju">323</td>
+<td class="shuju">改装YTG5040XXY厢式运输车699辆</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨建成北方专用车有限公司</td>
+<td class="shuju">哈尔滨巿香坊区南直路65号</td>
+<td class="shuju">150030</td>
+<td class="shuju">(0451)88624679</td>
+<td class="shuju">723</td>
+<td class="shuju">34243</td>
+<td class="shuju">改装JC5311GYQ.KP5251GYQ等液化气体运输车31辆;改装JC-9400GYQ.JC9409GYQ等超重型半挂车548辆;改装JC9190等中型半挂车387辆</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨市弹簧厂</td>
+<td class="shuju">哈尔滨巿中山路140号</td>
+<td class="shuju">150040</td>
+<td class="shuju">(0451)82620480</td>
+<td class="shuju">73</td>
+<td class="shuju">945</td>
+<td class="shuju">CA汽车弹簧90万只</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨惠良汽车轮胎翻新有限公司</td>
+<td class="shuju">哈尔滨市香坊区荣进街91号</td>
+<td class="shuju">150046</td>
+<td class="shuju">(0451)82688666</td>
+<td class="shuju">21</td>
+<td class="shuju">816</td>
+<td class="shuju">轮胎翻新</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨林业机械厂</td>
+<td class="shuju">哈尔滨市香坊区通乡街191号</td>
+<td class="shuju">150046</td>
+<td class="shuju">(0451)55679580</td>
+<td class="shuju">1145</td>
+<td class="shuju">870</td>
+<td class="shuju">锻造.热处理</td>
+</tr>
+<tr><td class="zhibiao">中国第一汽车集团哈尔滨轻型车厂</td>
+<td class="shuju">哈尔滨市香坊区星光街10号</td>
+<td class="shuju">150046</td>
+<td class="shuju">(0451)83195277</td>
+<td class="shuju">2310</td>
+<td class="shuju">133738</td>
+<td class="shuju">轻型载货汽车34406辆</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨科达汽车橡胶制品有限公司</td>
+<td class="shuju">哈尔滨市道外区曙光街1号</td>
+<td class="shuju">150050</td>
+<td class="shuju">(0451)57658725</td>
+<td class="shuju">20</td>
+<td class="shuju">182</td>
+<td class="shuju">CA.长春齿轮汽车密封件150万元</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨市改装车厂</td>
+<td class="shuju">哈尔滨市道外区先锋路154号</td>
+<td class="shuju">150056</td>
+<td class="shuju">(0451)85925255</td>
+<td class="shuju">92</td>
+<td class="shuju">4420</td>
+<td class="shuju">改装HGL5042XXL.HGL5031XXL轻型汽车56辆;改装HGL5251XDY电源车17辆;改装HGL5041XZH指挥车8辆</td>
+</tr>
+<tr><td class="zhibiao">航天科技控股集团股份有限公司</td>
+<td class="shuju">哈尔滨市平房区哈平西路45号</td>
+<td class="shuju">150060</td>
+<td class="shuju">(0451)86781717</td>
+<td class="shuju">739</td>
+<td class="shuju">24554</td>
+<td class="shuju">CA.长安.JL汽车组合仪表135.72万只</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨哈飞汽车工业集团有限公司</td>
+<td class="shuju">哈尔滨市经济技术开发区综合工业区烟台路1号</td>
+<td class="shuju">150060</td>
+<td class="shuju">(0451)86505746</td>
+<td class="shuju">5208</td>
+<td class="shuju">632431</td>
+<td class="shuju">民意.路尊.中意.S460交叉型乘用车133913辆;货车136981辆;赛马.路宝.赛豹基本型乘用车20464辆</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨东安汽车动力股份有限公司</td>
+<td class="shuju">哈尔滨巿平房区保国大街51号</td>
+<td class="shuju">150066</td>
+<td class="shuju">(0451)86574665</td>
+<td class="shuju">4057</td>
+<td class="shuju">233399</td>
+<td class="shuju">哈飞.昌河.CA吉轻汽车用汽油机商品量366110台</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨东安汽车发动机制造有限公司</td>
+<td class="shuju">哈尔滨市开发区哈平路集中区烟台路6号</td>
+<td class="shuju">150069</td>
+<td class="shuju">(0451)86810210</td>
+<td class="shuju">1383</td>
+<td class="shuju">426250</td>
+<td class="shuju">BYD.JAC.众泰.东南.哈飞.EQ等汽车用汽油机商品量401044台</td>
+</tr>
+<tr><td class="zhibiao">一汽集团哈尔滨变速箱厂</td>
+<td class="shuju">哈尔滨巿道里区城乡路280号</td>
+<td class="shuju">150070</td>
+<td class="shuju">(0451)86773299</td>
+<td class="shuju">1113</td>
+<td class="shuju">31163</td>
+<td class="shuju">汽车配件30484万元</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨哈轻塑胶有限公司</td>
+<td class="shuju">哈尔滨市松北区松浦开发区工农路2号</td>
+<td class="shuju">150076</td>
+<td class="shuju">(0451)84825372</td>
+<td class="shuju">460</td>
+<td class="shuju">10234</td>
+<td class="shuju">哈飞保险杠19万件;哈飞仪表板总成8万只</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨石油机械厂有限公司</td>
+<td class="shuju">哈尔滨市南岗区保健路224号</td>
+<td class="shuju">150080</td>
+<td class="shuju">(0451)86615600</td>
+<td class="shuju">31</td>
+<td class="shuju">3472</td>
+<td class="shuju">改装HSJ5252GYS.HSJ5253GYS液态食品运输车88辆;改装HSJ5250YTBY重型汽车6辆;改装HSJ5161TDMS地锚车4辆</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨爱迪压铸有限公司</td>
+<td class="shuju">哈尔滨市南岗区学府路191号</td>
+<td class="shuju">150080</td>
+<td class="shuju">(0451)86651932</td>
+<td class="shuju">202</td>
+<td class="shuju">7150</td>
+<td class="shuju">汽车发动机铝合金压铸配套件5000t</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨北耀钢化玻璃有限责任公司</td>
+<td class="shuju">哈尔滨市南岗区学府路243号</td>
+<td class="shuju">150086</td>
+<td class="shuju">(0451)86658842</td>
+<td class="shuju">60</td>
+<td class="shuju">1066</td>
+<td class="shuju">哈飞汽车玻璃1万m2</td>
+</tr>
+<tr><td class="zhibiao">哈尔滨西岗齿轮有限公司</td>
+<td class="shuju">哈尔滨市宾县宾州镇西城街91号</td>
+<td class="shuju">150400</td>
+<td class="shuju">(0451)57988665</td>
+<td class="shuju">183</td>
+<td class="shuju">5753</td>
+<td class="shuju">汽车后桥螺旋伞齿轮5.6万件</td>
+</tr>
+<tr><td class="zhibiao">哈飞工业集团汽车转向器有限责任公司</td>
+<td class="shuju">哈尔滨市依兰县通河街10号</td>
+<td class="shuju">154800</td>
+<td class="shuju">(0451)57283587</td>
+<td class="shuju">554</td>
+<td class="shuju">6398</td>
+<td class="shuju">哈飞.JL.黑豹转向机总成254367台;哈飞.黑豹转向管柱454490只</td>
+</tr>
+<tr><td class="zhibiao">上海三电贝洱汽车空调有限公司</td>
+<td class="shuju">上海巿卢湾区马当路347号</td>
+<td class="shuju">200025</td>
+<td class="shuju">(021)63843220</td>
+<td class="shuju">1445</td>
+<td class="shuju">368866</td>
+<td class="shuju">SVW.SGM空调压缩机384.9万台</td>
+</tr>
+<tr><td class="zhibiao">上海实业交通电器有限公司</td>
+<td class="shuju">上海市漕溪北路400号</td>
+<td class="shuju">200030</td>
+<td class="shuju">(021)64394151</td>
+<td class="shuju">1172</td>
+<td class="shuju">98707</td>
+<td class="shuju">SVW.SGM.SH喇叭461.68万只;SVW.SGM.SH电动玻璃升降器4322600只;SVW.SGM.SH防盗报警系统54.8万套</td>
+</tr>
+<tr><td class="zhibiao">上海机动车辆汽车配件有限公司汽车软轴厂</td>
+<td class="shuju">上海巿徐汇区小木桥路814弄161号</td>
+<td class="shuju">200032</td>
+<td class="shuju">(021)64172972</td>
+<td class="shuju">67</td>
+<td class="shuju">1902</td>
+<td class="shuju">李尔.双林.出口等仪表用软轴软管255.11万根;一汽红塔.长安汽车单表3.62万只</td>
+</tr>
+<tr><td class="zhibiao">上海汽车集团股份有限公司</td>
+<td class="shuju">上海市张江高科技园区松涛路563号五层</td>
+<td class="shuju">200041</td>
+<td class="shuju">(021)22011888</td>
+<td class="shuju">6606</td>
+<td class="shuju">1787317</td>
+<td class="shuju">荣威550.荣威6.荣威750等基本型乘用车103880辆;汽车用汽油机向配量104430台;汽车用汽油机商品量9562台</td>
+</tr>
+<tr><td class="zhibiao">上海汽车工业(集团)总公司</td>
+<td class="shuju">上海市威海路489号</td>
+<td class="shuju">200041</td>
+<td class="shuju">(021)22011688</td>
+<td class="shuju">142924</td>
+<td class="shuju">50338908</td>
+<td class="shuju">基本型乘用车2139446辆;交叉型乘用车1074851辆</td>
+</tr>
+<tr><td class="zhibiao">上海科尔本施密特活塞有限公司</td>
+<td class="shuju">上海市普陀区芦定路271号</td>
+<td class="shuju">200062</td>
+<td class="shuju">(021)52809361</td>
+<td class="shuju">702</td>
+<td class="shuju">56968</td>
+<td class="shuju">SVW.SGM.东风日产.长安福特活塞540.90万只</td>
+</tr>
+<tr><td class="zhibiao">上海皮尔博格有色零部件有限公司</td>
+<td class="shuju">上海市普陀区云岭东路570号</td>
+<td class="shuju">200062</td>
+<td class="shuju">(021)52624500</td>
+<td class="shuju">2498</td>
+<td class="shuju">193621</td>
+<td class="shuju">SVW.FVW.SGM.LZW气缸盖2064727只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

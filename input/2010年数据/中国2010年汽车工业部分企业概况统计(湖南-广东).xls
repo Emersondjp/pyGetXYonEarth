@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(湖南-广东)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通汛地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">湖南长丰汽车沙发有限责任公司</td>
+<td class="shuju">湖南省永州市冷水滩区张家铺路1号</td>
+<td class="shuju">425101</td>
+<td class="shuju">(0746)8456355</td>
+<td class="shuju">447</td>
+<td class="shuju">20453</td>
+<td class="shuju">长丰座椅总成46776只</td>
+</tr>
+<tr><td class="zhibiao">韶关宏大齿轮有限公司</td>
+<td class="shuju">广东省韶关巿工业西路76号</td>
+<td class="shuju">501028</td>
+<td class="shuju">(0751)8172020</td>
+<td class="shuju">1022</td>
+<td class="shuju">19665</td>
+<td class="shuju">广州超宝减速器总成10112只;EQ.JAC手动变速器总成6195台</td>
+</tr>
+<tr><td class="zhibiao">广东省清远市清新联统实业有限公司</td>
+<td class="shuju">广东省清远市清新县太和匸业区23号</td>
+<td class="shuju">511800</td>
+<td class="shuju">(0763)5851131</td>
+<td class="shuju">295</td>
+<td class="shuju">15277</td>
+<td class="shuju">二轮普通摩托车39323辆</td>
+</tr>
+<tr><td class="zhibiao">广东力士通机械股份有限公司</td>
+<td class="shuju">广东省韶关市浈江区南郊六公里广韶路</td>
+<td class="shuju">512027</td>
+<td class="shuju">(0751)8261062</td>
+<td class="shuju">207</td>
+<td class="shuju">1853</td>
+<td class="shuju">改装SGG9350.SGG9370.SGG9380等超重型半挂车195辆;改装SGG5103J高空作业车6辆;改装SGG5131HBC混凝土搅拌运输车5辆</td>
+</tr>
+<tr><td class="zhibiao">韶关新宇建设机械有限公司</td>
+<td class="shuju">广东省韶关市浈江区十里亭镇</td>
+<td class="shuju">512031</td>
+<td class="shuju">(0751)8831261</td>
+<td class="shuju">759</td>
+<td class="shuju">20184</td>
+<td class="shuju">改装混凝土搅拌运输车7辆</td>
+</tr>
+<tr><td class="zhibiao">广东省韶铸集团有限公司</td>
+<td class="shuju">广东省韶关市浈江区十里亭镇</td>
+<td class="shuju">512031</td>
+<td class="shuju">(0751)8832581</td>
+<td class="shuju">1697</td>
+<td class="shuju">72733</td>
+<td class="shuju">精锻轴承毛坯</td>
+</tr>
+<tr><td class="zhibiao">韶关市起重机厂有限责任公司</td>
+<td class="shuju">广东省韶关巿曲江区马坝镇转溪叶屋段</td>
+<td class="shuju">512143</td>
+<td class="shuju">(0751)6653004</td>
+<td class="shuju">256</td>
+<td class="shuju">13814</td>
+<td class="shuju">货厢总成2226台;改装随车起重运输车103辆;改装重型载货车57辆</td>
+</tr>
+<tr><td class="zhibiao">广东柳菱宏通实业有限公司</td>
+<td class="shuju">广东省梅州巿梅江区八一大道</td>
+<td class="shuju">514016</td>
+<td class="shuju">(0753)2350583</td>
+<td class="shuju">653</td>
+<td class="shuju">7347</td>
+<td class="shuju">lzw后桥螺旋伞齿轮515841件</td>
+</tr>
+<tr><td class="zhibiao">梅州市劲达汽车部件有限公司</td>
+<td class="shuju">广东省丰顺县汤坑镇富岭路125号</td>
+<td class="shuju">514300</td>
+<td class="shuju">(0753)6635189</td>
+<td class="shuju">124</td>
+<td class="shuju">1748</td>
+<td class="shuju">离合器盖.中压板及压盘38万件</td>
+</tr>
+<tr><td class="zhibiao">广东富兴摩托车实业有限公司</td>
+<td class="shuju">广东省兴宁市纺织路88号</td>
+<td class="shuju">514500</td>
+<td class="shuju">(0753)3351275</td>
+<td class="shuju">208</td>
+<td class="shuju">6997</td>
+<td class="shuju">二轮普通摩托车59042辆</td>
+</tr>
+<tr><td class="zhibiao">平远县恒明汽车底盘制造有限公司</td>
+<td class="shuju">广东省梅州平远县大柘镇丰光</td>
+<td class="shuju">514600</td>
+<td class="shuju">(0753)8840257</td>
+<td class="shuju">610</td>
+<td class="shuju">8020</td>
+<td class="shuju">畅丰车桥制动鼓12万只;畅丰车桥轮毂10万只;畅丰车桥制动盘2万只</td>
+</tr>
+<tr><td class="zhibiao">BPW(梅州)车轴有限公司</td>
+<td class="shuju">广东省梅州城东谢田</td>
+<td class="shuju">514743</td>
+<td class="shuju">(0753)2651883</td>
+<td class="shuju">384</td>
+<td class="shuju">-</td>
+<td class="shuju">汽车车轴91000根</td>
+</tr>
+<tr><td class="zhibiao">广东强华(梅州)汽车零部件有限公司</td>
+<td class="shuju">广东省梅州市梅县畲江镇广州(梅州)产业转移工业园内</td>
+<td class="shuju">514779</td>
+<td class="shuju">(0753)2486519</td>
+<td class="shuju">250</td>
+<td class="shuju">6423</td>
+<td class="shuju">潍柴.康明斯.杭发等起动机77841台;玉柴.河柴.康明斯等发电机41455台</td>
+</tr>
+<tr><td class="zhibiao">广东京汕密封件有限公司</td>
+<td class="shuju">广东省普宁市占陇工业区华翔路8号</td>
+<td class="shuju">515321</td>
+<td class="shuju">(0663)2338118</td>
+<td class="shuju">183</td>
+<td class="shuju">4080</td>
+<td class="shuju">油封</td>
+</tr>
+<tr><td class="zhibiao">广东骑光车灯工业有限公司</td>
+<td class="shuju">广东省汕头市澄海区澄华街道岭亭东埭</td>
+<td class="shuju">515800</td>
+<td class="shuju">(0754)85862811</td>
+<td class="shuju">380</td>
+<td class="shuju">11000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大阳.大治.三雅.豪进.大运摩托车车灯总成5369300只</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">恵州市德赛西威汽车电子有阳公司</td>
+<td class="shuju">广东省惠州市仲垲高新技术产业开发区珠田路1号</td>
+<td class="shuju">516006</td>
+<td class="shuju">(0752)2655873</td>
+<td class="shuju">1285</td>
+<td class="shuju">139743</td>
+<td class="shuju">汽车CD机279454台</td>
+</tr>
+<tr><td class="zhibiao">东风本田汽车零部件有限公司</td>
+<td class="shuju">广东省惠州市大亚湾经济技术开发区西区</td>
+<td class="shuju">516085</td>
+<td class="shuju">(0752)5200645</td>
+<td class="shuju">2455</td>
+<td class="shuju">150717</td>
+<td class="shuju">雅阁.思域.CR-V.飞度.锋范等气缸套378900只;雅阁.思域.CR-V.飞度.锋范等制动盘2832000只.雅阁.思域.CR-V.飞度.锋范等连杆总成2079500只</td>
+</tr>
+<tr><td class="zhibiao">惠州玛骐摩托车有限公司</td>
+<td class="shuju">广东省惠州巿惠阳区良井镇围龙管理区</td>
+<td class="shuju">516265</td>
+<td class="shuju">(0752)3650998</td>
+<td class="shuju">108</td>
+<td class="shuju">22800</td>
+<td class="shuju">二轮普通摩托车66078辆</td>
+</tr>
+<tr><td class="zhibiao">广东银龙汽车工业有限公司</td>
+<td class="shuju">广东省河源市明珠开发区力王大道1号</td>
+<td class="shuju">517000</td>
+<td class="shuju">(0762)8911768</td>
+<td class="shuju">33</td>
+<td class="shuju">1310</td>
+<td class="shuju">改装KYL5030XJH等救护车30辆;改装KYl6119.KYl6118大型客车10辆;改装KYl5160XGC工程车5辆</td>
+</tr>
+<tr><td class="zhibiao">珠海珠江车业有限公司</td>
+<td class="shuju">广东省珠海市金湾区红旗工业管理区内红灯桥侧</td>
+<td class="shuju">519090</td>
+<td class="shuju">(0756)3980686</td>
+<td class="shuju">135</td>
+<td class="shuju">17388</td>
+<td class="shuju">二轮普通摩托车70362辆;摩托车用发动机52010台;二轮轻便摩托车3159辆</td>
+</tr>
+<tr><td class="zhibiao">东莞市旗丰消声器有限公司</td>
+<td class="shuju">广东省东莞市东城区牛山东城区外经工业园</td>
+<td class="shuju">523128</td>
+<td class="shuju">(0769)22658795</td>
+<td class="shuju">191</td>
+<td class="shuju">7812</td>
+<td class="shuju">汽车消声器总成569500只</td>
+</tr>
+<tr><td class="zhibiao">东莞市永强汽车制造有限公司</td>
+<td class="shuju">广东省东莞市寮步镇莞樟路塘唇路段138号</td>
+<td class="shuju">523407</td>
+<td class="shuju">(0769)83307688</td>
+<td class="shuju">737</td>
+<td class="shuju">43192</td>
+<td class="shuju">改装YQ9400.YQ9350GYY等超重型半挂车398辆;改装YQ9290GHY等重型半挂车412辆;改装YQ5313GHY.YQ5250GHY等化工液体运输车346辆</td>
+</tr>
+<tr><td class="zhibiao">广东永强奥林宝国际消防汽车有限公司</td>
+<td class="shuju">广东省东莞巿寮步镇塘唇工业区创富路</td>
+<td class="shuju">523407</td>
+<td class="shuju">(0769)83269740</td>
+<td class="shuju">200</td>
+<td class="shuju">18855</td>
+<td class="shuju">改装水罐消防车90辆</td>
+</tr>
+<tr><td class="zhibiao">湛江环球钢轮制造有限公司</td>
+<td class="shuju">广东省湛江开发区海滨大道北2号之一</td>
+<td class="shuju">524020</td>
+<td class="shuju">(0759)2329393</td>
+<td class="shuju">77</td>
+<td class="shuju">6393</td>
+<td class="shuju">汽车钢圈总成145万只</td>
+</tr>
+<tr><td class="zhibiao">湛江德利化油器有限公司</td>
+<td class="shuju">广东省湛江市赤坎海田路27号</td>
+<td class="shuju">524043</td>
+<td class="shuju">(0759)3150908</td>
+<td class="shuju">1496</td>
+<td class="shuju">52789</td>
+<td class="shuju">大长江.北方易初摩托车化油器514万只;出门化油器3万只</td>
+</tr>
+<tr><td class="zhibiao">湛江市华夏消声器有限公司</td>
+<td class="shuju">广东省湛江巿麻章区金川路55号</td>
+<td class="shuju">524094</td>
+<td class="shuju">(0759)2708840</td>
+<td class="shuju">165</td>
+<td class="shuju">4503</td>
+<td class="shuju">HMC.XMQ.售后等消声器排气管206779只</td>
+</tr>
+<tr><td class="zhibiao">广东肇庆动力技研有限公司</td>
+<td class="shuju">广东省肇庆市端州区三榕港工业加工区玑东路</td>
+<td class="shuju">526040</td>
+<td class="shuju">(0758)2903370</td>
+<td class="shuju">1150</td>
+<td class="shuju">30150</td>
+<td class="shuju">BYD.AC气缸套52万只</td>
+</tr>
+<tr><td class="zhibiao">广东鸿图科技股份有限公司</td>
+<td class="shuju">广东省髙要市金渡镇世纪大道168号</td>
+<td class="shuju">526108</td>
+<td class="shuju">(0758)8512923</td>
+<td class="shuju">2300</td>
+<td class="shuju">86911</td>
+<td class="shuju">SGM.东本.日产等油底壳222687只.SQR变速器壳45135只</td>
+</tr>
+<tr><td class="zhibiao">广东四会实力连杆有限公司</td>
+<td class="shuju">广东省四会巿贞山区贞山大道中</td>
+<td class="shuju">526200</td>
+<td class="shuju">(0758)3309670</td>
+<td class="shuju">600</td>
+<td class="shuju">14017</td>
+<td class="shuju">玉柴.康明斯.BYD连杆总成250万只</td>
+</tr>
+<tr><td class="zhibiao">怀集登云汽配股份有限公司</td>
+<td class="shuju">广东省怀集县城解放北路登云亭</td>
+<td class="shuju">526400</td>
+<td class="shuju">(0758)5522482</td>
+<td class="shuju">1705</td>
+<td class="shuju">26859</td>
+<td class="shuju">DA.YC.康明斯.CA.SQR.HMC等进排气门3500万只</td>
+</tr>
+<tr><td class="zhibiao">佛山市环卫处环卫机械厂</td>
+<td class="shuju">广东省佛山市佛平路军桥脚</td>
+<td class="shuju">528000</td>
+<td class="shuju">(0757)86226774</td>
+<td class="shuju">31</td>
+<td class="shuju">637</td>
+<td class="shuju">改装其他重型改装汽车40辆</td>
+</tr>
+<tr><td class="zhibiao">宗申·比亚乔佛山摩托车企业有限公司</td>
+<td class="shuju">广东省佛山市禅城区张槎城西工业区振兴路</td>
+<td class="shuju">528000</td>
+<td class="shuju">(0757)82309246</td>
+<td class="shuju">798</td>
+<td class="shuju">55200</td>
+<td class="shuju">三轮普通摩托车106380辆</td>
+</tr>
+<tr><td class="zhibiao">佛山市同丰汽车配件有限公司</td>
+<td class="shuju">广东省佛山市禅城区汾江中路高基街131号</td>
+<td class="shuju">528000</td>
+<td class="shuju">(0757)82287495</td>
+<td class="shuju">34</td>
+<td class="shuju">562</td>
+<td class="shuju">EQ.三菱半轴8032根</td>
+</tr>
+<tr><td class="zhibiao">佛山市佛斯弟摩托车制造有限公司</td>
+<td class="shuju">广东省佛山市禅城区南庄镇罗格工业园</td>
+<td class="shuju">528000</td>
+<td class="shuju">(0757)88353988</td>
+<td class="shuju">63</td>
+<td class="shuju">6494</td>
+<td class="shuju">150.125.110.100二轮普通摩托车19856辆;50二轮轻便摩托车3988辆</td>
+</tr>
+<tr><td class="zhibiao">佛山电器照明股份有限公司</td>
+<td class="shuju">广东省佛山市禅城区汾江北路64号</td>
+<td class="shuju">528000</td>
+<td class="shuju">(0757)82807931</td>
+<td class="shuju">9650</td>
+<td class="shuju">175233</td>
+<td class="shuju">汽车灯泡22353万只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,287 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(湖北-武汉)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">东风活塞轴瓦有限公司</td>
+<td class="shuju">湖北省十堰市张湾区花果放马坪10号</td>
+<td class="shuju">442000</td>
+<td class="shuju">(0719)8234966</td>
+<td class="shuju">1326</td>
+<td class="shuju">27416</td>
+<td class="shuju">东风商用车活塞环394.22万片.康明斯活塞320.10万只</td>
+</tr>
+<tr><td class="zhibiao">东风实业有限公司</td>
+<td class="shuju">湖北省十堰巿公园路95号</td>
+<td class="shuju">442001</td>
+<td class="shuju">(0719)8202858</td>
+<td class="shuju">9151</td>
+<td class="shuju">450118</td>
+<td class="shuju">改装重型自卸汽车10584辆.货车非完整车辆11063辆.改装轻型客车4838辆</td>
+</tr>
+<tr><td class="zhibiao">湖北三环车身系统有限公司</td>
+<td class="shuju">湖北省十堰市车城南路23号</td>
+<td class="shuju">442001</td>
+<td class="shuju">(0719)8872228</td>
+<td class="shuju">786</td>
+<td class="shuju">23887</td>
+<td class="shuju">汽车驾驶室及车身总成15799台</td>
+</tr>
+<tr><td class="zhibiao">东风汽车泵业有限公司</td>
+<td class="shuju">湖北省十堰市张湾区车城路66号</td>
+<td class="shuju">442001</td>
+<td class="shuju">(0719)8223340</td>
+<td class="shuju">1013</td>
+<td class="shuju">50661</td>
+<td class="shuju">EQ.康明斯.CY.YN等机油泵610500只;EQ.康明斯.CY.YN等水泵总成519900只;EQ.康明斯.CY.YN等空压机总成349300台</td>
+</tr>
+<tr><td class="zhibiao">东风(十堰)特种商用车有限公司</td>
+<td class="shuju">湖北省十堰市镜潭路17号</td>
+<td class="shuju">442001</td>
+<td class="shuju">(0719)8239848</td>
+<td class="shuju">744</td>
+<td class="shuju">114630</td>
+<td class="shuju">货车非完整车辆6622辆.半挂牵引车70辆</td>
+</tr>
+<tr><td class="zhibiao">东风汽车变速箱有限公司</td>
+<td class="shuju">湖北省十堰市新疆路2号</td>
+<td class="shuju">442003</td>
+<td class="shuju">(0719)8235895</td>
+<td class="shuju">1379</td>
+<td class="shuju">61211</td>
+<td class="shuju">EQ.JAC.福田.宇通.力诺等手动变速器总成133077台</td>
+</tr>
+<tr><td class="zhibiao">十堰市金轮子车桥有限公司</td>
+<td class="shuju">湖北省卜堰巿张湾区汉江中路42号</td>
+<td class="shuju">442011</td>
+<td class="shuju">(0719)8497580</td>
+<td class="shuju">238</td>
+<td class="shuju">1501</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">十堰市先驰汽车车架有限公司</td>
+<td class="shuju">湖北省十堰市东风大道17号</td>
+<td class="shuju">442012</td>
+<td class="shuju">(0719)8882336</td>
+<td class="shuju">401</td>
+<td class="shuju">10135</td>
+<td class="shuju">XMQ.东风.长安.江铃.金鹰.华山等车架总成30249台.东风商用车保险杠22U件</td>
+</tr>
+<tr><td class="zhibiao">湖北正奥汽车附件有限公司</td>
+<td class="shuju">湖北省十堰巿茅箭区东风大道9号</td>
+<td class="shuju">442012</td>
+<td class="shuju">(0719)8781005</td>
+<td class="shuju">1481</td>
+<td class="shuju">50662</td>
+<td class="shuju">EQ.DPCA.渝安汽车线束26万套.DPCA.JAC.BYD汽车密封件18310.50万元;EQ.福田.SQR仪表用软轴软管850万根</td>
+</tr>
+<tr><td class="zhibiao">湖北三环专用汽车有限公司</td>
+<td class="shuju">湖北省十堰市武当路3号</td>
+<td class="shuju">442012</td>
+<td class="shuju">(0719)8793399</td>
+<td class="shuju">1915</td>
+<td class="shuju">213704</td>
+<td class="shuju">载货车16232辆.半挂牵引车341辆;改装其他重型改装汽车44辆</td>
+</tr>
+<tr><td class="zhibiao">东风锻造有限公司</td>
+<td class="shuju">湖北省十堰市辽宁路7号</td>
+<td class="shuju">442012</td>
+<td class="shuju">(0719)8236152</td>
+<td class="shuju">2031</td>
+<td class="shuju">123400</td>
+<td class="shuju">锻件</td>
+</tr>
+<tr><td class="zhibiao">十堰市普华缸套有限公司</td>
+<td class="shuju">湖北省十堰市武当路23号</td>
+<td class="shuju">442012</td>
+<td class="shuju">(0719)8499716</td>
+<td class="shuju">223</td>
+<td class="shuju">700</td>
+<td class="shuju">汽车气缸套34万只</td>
+</tr>
+<tr><td class="zhibiao">湖北神鹰汽车有限责任公司</td>
+<td class="shuju">湖北省十堰市白浪中路166号</td>
+<td class="shuju">442013</td>
+<td class="shuju">(0719)8312733</td>
+<td class="shuju">400</td>
+<td class="shuju">18218</td>
+<td class="shuju">改装YG3318VB3G.YG3312GF重型自卸汽车3402辆:改装YG31201B1.YG3092FD19D中型自卸汽车851辆.改装YG5311CSY.YG5120CSY其他仓栅式汽车850辆</td>
+</tr>
+<tr><td class="zhibiao">东风专用底盘(湖北)有限公司</td>
+<td class="shuju">湖北省十堰市镜潭路5号</td>
+<td class="shuju">442013</td>
+<td class="shuju">(0719)8230289</td>
+<td class="shuju">401</td>
+<td class="shuju">96960</td>
+<td class="shuju">货车非完整车辆10915辆</td>
+</tr>
+<tr><td class="zhibiao">东风汽车车轮有限公司</td>
+<td class="shuju">湖北省十堰市广东路2号</td>
+<td class="shuju">442042</td>
+<td class="shuju">(0719)8224154</td>
+<td class="shuju">2155</td>
+<td class="shuju">392483</td>
+<td class="shuju">EQ商用车.EQ乘用车.出口车轮总成6700207只</td>
+</tr>
+<tr><td class="zhibiao">东风专用汽车有限公司</td>
+<td class="shuju">湖北省十堰巿朝阳南路9号</td>
+<td class="shuju">442044</td>
+<td class="shuju">(0719)8247732</td>
+<td class="shuju">1280</td>
+<td class="shuju">72464</td>
+<td class="shuju">改装散装粮食运输车3877辆.改装中型自卸汽车2582辆.改装重型自卸汽车2272辆</td>
+</tr>
+<tr><td class="zhibiao">东风汽车悬架弹簧有限公司</td>
+<td class="shuju">湖北省十堰市张湾区大岭路15号</td>
+<td class="shuju">442046</td>
+<td class="shuju">(0719)8242164</td>
+<td class="shuju">1687</td>
+<td class="shuju">130420</td>
+<td class="shuju">EQ.SX.YUTONG钢板弹簧总成139万架</td>
+</tr>
+<tr><td class="zhibiao">东风汽车传动轴有限公司</td>
+<td class="shuju">湖北省十堰巿茅箭区东风大道76号</td>
+<td class="shuju">442054</td>
+<td class="shuju">(0719)8257008</td>
+<td class="shuju">1338</td>
+<td class="shuju">59489</td>
+<td class="shuju">康明斯离合器总成328500台.传动轴313800只.EQ转向机总成133300台</td>
+</tr>
+<tr><td class="zhibiao">湖北双鸥汽车工程塑料集团有限公司</td>
+<td class="shuju">湖北省十堰市车城南路27号</td>
+<td class="shuju">442055</td>
+<td class="shuju">(0719)8871001</td>
+<td class="shuju">634</td>
+<td class="shuju">17717</td>
+<td class="shuju">汽车转向盘372000只.汽车仪表板总成32800只</td>
+</tr>
+<tr><td class="zhibiao">东风神宇车辆有限公司</td>
+<td class="shuju">湖北省十堰市张湾区新疆路23号</td>
+<td class="shuju">442059</td>
+<td class="shuju">(0719)8234247</td>
+<td class="shuju">861</td>
+<td class="shuju">1012907</td>
+<td class="shuju">载货车10844辆</td>
+</tr>
+<tr><td class="zhibiao">东风汽车紧固件有限公司</td>
+<td class="shuju">湖北省十堰市大岭路40号</td>
+<td class="shuju">442061</td>
+<td class="shuju">(0719)8223566</td>
+<td class="shuju">1565</td>
+<td class="shuju">61494</td>
+<td class="shuju">EQ标准件58267.51万元</td>
+</tr>
+<tr><td class="zhibiao">房县诚信汽配有限责任公司</td>
+<td class="shuju">湖北省房县城关镇下西关213号</td>
+<td class="shuju">442100</td>
+<td class="shuju">(0719)3224830</td>
+<td class="shuju">104</td>
+<td class="shuju">1716</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">湖北兴升科技发展有限公司</td>
+<td class="shuju">湖北省十堰市郧县潭家湾镇民营工业园</td>
+<td class="shuju">442500</td>
+<td class="shuju">(0719)7200218</td>
+<td class="shuju">260</td>
+<td class="shuju">5373</td>
+<td class="shuju">SQR轮毂148011只;变速器.分动器.取力器的齿轮及轴145109件.东风康明斯飞轮总成32537只</td>
+</tr>
+<tr><td class="zhibiao">湖北神河汽车改装(集团)有限公司</td>
+<td class="shuju">湖北省十堰市郧县茶店镇大岭山村六组</td>
+<td class="shuju">442512</td>
+<td class="shuju">(0719)7580882</td>
+<td class="shuju">1280</td>
+<td class="shuju">27339</td>
+<td class="shuju">改装YXG3250GB3.YXG3300AD等重型自卸汽车4061辆.改装YXG3070G.YXG3126G等中型自卸汽车2885辆.改装YXG5108GSS.YXG5100GSS等洒水车260辆</td>
+</tr>
+<tr><td class="zhibiao">东风精密铸造有限公司</td>
+<td class="shuju">湖北省十堰市武当山旅游经济特区公园路155号</td>
+<td class="shuju">442714</td>
+<td class="shuju">(0719)5665041</td>
+<td class="shuju">1066</td>
+<td class="shuju">46329</td>
+<td class="shuju">精密铸件</td>
+</tr>
+<tr><td class="zhibiao">恩施山泰水电设备制造有限责任公司</td>
+<td class="shuju">湖北省恩施市耿家坪工业园</td>
+<td class="shuju">445000</td>
+<td class="shuju">(0718)8224559</td>
+<td class="shuju">100</td>
+<td class="shuju">5508</td>
+<td class="shuju">气缸体6000只</td>
+</tr>
+<tr><td class="zhibiao">航特液压制动有限公司</td>
+<td class="shuju">湖北省荆门市西宝山路3号</td>
+<td class="shuju">448035</td>
+<td class="shuju">(0724)2328231</td>
+<td class="shuju">730</td>
+<td class="shuju">22176</td>
+<td class="shuju">上海中丝.大长江.五羊本田.新大洲.豪爵.铃木嘉陵摩托车盘式制动器总成414万台;川汽盘式制动器总成1300台</td>
+</tr>
+<tr><td class="zhibiao">荆门航特有色金属铸造有限公司</td>
+<td class="shuju">湖北省荆门市掇刀区迎春大道15号</td>
+<td class="shuju">448035</td>
+<td class="shuju">(0724)2499010</td>
+<td class="shuju">636</td>
+<td class="shuju">17466</td>
+<td class="shuju">汽车转向器铸件等</td>
+</tr>
+<tr><td class="zhibiao">武汉林骏汽车饰件有限公司</td>
+<td class="shuju">武汉市东西湖吴家山台商投资区</td>
+<td class="shuju">430040</td>
+<td class="shuju">(027)83232926</td>
+<td class="shuju">152</td>
+<td class="shuju">10941</td>
+<td class="shuju">CA.SVW等成型地毯115000套</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(广西-海南-重庆)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">柳州市双飞汽车电器配件制造有限公司</td>
+<td class="shuju">广西柳州市柳石路27号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)7507277</td>
+<td class="shuju">-</td>
+<td class="shuju">36574</td>
+<td class="shuju">LZW.LG柳工.东风柳汽.大宇等汽车线束770704套</td>
+</tr>
+<tr><td class="zhibiao">柳州福钊冲压铸业有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业因兴发西路</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)3269290</td>
+<td class="shuju">86</td>
+<td class="shuju">5512</td>
+<td class="shuju">模具铸件</td>
+</tr>
+<tr><td class="zhibiao">柳州市动力宝电源科技有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园创业路2号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)7509999</td>
+<td class="shuju">462</td>
+<td class="shuju">10457</td>
+<td class="shuju">蓄电池</td>
+</tr>
+<tr><td class="zhibiao">柳州市鸿福机械制造有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园新兴路2号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)3269225</td>
+<td class="shuju">85</td>
+<td class="shuju">1251</td>
+<td class="shuju">车厢边板等</td>
+</tr>
+<tr><td class="zhibiao">河北新华橡胶密封件集团柳州密封件有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园新兴路20号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)3269090</td>
+<td class="shuju">265</td>
+<td class="shuju">6860</td>
+<td class="shuju">LZW汽车密封件71.41.50万元</td>
+</tr>
+<tr><td class="zhibiao">柳州市华侨紧固件厂</td>
+<td class="shuju">广西柳州市柳石路新兴工业园</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)7507508</td>
+<td class="shuju">210</td>
+<td class="shuju">3700</td>
+<td class="shuju">LZW标准件4000万元</td>
+</tr>
+<tr><td class="zhibiao">柳州延龙裕华汽车零部件有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园新发路5号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)7508028</td>
+<td class="shuju">145</td>
+<td class="shuju">5477</td>
+<td class="shuju">柳汽座椅总成61000只</td>
+</tr>
+<tr><td class="zhibiao">广西南海汽车零部件有限公司</td>
+<td class="shuju">广西柳州市柳江县新兴工业园新兴路12号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)7505588</td>
+<td class="shuju">163</td>
+<td class="shuju">5172</td>
+<td class="shuju">五菱车轴70万根;五菱半轴套管100万只</td>
+</tr>
+<tr><td class="zhibiao">柳州市风华汽车装饰件厂</td>
+<td class="shuju">广西柳州市柳邕路277号</td>
+<td class="shuju">545112</td>
+<td class="shuju">(0772)3221863</td>
+<td class="shuju">150</td>
+<td class="shuju">5397</td>
+<td class="shuju">LZW遮阳板72万只</td>
+</tr>
+<tr><td class="zhibiao">柳州金鸿橡塑有限公司</td>
+<td class="shuju">广西柳江县堪隆开发区屮杨路7号</td>
+<td class="shuju">545116</td>
+<td class="shuju">(0772)3252830</td>
+<td class="shuju">210</td>
+<td class="shuju">6335</td>
+<td class="shuju">汽车发动机悬置</td>
+</tr>
+<tr><td class="zhibiao">柳州柳新汽车冲压件有限公司</td>
+<td class="shuju">广西柳州巿柳江县下屯南环路39号</td>
+<td class="shuju">545116</td>
+<td class="shuju">(0772)3283266</td>
+<td class="shuju">941</td>
+<td class="shuju">46399</td>
+<td class="shuju">东风柳汽驾驶室及车身总成106193台</td>
+</tr>
+<tr><td class="zhibiao">柳州市华航电器有限公司</td>
+<td class="shuju">广西柳州市柳东新区官塘创业园东和路2号</td>
+<td class="shuju">545616</td>
+<td class="shuju">(0772)2621245</td>
+<td class="shuju">338</td>
+<td class="shuju">6012</td>
+<td class="shuju">倒车雷达控制器及支架总成等</td>
+</tr>
+<tr><td class="zhibiao">柳州日高滤清器有限责任公司</td>
+<td class="shuju">广西柳州市雒容工业园东区盘龙路1号</td>
+<td class="shuju">545616</td>
+<td class="shuju">(0772)6511028</td>
+<td class="shuju">260</td>
+<td class="shuju">9653</td>
+<td class="shuju">五柴机油滤清器226万只.LZW汽油滤清器167万只.滤芯85万只</td>
+</tr>
+<tr><td class="zhibiao">海口保税区德瑞工贸有限公司</td>
+<td class="shuju">海口市保税区八号厂房</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)66826269</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">HMC保险杠94100件</td>
+</tr>
+<tr><td class="zhibiao">邦迪汽车系统(海南)有限公司</td>
+<td class="shuju">海口市南海大道100号美国工业村3号厂房</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)66827500</td>
+<td class="shuju">28</td>
+<td class="shuju">2833</td>
+<td class="shuju">HMC高压油管65000根;HMC低压油管65000根</td>
+</tr>
+<tr><td class="zhibiao">一汽海马汽车有限公司</td>
+<td class="shuju">海南省海口市金盘工业开发区</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)66820390</td>
+<td class="shuju">3739</td>
+<td class="shuju">776010</td>
+<td class="shuju">福美来.丘比特.海马3基本型乘用车92869辆.汽车用汽油机自配量95567台;普利马MPV27465辆</td>
+</tr>
+<tr><td class="zhibiao">海南元创机械有限公司</td>
+<td class="shuju">海口巿椰海大道海马二期工业园</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)66899177</td>
+<td class="shuju">327</td>
+<td class="shuju">19132</td>
+<td class="shuju">后纵梁等</td>
+</tr>
+<tr><td class="zhibiao">海南华夏消声器有限公司</td>
+<td class="shuju">海口市保税区D01-1号</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)31360888</td>
+<td class="shuju">21</td>
+<td class="shuju">76</td>
+<td class="shuju">HMC消声器排气管54909只</td>
+</tr>
+<tr><td class="zhibiao">海口通达排气系统有限公司</td>
+<td class="shuju">海口市海马工业园(二期)M-22地块</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)66961896</td>
+<td class="shuju">49</td>
+<td class="shuju">3827</td>
+<td class="shuju">HMC消声器总成152756只;HMC三效催化转化器45915只;HMC进排气歧管10830只</td>
+</tr>
+<tr><td class="zhibiao">海南誉球汽车部件有限公司</td>
+<td class="shuju">海口巿高新区海马工业园二期</td>
+<td class="shuju">570216</td>
+<td class="shuju">(0898)66961855</td>
+<td class="shuju">48</td>
+<td class="shuju">2491</td>
+<td class="shuju">HMC仪表板总成44508只</td>
+</tr>
+<tr><td class="zhibiao">海南宇龙汽车部件有限公司</td>
+<td class="shuju">海南省海口市金垦路39号</td>
+<td class="shuju">570226</td>
+<td class="shuju">(0898)68967826</td>
+<td class="shuju">221</td>
+<td class="shuju">11416</td>
+<td class="shuju">防撞杆.加强板等</td>
+</tr>
+<tr><td class="zhibiao">重庆江利圣特机械制造有限责任公司</td>
+<td class="shuju">重庆市江北区大石坝二村1号</td>
+<td class="shuju">400021</td>
+<td class="shuju">(023)67936354</td>
+<td class="shuju">872</td>
+<td class="shuju">21369</td>
+<td class="shuju">长安水泵总成1168735只;长安摇臂3876393只</td>
+</tr>
+<tr><td class="zhibiao">重庆长安汽车股份有限公司</td>
+<td class="shuju">重庆巿江北区建新东路260号</td>
+<td class="shuju">400023</td>
+<td class="shuju">(023)67590114</td>
+<td class="shuju">39410</td>
+<td class="shuju">10832179</td>
+<td class="shuju">汽车用汽油机自配量974255台;汽车用汽油机商品量690274台;汽车用柴油机自配量196409台</td>
+</tr>
+<tr><td class="zhibiao">重庆长安跨越车辆有限公司</td>
+<td class="shuju">重庆市江北区铁山坪街道太平冲村长安跨越工业园</td>
+<td class="shuju">400026</td>
+<td class="shuju">(023)89116337</td>
+<td class="shuju">1317</td>
+<td class="shuju">149168</td>
+<td class="shuju">KY5.KY6.KY7.KY8载货车43026辆</td>
+</tr>
+<tr><td class="zhibiao">重庆康明斯发动机有限公司</td>
+<td class="shuju">重庆市沙坪坝区烈士墓壮志路100号</td>
+<td class="shuju">400031</td>
+<td class="shuju">(023)65335888</td>
+<td class="shuju">1366</td>
+<td class="shuju">279248</td>
+<td class="shuju">NH.M11.KV汽车用柴油机商品量17310台</td>
+</tr>
+<tr><td class="zhibiao">中国嘉陵工业股份有限公司(集团)</td>
+<td class="shuju">重庆市沙坪坝区双碑自由村100号</td>
+<td class="shuju">400032</td>
+<td class="shuju">(023)65193310</td>
+<td class="shuju">6258</td>
+<td class="shuju">393700</td>
+<td class="shuju">100.110.60.70等二轮普通摩托车817884辆.摩托车用发动机1087598台;100三轮摩托车167977辆</td>
+</tr>
+<tr><td class="zhibiao">中国重汽集团重庆燃油喷射系统有限公司</td>
+<td class="shuju">重庆市沙坪坝区先锋街78号</td>
+<td class="shuju">400033</td>
+<td class="shuju">(023)65294499</td>
+<td class="shuju">1079</td>
+<td class="shuju">101501</td>
+<td class="shuju">重汽.杭发.玉柴.上柴等喷油器1357745只;重汽.杭发.玉柴.上柴等柴油泵271430只</td>
+</tr>
+<tr><td class="zhibiao">重庆剎车管厂</td>
+<td class="shuju">庆市沙坪坝区歌乐山天池村水井坎90号</td>
+<td class="shuju">400036</td>
+<td class="shuju">(023)65319205</td>
+<td class="shuju">86</td>
+<td class="shuju">3127</td>
+<td class="shuju">汽车制动软管991840只;摩托车低压油管29450根</td>
+</tr>
+<tr><td class="zhibiao">力帆实业(集团)股份有限公司</td>
+<td class="shuju">重庆市沙坪坝区上桥张家湾60号</td>
+<td class="shuju">400037</td>
+<td class="shuju">(023)61663112</td>
+<td class="shuju">3405</td>
+<td class="shuju">1223115</td>
+<td class="shuju">60.100.150出口等二轮普通摩托车1689085辆;50.90.100.出口等摩托车用发动机3614779台;50.出口二轮轻便摩托车30250辆</td>
+</tr>
+<tr><td class="zhibiao">重庆小康工业集团股份有限公司</td>
+<td class="shuju">重庆市沙坪坝区上桥工业园</td>
+<td class="shuju">400037</td>
+<td class="shuju">(023)89095683</td>
+<td class="shuju">10985</td>
+<td class="shuju">1153729</td>
+<td class="shuju">交叉型乘用车230333辆;摩托车减振器总成8816200只;汽车减振器总成1334000只</td>
+</tr>
+<tr><td class="zhibiao">重庆光能汽车配件有限公司</td>
+<td class="shuju">重庆巿九龙坡区石桥铺高庙村张坪社27号</td>
+<td class="shuju">400039</td>
+<td class="shuju">(023)68634277</td>
+<td class="shuju">686</td>
+<td class="shuju">18846</td>
+<td class="shuju">汽车车门铰链5592件;汽车散热器总成770只;汽车内饰件等</td>
+</tr>
+<tr><td class="zhibiao">重庆矢崎仪表有限公司</td>
+<td class="shuju">重庆市高新开发区科园四路172号</td>
+<td class="shuju">400041</td>
+<td class="shuju">(023)68612048</td>
+<td class="shuju">297</td>
+<td class="shuju">12000</td>
+<td class="shuju">庆铃.马自达.川汽.长丰.日产等汽车组合仪表30万只</td>
+</tr>
+<tr><td class="zhibiao">重庆杜克高压密封件有限公司</td>
+<td class="shuju">重庆市高新开发区石桥铺科园四路170号</td>
+<td class="shuju">400041</td>
+<td class="shuju">(023)89088737</td>
+<td class="shuju">436</td>
+<td class="shuju">10353</td>
+<td class="shuju">重汽汽车密封件17349.68万元</td>
+</tr>
+<tr><td class="zhibiao">重庆铁马工业集团有限公司</td>
+<td class="shuju">重庆市九龙坡区杨家坪正街43号</td>
+<td class="shuju">400050</td>
+<td class="shuju">(023)68062273</td>
+<td class="shuju">3741</td>
+<td class="shuju">249998</td>
+<td class="shuju">改装重型自卸汽车531辆;改装混凝土搅拌运输车121辆;改装粉粒物料运输车107辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

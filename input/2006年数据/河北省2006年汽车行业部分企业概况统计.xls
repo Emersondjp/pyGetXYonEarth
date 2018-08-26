@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">河北省2006年汽车行业部分企业概况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">主营业务收入万元</td>
+<td class="biaotou">主要产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">石家庄煤矿机械有限责任公司</td>
+<td class="shuju">石家庄市长安区跃进路111号</td>
+<td class="shuju">050031</td>
+<td class="shuju">(0311)85916961</td>
+<td class="shuju">2178</td>
+<td class="shuju">34652</td>
+<td class="shuju">改装起重举升汽车289辆;改装SMJ5050JSQBS.SMJ5060JSQ.SMJ5092JSQ.SMJ5144JSQ等随车起重运输车194辆</td>
+</tr>
+<tr><td class="zhibiao">石家庄金刚内燃机零部件集团有限公司</td>
+<td class="shuju">石家庄市经济技术开发区世纪大道66号</td>
+<td class="shuju">050031</td>
+<td class="shuju">(0311)89651801</td>
+<td class="shuju">2653</td>
+<td class="shuju">21574</td>
+<td class="shuju">汽车气缸套374万只;汽车活塞环605万片;汽车活塞销308万只</td>
+</tr>
+<tr><td class="zhibiao">石家庄泰明顿摩擦材料有限公司</td>
+<td class="shuju">石家庄市高新技术开发区东区黄河大道150号</td>
+<td class="shuju">050035</td>
+<td class="shuju">(0311)85962981</td>
+<td class="shuju">229</td>
+<td class="shuju">14171</td>
+<td class="shuju">一汽-大众.上海大众.宇通等摩擦材料5452t</td>
+</tr>
+<tr><td class="zhibiao">中车集团石家庄7240工厂</td>
+<td class="shuju">石家庄市胜利北街256号</td>
+<td class="shuju">050042</td>
+<td class="shuju">(0311)86082426</td>
+<td class="shuju">473</td>
+<td class="shuju">7086</td>
+<td class="shuju">汽车传动轴0.6万只</td>
+</tr>
+<tr><td class="zhibiao">石家庄兴发汽车改装有限公司</td>
+<td class="shuju">石家庄市西二环北路5号</td>
+<td class="shuju">050061</td>
+<td class="shuju">(0311)83625354</td>
+<td class="shuju">390</td>
+<td class="shuju">4576</td>
+<td class="shuju">改装SZY5312XXY.SZY5310XXY等厢式运输车659辆;改装SZY9380.SZY9390.SZY9401XCY等超重型半挂车340辆;改装SZY3163.SZY3312.SZY3254等重型自卸汽车182辆</td>
+</tr>
+<tr><td class="zhibiao">河北长鹿客车厂</td>
+<td class="shuju">石家庄市北环西路3号</td>
+<td class="shuju">050061</td>
+<td class="shuju">(0311)87751912</td>
+<td class="shuju">209</td>
+<td class="shuju">7019</td>
+<td class="shuju">改装HB6606.HB6630E.HB6660轻型客车643辆;改装HB6750.HB6780.HB6791等中型客车95辆;改装HB5110XQC囚车13辆</td>
+</tr>
+<tr><td class="zhibiao">石家庄星达汽车有限公司</td>
+<td class="shuju">石家庄市北外环西路369号</td>
+<td class="shuju">050061</td>
+<td class="shuju">(0311)87772125</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">改装XXQ3213Z.XXQ3212Z.XXQ3211Z等重型自卸汽车1610辆;改装XXQ5300XXY.XXQ5250XXY厢式运输车240辆;改装XXQ5310CLX仓栅式汽车200辆</td>
+</tr>
+<tr><td class="zhibiao">石家庄飞机工业有限责任公司</td>
+<td class="shuju">石家庄市北二环西路19号</td>
+<td class="shuju">050062</td>
+<td class="shuju">(0311)87754251</td>
+<td class="shuju">1670</td>
+<td class="shuju">8803</td>
+<td class="shuju">中大.桂林大宇.JAC.双环车门0.18万件</td>
+</tr>
+<tr><td class="zhibiao">河北华北柴油机有限责任公司</td>
+<td class="shuju">石家庄市鹿泉市上庄镇</td>
+<td class="shuju">050081</td>
+<td class="shuju">(0311)83989310</td>
+<td class="shuju">1320</td>
+<td class="shuju">14040</td>
+<td class="shuju">BF8L413F/C.BF18L513等汽车用柴油机商品量909台;出口气缸套9258只</td>
+</tr>
+<tr><td class="zhibiao">中国人民解放军第6411工厂</td>
+<td class="shuju">石家庄市鹿泉市宜安镇东焦村</td>
+<td class="shuju">050202</td>
+<td class="shuju">(0311)82210807</td>
+<td class="shuju">1183</td>
+<td class="shuju">9088</td>
+<td class="shuju">改装特种结构汽车16辆</td>
+</tr>
+<tr><td class="zhibiao">河北省汽车修配厂</td>
+<td class="shuju">石家庄市鹿泉市黄壁庄镇</td>
+<td class="shuju">050224</td>
+<td class="shuju">(0311)82209059</td>
+<td class="shuju">118</td>
+<td class="shuju">531</td>
+<td class="shuju">改装HBX9400JZ.HBX9380.HXQG20超重型半挂车37辆;改装HBX8200P.HBX8200全挂车20辆;改装仓栅式汽车7辆</td>
+</tr>
+<tr><td class="zhibiao">河北翼凌机械制造总厂</td>
+<td class="shuju">河北省井陉县威州镇</td>
+<td class="shuju">050307</td>
+<td class="shuju">(0311)82358847</td>
+<td class="shuju">3174</td>
+<td class="shuju">24165</td>
+<td class="shuju">改装HBD5260GJY加油车35辆;T815货厢总成100台</td>
+</tr>
+<tr><td class="zhibiao">石家庄龙马铝业有限公司</td>
+<td class="shuju">石家庄市正定县京石高速路口</td>
+<td class="shuju">050800</td>
+<td class="shuju">(0311)88788232</td>
+<td class="shuju">40</td>
+<td class="shuju">1480</td>
+<td class="shuju">JETTA.STN散热器总成2万只;汽车空调冷凝器2万台</td>
+</tr>
+<tr><td class="zhibiao">河北顺捷专用汽车制造有限责任公司</td>
+<td class="shuju">河北省衡水市育才北大街699号</td>
+<td class="shuju">053000</td>
+<td class="shuju">(0318)5225009</td>
+<td class="shuju">380</td>
+<td class="shuju">7436</td>
+<td class="shuju">改装HBS9400.HBS9360.HBS9400CLX等超重型半挂车796辆;改装HBS3313重型自卸汽车227辆;改装HBS9280TDP.HBS9280XXY重型半挂车223辆</td>
+</tr>
+<tr><td class="zhibiao">河北驹王专用汽车制造有限公司</td>
+<td class="shuju">河北省衡水市枣强县富强北路192号</td>
+<td class="shuju">053100</td>
+<td class="shuju">(0318)8260958</td>
+<td class="shuju">160</td>
+<td class="shuju">5395</td>
+<td class="shuju">改装ZJW9400.ZJW9400CLX.ZJW9400GHY等超重型半挂车805辆;改装ZJW9280.ZJW9330XXY.ZJW9290CLX等重型半挂车308辆</td>
+</tr>
+<tr><td class="zhibiao">安平县汽车消声器总厂</td>
+<td class="shuju">河北省安平县丝网工业园区</td>
+<td class="shuju">053600</td>
+<td class="shuju">(0318)7026636</td>
+<td class="shuju">120</td>
+<td class="shuju">2100</td>
+<td class="shuju">一汽青岛消声器总成5万只;汽车消声器排气管5万只</td>
+</tr>
+<tr><td class="zhibiao">河北新华欧亚汽配集团有限公司</td>
+<td class="shuju">河北省清河县城西王二庄工业园区</td>
+<td class="shuju">054802</td>
+<td class="shuju">(0319)8031226</td>
+<td class="shuju">560</td>
+<td class="shuju">10000</td>
+<td class="shuju">汽车密封件</td>
+</tr>
+<tr><td class="zhibiao">河北创世纪密封材料有限公司</td>
+<td class="shuju">河北省邢台市巨鹿杨寨工业区</td>
+<td class="shuju">055250</td>
+<td class="shuju">(0319)43966681</td>
+<td class="shuju">28</td>
+<td class="shuju">300</td>
+<td class="shuju">STR.红岩.北方奔驰汽车密封件</td>
+</tr>
+<tr><td class="zhibiao">邯郸新兴重型机械有限公司</td>
+<td class="shuju">河北省邯郸市复兴区石化街4号</td>
+<td class="shuju">056017</td>
+<td class="shuju">(0310)5797195</td>
+<td class="shuju">965</td>
+<td class="shuju">50001</td>
+<td class="shuju">改装HDS9361GGY超重型半挂车17辆;改装HDS9340GGQ重型半挂车81辆</td>
+</tr>
+<tr><td class="zhibiao">河北宏业机械股份有限公司</td>
+<td class="shuju">河北省泊头市南仓街461号</td>
+<td class="shuju">062150</td>
+<td class="shuju">(0317)8288812</td>
+<td class="shuju">2023</td>
+<td class="shuju">19243</td>
+<td class="shuju">汽车散热器</td>
+</tr>
+<tr><td class="zhibiao">河北成城汽车电机制造有限公司</td>
+<td class="shuju">河北省任丘市梁召镇大江工业区</td>
+<td class="shuju">062557</td>
+<td class="shuju">(0317)2911455</td>
+<td class="shuju">210</td>
+<td class="shuju">1115</td>
+<td class="shuju">汽车起动机2000台</td>
+</tr>
+<tr><td class="zhibiao">唐山亚特专用汽车有限公司</td>
+<td class="shuju">河北省唐山市高新技术开发区贾庵道</td>
+<td class="shuju">063020</td>
+<td class="shuju">(0315)7729510</td>
+<td class="shuju">286</td>
+<td class="shuju">31701</td>
+<td class="shuju">改装混凝土搅拌运输车1150辆;改装重型自卸汽车1262辆;改装超重型半挂车780辆</td>
+</tr>
+<tr><td class="zhibiao">唐山通力齿轮有限公司</td>
+<td class="shuju">河北省唐山市路南区胜利路2号</td>
+<td class="shuju">063001</td>
+<td class="shuju">(0315)2869858</td>
+<td class="shuju">212</td>
+<td class="shuju">4376</td>
+<td class="shuju">FOTON.郑州日产.北汽.山东黑豹等手动变速器总成21927台</td>
+</tr>
+<tr><td class="zhibiao">唐山齿轮集团有限公司</td>
+<td class="shuju">河北省唐山市高新技术开发区永庆道56号</td>
+<td class="shuju">063020</td>
+<td class="shuju">(0315)3859391</td>
+<td class="shuju">1433</td>
+<td class="shuju">41836</td>
+<td class="shuju">BJ.北京奔驰.郑州日产手动变速器总成21927台;改装重型自卸汽车1560辆</td>
+</tr>
+<tr><td class="zhibiao">中国建筑二局建筑机械总厂</td>
+<td class="shuju">河北省唐山市丰润区林荫东路</td>
+<td class="shuju">063030</td>
+<td class="shuju">(0315)3233454</td>
+<td class="shuju">180</td>
+<td class="shuju">4966</td>
+<td class="shuju">改装YCZ9360GFL.YC9381GFL超重型半挂车218辆;改装YCZ9280重型半挂车6辆;改装YCZ5310GFL粉粒物料运输车6辆</td>
+</tr>
+<tr><td class="zhibiao">唐山众兴专用汽车制造有限公司</td>
+<td class="shuju">河北省唐山市银丰镇青年路东侧</td>
+<td class="shuju">063300</td>
+<td class="shuju">(0315)8167788</td>
+<td class="shuju">40</td>
+<td class="shuju">681</td>
+<td class="shuju">改装TZX9380.TZX9400XXY等超重型半挂车130辆</td>
+</tr>
+<tr><td class="zhibiao">遵化市金阳汽车部件有限公司</td>
+<td class="shuju">河北省遵化市马兰峪镇</td>
+<td class="shuju">064206</td>
+<td class="shuju">(0315)6944404</td>
+<td class="shuju">160</td>
+<td class="shuju">1160</td>
+<td class="shuju">动力转向机中间轴等汽车零部件200万件</td>
+</tr>
+<tr><td class="zhibiao">亚新科美联(廊坊)制动系统有限公司</td>
+<td class="shuju">河北省廊坊市光明西道1号</td>
+<td class="shuju">065000</td>
+<td class="shuju">(0316)2684026</td>
+<td class="shuju">1446</td>
+<td class="shuju">-</td>
+<td class="shuju">玉柴.潍柴.东风康明斯等空压机总成54.49万台;一汽-大众.上海大众.一汽轿车制动盘100万只;出口制动间隙调整装置30.3万套</td>
+</tr>
+<tr><td class="zhibiao">廊坊京联汽车改装有限公司</td>
+<td class="shuju">河北省廊坊市经济技术开发区翠青北道8号</td>
+<td class="shuju">065001</td>
+<td class="shuju">(0316)5918909</td>
+<td class="shuju">-</td>
+<td class="shuju">21660</td>
+<td class="shuju">改装BL5033XXY.BJ5046XXY.EQ5040XXY.EQ5088XXY等厢式运输车1319辆;改装JLC5036XLJ.JLC5046XLB等厢式汽车3159辆;改装清障车294辆</td>
+</tr>
+<tr><td class="zhibiao">廊坊开发区新赛浦石油设备有限公司</td>
+<td class="shuju">河北省廊坊市经济技术开发区花园道32号</td>
+<td class="shuju">065001</td>
+<td class="shuju">(0316)6082717</td>
+<td class="shuju">72</td>
+<td class="shuju">8540</td>
+<td class="shuju">改装测井车71辆;改装试井车10辆</td>
+</tr>
+<tr><td class="zhibiao">亚新科制动技术(廊坊)有限公司</td>
+<td class="shuju">河北省廊坊市经济技术开发区耀华道1号朗森汽车产业园</td>
+<td class="shuju">065001</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">121</td>
+<td class="shuju">-</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">亚新科(固安)汽车零部件有限公司</td>
+<td class="shuju">河北省固安工业区汽车工业基地</td>
+<td class="shuju">065500</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">300</td>
+<td class="shuju">3400</td>
+<td class="shuju">汽车铸件19.1万t</td>
+</tr>
+<tr><td class="zhibiao">廊坊三议合滤清器有限公司</td>
+<td class="shuju">河北省廊坊市永清县龙虎庄开发区廊霸路</td>
+<td class="shuju">065600</td>
+<td class="shuju">(0316)6571325</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">汽车机油滤清器357万只</td>
+</tr>
+<tr><td class="zhibiao">戴卡轮毂制造有限公司</td>
+<td class="shuju">河北省秦皇岛市海港区北环路95号</td>
+<td class="shuju">066003</td>
+<td class="shuju">(0335)3016313</td>
+<td class="shuju">2100</td>
+<td class="shuju">269000</td>
+<td class="shuju">汽车铝车轮总成880万只</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛新谊工程有限公司</td>
+<td class="shuju">河北省秦皇岛市海港区北环路东段118号</td>
+<td class="shuju">066001</td>
+<td class="shuju">(0335)3101545</td>
+<td class="shuju">119</td>
+<td class="shuju">1727</td>
+<td class="shuju">改装LSS5090ZYS.LSS5071ZYS.LSS5062ZYS.LSS5063ZYS.LSS5150ZYS压缩式垃圾车82辆;改装LSS5151ZKX车厢可卸式汽车3辆</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛燕大汽车附件厂</td>
+<td class="shuju">河北省秦皇岛市经济技术开发区雪山路6号</td>
+<td class="shuju">066004</td>
+<td class="shuju">(0335)8501626</td>
+<td class="shuju">230</td>
+<td class="shuju">3030</td>
+<td class="shuju">门窗框总成及中框总成112933件;单双排冲压件25615套</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛戴卡美铝车轮有限公司</td>
+<td class="shuju">河北省秦皇岛市经济技术开发区金山北路15号</td>
+<td class="shuju">066004</td>
+<td class="shuju">(0335)5910205</td>
+<td class="shuju">353</td>
+<td class="shuju">28334</td>
+<td class="shuju">汽车铝车轮总成79万只</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛津丰发动力机械有限公司</td>
+<td class="shuju">河北省秦皇岛市北戴河开发区金三路6号</td>
+<td class="shuju">066102</td>
+<td class="shuju">(0335)4288007</td>
+<td class="shuju">-</td>
+<td class="shuju">6838</td>
+<td class="shuju">JFF491Q-ME汽车用汽油机商品量1.2万台</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛金程自动车工业有限公司</td>
+<td class="shuju">河北省秦皇岛市北戴河经济技术开发区金三路6号</td>
+<td class="shuju">066102</td>
+<td class="shuju">(0335)4288027</td>
+<td class="shuju">292</td>
+<td class="shuju">12160</td>
+<td class="shuju">改装GDQ6480.GDQ6470等轻型客车1450辆</td>
+</tr>
+<tr><td class="zhibiao">中国航空工业第一集团公司第5711厂北戴河分厂</td>
+<td class="shuju">河北省秦皇岛市北戴河开发区站南大街166号</td>
+<td class="shuju">066102</td>
+<td class="shuju">(0335)4017810</td>
+<td class="shuju">386</td>
+<td class="shuju">1091</td>
+<td class="shuju">美驰车桥液压制动总泵43610台</td>
+</tr>
+<tr><td class="zhibiao">昌黎县川港专用汽车制造有限公司</td>
+<td class="shuju">河北省昌黎县京山铁路张家庄车站北</td>
+<td class="shuju">066600</td>
+<td class="shuju">(0335)2181482</td>
+<td class="shuju">133</td>
+<td class="shuju">3786</td>
+<td class="shuju">改装重型半挂车834辆</td>
+</tr>
+<tr><td class="zhibiao">中国一拖集团承德曲轴连杆有限公司</td>
+<td class="shuju">河北省承德市双桥区大石庙镇</td>
+<td class="shuju">067000</td>
+<td class="shuju">(0314)2120416</td>
+<td class="shuju">267</td>
+<td class="shuju">893</td>
+<td class="shuju">F3L912.F4L912.F6L912曲轴1701根</td>
+</tr>
+<tr><td class="zhibiao">长城汽车股份有限公司</td>
+<td class="shuju">河北省保定市长城南大街1588号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)2192896</td>
+<td class="shuju">11480</td>
+<td class="shuju">499915</td>
+<td class="shuju">哈弗.赛弗等二轮驱动运动型多功能车39566辆;CC1022等货车45893辆</td>
+</tr>
+<tr><td class="zhibiao">保定大迪汽车工业有限公司</td>
+<td class="shuju">河北省定兴县定兴镇迎宾南街111号</td>
+<td class="shuju">072650</td>
+<td class="shuju">(0312)6922011</td>
+<td class="shuju">1180</td>
+<td class="shuju">66752</td>
+<td class="shuju">改装BDD6490E.BDD6492Y等轻型客车2650辆;改装BDD1024.BDD1022等轻型载货车6157辆;改装BDD5022XJLC等厢式汽车1370辆</td>
+</tr>
+<tr><td class="zhibiao">保定市长安晨光机械有限公司</td>
+<td class="shuju">河北省保定市乐凯南大街2615号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)5932009</td>
+<td class="shuju">281</td>
+<td class="shuju">3807</td>
+<td class="shuju">河北长安.长城哈佛冲焊件2282万元</td>
+</tr>
+<tr><td class="zhibiao">河北中兴汽车制造有限公司</td>
+<td class="shuju">河北省保定市建国路860号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)2190513</td>
+<td class="shuju">1632</td>
+<td class="shuju">117304</td>
+<td class="shuju">中兴无限等二轮驱动运动型多功能车7489辆;BQ1020.BQ1022货车22950辆;中兴无限等四轮驱动运动型多功能车1500辆</td>
+</tr>
+<tr><td class="zhibiao">保定市立中车轮制造有限公司</td>
+<td class="shuju">河北省保定市七一东路948号</td>
+<td class="shuju">071000</td>
+<td class="shuju">(0312)5997625</td>
+<td class="shuju">1635</td>
+<td class="shuju">54654</td>
+<td class="shuju">郑州日产.长城.SC.JL.双环等铝车轮总成208万只</td>
+</tr>
+<tr><td class="zhibiao">风帆股份有限公司</td>
+<td class="shuju">河北省保定市富昌路8号</td>
+<td class="shuju">071051</td>
+<td class="shuju">(0312)3208556</td>
+<td class="shuju">4163</td>
+<td class="shuju">183000</td>
+<td class="shuju">CA.SVW.SQR等蓄电池618万kVAh</td>
+</tr>
+<tr><td class="zhibiao">容城来福灯泡有限公司</td>
+<td class="shuju">河北省容城县西城路22号</td>
+<td class="shuju">071700</td>
+<td class="shuju">(0312)5616920</td>
+<td class="shuju">357</td>
+<td class="shuju">8800</td>
+<td class="shuju">汽车灯泡5910万只</td>
+</tr>
+<tr><td class="zhibiao">保定维德汽车铸件有限公司</td>
+<td class="shuju">河北省保定市徐水县复兴路立交桥西口</td>
+<td class="shuju">072550</td>
+<td class="shuju">(0312)7115160</td>
+<td class="shuju">792</td>
+<td class="shuju">5059</td>
+<td class="shuju">大齿.哈齿等自动变速器壳36538台;大齿.哈齿.法士特飞轮壳59370只</td>
+</tr>
+<tr><td class="zhibiao">保定宏业石油物探机械制造有限责任公司</td>
+<td class="shuju">河北省徐水县121-6信箱</td>
+<td class="shuju">072553</td>
+<td class="shuju">(0312)8649204</td>
+<td class="shuju">430</td>
+<td class="shuju">14205</td>
+<td class="shuju">改装WTJ5082TZJ.WTJ5122TZJ.WTJ5200TZJ钻机车111辆</td>
+</tr>
+<tr><td class="zhibiao">天马汽车集团有限公司</td>
+<td class="shuju">河北省保定市107国道定兴环岛南</td>
+<td class="shuju">072650</td>
+<td class="shuju">(0312)6927033</td>
+<td class="shuju">535</td>
+<td class="shuju">58233</td>
+<td class="shuju">改装KZ1021SE.KZ1021SLE等轻型载货车5423辆;改装KZ6490.KZ6490C.KZ6480等轻型客车4533辆;改装KZ3314.KZ3319等重型自卸汽车323辆</td>
+</tr>
+<tr><td class="zhibiao">河北凌云工业集团有限公司</td>
+<td class="shuju">河北省涿州市松林店镇</td>
+<td class="shuju">072761</td>
+<td class="shuju">(0312)3676616</td>
+<td class="shuju">3080</td>
+<td class="shuju">179858</td>
+<td class="shuju">轿车半轴437312根</td>
+</tr>
+<tr><td class="zhibiao">河北长安汽车有限公司</td>
+<td class="shuju">河北省定州市西城区</td>
+<td class="shuju">073000</td>
+<td class="shuju">(0312)2356679</td>
+<td class="shuju">1241</td>
+<td class="shuju">386347</td>
+<td class="shuju">SC1016系列.SC1022等货车76065辆;SC6390.SC6391交叉型乘用车70788辆</td>
+</tr>
+<tr><td class="zhibiao">定州市四新汽车拨叉有限公司</td>
+<td class="shuju">河北省定州市定曲路桥西3号</td>
+<td class="shuju">073000</td>
+<td class="shuju">(0312)2354752</td>
+<td class="shuju">360</td>
+<td class="shuju">3200</td>
+<td class="shuju">汽车变速器拨叉258万件</td>
+</tr>
+<tr><td class="zhibiao">张家口大地专用汽车制造有限责任公司</td>
+<td class="shuju">河北省张家口市桥东区工业中横街25号</td>
+<td class="shuju">075000</td>
+<td class="shuju">(0313)4082030</td>
+<td class="shuju">718</td>
+<td class="shuju">7712</td>
+<td class="shuju">改装超重型半挂车317辆;改装全挂车800辆;改装重型半挂车317辆</td>
+</tr>
+<tr><td class="zhibiao">张家口市元强锻压有限公司</td>
+<td class="shuju">河北省张家口市桥西区白家沟53号</td>
+<td class="shuju">075000</td>
+<td class="shuju">(0313)8022369</td>
+<td class="shuju">105</td>
+<td class="shuju">4056</td>
+<td class="shuju">一汽山东汽改轮毂6.16万只</td>
+</tr>
+<tr><td class="zhibiao">河北燕兴机械有限公司</td>
+<td class="shuju">河北省张家口市桥东区马路东西街4号</td>
+<td class="shuju">075041</td>
+<td class="shuju">(0313)4089693</td>
+<td class="shuju">1521</td>
+<td class="shuju">6302</td>
+<td class="shuju">改装YXC6600.YXC6660等轻型客车155辆;改装YXC6740.YXC6790等中型客车62辆</td>
+</tr>
+<tr><td class="zhibiao">秦皇岛秦冠弧度镜有限公司</td>
+<td class="shuju">河北省秦皇岛市海港区光明路100号</td>
+<td class="shuju">066002</td>
+<td class="shuju">(0335)3410694</td>
+<td class="shuju">55</td>
+<td class="shuju">924</td>
+<td class="shuju">中兴.XMQ.FOTON后视镜4.8万只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2007》</div>
+</div>
+</body>
+</html>

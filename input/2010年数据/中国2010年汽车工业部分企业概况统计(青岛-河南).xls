@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(青岛-河南)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">威伯科汽车控制系统(中国)有限公司</td>
+<td class="shuju">青岛经济技术开发区渭河路917号</td>
+<td class="shuju">266510</td>
+<td class="shuju">(0532)86861000</td>
+<td class="shuju">487</td>
+<td class="shuju">115615</td>
+<td class="shuju">出口电磁阀889672只</td>
+</tr>
+<tr><td class="zhibiao">史慕斯汽车配件(青岛)有限公司</td>
+<td class="shuju">育岛经济技术开发区区渭河路917号</td>
+<td class="shuju">266510</td>
+<td class="shuju">(0532)80982655</td>
+<td class="shuju">9</td>
+<td class="shuju">91</td>
+<td class="shuju">铁芯.螺线管</td>
+</tr>
+<tr><td class="zhibiao">青岛金源汽车油管有限公司</td>
+<td class="shuju">青岛开发区延河路252号天河工业园</td>
+<td class="shuju">266555</td>
+<td class="shuju">(0532)86837966</td>
+<td class="shuju">120</td>
+<td class="shuju">-</td>
+<td class="shuju">制动油管.液压管</td>
+</tr>
+<tr><td class="zhibiao">青岛双英汽车内饰系统有限公司</td>
+<td class="shuju">青岛市经济技术开发区江山中路169号</td>
+<td class="shuju">266555</td>
+<td class="shuju">-</td>
+<td class="shuju">482</td>
+<td class="shuju">14011</td>
+<td class="shuju">LZW座椅总成57万只</td>
+</tr>
+<tr><td class="zhibiao">青岛雅凯汽车工贸有限公司</td>
+<td class="shuju">青岛平度市三城路340号</td>
+<td class="shuju">266705</td>
+<td class="shuju">(0532)83303888</td>
+<td class="shuju">262</td>
+<td class="shuju">7343</td>
+<td class="shuju">CA.JAC.EQ.NJ货厢总成213台</td>
+</tr>
+<tr><td class="zhibiao">郑州日产汽车有限公司</td>
+<td class="shuju">郑州市经济技术开发区第八大街369号</td>
+<td class="shuju">450016</td>
+<td class="shuju">(0371)66033888</td>
+<td class="shuju">2607</td>
+<td class="shuju">952779</td>
+<td class="shuju">载货车53726辆;MPV33868辆;二轮驱动SUV7021辆</td>
+</tr>
+<tr><td class="zhibiao">海马轿车有限公司</td>
+<td class="shuju">郑州市经济技术开发区航海东路1689号</td>
+<td class="shuju">450016</td>
+<td class="shuju">(0371)67399986</td>
+<td class="shuju">1857</td>
+<td class="shuju">189270</td>
+<td class="shuju">福仕达交叉型乘用车64254辆;王子基本型乘用车5737辆</td>
+</tr>
+<tr><td class="zhibiao">猛狮客车有限公司</td>
+<td class="shuju">郑州市国家经济技术开发区第八大街69号</td>
+<td class="shuju">450016</td>
+<td class="shuju">(0371)66782728</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">客车非完整车辆14辆</td>
+</tr>
+<tr><td class="zhibiao">郑州宇通客车股份有限公司</td>
+<td class="shuju">郑州市符城区宇通路</td>
+<td class="shuju">450016</td>
+<td class="shuju">(0371)66806066</td>
+<td class="shuju">6454</td>
+<td class="shuju">1348388</td>
+<td class="shuju">客车40655辆</td>
+</tr>
+<tr><td class="zhibiao">河南开开特星光锁系统有限公司</td>
+<td class="shuju">郑州市中原区郑上路882号</td>
+<td class="shuju">450042</td>
+<td class="shuju">(0371)67822906</td>
+<td class="shuju">610</td>
+<td class="shuju">33852</td>
+<td class="shuju">汽车锁520万只</td>
+</tr>
+<tr><td class="zhibiao">河南大井星光汽车零部件制造有限公司</td>
+<td class="shuju">郑州市中原区须水工贸园区</td>
+<td class="shuju">450042</td>
+<td class="shuju">(0371)67813811</td>
+<td class="shuju">53</td>
+<td class="shuju">3847</td>
+<td class="shuju">汽车锁385500只</td>
+</tr>
+<tr><td class="zhibiao">郑州宏达汽车工业有限公司</td>
+<td class="shuju">郑州巿惠济区古荥镇</td>
+<td class="shuju">450043</td>
+<td class="shuju">(0371)63591999</td>
+<td class="shuju">660</td>
+<td class="shuju">30016</td>
+<td class="shuju">改装富华.富合超重型半挂车973辆;改装SX.重汽.北奔混凝土搅拌运输车815辆;改装EQ重型载货车223辆</td>
+</tr>
+<tr><td class="zhibiao">河南少林汽车股份有限公司</td>
+<td class="shuju">河南省荥阳市京城南路001号</td>
+<td class="shuju">450100</td>
+<td class="shuju">(0371)64618255</td>
+<td class="shuju">2077</td>
+<td class="shuju">192083</td>
+<td class="shuju">改装其他轻型改装汽车5537辆;改装其他重型改装汽车2695辆;改装其他中型改装汽车2098辆</td>
+</tr>
+<tr><td class="zhibiao">河南亚隆专用车有限公司</td>
+<td class="shuju">河南省新郑市郭店镇轻工南路107国道东侧</td>
+<td class="shuju">451150</td>
+<td class="shuju">(0371)62502899</td>
+<td class="shuju">260</td>
+<td class="shuju">20523</td>
+<td class="shuju">改装ZZ3257.ZZ1257等重型自卸汽车674辆;改装SX5255.SX5315等混凝土搅拌运输车272辆;改装ZZ4257等重型半挂车171辆</td>
+</tr>
+<tr><td class="zhibiao">郑州红宇专用汽车有限责任公司</td>
+<td class="shuju">郑州市中牟县建设南路32号</td>
+<td class="shuju">451450</td>
+<td class="shuju">(0371)62163779</td>
+<td class="shuju">408</td>
+<td class="shuju">30850</td>
+<td class="shuju">改装爆破器材运输车1437辆;改装冷藏车628辆;改装保温车342辆</td>
+</tr>
+<tr><td class="zhibiao">郑州泰新汽车内饰件有限公司</td>
+<td class="shuju">郑州市中牟县建设南段</td>
+<td class="shuju">451450</td>
+<td class="shuju">(0371)62161638</td>
+<td class="shuju">659</td>
+<td class="shuju">17816</td>
+<td class="shuju">郑州日产座椅总成75074只</td>
+</tr>
+<tr><td class="zhibiao">郑州跃博汽车电器有限公司</td>
+<td class="shuju">河南省登封市中岳街道办事处东十里铺村</td>
+<td class="shuju">452470</td>
+<td class="shuju">(0371)62800800</td>
+<td class="shuju">450</td>
+<td class="shuju">6460</td>
+<td class="shuju">宇通.奇瑞中央控制器54000件;昌河铃木.哈飞汽车线束4万套;LF.陆风开关11.07万只</td>
+</tr>
+<tr><td class="zhibiao">河南天牛工业机械有限公司</td>
+<td class="shuju">河南省新乡市前进路110号</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)3333666</td>
+<td class="shuju">100</td>
+<td class="shuju">7805</td>
+<td class="shuju">改装重型半挂车918辆</td>
+</tr>
+<tr><td class="zhibiao">新乡市新飞专用汽车有限公司</td>
+<td class="shuju">河南省新乡巿红旗区新长路118号</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)3673008</td>
+<td class="shuju">1480</td>
+<td class="shuju">56961</td>
+<td class="shuju">改装CA.EQ.BT.SX.重汽散装水泥车4494辆</td>
+</tr>
+<tr><td class="zhibiao">新乡市金戈机械制造有限公司</td>
+<td class="shuju">河南省新乡市凤泉区耿黄乡宜和路李大线1号</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)7053816</td>
+<td class="shuju">170</td>
+<td class="shuju">3000</td>
+<td class="shuju">北欧重汽油箱20800只</td>
+</tr>
+<tr><td class="zhibiao">河南铁牛工业机械有限公司</td>
+<td class="shuju">河南省新乡巿南环路李村东口</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)5110007</td>
+<td class="shuju">100</td>
+<td class="shuju">7805</td>
+<td class="shuju">改装超重型半挂车918辆</td>
+</tr>
+<tr><td class="zhibiao">新乡市华烁车辆有限公司</td>
+<td class="shuju">河南省新乡巿凤泉区陈堡村</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)5418186</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">新乡瑞新金属制品有限公司</td>
+<td class="shuju">河南省新乡市凤泉区大块镇陈堡村</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)5419983</td>
+<td class="shuju">60</td>
+<td class="shuju">1503</td>
+<td class="shuju">兴江转向机总成1677台;兴江制动鼓1677只</td>
+</tr>
+<tr><td class="zhibiao">新乡市豫峰厢式挂车车辆有限公司</td>
+<td class="shuju">河南省新乡市凤泉区大块镇陈堡村</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)2688222</td>
+<td class="shuju">20</td>
+<td class="shuju">292</td>
+<td class="shuju">改装重型半挂车46辆;货厢总成2台</td>
+</tr>
+<tr><td class="zhibiao">新乡市鸿基挂车制造有限公司</td>
+<td class="shuju">河南省新乡市南环路</td>
+<td class="shuju">453000</td>
+<td class="shuju">(0373)3333666</td>
+<td class="shuju">80</td>
+<td class="shuju">8803</td>
+<td class="shuju">改装重型半挂车850辆</td>
+</tr>
+<tr><td class="zhibiao">河南力之星三轮摩托车制造有限公司</td>
+<td class="shuju">河南省新乡巿牧野区北环路西段</td>
+<td class="shuju">453002</td>
+<td class="shuju">(0373)6339111</td>
+<td class="shuju">700</td>
+<td class="shuju">30233</td>
+<td class="shuju">三轮摩托车104203辆</td>
+</tr>
+<tr><td class="zhibiao">河南环宇集团有限公司</td>
+<td class="shuju">河南省新乡市环宇大道三里桥</td>
+<td class="shuju">453002</td>
+<td class="shuju">(0373)2688066</td>
+<td class="shuju">3600</td>
+<td class="shuju">156288</td>
+<td class="shuju">沂星.少林.宇通蓄电池12.47kVAh</td>
+</tr>
+<tr><td class="zhibiao">河南新鸽摩托车有限公司</td>
+<td class="shuju">河南省新乡市牧野区北干道新鸽工业园区</td>
+<td class="shuju">453002</td>
+<td class="shuju">(0373)2695890</td>
+<td class="shuju">438</td>
+<td class="shuju">19207</td>
+<td class="shuju">三轮摩托车65014辆</td>
+</tr>
+<tr><td class="zhibiao">河南丰收新能源车辆有限公司</td>
+<td class="shuju">河南省新乡市北环路西段高弯</td>
+<td class="shuju">453002</td>
+<td class="shuju">(0373)2191266</td>
+<td class="shuju">135</td>
+<td class="shuju">573</td>
+<td class="shuju">电动三轮摩托车2000辆</td>
+</tr>
+<tr><td class="zhibiao">新乡天禄工业有限公司</td>
+<td class="shuju">河南省新乡市牧野区工业集约发展区环宇大道16号</td>
+<td class="shuju">453002</td>
+<td class="shuju">(0373)5290698</td>
+<td class="shuju">183</td>
+<td class="shuju">4710</td>
+<td class="shuju">汽车空调用扁管</td>
+</tr>
+<tr><td class="zhibiao">新乡亚洲电源股份有限公司</td>
+<td class="shuju">河南省新乡市国家(新乡)化学与物理电源产业园区北环路2号</td>
+<td class="shuju">453003</td>
+<td class="shuju">(0373)5830686</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">TJ蓄电池685kVAh</td>
+</tr>
+<tr><td class="zhibiao">河南平和滤清器有限公司</td>
+<td class="shuju">河南省新乡市开发区化工路东段484号</td>
+<td class="shuju">453003</td>
+<td class="shuju">(0373)5066201</td>
+<td class="shuju">280</td>
+<td class="shuju">10443</td>
+<td class="shuju">三菱.日产.铃木机油滤清器860万只;三菱.日产.铃木空气滤清器55万只;三菱.日产.铃木汽油滤清器50万只</td>
+</tr>
+<tr><td class="zhibiao">豫北机械厂(新乡)</td>
+<td class="shuju">河南省新乡市和平路322号</td>
+<td class="shuju">453003</td>
+<td class="shuju">(0373)5088737</td>
+<td class="shuju">1501</td>
+<td class="shuju">52999</td>
+<td class="shuju">EQ.CA.日产.江铃.CC.宇通.金龙.IVECO.JAC等转向机总成846291台</td>
+</tr>
+<tr><td class="zhibiao">河南省高远公路养护设备股份有限公司</td>
+<td class="shuju">河南省新乡市髙新技术开发区新一街367号</td>
+<td class="shuju">453003</td>
+<td class="shuju">(0373)3536036</td>
+<td class="shuju">294</td>
+<td class="shuju">12561</td>
+<td class="shuju">改装HGY5251GLQ.HGY5252GLQ等沥青洒布车35辆;改装其他重型改装汽86辆;改装HGY5070DYH路面养护车2辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

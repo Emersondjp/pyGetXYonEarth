@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(河南-河南)(三)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">鹤壁市恒力汽车配件有限公司</td>
+<td class="shuju">河南省鹤壁市红旗街西段</td>
+<td class="shuju">458000</td>
+<td class="shuju">(0392)2646410</td>
+<td class="shuju">404</td>
+<td class="shuju">10365</td>
+<td class="shuju">汽车半轴4799695根</td>
+</tr>
+<tr><td class="zhibiao">鹤壁天汽模汽车模具有限公司</td>
+<td class="shuju">河南省鹤壁市山城区新建街8</td>
+<td class="shuju">458000</td>
+<td class="shuju">(0374)2690886</td>
+<td class="shuju">404</td>
+<td class="shuju">10365</td>
+<td class="shuju">内覆盖件</td>
+</tr>
+<tr><td class="zhibiao">河南天海电器有限公司</td>
+<td class="shuju">河南省鹤壁市淇滨区淇滨大道东段215号</td>
+<td class="shuju">458030</td>
+<td class="shuju">(0392)3314522</td>
+<td class="shuju">8410</td>
+<td class="shuju">161186</td>
+<td class="shuju">SQR.BYD.出口汽车线束1812万套;CA.EQ接插件176889万副</td>
+</tr>
+<tr><td class="zhibiao">鹤壁天马通信股份有限公司</td>
+<td class="shuju">河南省鹤壁市鹤淇大道中段西侧</td>
+<td class="shuju">458030</td>
+<td class="shuju">(0392)3279598</td>
+<td class="shuju">50</td>
+<td class="shuju">1987</td>
+<td class="shuju">改装其他厢式汽车708辆</td>
+</tr>
+<tr><td class="zhibiao">鹤壁天淇汽车模具有限公司</td>
+<td class="shuju">河南省鹤壁市淇滨区卫河路东段</td>
+<td class="shuju">458030</td>
+<td class="shuju">(0374)3370289</td>
+<td class="shuju">180</td>
+<td class="shuju">-</td>
+<td class="shuju">模具</td>
+</tr>
+<tr><td class="zhibiao">许昌银翔三轮摩托车有限公司</td>
+<td class="shuju">河南许昌尚集产业集聚区</td>
+<td class="shuju">461000</td>
+<td class="shuju">(0374)5652688</td>
+<td class="shuju">260</td>
+<td class="shuju">19508</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">许昌永申车业有限公司</td>
+<td class="shuju">河南省许昌市魏都区民营科技园区</td>
+<td class="shuju">461000</td>
+<td class="shuju">(0374)2773825</td>
+<td class="shuju">65</td>
+<td class="shuju">1761</td>
+<td class="shuju">三轮摩托车6480辆</td>
+</tr>
+<tr><td class="zhibiao">河南通达车轮有限公司</td>
+<td class="shuju">河南省许昌魏都民营科技园西区1号</td>
+<td class="shuju">461000</td>
+<td class="shuju">(0374)8319600</td>
+<td class="shuju">55</td>
+<td class="shuju">2447</td>
+<td class="shuju">江淮扬天.安强.壕普工贸钢圈总成89685只</td>
+</tr>
+<tr><td class="zhibiao">许昌恒丰实业有限公司</td>
+<td class="shuju">河南省许昌市魏都区民营科技园区</td>
+<td class="shuju">461000</td>
+<td class="shuju">(0374)3199998</td>
+<td class="shuju">127</td>
+<td class="shuju">10092</td>
+<td class="shuju">汽车钢圈总成26038只</td>
+</tr>
+<tr><td class="zhibiao">许昌希福特传动轴有限公司</td>
+<td class="shuju">河南省许昌巿西外环与天宝路交叉口北100米</td>
+<td class="shuju">461000</td>
+<td class="shuju">(0374)3313593</td>
+<td class="shuju">145</td>
+<td class="shuju">5766</td>
+<td class="shuju">厦工.徐工.龙工等传动轴15万只</td>
+</tr>
+<tr><td class="zhibiao">许昌环宇安全玻璃有限公司</td>
+<td class="shuju">河南省许昌市蒋李集镇寇庄</td>
+<td class="shuju">461107</td>
+<td class="shuju">(0394)5733916</td>
+<td class="shuju">208</td>
+<td class="shuju">5960</td>
+<td class="shuju">一拖.福田.徐工等汽车玻璃46万m2</td>
+</tr>
+<tr><td class="zhibiao">许昌县众兴传动轴配件厂</td>
+<td class="shuju">河南省许昌市尚集产业集聚区</td>
+<td class="shuju">461111</td>
+<td class="shuju">(0374)5653799</td>
+<td class="shuju">30</td>
+<td class="shuju">150</td>
+<td class="shuju">传动轴配件</td>
+</tr>
+<tr><td class="zhibiao">许昌豫康传动轴有限公司</td>
+<td class="shuju">河南省许昌巿尚集高新技术开发区</td>
+<td class="shuju">461111</td>
+<td class="shuju">(0374)5650518</td>
+<td class="shuju">53</td>
+<td class="shuju">150</td>
+<td class="shuju">凯鲍.彪马.新华旭传动轴3000只</td>
+</tr>
+<tr><td class="zhibiao">许昌远东传动轴股份有限公司</td>
+<td class="shuju">河南省许昌巿北郊尚集镇开发区</td>
+<td class="shuju">461111</td>
+<td class="shuju">(0374)5651330</td>
+<td class="shuju">1763</td>
+<td class="shuju">310206</td>
+<td class="shuju">北奔.三一.JAC.欧曼.宇通.柳工.柳汽传动轴6429000只</td>
+</tr>
+<tr><td class="zhibiao">许昌万向钱潮远东有限公司</td>
+<td class="shuju">河南省许昌市北郊尚集镇产业集聚区</td>
+<td class="shuju">461111</td>
+<td class="shuju">(0374)5652466</td>
+<td class="shuju">300</td>
+<td class="shuju">15430</td>
+<td class="shuju">远东传动轴万向节总成6264200只</td>
+</tr>
+<tr><td class="zhibiao">许昌县运久动力有限公司</td>
+<td class="shuju">河南省许昌县椹涧乡长店村</td>
+<td class="shuju">461132</td>
+<td class="shuju">(0374)5606300</td>
+<td class="shuju">90</td>
+<td class="shuju">13499</td>
+<td class="shuju">汽车传动轴配件</td>
+</tr>
+<tr><td class="zhibiao">太康县天羽挂车制造有限公司</td>
+<td class="shuju">河南省太康县未来路南段</td>
+<td class="shuju">461400</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">太康县祥福电动车制造有限公司</td>
+<td class="shuju">河南省太康县银城路南段路东</td>
+<td class="shuju">461400</td>
+<td class="shuju">(0394)6821716</td>
+<td class="shuju">600</td>
+<td class="shuju">48000</td>
+<td class="shuju">徐州三轮三轮摩托车3万辆;改装浙江天能微型客车1万辆</td>
+</tr>
+<tr><td class="zhibiao">太康县金福祥挂车有限公司</td>
+<td class="shuju">河南省太康县工业集聚区</td>
+<td class="shuju">461400</td>
+<td class="shuju">(0394)6821734</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">长葛市日月神车桥有限公司</td>
+<td class="shuju">河南省许昌市长葛市溢水路南段</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6822666</td>
+<td class="shuju">266</td>
+<td class="shuju">9000</td>
+<td class="shuju">北汽福田后桥总成55000台</td>
+</tr>
+<tr><td class="zhibiao">河南须河车辆有限公司</td>
+<td class="shuju">河南省长葛市钟繇大道北段</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6221999</td>
+<td class="shuju">150</td>
+<td class="shuju">5098</td>
+<td class="shuju">改装宣传车160辆;改装重型汽车131辆;改装翼开启厢式车129辆</td>
+</tr>
+<tr><td class="zhibiao">河南奔马股份有限公司</td>
+<td class="shuju">河南省长葛市魏武路南段东侧</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6108153</td>
+<td class="shuju">1620</td>
+<td class="shuju">280828</td>
+<td class="shuju">低速货车21453辆</td>
+</tr>
+<tr><td class="zhibiao">长葛市鸿舟车业有限公司</td>
+<td class="shuju">河南省长葛市钟繇大道北段</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6227613</td>
+<td class="shuju">385</td>
+<td class="shuju">16920</td>
+<td class="shuju">三轮摩托车47390辆</td>
+</tr>
+<tr><td class="zhibiao">长葛市定达实业有限公司</td>
+<td class="shuju">河南省长葛巿市区钟繇大道北段西侧</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6222898</td>
+<td class="shuju">189</td>
+<td class="shuju">-</td>
+<td class="shuju">汉德车桥轮毂3万只;玉柴飞轮壳1万只</td>
+</tr>
+<tr><td class="zhibiao">河南葛天车辆有限公司</td>
+<td class="shuju">河南省长葛市长社路东段</td>
+<td class="shuju">461500</td>
+<td class="shuju">(0374)6215858</td>
+<td class="shuju">200</td>
+<td class="shuju">18519</td>
+<td class="shuju">三轮汽车22000辆</td>
+</tr>
+<tr><td class="zhibiao">河南世兴机械制造有限公司</td>
+<td class="shuju">河南省长葛市后河镇王买村</td>
+<td class="shuju">461503</td>
+<td class="shuju">(0374)6612667</td>
+<td class="shuju">170</td>
+<td class="shuju">482</td>
+<td class="shuju">神力车桥.畅丰车桥减速器壳12500只;神力车桥.畅丰车桥差速器壳10300只</td>
+</tr>
+<tr><td class="zhibiao">长葛市富康机械配件有限公司</td>
+<td class="shuju">河南省长葛市坡胡镇西杨村</td>
+<td class="shuju">461504</td>
+<td class="shuju">(0374)6623678</td>
+<td class="shuju">86</td>
+<td class="shuju">3258</td>
+<td class="shuju">底盘件</td>
+</tr>
+<tr><td class="zhibiao">长葛市世英机械有限公司</td>
+<td class="shuju">河南省长葛市长社路东段2926号</td>
+<td class="shuju">461506</td>
+<td class="shuju">(0374)6223194</td>
+<td class="shuju">400</td>
+<td class="shuju">26973</td>
+<td class="shuju">三轮汽车35128辆;低速货车4500辆</td>
+</tr>
+<tr><td class="zhibiao">长葛市永生摩托车有限公司</td>
+<td class="shuju">河南省许昌市葛巿京珠高速路门西20米路北</td>
+<td class="shuju">461506</td>
+<td class="shuju">(0374)6875588</td>
+<td class="shuju">160</td>
+<td class="shuju">8625</td>
+<td class="shuju">三轮摩托车27800辆</td>
+</tr>
+<tr><td class="zhibiao">禹州市曙光汽车零配件厂</td>
+<td class="shuju">河南省禹州市夏都民营工业园</td>
+<td class="shuju">461670</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">底盘件</td>
+</tr>
+<tr><td class="zhibiao">禹州市天奇汽车配件有限公司</td>
+<td class="shuju">河南省禹州市火龙镇西王庄村</td>
+<td class="shuju">461670</td>
+<td class="shuju">(0374)8638039</td>
+<td class="shuju">100</td>
+<td class="shuju">5230</td>
+<td class="shuju">后桥配件</td>
+</tr>
+<tr><td class="zhibiao">禹州市新兴汽车部件制造有限公司</td>
+<td class="shuju">河南省禹州市西工业区</td>
+<td class="shuju">461670</td>
+<td class="shuju">-</td>
+<td class="shuju">300</td>
+<td class="shuju">7820</td>
+<td class="shuju">刹车系统配件</td>
+</tr>
+<tr><td class="zhibiao">禹州市鸿森模具配套有限公司</td>
+<td class="shuju">河南省禹州市顺店镇西刘庄村</td>
+<td class="shuju">461687</td>
+<td class="shuju">(0374)8836326</td>
+<td class="shuju">60</td>
+<td class="shuju">2500</td>
+<td class="shuju">模具</td>
+</tr>
+<tr><td class="zhibiao">禹州市四方铸造有限公司</td>
+<td class="shuju">河南省禹州市顺店镇南袁庄村</td>
+<td class="shuju">461687</td>
+<td class="shuju">(0374)8652777</td>
+<td class="shuju">100</td>
+<td class="shuju">3000</td>
+<td class="shuju">变速箱壳体</td>
+</tr>
+<tr><td class="zhibiao">许昌市淮海机械制造有限公司</td>
+<td class="shuju">河南省许昌市禹州巿顺店镇南袁庄村</td>
+<td class="shuju">461687</td>
+<td class="shuju">(0374)8658456</td>
+<td class="shuju">60</td>
+<td class="shuju">5000</td>
+<td class="shuju">模具</td>
+</tr>
+<tr><td class="zhibiao">禹州市军正汽车配件制造厂</td>
+<td class="shuju">河南省禹州市顺店镇顺南村</td>
+<td class="shuju">461687</td>
+<td class="shuju">(0374)8653889</td>
+<td class="shuju">70</td>
+<td class="shuju">2800</td>
+<td class="shuju">底板等</td>
+</tr>
+<tr><td class="zhibiao">禹州市新源汽车配件厂</td>
+<td class="shuju">河南省禹州市顺店镇顺西村</td>
+<td class="shuju">461687</td>
+<td class="shuju">(0374)8658979</td>
+<td class="shuju">60</td>
+<td class="shuju">3600</td>
+<td class="shuju">刹车体.轮滑等</td>
+</tr>
+<tr><td class="zhibiao">禹州市东茂铸造有限公司</td>
+<td class="shuju">河南省禹州市花石乡神林店村</td>
+<td class="shuju">461691</td>
+<td class="shuju">(0374)8870480</td>
+<td class="shuju">61</td>
+<td class="shuju">2800</td>
+<td class="shuju">后桥配件</td>
+</tr>
+<tr><td class="zhibiao">襄城县润通齿轮有限公司</td>
+<td class="shuju">河南省襄城县北二环工业园(高新技术聚集区)</td>
+<td class="shuju">461700</td>
+<td class="shuju">(0374)8391999</td>
+<td class="shuju">350</td>
+<td class="shuju">2413</td>
+<td class="shuju">新美景差速器总成2413只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

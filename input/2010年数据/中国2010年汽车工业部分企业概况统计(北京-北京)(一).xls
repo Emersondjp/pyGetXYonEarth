@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(北京-北京)(一)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">北京市汽车起动机厂</td>
+<td class="shuju">北京市东城区安定门车撵店胡同21号</td>
+<td class="shuju">100009</td>
+<td class="shuju">(010)69712490</td>
+<td class="shuju">9</td>
+<td class="shuju">597</td>
+<td class="shuju">起动机零部件</td>
+</tr>
+<tr><td class="zhibiao">北京北传科技发展有限公司</td>
+<td class="shuju">北京市朝阳区来广营广顺北大街5号</td>
+<td class="shuju">100012</td>
+<td class="shuju">(010)84903452</td>
+<td class="shuju">5</td>
+<td class="shuju">547</td>
+<td class="shuju">汽车传动轴</td>
+</tr>
+<tr><td class="zhibiao">北京北汽远东传动部件有限公司</td>
+<td class="shuju">北京市顺义区杨镇地区纵二路4号</td>
+<td class="shuju">100012</td>
+<td class="shuju">(010)61667217</td>
+<td class="shuju">113</td>
+<td class="shuju">32350</td>
+<td class="shuju">欧曼.风景.骑传动轴44万只</td>
+</tr>
+<tr><td class="zhibiao">北京汽车集团有限公司</td>
+<td class="shuju">北京市朝阳东三环南路25号</td>
+<td class="shuju">100021</td>
+<td class="shuju">(010)87664010</td>
+<td class="shuju">57771</td>
+<td class="shuju">15079014</td>
+<td class="shuju">基本型乘用车622496辆;货车624001辆</td>
+</tr>
+<tr><td class="zhibiao">北内集团总公司</td>
+<td class="shuju">北京市朝阳区广渠路31号</td>
+<td class="shuju">100022</td>
+<td class="shuju">(010)67714069</td>
+<td class="shuju">70</td>
+<td class="shuju">684</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">北京北內有限公司</td>
+<td class="shuju">北京巿朝阳区广渠路31号</td>
+<td class="shuju">100022</td>
+<td class="shuju">(010)67714069</td>
+<td class="shuju">784</td>
+<td class="shuju">39595</td>
+<td class="shuju">汽车凸轮轴1754429根;汽车连杆总成613604只</td>
+</tr>
+<tr><td class="zhibiao">北京路桥机械厂有限公司</td>
+<td class="shuju">北京市朝阳区管庄周井大院</td>
+<td class="shuju">100024</td>
+<td class="shuju">(010)65761314</td>
+<td class="shuju">252</td>
+<td class="shuju">33951</td>
+<td class="shuju">改装YGJ5141GSS洒水车9辆</td>
+</tr>
+<tr><td class="zhibiao">北京齿轮总厂</td>
+<td class="shuju">北京市朝阳区定福庄西里2号</td>
+<td class="shuju">100024</td>
+<td class="shuju">(010)65744653</td>
+<td class="shuju">221</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">包头北奔手动变速器总成987台</td>
+</tr>
+<tr><td class="zhibiao">北京北齿有限公司</td>
+<td class="shuju">北京市朝阳区定福庄西里2号</td>
+<td class="shuju">100024</td>
+<td class="shuju">(010)65744653</td>
+<td class="shuju">1171</td>
+<td class="shuju">35530</td>
+<td class="shuju">LZW后桥螺旋伞齿轮38.5万件;法士特变速器.分动器.取力器的齿轮及轴1998900件</td>
+</tr>
+<tr><td class="zhibiao">北京科力威清洁机械厂</td>
+<td class="shuju">北京市东城区新中街聚龙花园68号</td>
+<td class="shuju">100027</td>
+<td class="shuju">(010)64671075</td>
+<td class="shuju">38</td>
+<td class="shuju">272</td>
+<td class="shuju">改装BXH5070TSL.BXH5020TSL扫路车2辆</td>
+</tr>
+<tr><td class="zhibiao">北京公共交通控股(集团)有限公司电车制配厂</td>
+<td class="shuju">北京市西城区阜外大街32号</td>
+<td class="shuju">100037</td>
+<td class="shuju">(010)68529686</td>
+<td class="shuju">10</td>
+<td class="shuju">62</td>
+<td class="shuju">改装BTO-WG120铰接客车2辆</td>
+</tr>
+<tr><td class="zhibiao">北京市弹簧厂</td>
+<td class="shuju">北京市石景山区鲁谷路132号</td>
+<td class="shuju">100040</td>
+<td class="shuju">(010)68875498</td>
+<td class="shuju">93</td>
+<td class="shuju">1204</td>
+<td class="shuju">SQR.FOTON等汽车弹簧959万只</td>
+</tr>
+<tr><td class="zhibiao">北京首钢重型汽车制造股份有限公司</td>
+<td class="shuju">北京市石景山区阜石路166号泽洋大厦1201室</td>
+<td class="shuju">100043</td>
+<td class="shuju">(010)88909959</td>
+<td class="shuju">182</td>
+<td class="shuju">18038</td>
+<td class="shuju">改装SOA3722等重型自卸汽车84辆</td>
+</tr>
+<tr><td class="zhibiao">北京汽车摩托车联合制造公司</td>
+<td class="shuju">北京巿西城区南纬路31号</td>
+<td class="shuju">100050</td>
+<td class="shuju">(010)63179270</td>
+<td class="shuju">91</td>
+<td class="shuju">215</td>
+<td class="shuju">-</td>
+</tr>
+<tr><td class="zhibiao">北京中大燕京汽车有限公司</td>
+<td class="shuju">北京市房山区大件路甲8号</td>
+<td class="shuju">100050</td>
+<td class="shuju">(010)65035111</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">客车非完整车辆1094辆;客车67辆</td>
+</tr>
+<tr><td class="zhibiao">北京市园林机械厂</td>
+<td class="shuju">北京巿崇文区天坛公园内西南角</td>
+<td class="shuju">100050</td>
+<td class="shuju">(010)67058053</td>
+<td class="shuju">39</td>
+<td class="shuju">1065</td>
+<td class="shuju">改装绿化喷洒车42辆;改装自卸式垃圾车10辆;改装洒水车2辆</td>
+</tr>
+<tr><td class="zhibiao">北京北汽摩有限公司</td>
+<td class="shuju">北京市西城区南纬路31号</td>
+<td class="shuju">100050</td>
+<td class="shuju">(010)63179270</td>
+<td class="shuju">242</td>
+<td class="shuju">13377</td>
+<td class="shuju">BJ2032.FOTON.出口散热器总成43.8万只</td>
+</tr>
+<tr><td class="zhibiao">北京市司达旅行车公司</td>
+<td class="shuju">北京市丰台区西马场北里甲13号</td>
+<td class="shuju">100068</td>
+<td class="shuju">(010)67568989</td>
+<td class="shuju">22</td>
+<td class="shuju">105</td>
+<td class="shuju">BJ6600客车6辆</td>
+</tr>
+<tr><td class="zhibiao">北京三兴汽车有限公司</td>
+<td class="shuju">北京市丰台区新村一里15号</td>
+<td class="shuju">100070</td>
+<td class="shuju">(010)63716231</td>
+<td class="shuju">564</td>
+<td class="shuju">76302</td>
+<td class="shuju">改装SX5254GSS洒水车185辆;改装DFL5160GJYBX.BJ5163GYY.BSX5070GYYD258辆;改装重型汽车199辆</td>
+</tr>
+<tr><td class="zhibiao">北京凯特专用汽车有限公司</td>
+<td class="shuju">北京市丰台区丰西路刘庄子128号</td>
+<td class="shuju">100070</td>
+<td class="shuju">(010)63730320</td>
+<td class="shuju">119</td>
+<td class="shuju">3487</td>
+<td class="shuju">改装BKC5040JGK.BKC5055JGK.BKC5061JGK.BKC5065JGK高空作业车50辆.改装中型汽车8辆</td>
+</tr>
+<tr><td class="zhibiao">北京天路通科技有限责任公司</td>
+<td class="shuju">北京市丰台区科技园区3A地块(园区)</td>
+<td class="shuju">100070</td>
+<td class="shuju">(010)83315696</td>
+<td class="shuju">198</td>
+<td class="shuju">9864</td>
+<td class="shuju">改装BTL5160TSL.BTL5080TSL.BTL5123TSL.BTL5060TSL扫路车262辆;改装洒水车2辆;改装自卸式垃圾车1辆</td>
+</tr>
+<tr><td class="zhibiao">北京市北油工贸公司</td>
+<td class="shuju">北京市丰台区刘庄子88号</td>
+<td class="shuju">100070</td>
+<td class="shuju">(010)63721367</td>
+<td class="shuju">47</td>
+<td class="shuju">578</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">北京华林特装车有限公司</td>
+<td class="shuju">北京市丰台区东老庄106号</td>
+<td class="shuju">100070</td>
+<td class="shuju">(010)83628258</td>
+<td class="shuju">90</td>
+<td class="shuju">8706</td>
+<td class="shuju">改装HLT5081ZYS.HLT5125ZYS.HLT5220ZYS等压缩式垃圾车138辆;改装HLT5074.HLT5022专用自卸汽车42辆;改装自装卸式垃圾车34辆</td>
+</tr>
+<tr><td class="zhibiao">北京北方华德尼奥普兰客车股份有限公司</td>
+<td class="shuju">北京市丰台区长辛店朱家坟5里5号</td>
+<td class="shuju">100072</td>
+<td class="shuju">(010)83850026</td>
+<td class="shuju">421</td>
+<td class="shuju">38917</td>
+<td class="shuju">BFC6127B大型客车701辆</td>
+</tr>
+<tr><td class="zhibiao">北京北方旅居车辆有限公司</td>
+<td class="shuju">北京市丰台区长辛店朱家坟5里5号</td>
+<td class="shuju">100072</td>
+<td class="shuju">(010)83807258</td>
+<td class="shuju">130</td>
+<td class="shuju">1533</td>
+<td class="shuju">北方华德座椅总成4205只;改装中型汽车168辆</td>
+</tr>
+<tr><td class="zhibiao">北京北齿前锋传动产品有限公司</td>
+<td class="shuju">北京市丰台区长辛店朱家坟5里5号</td>
+<td class="shuju">100072</td>
+<td class="shuju">(010)83807023</td>
+<td class="shuju">131</td>
+<td class="shuju">3154</td>
+<td class="shuju">汽车手动变速器总成358台;汽车减速器总成629只</td>
+</tr>
+<tr><td class="zhibiao">北京市清洁机械厂</td>
+<td class="shuju">北京巿丰台区南四环中路10号</td>
+<td class="shuju">100075</td>
+<td class="shuju">(010)67221102</td>
+<td class="shuju">182</td>
+<td class="shuju">12458</td>
+<td class="shuju">改装自卸式垃圾车172辆;改装洒水车163辆;改装吸粪车158辆</td>
+</tr>
+<tr><td class="zhibiao">北京天坛海乔客车有限责任公司</td>
+<td class="shuju">北京市大兴区旧宫镇工业园南区甲25-1号</td>
+<td class="shuju">100076</td>
+<td class="shuju">(010)87913142</td>
+<td class="shuju">52</td>
+<td class="shuju">3623</td>
+<td class="shuju">改装勘察车86辆;改装轻型客车48辆;改装冷藏车33辆</td>
+</tr>
+<tr><td class="zhibiao">北京环达汽车装配有限公司</td>
+<td class="shuju">北京市大兴区旧宫镇旧忠路15号</td>
+<td class="shuju">100076</td>
+<td class="shuju">(010)87912663</td>
+<td class="shuju">273</td>
+<td class="shuju">13873</td>
+<td class="shuju">改装BJQ9191TCL.BJQ09330TDP等中型半挂车744辆;改装BJQ9390TDP.BJQ9380TDP等超重型半挂车258辆;改装重型半挂车79辆</td>
+</tr>
+<tr><td class="zhibiao">北京万源瀚德汽车密封系统有限公司</td>
+<td class="shuju">北京市丰台区南大红门路1号</td>
+<td class="shuju">100076</td>
+<td class="shuju">(010)68380647</td>
+<td class="shuju">1023</td>
+<td class="shuju">37530</td>
+<td class="shuju">CA.SVW.SQR.神龙汽车密封件38422万元</td>
+</tr>
+<tr><td class="zhibiao">北京中城汽机械设备制造有限公司</td>
+<td class="shuju">北京市大兴区旧宫镇吉庆庄迎宾路8号</td>
+<td class="shuju">100076</td>
+<td class="shuju">(010)87966287</td>
+<td class="shuju">42</td>
+<td class="shuju">663</td>
+<td class="shuju">改装BCQ5043ZXX等车厢可卸式垃圾车42辆;改装BCQ5043GXE等吸粪车5辆;改装BCQ5050GPS绿化喷洒车3辆</td>
+</tr>
+<tr><td class="zhibiao">北京安龙联合特种车辆技术有限公司</td>
+<td class="shuju">北京市大兴区瀛海镇工业区经二路3号</td>
+<td class="shuju">100076</td>
+<td class="shuju">(010)69271140</td>
+<td class="shuju">155</td>
+<td class="shuju">8212</td>
+<td class="shuju">改装清障车281辆;改装运兵车120辆;改装指挥车26辆</td>
+</tr>
+<tr><td class="zhibiao">北京汽车研究所有限公司</td>
+<td class="shuju">北京市丰台区方庄南路9号院</td>
+<td class="shuju">100079</td>
+<td class="shuju">(010)67629682</td>
+<td class="shuju">71</td>
+<td class="shuju">3928</td>
+<td class="shuju">FOTON.SYABS系统2300套;BJ碳罐9360只;BJ.JAC鼓式制动器总成440台</td>
+</tr>
+<tr><td class="zhibiao">北京长城电子装备有限责任公司</td>
+<td class="shuju">北京市海淀区学院南路30号</td>
+<td class="shuju">100082</td>
+<td class="shuju">(010)62250747</td>
+<td class="shuju">548</td>
+<td class="shuju">14489</td>
+<td class="shuju">HFJ6370.HFJ6350B汽车音响16.7万台</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

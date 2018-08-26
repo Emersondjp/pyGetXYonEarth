@@ -1,0 +1,559 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">沈阳市2006年汽车行业部分企业概况统计</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">主营业务收入万元</td>
+<td class="biaotou">主要产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">沈阳北方交通重工集团有限公司</td>
+<td class="shuju">沈阳市沈河区青年大街219号华新国际18层</td>
+<td class="shuju">110015</td>
+<td class="shuju">(024)23968188</td>
+<td class="shuju">1820</td>
+<td class="shuju">120792</td>
+<td class="shuju">改装清障车1349辆;改装特种结构汽车2151辆;改装高空作业车1133辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳市开泰汽车点烟器厂</td>
+<td class="shuju">沈阳市和平区长白乡马总屯</td>
+<td class="shuju">110166</td>
+<td class="shuju">(024)23730071</td>
+<td class="shuju">10</td>
+<td class="shuju">57</td>
+<td class="shuju">汽车点烟器56223只</td>
+</tr>
+<tr><td class="zhibiao">沈阳市金通轻型汽车配件厂</td>
+<td class="shuju">沈阳市沈河区大南街龙凤寺17号</td>
+<td class="shuju">110011</td>
+<td class="shuju">(024)23784699</td>
+<td class="shuju">63</td>
+<td class="shuju">2110</td>
+<td class="shuju">长城.金杯.吉奥.双环等真空加力器20万只;长城.金杯.吉奥.双环等液压制动总泵20万台</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯汽车工业有限公司</td>
+<td class="shuju">沈阳市沈河区万柳塘路38号</td>
+<td class="shuju">110015</td>
+<td class="shuju">(024)24133606</td>
+<td class="shuju">2742</td>
+<td class="shuju">106549</td>
+<td class="shuju">SY6480.SY1040钢圈总成87万只;大柴.朝柴离合器总成17.5万台;SY6480.中兴扭杆弹簧13.6万只</td>
+</tr>
+<tr><td class="zhibiao">金杯汽车股份有限公司</td>
+<td class="shuju">沈阳市高新技术开发区浑南产业区世纪路1号</td>
+<td class="shuju">110179</td>
+<td class="shuju">(024)23745249</td>
+<td class="shuju">11512</td>
+<td class="shuju">1240407</td>
+<td class="shuju">SY7182.SY7201.SY7162基本型乘用车63298辆;SY6480Q.SY6480客车57378辆;SY1041.SY1043.SY1060.SY1042.SY1047C.SY1021货车42986辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯模具厂</td>
+<td class="shuju">沈阳市东陵区方南路6号</td>
+<td class="shuju">110015</td>
+<td class="shuju">(024)25315329</td>
+<td class="shuju">40</td>
+<td class="shuju">496</td>
+<td class="shuju">汽车模具258万元</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯汽车实业总公司</td>
+<td class="shuju">沈阳市东陵区方南路6号</td>
+<td class="shuju">110015</td>
+<td class="shuju">(024)24264318</td>
+<td class="shuju">100</td>
+<td class="shuju">5</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">中车集团沈阳汽车车桥制造有限公司</td>
+<td class="shuju">沈阳市铁西区北四西路8号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25822952</td>
+<td class="shuju">1138</td>
+<td class="shuju">16116</td>
+<td class="shuju">SY6480.SY1040.SY1020等后桥总成37270台;SY6480.SY1040.SY1020等前桥总成37806台;BJ1040.BJ2023.BJ2032等转向横直拉杆1.6万件</td>
+</tr>
+<tr><td class="zhibiao">沈阳兴华航空电器有限责任公司</td>
+<td class="shuju">沈阳市铁西区兴华北街36号</td>
+<td class="shuju">110021</td>
+<td class="shuju">(024)25853342</td>
+<td class="shuju">1607</td>
+<td class="shuju">27568</td>
+<td class="shuju">AX100摩托车微电机69396台</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车车桥厂</td>
+<td class="shuju">沈阳市铁西区保工南街68号</td>
+<td class="shuju">110023</td>
+<td class="shuju">(024)88314809</td>
+<td class="shuju">371</td>
+<td class="shuju">9364</td>
+<td class="shuju">后桥总成95台</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车滤清器厂</td>
+<td class="shuju">沈阳市铁西新区沈新路79号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)25377138</td>
+<td class="shuju">174</td>
+<td class="shuju">10105</td>
+<td class="shuju">SY6408.BF1042等空气滤清器76038只;471Q.476Q油底壳244991只</td>
+</tr>
+<tr><td class="zhibiao">沈阳市东亿高强度标准件厂</td>
+<td class="shuju">沈阳市经济技术开发区沈辽路6号街</td>
+<td class="shuju">110024</td>
+<td class="shuju">(024)89357997</td>
+<td class="shuju">350</td>
+<td class="shuju">7528</td>
+<td class="shuju">中华.HFJ.三菱4G6.金杯等标准件</td>
+</tr>
+<tr><td class="zhibiao">沈阳农机汽车工业集团有限公司</td>
+<td class="shuju">沈阳市经济技术开发区沧海路4号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)62241836</td>
+<td class="shuju">1784</td>
+<td class="shuju">82789</td>
+<td class="shuju">汽车用柴油机商品量2973台;汽车用汽油机商品量3604台</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车齿轮厂</td>
+<td class="shuju">沈阳市铁西区北二西路32号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25518437</td>
+<td class="shuju">178</td>
+<td class="shuju">979</td>
+<td class="shuju">汽车手动变速器总成2240台</td>
+</tr>
+<tr><td class="zhibiao">沈阳双福机械股份有限公司</td>
+<td class="shuju">沈阳市经济技术开发区沧海路4号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)62241763</td>
+<td class="shuju">275</td>
+<td class="shuju">265760</td>
+<td class="shuju">汽车冲压件</td>
+</tr>
+<tr><td class="zhibiao">沈阳第三五二三机械厂</td>
+<td class="shuju">沈阳市铁西区北四西路5号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25826022</td>
+<td class="shuju">847</td>
+<td class="shuju">21432</td>
+<td class="shuju">改装中型半挂车761辆;改装运钞车88辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车制动器厂</td>
+<td class="shuju">沈阳市铁西区肇工北街10甲1号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25511159</td>
+<td class="shuju">95</td>
+<td class="shuju">1758</td>
+<td class="shuju">SY1040.NJ1030手制动器总成40459台;CA1040鼓式制动器总成38894台;CA1040.CA6350.CA6440真空加力器38136只</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯车辆制造有限公司</td>
+<td class="shuju">沈阳市东陵区方南路6号</td>
+<td class="shuju">110015</td>
+<td class="shuju">(024)24821710</td>
+<td class="shuju">3396</td>
+<td class="shuju">131889</td>
+<td class="shuju">SY1036.SY1041.SY1043.SY1060.SY1021等货车42813辆;SY1021.SY1036.SY1042货车非完整车辆16014辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳弹簧厂</td>
+<td class="shuju">沈阳市铁西区保工北街二段4号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25376091</td>
+<td class="shuju">170</td>
+<td class="shuju">807</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">沈阳解放汽车改装厂</td>
+<td class="shuju">沈阳市铁西区北四西路8号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25822952</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">沈阳标准件制造有限公司</td>
+<td class="shuju">沈阳市经济技术开发区5号路11甲2号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)31582283</td>
+<td class="shuju">248</td>
+<td class="shuju">5842</td>
+<td class="shuju">HFJ.双福.金杯标准件157万元</td>
+</tr>
+<tr><td class="zhibiao">沈阳上汽金杯汽车变速器有限公司</td>
+<td class="shuju">沈阳市经济技术开发区开发大路8号</td>
+<td class="shuju">110027</td>
+<td class="shuju">(024)25378952</td>
+<td class="shuju">146</td>
+<td class="shuju">12525</td>
+<td class="shuju">汽车手动变速器总成62853台</td>
+</tr>
+<tr><td class="zhibiao">沈阳-东四环离合器有限责任公司</td>
+<td class="shuju">沈阳市皇姑区岐山中路48号</td>
+<td class="shuju">110031</td>
+<td class="shuju">(024)86716751</td>
+<td class="shuju">142</td>
+<td class="shuju">3977</td>
+<td class="shuju">4G64.4G63.4G69离合器总成11万台</td>
+</tr>
+<tr><td class="zhibiao">沈阳市汽车冲压件制造有限公司</td>
+<td class="shuju">沈阳市于洪区鸭绿江东街32号</td>
+<td class="shuju">110032</td>
+<td class="shuju">(024)86614518</td>
+<td class="shuju">120</td>
+<td class="shuju">390</td>
+<td class="shuju">SY6480.SY1041车门7万件</td>
+</tr>
+<tr><td class="zhibiao">沈阳航天新星机电有限责任公司</td>
+<td class="shuju">沈阳市皇姑区三台子阳山路1号</td>
+<td class="shuju">110034</td>
+<td class="shuju">(024)86582387</td>
+<td class="shuju">895</td>
+<td class="shuju">15016</td>
+<td class="shuju">改装运油车132辆;改装特种结构汽车58辆;改装厢式运输车31辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳铭辰汽车有限公司</td>
+<td class="shuju">沈阳市新城子道义镇正义3路</td>
+<td class="shuju">110136</td>
+<td class="shuju">(024)89736977</td>
+<td class="shuju">168</td>
+<td class="shuju">32914</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">沈阳沈飞日野汽车制造有限公司</td>
+<td class="shuju">沈阳市经济技术开发区开发大路2号</td>
+<td class="shuju">110027</td>
+<td class="shuju">(024)25816116</td>
+<td class="shuju">695</td>
+<td class="shuju">2445</td>
+<td class="shuju">SFQ6110BL1.SFQ6115BL1.SFQ6115JSLK.SFQ6100BL4等大中型客车44辆;SFQ5160XYLD厢式专用汽车1辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳捷通消防车有限公司</td>
+<td class="shuju">沈阳市道义开发区正义三路31-5号</td>
+<td class="shuju">110136</td>
+<td class="shuju">(024)89734456</td>
+<td class="shuju">218</td>
+<td class="shuju">15210</td>
+<td class="shuju">改装SX5250JXFJP16.SX5250JXFJP等举高喷射消防车70辆;改装SX5240JXFYT.SX5250HXFYT.SX5100JXFYT云梯消防车50辆;改装SX5290GXFSG水罐消防车17辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳市王玉汽车部件厂</td>
+<td class="shuju">沈阳市皇姑区昆山西路238号</td>
+<td class="shuju">110035</td>
+<td class="shuju">(024)86051562</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">一汽富奥离合器分泵15万只;一汽富奥前后制动室15万只;一汽富奥气压制动总泵10万只</td>
+</tr>
+<tr><td class="zhibiao">沈阳华晨东兴汽车零部件有限公司</td>
+<td class="shuju">沈阳市铁西区北四中路28号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25877421</td>
+<td class="shuju">956</td>
+<td class="shuju">23991</td>
+<td class="shuju">海狮.中华.阁瑞斯焊接件1430万件;海狮.中华.阁瑞斯冲压件1163万件</td>
+</tr>
+<tr><td class="zhibiao">沈阳都瑞轮毂有限公司</td>
+<td class="shuju">沈阳市皇姑区怒江北街2-1号</td>
+<td class="shuju">110036</td>
+<td class="shuju">(024)25360573</td>
+<td class="shuju">878</td>
+<td class="shuju">32322</td>
+<td class="shuju">北京现代铝车轮总成1289884只</td>
+</tr>
+<tr><td class="zhibiao">沈阳金发汽车钢圈制造有限公司</td>
+<td class="shuju">沈阳市皇姑区怒江北街2号</td>
+<td class="shuju">110036</td>
+<td class="shuju">(024)86875913</td>
+<td class="shuju">25</td>
+<td class="shuju">13945</td>
+<td class="shuju">SY6480.中顺油箱31580只</td>
+</tr>
+<tr><td class="zhibiao">沈阳双福内燃机有限公司</td>
+<td class="shuju">沈阳市经济技术开发区沧海路4号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)62527112</td>
+<td class="shuju">223</td>
+<td class="shuju">5366</td>
+<td class="shuju">491Q汽车用汽油机商品量3604台;493Q汽车用柴油机商品量2973台</td>
+</tr>
+<tr><td class="zhibiao">沈阳华龙客车制造有限公司</td>
+<td class="shuju">沈阳市大东区小河沿路144号</td>
+<td class="shuju">110042</td>
+<td class="shuju">(024)23580472</td>
+<td class="shuju">90</td>
+<td class="shuju">4</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">沈阳市汽车开关厂</td>
+<td class="shuju">沈阳市大东区大东路178号</td>
+<td class="shuju">110042</td>
+<td class="shuju">(024)24833709</td>
+<td class="shuju">404</td>
+<td class="shuju">11849</td>
+<td class="shuju">CA.BJ.金杯等转向管柱66万只;CA.BJ.金杯等开关15万只</td>
+</tr>
+<tr><td class="zhibiao">沈阳市城建机械修造厂</td>
+<td class="shuju">沈阳市大东区东贸路26号</td>
+<td class="shuju">110043</td>
+<td class="shuju">(024)88417591</td>
+<td class="shuju">70</td>
+<td class="shuju">750</td>
+<td class="shuju">改装SCX5092GQX清洗车15辆;改装SCX5090ZWX.SCX5042ZWX污泥自卸车23辆;改装SCX5091GXW吸污车13辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳市万事达汽车改装厂</td>
+<td class="shuju">沈阳市大东区长安路111号</td>
+<td class="shuju">110043</td>
+<td class="shuju">(024)24312607</td>
+<td class="shuju">120</td>
+<td class="shuju">103</td>
+<td class="shuju">改装WSD9152中型半挂车1辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳新光华翔汽车发动机制造有限公司</td>
+<td class="shuju">沈阳市大东区东塔街3号</td>
+<td class="shuju">110043</td>
+<td class="shuju">(024)24317805</td>
+<td class="shuju">205</td>
+<td class="shuju">26904</td>
+<td class="shuju">千里马.陆霸汽车用汽油机商品量32670台</td>
+</tr>
+<tr><td class="zhibiao">沈阳航天三菱汽车发动机制造有限公司</td>
+<td class="shuju">沈阳市浑南新村航天路6号</td>
+<td class="shuju">110179</td>
+<td class="shuju">(024)24303030</td>
+<td class="shuju">825</td>
+<td class="shuju">205496</td>
+<td class="shuju">4G63.4G64.4G69等汽车用汽油机商品量153041台;4G63.4G64.4G69手动变速器总成15.3万台</td>
+</tr>
+<tr><td class="zhibiao">沈阳航天新光集团有限公司</td>
+<td class="shuju">沈阳市大东区东塔街3号</td>
+<td class="shuju">110043</td>
+<td class="shuju">(024)24832900</td>
+<td class="shuju">3001</td>
+<td class="shuju">78204</td>
+<td class="shuju">XG491Q.G4EA.G4BA等汽车用汽油机商品量79245台</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车传动轴厂</td>
+<td class="shuju">沈阳市东陵区方家栏路58号</td>
+<td class="shuju">110043</td>
+<td class="shuju">(024)24235280</td>
+<td class="shuju">14</td>
+<td class="shuju">267</td>
+<td class="shuju">SY1020等减振器总成11732只</td>
+</tr>
+<tr><td class="zhibiao">沈阳华晨金杯汽车有限公司</td>
+<td class="shuju">沈阳市大东区东望街39号</td>
+<td class="shuju">110044</td>
+<td class="shuju">(024)31666666</td>
+<td class="shuju">5738</td>
+<td class="shuju">1010381</td>
+<td class="shuju">SY7162.SY7182.SY7201.SY7241基本型乘用车63298辆;SY6480客车57378辆;SY6470多用途车10701辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车附件厂</td>
+<td class="shuju">沈阳市大东区南卡门路18号</td>
+<td class="shuju">110044</td>
+<td class="shuju">(024)88327433</td>
+<td class="shuju">10</td>
+<td class="shuju">30</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">上海通用(沈阳)北盛汽车有限公司</td>
+<td class="shuju">沈阳市大东区北大营街15号</td>
+<td class="shuju">110044</td>
+<td class="shuju">(024)88345678</td>
+<td class="shuju">1065</td>
+<td class="shuju">623487</td>
+<td class="shuju">GL8多功能车40031辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯华集汽车部件有限公司</td>
+<td class="shuju">沈阳市东陵区榆林大街5-18号</td>
+<td class="shuju">110044</td>
+<td class="shuju">(024)88217011</td>
+<td class="shuju">29</td>
+<td class="shuju">1315</td>
+<td class="shuju">金杯客车.中顺客车前后制动室55186只</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯恒瑞汽车部件有限公司</td>
+<td class="shuju">沈阳市保工北街40号</td>
+<td class="shuju">110026</td>
+<td class="shuju">(024)25873751</td>
+<td class="shuju">420</td>
+<td class="shuju">880</td>
+<td class="shuju">金杯.中兴扭杆弹簧1.6万只</td>
+</tr>
+<tr><td class="zhibiao">铁岭宏大汽车改装有限公司</td>
+<td class="shuju">沈阳市大东区朱尔村</td>
+<td class="shuju">110045</td>
+<td class="shuju">(024)88259107</td>
+<td class="shuju">30</td>
+<td class="shuju">2139</td>
+<td class="shuju">改装THD3251.THD3250重型自卸汽车91辆;改装THD9290.STY9280等超重型半挂车56辆;改装THD9390.CDG9380.BWG9405重型半挂车3辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳金亚汽车传动轴有限公司</td>
+<td class="shuju">沈阳市东陵区榆林大街5-19号</td>
+<td class="shuju">110045</td>
+<td class="shuju">(024)88201801</td>
+<td class="shuju">243</td>
+<td class="shuju">6846</td>
+<td class="shuju">金杯.东南传动轴196843只;郑州日产等半轴160377根</td>
+</tr>
+<tr><td class="zhibiao">沈阳东基工业集团有限公司</td>
+<td class="shuju">沈阳市大东区正新路42号</td>
+<td class="shuju">110045</td>
+<td class="shuju">(024)88279118</td>
+<td class="shuju">6538</td>
+<td class="shuju">132448</td>
+<td class="shuju">491Q.486Q汽车用汽油机商品量10522台;尊驰空调装置0.6万台;出口气缸盖3777只</td>
+</tr>
+<tr><td class="zhibiao">沈阳中顺汽车有限公司</td>
+<td class="shuju">沈阳市苏家屯区白松路22号</td>
+<td class="shuju">110101</td>
+<td class="shuju">(024)31489999</td>
+<td class="shuju">976</td>
+<td class="shuju">85620</td>
+<td class="shuju">SZS6503系列客车9589辆;SZS5023系列厢式专用汽车581辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯齿轮制造有限公司</td>
+<td class="shuju">沈阳市经济技术开发区昆明湖街16号</td>
+<td class="shuju">110114</td>
+<td class="shuju">(024)25518437</td>
+<td class="shuju">133</td>
+<td class="shuju">4015</td>
+<td class="shuju">CA1040.CA1060手动变速器总成5353台</td>
+</tr>
+<tr><td class="zhibiao">北京福田环保动力股份有限公司沈阳制造厂</td>
+<td class="shuju">沈阳市东陵区浑河站乡后榆树台村</td>
+<td class="shuju">110117</td>
+<td class="shuju">(024)23715566</td>
+<td class="shuju">367</td>
+<td class="shuju">8651</td>
+<td class="shuju">4D22.4JB1.4G63.486.2Y等气缸体93170只;4D22.4JB1.珀金斯气缸盖53501只</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯三环离合器有限公司</td>
+<td class="shuju">沈阳市东陵区浑河站竞赛路27号</td>
+<td class="shuju">110168</td>
+<td class="shuju">(024)23704495</td>
+<td class="shuju">323</td>
+<td class="shuju">1948</td>
+<td class="shuju">汽车离合器盖.中压板及压盘134215件</td>
+</tr>
+<tr><td class="zhibiao">沈阳日新气化器有限公司</td>
+<td class="shuju">沈阳市新城子道义经济技术开发区</td>
+<td class="shuju">110136</td>
+<td class="shuju">(024)89731359</td>
+<td class="shuju">112</td>
+<td class="shuju">6011</td>
+<td class="shuju">汽车化油器132.09万只</td>
+</tr>
+<tr><td class="zhibiao">沈阳沈飞巴士制造有限公司</td>
+<td class="shuju">沈阳市道义经济开发区京沈西一街</td>
+<td class="shuju">110136</td>
+<td class="shuju">(024)89736644</td>
+<td class="shuju">145</td>
+<td class="shuju">4529</td>
+<td class="shuju">SFQ6110.SFQ6120.SFQ6100等客车191辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳汽车暖风机厂</td>
+<td class="shuju">沈阳市于洪区洪湖北街6号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)25311181</td>
+<td class="shuju">188</td>
+<td class="shuju">2766</td>
+<td class="shuju">汽车暖风机6万台</td>
+</tr>
+<tr><td class="zhibiao">沈阳华晨安泰线束有限公司</td>
+<td class="shuju">沈阳市于洪区洱海路2甲</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)25252572</td>
+<td class="shuju">220</td>
+<td class="shuju">9303</td>
+<td class="shuju">SY6480.阁瑞斯汽车线束66966套</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯恒隆汽车转向系统有限公司</td>
+<td class="shuju">沈阳市经济技术开发区云海路15号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)25377031</td>
+<td class="shuju">172</td>
+<td class="shuju">11906</td>
+<td class="shuju">SY6480转向机总成105544台;SY6480转向助力器105544只</td>
+</tr>
+<tr><td class="zhibiao">沈阳天利摩托车制造有限公司</td>
+<td class="shuju">沈阳市经济技术开发区8号路10甲2号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)25375396</td>
+<td class="shuju">260</td>
+<td class="shuju">9661</td>
+<td class="shuju">二轮普通摩托车26837辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯广振汽车部件有限公司</td>
+<td class="shuju">沈阳市经济技术开发区十号街12号</td>
+<td class="shuju">110141</td>
+<td class="shuju">(024)25396261</td>
+<td class="shuju">105</td>
+<td class="shuju">6629</td>
+<td class="shuju">汽车电动玻璃升降器63万只</td>
+</tr>
+<tr><td class="zhibiao">沈阳三山汽车工业集团联营公司</td>
+<td class="shuju">沈阳市东陵区浑河站竞赛路6号</td>
+<td class="shuju">110117</td>
+<td class="shuju">(024)23700550</td>
+<td class="shuju">30</td>
+<td class="shuju">543</td>
+<td class="shuju">改装HSB9400超重型半挂车101辆</td>
+</tr>
+<tr><td class="zhibiao">沈阳金杯江森自控汽车内饰件有限公司</td>
+<td class="shuju">沈阳市东陵区浑河堡后榆树台村3号</td>
+<td class="shuju">110180</td>
+<td class="shuju">(024)23717037</td>
+<td class="shuju">696</td>
+<td class="shuju">55453</td>
+<td class="shuju">座椅总成20万只</td>
+</tr>
+<tr><td class="zhibiao">泰利福(沈阳)汽车零部件制造有限公司</td>
+<td class="shuju">沈阳市东陵区孤家子东街18号</td>
+<td class="shuju">110168</td>
+<td class="shuju">(024)23821714</td>
+<td class="shuju">180</td>
+<td class="shuju">4169</td>
+<td class="shuju">FOCUS制动踏板99044只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2007》</div>
+</div>
+</body>
+</html>

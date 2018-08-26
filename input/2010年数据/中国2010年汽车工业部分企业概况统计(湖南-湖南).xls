@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(湖南-湖南)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">湘电集团有限公司</td>
+<td class="shuju">湖南省湘潭市岳塘区下摄司街302号</td>
+<td class="shuju">411101</td>
+<td class="shuju">(0731)58595919</td>
+<td class="shuju">11701</td>
+<td class="shuju">1084172</td>
+<td class="shuju">改装重型自卸汽车45辆</td>
+</tr>
+<tr><td class="zhibiao">湖南江滨机器(集团)有限责任公司</td>
+<td class="shuju">湖南省湘潭市岳塘区203信箱</td>
+<td class="shuju">411102</td>
+<td class="shuju">(0731)55560107</td>
+<td class="shuju">1831</td>
+<td class="shuju">53594</td>
+<td class="shuju">玉柴.锡柴活塞421万只</td>
+</tr>
+<tr><td class="zhibiao">湘渾新煌曲轴制造有限公司</td>
+<td class="shuju">湖南省湘潭市宝塔岭</td>
+<td class="shuju">411102</td>
+<td class="shuju">(0731)52513003</td>
+<td class="shuju">192</td>
+<td class="shuju">2603</td>
+<td class="shuju">汽车发动机曲轴</td>
+</tr>
+<tr><td class="zhibiao">湖南江南汽车制造有限公司</td>
+<td class="shuju">湖南省湘潭市雨湖区楠竹山镇</td>
+<td class="shuju">411207</td>
+<td class="shuju">(0731)58300580</td>
+<td class="shuju">796</td>
+<td class="shuju">210030</td>
+<td class="shuju">奥拓.众泰基本型乘用车57351辆;朗悦MPV3124辆</td>
+</tr>
+<tr><td class="zhibiao">湖南江南汽车制造有限公司(本部)</td>
+<td class="shuju">湖南省湘潭市雨湖区桷竹山镇</td>
+<td class="shuju">41127</td>
+<td class="shuju">(0731)58300580</td>
+<td class="shuju">321</td>
+<td class="shuju">23476</td>
+<td class="shuju">基本型乘用车11823辆</td>
+</tr>
+<tr><td class="zhibiao">株洲湘火炬火花塞有限责任公司</td>
+<td class="shuju">湖南省株洲市红旗北路68号</td>
+<td class="shuju">412000</td>
+<td class="shuju">(0731)28450377</td>
+<td class="shuju">1063</td>
+<td class="shuju">37607</td>
+<td class="shuju">汽车火花塞13431.35万只</td>
+</tr>
+<tr><td class="zhibiao">株洲齿轮有限责任公司</td>
+<td class="shuju">湖南省株洲市新华西路119号</td>
+<td class="shuju">412000</td>
+<td class="shuju">(0731)28496310</td>
+<td class="shuju">1572</td>
+<td class="shuju">82343</td>
+<td class="shuju">SQR.BJ.重力手动变速器总成73761台.重汽.汉德.杭发变速器.分动器.取力器的齿轮及轴4227502件.重汽.汉德行星齿轮1108297只</td>
+</tr>
+<tr><td class="zhibiao">湖南南方宇航工业有限公司</td>
+<td class="shuju">湖南省株洲市芦淞区董家塅</td>
+<td class="shuju">412002</td>
+<td class="shuju">(0731)28995011</td>
+<td class="shuju">848</td>
+<td class="shuju">35654</td>
+<td class="shuju">TJ转向机总成202749台</td>
+</tr>
+<tr><td class="zhibiao">株洲南方摩托车有限公司</td>
+<td class="shuju">湖南省株洲巿芦淞区董家塅</td>
+<td class="shuju">412002</td>
+<td class="shuju">(0731)28995011</td>
+<td class="shuju">35</td>
+<td class="shuju">18781</td>
+<td class="shuju">二轮普通摩托车76137辆</td>
+</tr>
+<tr><td class="zhibiao">株洲湘火炬机械制造有限责任公司</td>
+<td class="shuju">湖南省株洲市芦淞区董家煅创业路1号</td>
+<td class="shuju">412002</td>
+<td class="shuju">(0731)22266709</td>
+<td class="shuju">305</td>
+<td class="shuju">8644</td>
+<td class="shuju">锡柴.玉柴.朝柴.售后活塞销821.42万只</td>
+</tr>
+<tr><td class="zhibiao">株洲湘火炬汽车灯具有限责任公司</td>
+<td class="shuju">湖南省株洲市天元区黄河南路268号</td>
+<td class="shuju">412007</td>
+<td class="shuju">(0731)22882346</td>
+<td class="shuju">192</td>
+<td class="shuju">6905</td>
+<td class="shuju">汽车灯泡7054200只.汽车后视镜132200只.汽车线束9600套</td>
+</tr>
+<tr><td class="zhibiao">湖南南车时代电动汽车股份有限公司</td>
+<td class="shuju">湖南省株洲高新技术开发区栗雨工业园57区</td>
+<td class="shuju">415000</td>
+<td class="shuju">(0731)22611251</td>
+<td class="shuju">438</td>
+<td class="shuju">40956</td>
+<td class="shuju">改装混合动力大型客车555辆</td>
+</tr>
+<tr><td class="zhibiao">湖南常德嘉达摩擦材料有限公司</td>
+<td class="shuju">湖南省常德市武陵区临江路35号</td>
+<td class="shuju">415000</td>
+<td class="shuju">(0736)7809336</td>
+<td class="shuju">89</td>
+<td class="shuju">1537</td>
+<td class="shuju">柳微.JL.SQR摩擦材料903t</td>
+</tr>
+<tr><td class="zhibiao">湖南运达机电科技股份有限公司</td>
+<td class="shuju">湖南省澧县澧阳镇护城居委会运达城(县经济开发区工业园内)</td>
+<td class="shuju">415000</td>
+<td class="shuju">(0736)3213123</td>
+<td class="shuju">260</td>
+<td class="shuju">11023</td>
+<td class="shuju">CA.蓬莱.宇通.XMQ鼓式制动器总成145300台</td>
+</tr>
+<tr><td class="zhibiao">湖南华南光电(集团)有限责任公司</td>
+<td class="shuju">湖南省常德市武陵区河袱镇</td>
+<td class="shuju">415007</td>
+<td class="shuju">(0736)7291444</td>
+<td class="shuju">1339</td>
+<td class="shuju">38945</td>
+<td class="shuju">汽车制动.离合.油门踏板49万只</td>
+</tr>
+<tr><td class="zhibiao">湖南安福气门有限公司</td>
+<td class="shuju">湖南省常德地区临漕县安福镇工业园</td>
+<td class="shuju">415200</td>
+<td class="shuju">(0736)5892579</td>
+<td class="shuju">855</td>
+<td class="shuju">10126</td>
+<td class="shuju">玉柴.扬柴进排气门882万只</td>
+</tr>
+<tr><td class="zhibiao">湖南石门宝川连杆制造有限责任公司</td>
+<td class="shuju">湖南省石门县楚江镇溲阳西路024号</td>
+<td class="shuju">415300</td>
+<td class="shuju">(0736)5326935</td>
+<td class="shuju">394</td>
+<td class="shuju">6450</td>
+<td class="shuju">YC.南充连杆总成1000213只</td>
+</tr>
+<tr><td class="zhibiao">湖南中联重科车桥有限公司</td>
+<td class="shuju">湖南省津市市孟姜女大道800号</td>
+<td class="shuju">415400</td>
+<td class="shuju">(0736)4211233</td>
+<td class="shuju">2367</td>
+<td class="shuju">134781</td>
+<td class="shuju">XMQ.安达.南骏客车非完整车辆4092辆.CA.EQ.南骏.柳汽等前桥总成216706台.CA.EQ.南骏.柳汽等后桥总成208181台</td>
+</tr>
+<tr><td class="zhibiao">湖南省金华车辆有限公司</td>
+<td class="shuju">湖南省娄底市乐坪西街</td>
+<td class="shuju">417000</td>
+<td class="shuju">(0738)8876358</td>
+<td class="shuju">600</td>
+<td class="shuju">16405</td>
+<td class="shuju">改装洒水车8542辆</td>
+</tr>
+<tr><td class="zhibiao">华达汽车空调(湖南)有限公司</td>
+<td class="shuju">湖南省荽底市乐坪西街</td>
+<td class="shuju">417000</td>
+<td class="shuju">(0738)8871861</td>
+<td class="shuju">167</td>
+<td class="shuju">14544</td>
+<td class="shuju">CA.EQ.SH.日产.泰全空调缩机233169台</td>
+</tr>
+<tr><td class="zhibiao">湖南定园汽车配件制造有限公司</td>
+<td class="shuju">湖南省娄底市双峰县经济开发区</td>
+<td class="shuju">417700</td>
+<td class="shuju">(0738)6823790</td>
+<td class="shuju">386</td>
+<td class="shuju">35160</td>
+<td class="shuju">三菱.长丰.广汽.EQ.宇通.金龙.BYD半轴220万根</td>
+</tr>
+<tr><td class="zhibiao">衡阳泰亲通信车辆有限公司</td>
+<td class="shuju">湖南省衡阳市离新技术开发区芙蓉路46号</td>
+<td class="shuju">421001</td>
+<td class="shuju">(0734)2881202</td>
+<td class="shuju">502</td>
+<td class="shuju">23911</td>
+<td class="shuju">改装通汛车502辆.改装其他轻型改装汽车82辆</td>
+</tr>
+<tr><td class="zhibiao">衡阳风顺车桥有限公司</td>
+<td class="shuju">湖南省衡阳市华新开发区长丰大道18号</td>
+<td class="shuju">421001</td>
+<td class="shuju">(0734)8117320</td>
+<td class="shuju">494</td>
+<td class="shuju">32308</td>
+<td class="shuju">长丰.福迪.扬子前桥总成47591台.长丰.福迪.扬子后桥总成47591台》长丰.福迪.扬子独立悬架47591套</td>
+</tr>
+<tr><td class="zhibiao">湖南天雁机械有限责任公司</td>
+<td class="shuju">湖南省衡阳市石鼓区合江套路195号</td>
+<td class="shuju">421005</td>
+<td class="shuju">(0734)8532149</td>
+<td class="shuju">1830</td>
+<td class="shuju">65170</td>
+<td class="shuju">玉柴.锡柴增压器531000只.玉柴.锡柴进排气门474.80万只</td>
+</tr>
+<tr><td class="zhibiao">亚新科南岳(衡阳)有限公司</td>
+<td class="shuju">湖南省衡阳市雁峰区白沙洲陡岭村10号</td>
+<td class="shuju">421007</td>
+<td class="shuju">(0734)8497597</td>
+<td class="shuju">1673</td>
+<td class="shuju">87747</td>
+<td class="shuju">玉柴.CA.潍柴柴油泵475760只</td>
+</tr>
+<tr><td class="zhibiao">湖南星马汽车有限公司</td>
+<td class="shuju">湖南省衡阳市雁峰区罗金桥2号</td>
+<td class="shuju">421008</td>
+<td class="shuju">(0734)8475930</td>
+<td class="shuju">256</td>
+<td class="shuju">10294</td>
+<td class="shuju">改装HN3250等重型自卸汽车1974辆.HN3250等货车非完整车辆1200辆.改装HNX5250GJB混凝土搅拌运输车16辆</td>
+</tr>
+<tr><td class="zhibiao">湖南衡山汽车制造有限公司</td>
+<td class="shuju">湖南省衡山县开云镇东风路1号</td>
+<td class="shuju">421300</td>
+<td class="shuju">(0734)5823901</td>
+<td class="shuju">524</td>
+<td class="shuju">31309</td>
+<td class="shuju">改装HSZ6600轻型客车899辆.改装HSZ6108SYC.HSZ6106KF等中型客车486辆.改装HSZ5122XWT舞台车99辆</td>
+</tr>
+<tr><td class="zhibiao">湖南机油泵股份有限公司</td>
+<td class="shuju">湖南省衡东县城关镇北正街69号</td>
+<td class="shuju">421400</td>
+<td class="shuju">(0734)5223500</td>
+<td class="shuju">1015</td>
+<td class="shuju">40212</td>
+<td class="shuju">汽车机油泵263万只</td>
+</tr>
+<tr><td class="zhibiao">邵阳神风动力制造有限责任公司</td>
+<td class="shuju">湖南省邵阳市五一路53号</td>
+<td class="shuju">422000</td>
+<td class="shuju">(0739)5225254</td>
+<td class="shuju">991</td>
+<td class="shuju">20224</td>
+<td class="shuju">YC气缸体113663只:YC飞轮壳45236只</td>
+</tr>
+<tr><td class="zhibiao">邵阳市通达汽车零部件制造有限公司</td>
+<td class="shuju">湖南省邵阳市宝庆西路443号</td>
+<td class="shuju">422000</td>
+<td class="shuju">(0739)2359890</td>
+<td class="shuju">175</td>
+<td class="shuju">4104</td>
+<td class="shuju">汽车减振器140只</td>
+</tr>
+<tr><td class="zhibiao">路桥集团郴州筑路机械厂</td>
+<td class="shuju">湖南省郴州市燕泉路68号</td>
+<td class="shuju">423000</td>
+<td class="shuju">(0735)2172032</td>
+<td class="shuju">225</td>
+<td class="shuju">3591</td>
+<td class="shuju">改装中型载货车300辆</td>
+</tr>
+<tr><td class="zhibiao">湖南长丰汽车空调有限公司</td>
+<td class="shuju">湖南省永州市冷水滩区长丰工业园</td>
+<td class="shuju">425000</td>
+<td class="shuju">(0746)8453968</td>
+<td class="shuju">107</td>
+<td class="shuju">10112</td>
+<td class="shuju">长丰空调装置32948台;长丰.青年.美生.博耐尔空凋冷凝器58152台</td>
+</tr>
+<tr><td class="zhibiao">湖南长丰汽车零部件有限责任公司</td>
+<td class="shuju">湖南省永州市冷水滩区张家铺路2号</td>
+<td class="shuju">425000</td>
+<td class="shuju">(0746)8457908</td>
+<td class="shuju">256</td>
+<td class="shuju">9077</td>
+<td class="shuju">长丰消声器排气管132300只.长丰油箱52200只.长丰座椅总成27100只</td>
+</tr>
+<tr><td class="zhibiao">湖南长丰汽车内装饰有限公司</td>
+<td class="shuju">湖南省永州市冷水滩区猎豹北路65号</td>
+<td class="shuju">425100</td>
+<td class="shuju">(0746)8457021</td>
+<td class="shuju">153</td>
+<td class="shuju">5618</td>
+<td class="shuju">长丰.东南.日产成型地毯985K7套;长丰顶篷件16898件</td>
+</tr>
+<tr><td class="zhibiao">湖南长丰汽车塑料制品有限公司</td>
+<td class="shuju">湖南省永州市冷水滩长丰大道一号</td>
+<td class="shuju">425101</td>
+<td class="shuju">(0746)8456738</td>
+<td class="shuju">218</td>
+<td class="shuju">4192</td>
+<td class="shuju">长丰保险杠120082件.长非仪表板总成60100只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

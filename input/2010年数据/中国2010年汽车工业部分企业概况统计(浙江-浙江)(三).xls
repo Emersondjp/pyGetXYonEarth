@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(浙江-浙江)(三)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">浙江万邦汽车动力系统有限公司</td>
+<td class="shuju">浙江省玉环县汽摩工业园区</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87287339</td>
+<td class="shuju">135</td>
+<td class="shuju">4135</td>
+<td class="shuju">重汽.CA离合器总成4.1万台;重汽.CA离合器从动盘总成2.8万只</td>
+</tr>
+<tr><td class="zhibiao">玉环县锡安机械有限公司</td>
+<td class="shuju">浙江省玉环县城关后郊村</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87284300</td>
+<td class="shuju">-</td>
+<td class="shuju">-</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">玉环县强力件制造厂</td>
+<td class="shuju">浙江省玉环县环东工业区</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87282085</td>
+<td class="shuju">390</td>
+<td class="shuju">15003</td>
+<td class="shuju">紧固件.推杆</td>
+</tr>
+<tr><td class="zhibiao">玉环傅海机械有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇城关环东工业区</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87278579</td>
+<td class="shuju">208</td>
+<td class="shuju">3282</td>
+<td class="shuju">正凌.科达.宝凯凌等摩托车活塞1038.50万只;汽车活塞211.85万只</td>
+</tr>
+<tr><td class="zhibiao">台州兴华机械有限公司</td>
+<td class="shuju">浙江省玉环县城关三合潭工业区</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87214912</td>
+<td class="shuju">226</td>
+<td class="shuju">3655</td>
+<td class="shuju">IVECO标准件1573.40万元</td>
+</tr>
+<tr><td class="zhibiao">台州永正汽车零部件有限公司</td>
+<td class="shuju">浙江省台州市玉环南大岙工业区</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87221128</td>
+<td class="shuju">50</td>
+<td class="shuju">1100</td>
+<td class="shuju">哈飞.GM稳定杆24万只</td>
+</tr>
+<tr><td class="zhibiao">玉环万建机械有限公司</td>
+<td class="shuju">浙江省台州市</td>
+<td class="shuju">317600</td>
+<td class="shuju">-</td>
+<td class="shuju">83</td>
+<td class="shuju">1604</td>
+<td class="shuju">浙江诺力.南方天合.温州力邦活塞711万只</td>
+</tr>
+<tr><td class="zhibiao">浙江昌亨机械有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇汽摩工业园</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87280259</td>
+<td class="shuju">385</td>
+<td class="shuju">10000</td>
+<td class="shuju">农机传动轴540620只</td>
+</tr>
+<tr><td class="zhibiao">浙江中捷环洲供应链集团股份有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇汽摩工业园</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87297553</td>
+<td class="shuju">118</td>
+<td class="shuju">2978</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">台州万洲机械有限公司</td>
+<td class="shuju">浙江省玉环坎门科技工业区</td>
+<td class="shuju">317600</td>
+<td class="shuju">(0576)87282538</td>
+<td class="shuju">310</td>
+<td class="shuju">5008</td>
+<td class="shuju">汽车活塞141.19万只</td>
+</tr>
+<tr><td class="zhibiao">浙江省环方汽车电器有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇坎门红旗工业区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87512668</td>
+<td class="shuju">547</td>
+<td class="shuju">17557</td>
+<td class="shuju">汽车开关710万只</td>
+</tr>
+<tr><td class="zhibiao">玉环南洋电机有限公司</td>
+<td class="shuju">浙江省玉环县玉坎路双龙工业区1号</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87552201</td>
+<td class="shuju">155</td>
+<td class="shuju">2062</td>
+<td class="shuju">宗申摩托车起动机297657台;宗申摩托车离合器总成130968台</td>
+</tr>
+<tr><td class="zhibiao">玉环普天单向器有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇坎门科技工业园区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87510708</td>
+<td class="shuju">790</td>
+<td class="shuju">22766</td>
+<td class="shuju">汽车齿轮823万只</td>
+</tr>
+<tr><td class="zhibiao">浙江玉旋泵业有限公司</td>
+<td class="shuju">浙江省玉环县坎门水龙第四工业区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87131299</td>
+<td class="shuju">295</td>
+<td class="shuju">9792</td>
+<td class="shuju">出口水泵总成165万只;出口机油泵42万只</td>
+</tr>
+<tr><td class="zhibiao">台州联升汽车零部件有限公司</td>
+<td class="shuju">浙江省台州玉环县坎门海港西路43号</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87558040</td>
+<td class="shuju">323</td>
+<td class="shuju">6217</td>
+<td class="shuju">汽车制动间隙调整装置118万套;汽车制动凸轮30万只</td>
+</tr>
+<tr><td class="zhibiao">台州意豪转向机有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇坎门科技工业园区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87509761</td>
+<td class="shuju">200</td>
+<td class="shuju">6014</td>
+<td class="shuju">汽车转向机</td>
+</tr>
+<tr><td class="zhibiao">浙江远东汽车零部件制造有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇坎门科技工业园区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87509515</td>
+<td class="shuju">115</td>
+<td class="shuju">1835</td>
+<td class="shuju">黑豹钢板销749500只</td>
+</tr>
+<tr><td class="zhibiao">浙江金辉机械有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇榴岛大道(坎门)348号</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87566786</td>
+<td class="shuju">480</td>
+<td class="shuju">12732</td>
+<td class="shuju">JAC;.TJ摇臂150万只;WY.本田.轻骑.金城摩托车摇臂720万只;WY.本田.轻骑.金城等摩托车连杆总成160万只</td>
+</tr>
+<tr><td class="zhibiao">玉环盛大汽摩部件工业有限公司</td>
+<td class="shuju">浙江省玉环县汽摩工业园区东区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87509576</td>
+<td class="shuju">220</td>
+<td class="shuju">9520</td>
+<td class="shuju">铝合金铸件5000只</td>
+</tr>
+<tr><td class="zhibiao">台州奥特隆机械有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇坎门科技工业园区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87564517</td>
+<td class="shuju">50</td>
+<td class="shuju">800</td>
+<td class="shuju">球头拉杆;悬架;控制臂</td>
+</tr>
+<tr><td class="zhibiao">浙江德利众机械制造有限公司</td>
+<td class="shuju">浙江省玉环县坎门科技工业园区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87509018</td>
+<td class="shuju">423</td>
+<td class="shuju">10841</td>
+<td class="shuju">汽车万向节总成1251541只;汽车转向横直拉杆854711件</td>
+</tr>
+<tr><td class="zhibiao">台州永裕工业有限公司</td>
+<td class="shuju">浙江省玉环县坎门镇水龙路6号</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87553756</td>
+<td class="shuju">285</td>
+<td class="shuju">8381</td>
+<td class="shuju">汽车.出□气缸盖12万只</td>
+</tr>
+<tr><td class="zhibiao">玉环永迸工贸有限公司</td>
+<td class="shuju">浙江省玉环县东风路75号</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87565276</td>
+<td class="shuju">50</td>
+<td class="shuju">450</td>
+<td class="shuju">汽车万向节总成2万只</td>
+</tr>
+<tr><td class="zhibiao">玉环江宏机械有限公司</td>
+<td class="shuju">浙江省玉环县坎门科技工业园区</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)89916669</td>
+<td class="shuju">200</td>
+<td class="shuju">2837</td>
+<td class="shuju">汽车制动钳34.5万只</td>
+</tr>
+<tr><td class="zhibiao">玉环博宇机械有限公司</td>
+<td class="shuju">浙江省玉环县双龙工业区工-路</td>
+<td class="shuju">317602</td>
+<td class="shuju">(0576)87558334</td>
+<td class="shuju">110</td>
+<td class="shuju">1800</td>
+<td class="shuju">汽车制动钳25万只;汽车转向机总成10万台</td>
+</tr>
+<tr><td class="zhibiao">玉环臣菱汽车泵业有限公司</td>
+<td class="shuju">浙江省玉环县珠港镇</td>
+<td class="shuju">317602</td>
+<td class="shuju">-</td>
+<td class="shuju">40</td>
+<td class="shuju">838</td>
+<td class="shuju">EQ离合器总泵40万只</td>
+</tr>
+<tr><td class="zhibiao">浙江正奥汽配实业有限公司</td>
+<td class="shuju">浙江省大麦屿对台贸易加工区</td>
+<td class="shuju">317604</td>
+<td class="shuju">(0576)87373918</td>
+<td class="shuju">290</td>
+<td class="shuju">7056</td>
+<td class="shuju">控制臂</td>
+</tr>
+<tr><td class="zhibiao">玉环精工机械制造有限公司</td>
+<td class="shuju">浙江省玉环县大麦屿开发区工业园</td>
+<td class="shuju">317604</td>
+<td class="shuju">(0576)87339372</td>
+<td class="shuju">208</td>
+<td class="shuju">6312</td>
+<td class="shuju">大柴.青年.DANA.LZW标准件2840万元</td>
+</tr>
+<tr><td class="zhibiao">浙江利中实业有限公司</td>
+<td class="shuju">浙江省玉环县经济开发区漩门工业城工业大道</td>
+<td class="shuju">317605</td>
+<td class="shuju">(0576)89901802</td>
+<td class="shuju">859</td>
+<td class="shuju">34833</td>
+<td class="shuju">汽车转向横直拉杆5567319件</td>
+</tr>
+<tr><td class="zhibiao">台州方科汽车部件有限公司</td>
+<td class="shuju">浙江省玉环县楚门镇中北工业区</td>
+<td class="shuju">317605</td>
+<td class="shuju">(0576)89902005</td>
+<td class="shuju">620</td>
+<td class="shuju">15495</td>
+<td class="shuju">SGM.JL.SQR.宇通等转向盘678900只</td>
+</tr>
+<tr><td class="zhibiao">玉环县华意汽车部件有限公司</td>
+<td class="shuju">浙江省玉环县清港镇清港村三木路2号</td>
+<td class="shuju">317606</td>
+<td class="shuju">(0576)87104251</td>
+<td class="shuju">58</td>
+<td class="shuju">1196</td>
+<td class="shuju">机油盘</td>
+</tr>
+<tr><td class="zhibiao">台州展辉机械制造有限公司</td>
+<td class="shuju">浙江省玉环县滨港工业城</td>
+<td class="shuju">317607</td>
+<td class="shuju">(0576)87284458</td>
+<td class="shuju">330</td>
+<td class="shuju">3960</td>
+<td class="shuju">汽车皮带轮58万个</td>
+</tr>
+<tr><td class="zhibiao">浙江国昌机械有限公司</td>
+<td class="shuju">浙江省玉环县坎门科技工业园区</td>
+<td class="shuju">317608</td>
+<td class="shuju">(0576)87139608</td>
+<td class="shuju">443</td>
+<td class="shuju">16622</td>
+<td class="shuju">重汽.汉德车桥.曙光车桥制动凸轮444340只;重汽.汉德车桥.曙光车桥制动间隙调整装置308804套</td>
+</tr>
+<tr><td class="zhibiao">台州英克尔传动轴有限公司</td>
+<td class="shuju">浙江省台州市玉环县经济开发区</td>
+<td class="shuju">317608</td>
+<td class="shuju">(0576)87507171</td>
+<td class="shuju">140</td>
+<td class="shuju">5177</td>
+<td class="shuju">汽车万向节总成120万只</td>
+</tr>
+<tr><td class="zhibiao">台州宏鑫曲轴有限公司</td>
+<td class="shuju">浙江省玉环县漩门工业区</td>
+<td class="shuju">317608</td>
+<td class="shuju">(0576)87303991</td>
+<td class="shuju">507</td>
+<td class="shuju">10141</td>
+<td class="shuju">摩托车曲轴1108150根</td>
+</tr>
+<tr><td class="zhibiao">台州恒丰汽车零部件有限公司</td>
+<td class="shuju">浙江省台州市椒江区东环大道850号</td>
+<td class="shuju">318000</td>
+<td class="shuju">(0576)88529236</td>
+<td class="shuju">106</td>
+<td class="shuju">4402</td>
+<td class="shuju">隔热板</td>
+</tr>
+<tr><td class="zhibiao">台州市椒江之威摩托车制造有限公司</td>
+<td class="shuju">浙江省台州巿椒江区洪家街道钗洋工业区1号</td>
+<td class="shuju">318015</td>
+<td class="shuju">(0576)88012238</td>
+<td class="shuju">195</td>
+<td class="shuju">4518</td>
+<td class="shuju">125.150.出门二轮普通摩托车119542辆;二轮轻便摩托车4999辆</td>
+</tr>
+<tr><td class="zhibiao">浙江台州市王野动力有限公司</td>
+<td class="shuju">浙江省台州市黄岩区西工业园区</td>
+<td class="shuju">318020</td>
+<td class="shuju">(0576)84067919</td>
+<td class="shuju">1479</td>
+<td class="shuju">68137</td>
+<td class="shuju">二轮普通摩托车73757辆;摩托车用发动机147091台;二轮轻便摩托车52233辆</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(江苏-江苏)(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">无锡锡梅特种汽车有限公司</td>
+<td class="shuju">江苏省无锡市西漳锡登北路98号</td>
+<td class="shuju">214171</td>
+<td class="shuju">(0510)83751780</td>
+<td class="shuju">69</td>
+<td class="shuju">2881</td>
+<td class="shuju">改装机场客梯车28辆;改装轻型汽车22辆;改装航空食品装运车15辆</td>
+</tr>
+<tr><td class="zhibiao">无锡市凯龙汽车设备制造有限公司</td>
+<td class="shuju">江苏省无锡市惠山经济开发区长安街道欣惠路519-8号</td>
+<td class="shuju">214174</td>
+<td class="shuju">(0510)82237032</td>
+<td class="shuju">267</td>
+<td class="shuju">8491</td>
+<td class="shuju">上柴.锡柴三效催化转化器8200只;上柴;锡柴消声器总成8200只</td>
+</tr>
+<tr><td class="zhibiao">无锡市贝尔特胶带有限公司</td>
+<td class="shuju">江苏省无锡巿惠山开发区惠萍路87号</td>
+<td class="shuju">214176</td>
+<td class="shuju">(0510)83623330</td>
+<td class="shuju">478</td>
+<td class="shuju">39500</td>
+<td class="shuju">汽车胶带</td>
+</tr>
+<tr><td class="zhibiao">一汽客车(无锡)有限公司</td>
+<td class="shuju">江苏省无锡市惠山经济开发区金惠路569号</td>
+<td class="shuju">214177</td>
+<td class="shuju">(0510)82250888</td>
+<td class="shuju">741</td>
+<td class="shuju">34297</td>
+<td class="shuju">改装CA6100.CA6895.CA6750等中型客车1840辆;改装CA6110.CA6120等大型客车100辆</td>
+</tr>
+<tr><td class="zhibiao">无锡交通汽车股份有限公司</td>
+<td class="shuju">江苏省无锡市惠山经济开发区春惠路568-2号</td>
+<td class="shuju">214177</td>
+<td class="shuju">(0510)81017397</td>
+<td class="shuju">108</td>
+<td class="shuju">3229</td>
+<td class="shuju">改装XQX5040ZLJ自卸式垃圾车150辆;改装XQX5100GSS洒水车15辆;改装XQX6700D3Y中型客车5辆</td>
+</tr>
+<tr><td class="zhibiao">江苏健龙新田摩托车制造有限公司</td>
+<td class="shuju">江苏省无锡巿惠山区经济开发区惠阳路99号</td>
+<td class="shuju">214177</td>
+<td class="shuju">(0510)68915855</td>
+<td class="shuju">283</td>
+<td class="shuju">12488</td>
+<td class="shuju">50二轮轻便摩托车13050辆;四轮摩托车10200辆;100.110.125.150二轮普通摩托车7330辆</td>
+</tr>
+<tr><td class="zhibiao">无锡市奔达密封件有限公司</td>
+<td class="shuju">江苏省锡巿惠山区堰桥街道金惠路802号</td>
+<td class="shuju">214177</td>
+<td class="shuju">(0510)83761814</td>
+<td class="shuju">155</td>
+<td class="shuju">2268</td>
+<td class="shuju">锡柴.YN.一拖.天利.全柴等汽车密封件1820万元</td>
+</tr>
+<tr><td class="zhibiao">江苏四达动力机械集团有限公司</td>
+<td class="shuju">江苏省锡山市洛社镇中兴东路66号</td>
+<td class="shuju">214187</td>
+<td class="shuju">(0510)83304366</td>
+<td class="shuju">559</td>
+<td class="shuju">88665</td>
+<td class="shuju">480.485.4100.4105等汽车用柴油机商品1124627台</td>
+</tr>
+<tr><td class="zhibiao">无锡市神力齿轮冷挤有限公司</td>
+<td class="shuju">江苏省无锡市锡山区东港镇东升工业区</td>
+<td class="shuju">214196</td>
+<td class="shuju">(0510)88790035</td>
+<td class="shuju">300</td>
+<td class="shuju">7520</td>
+<td class="shuju">单向器363万只</td>
+</tr>
+<tr><td class="zhibiao">江阴市汽车改装厂</td>
+<td class="shuju">江苏省江阴市青阳镇锡澄路1519号</td>
+<td class="shuju">214401</td>
+<td class="shuju">(0510)86503011</td>
+<td class="shuju">75</td>
+<td class="shuju">2061</td>
+<td class="shuju">改装JYG5037XKC等勘察车130辆.改装JYG5060XZB厢式汽车3辆;改装JYG5050XZH指挥车2辆</td>
+</tr>
+<tr><td class="zhibiao">江阴协统汽车附件有限公司</td>
+<td class="shuju">江苏省江阴市月城镇双径工业园</td>
+<td class="shuju">214404</td>
+<td class="shuju">(0510)86592961</td>
+<td class="shuju">672</td>
+<td class="shuju">70054</td>
+<td class="shuju">北奔成型地毯36万套;华丰.HMC顶蓬件16万件</td>
+</tr>
+<tr><td class="zhibiao">无锡共成控制线有限公司</td>
+<td class="shuju">江苏省江阴市长泾镇共青路17号</td>
+<td class="shuju">214411</td>
+<td class="shuju">(0510)86316062</td>
+<td class="shuju">450</td>
+<td class="shuju">13000</td>
+<td class="shuju">控制线;铝压铸件</td>
+</tr>
+<tr><td class="zhibiao">江阴市希克林摩擦材料有限公司</td>
+<td class="shuju">江苏省江阴市顾山镇鉴青村</td>
+<td class="shuju">214414</td>
+<td class="shuju">(0510)86351670</td>
+<td class="shuju">158</td>
+<td class="shuju">4900</td>
+<td class="shuju">宝华.恒力.万安等制动片2161800只</td>
+</tr>
+<tr><td class="zhibiao">江阴离合器厂</td>
+<td class="shuju">江苏省江阴巿璜铜桥399号</td>
+<td class="shuju">214432</td>
+<td class="shuju">(0510)86272005</td>
+<td class="shuju">259</td>
+<td class="shuju">8447</td>
+<td class="shuju">大长江.轻骑摩托车离合器总成87万台</td>
+</tr>
+<tr><td class="zhibiao">江苏常隆客车有限公司</td>
+<td class="shuju">江苏省江阴市新澄路2号</td>
+<td class="shuju">214432</td>
+<td class="shuju">(0510)86262326</td>
+<td class="shuju">220</td>
+<td class="shuju">25295</td>
+<td class="shuju">改装YS6750G等中型客车462辆;改装YS6120QG等大型客车144辆;改装YS6606等轻型客车78辆</td>
+</tr>
+<tr><td class="zhibiao">无锡联信离合器有限公司</td>
+<td class="shuju">江苏省江阴巿临港新城申港镇澄路1201号</td>
+<td class="shuju">214443</td>
+<td class="shuju">(0510)86685199</td>
+<td class="shuju">190</td>
+<td class="shuju">9873</td>
+<td class="shuju">扬柴.JAC离合器从动盘总成133270只;扬柴.JAC离合器盖.中压板及压盘128874件</td>
+</tr>
+<tr><td class="zhibiao">江苏恒力制动器制造有限公司</td>
+<td class="shuju">江苏省泰州市靖江市城南园区苏源热电路</td>
+<td class="shuju">214500</td>
+<td class="shuju">(0523)84622978</td>
+<td class="shuju">506</td>
+<td class="shuju">32983</td>
+<td class="shuju">CA.东风德纳鼓式制动器总成648300台;柳汽.IVECO前后制动蹄总成47200只.FOTON.JMC.北奔凸轮轴16500根</td>
+</tr>
+<tr><td class="zhibiao">江苏格尔顿传动有限公司</td>
+<td class="shuju">江苏省泰州巿靖江市八圩镇姜八公路收费站东侧</td>
+<td class="shuju">214521</td>
+<td class="shuju">(0523)84833405</td>
+<td class="shuju">428</td>
+<td class="shuju">30140</td>
+<td class="shuju">YUTONG.XMQ.BJ.柳汽传动轴194200只;YUTONG.XMQ.BJ.柳汽转向柱1005800只</td>
+</tr>
+<tr><td class="zhibiao">江苏晨阳电光源有限公司</td>
+<td class="shuju">江苏省泰州巿靖江市公所桥西首</td>
+<td class="shuju">214527</td>
+<td class="shuju">(0523)84615004</td>
+<td class="shuju">520</td>
+<td class="shuju">8462</td>
+<td class="shuju">汽车灯泡10551万只</td>
+</tr>
+<tr><td class="zhibiao">江苏皓月汽车锁股份有限公司</td>
+<td class="shuju">江苏省靖江市东兴镇南路14号</td>
+<td class="shuju">214533</td>
+<td class="shuju">(0523)84684578</td>
+<td class="shuju">841</td>
+<td class="shuju">43833</td>
+<td class="shuju">JAC.神龙.HFJ.江铃等汽车锁1574万只</td>
+</tr>
+<tr><td class="zhibiao">苏州海格新能源汽车电控系统科技有限公司</td>
+<td class="shuju">江苏省苏州独墅湖高教区林泉街399号东南大学成贤学院</td>
+<td class="shuju">215000</td>
+<td class="shuju">(0512)62997396</td>
+<td class="shuju">16</td>
+<td class="shuju">1542</td>
+<td class="shuju">混合动力监视器50台</td>
+</tr>
+<tr><td class="zhibiao">金龙联合汽车工业(苏州)有限公司</td>
+<td class="shuju">江苏省苏州工业园区苏虹东路288号</td>
+<td class="shuju">215026</td>
+<td class="shuju">(0512)62582165</td>
+<td class="shuju">4438</td>
+<td class="shuju">633647</td>
+<td class="shuju">KLQ6120.KLQ6110等客车21392辆</td>
+</tr>
+<tr><td class="zhibiao">苏州华福低温容器有限公司</td>
+<td class="shuju">江苏省苏州巿吴中开发区天灵路18号</td>
+<td class="shuju">215128</td>
+<td class="shuju">(0512)65276693</td>
+<td class="shuju">63</td>
+<td class="shuju">2658</td>
+<td class="shuju">改装HFD9401GDY.HFD9350GDY超重型半挂车6辆</td>
+</tr>
+<tr><td class="zhibiao">苏州轴承厂有限公司</td>
+<td class="shuju">江苏省苏州市高新区鹿山路35号</td>
+<td class="shuju">215129</td>
+<td class="shuju">(0512)66657350</td>
+<td class="shuju">637</td>
+<td class="shuju">13222</td>
+<td class="shuju">汽车轴承1850万套</td>
+</tr>
+<tr><td class="zhibiao">苏州东风精冲工程有限公司</td>
+<td class="shuju">江苏省苏州新区新亭路18号</td>
+<td class="shuju">215151</td>
+<td class="shuju">(0512)66161082</td>
+<td class="shuju">287</td>
+<td class="shuju">7400</td>
+<td class="shuju">精冲零件</td>
+</tr>
+<tr><td class="zhibiao">苏州苏万万向节有限公司</td>
+<td class="shuju">江苏省吴江市松陵镇交通路4279号</td>
+<td class="shuju">215200</td>
+<td class="shuju">(0512)63451010</td>
+<td class="shuju">268</td>
+<td class="shuju">6079</td>
+<td class="shuju">汽车万向节662223件;工程传动轴41735根</td>
+</tr>
+<tr><td class="zhibiao">富士和机械工业(昆山)有限公司</td>
+<td class="shuju">江苏省昆山市经济技术开发区南河路988号</td>
+<td class="shuju">215300</td>
+<td class="shuju">(0512)57715858</td>
+<td class="shuju">1729</td>
+<td class="shuju">126802</td>
+<td class="shuju">上海汇众.SGM制动盘1409076只;上海汇众.SGM转向节809112只;郑州日产减速器总成10640只</td>
+</tr>
+<tr><td class="zhibiao">昆山金发液压机械有限公司</td>
+<td class="shuju">江苏省昆山巿庆丰西路555号</td>
+<td class="shuju">215300</td>
+<td class="shuju">(0512)57304356</td>
+<td class="shuju">135</td>
+<td class="shuju">2413</td>
+<td class="shuju">XML.DD.北京奔驰等气弹簧35.4万只</td>
+</tr>
+<tr><td class="zhibiao">昆山专用汽车制造厂</td>
+<td class="shuju">江苏省昆山巿金茂路1288号</td>
+<td class="shuju">215313</td>
+<td class="shuju">(0512)55106818</td>
+<td class="shuju">177</td>
+<td class="shuju">4190</td>
+<td class="shuju">改装KS3253.KS3254等重型自卸汽车314辆.改装KS5257罐式汽车51辆.改装KS9380超重型半挂车32辆</td>
+</tr>
+<tr><td class="zhibiao">江苏中联地毯有限公司</td>
+<td class="shuju">江苏省太仓市经济开发区洛阳东路81号</td>
+<td class="shuju">215400</td>
+<td class="shuju">(0512)82705000</td>
+<td class="shuju">199</td>
+<td class="shuju">17649</td>
+<td class="shuju">-</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

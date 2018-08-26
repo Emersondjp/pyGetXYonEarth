@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(浙江-浙江)(一)            </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">杭州佳诺滤清器有限公司</td>
+<td class="shuju">杭州市余杭区瓶窑镇风都路7号</td>
+<td class="shuju">311115</td>
+<td class="shuju">(0571)88538160</td>
+<td class="shuju">50</td>
+<td class="shuju">964</td>
+<td class="shuju">EQ.东峻.杭叉等空气滤清器6.7万只;EQ.东峻.杭叉等滤芯1.1万只</td>
+</tr>
+<tr><td class="zhibiao">杭州余杭飞鹰摩擦材料有限公司</td>
+<td class="shuju">杭州市余杭区仓前镇工业区龙泉路22号</td>
+<td class="shuju">311121</td>
+<td class="shuju">(0571)57890803</td>
+<td class="shuju">300</td>
+<td class="shuju">9142</td>
+<td class="shuju">汽车制动片800万只</td>
+</tr>
+<tr><td class="zhibiao">杭州天宇油泵油嘴有限公司</td>
+<td class="shuju">杭州市萧山区城厢街道萧然东路102号</td>
+<td class="shuju">311201</td>
+<td class="shuju">(0571)82726916</td>
+<td class="shuju">446</td>
+<td class="shuju">3777</td>
+<td class="shuju">汽车柱塞偶件1766741付;汽车喷油器3183794只</td>
+</tr>
+<tr><td class="zhibiao">杭州正强万向节有限公司</td>
+<td class="shuju">杭州市萧山区蜀山街道犁金工业园</td>
+<td class="shuju">311201</td>
+<td class="shuju">(0571)82367289</td>
+<td class="shuju">595</td>
+<td class="shuju">18445</td>
+<td class="shuju">CA.EQ.许昌传动轴万向节总成1676万只</td>
+</tr>
+<tr><td class="zhibiao">亚太机电集团有限公司</td>
+<td class="shuju">杭州市萧山区蜀山街道亚太路1399号</td>
+<td class="shuju">311203</td>
+<td class="shuju">(0571)82761316</td>
+<td class="shuju">2434</td>
+<td class="shuju">187185</td>
+<td class="shuju">SVW.CA.SAIC.CC.LZW.SQR等液压制动分泵6460200只;盘式制动器总成5770200台;鼓式制动器总成4856600台</td>
+</tr>
+<tr><td class="zhibiao">杭州前进齿轮箱集团股份有限公司(含控股企业)</td>
+<td class="shuju">杭州市萧山区萧金路45号</td>
+<td class="shuju">311203</td>
+<td class="shuju">(0571)82683112</td>
+<td class="shuju">4902</td>
+<td class="shuju">220962</td>
+<td class="shuju">柳特.三环.EQ手动变速器总成7300台;EQ.镇江改分动器总成4200台</td>
+</tr>
+<tr><td class="zhibiao">万向集团公司</td>
+<td class="shuju">杭州市萧山经济技术开发区万向路</td>
+<td class="shuju">311215</td>
+<td class="shuju">(0571)82832999</td>
+<td class="shuju">23321</td>
+<td class="shuju">6613800</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">浙江远翅控股集团有限公司</td>
+<td class="shuju">杭州市萧山区新街镇山末址村</td>
+<td class="shuju">311217</td>
+<td class="shuju">(0571)8263923</td>
+<td class="shuju">1741</td>
+<td class="shuju">57560</td>
+<td class="shuju">汽车仪表板.方向盘.保险杠</td>
+</tr>
+<tr><td class="zhibiao">广汽吉奥汽车有限公司</td>
+<td class="shuju">浙江省萧山经济技术开发区江东工业园区</td>
+<td class="shuju">311222</td>
+<td class="shuju">(0576)82612888</td>
+<td class="shuju">1250</td>
+<td class="shuju">211624</td>
+<td class="shuju">货车38012辆;交叉型乘用车32138辆;二轮驱动运动型多用途车(SUV)16901辆</td>
+</tr>
+<tr><td class="zhibiao">东风杭州汽车有限公司</td>
+<td class="shuju">杭州市萧山临江经济开发区纬六路299号</td>
+<td class="shuju">311228</td>
+<td class="shuju">(0571)22969912</td>
+<td class="shuju">343</td>
+<td class="shuju">23649</td>
+<td class="shuju">货车1612辆;货车非完整车辆1790辆;改装轻型客车250辆</td>
+</tr>
+<tr><td class="zhibiao">中国重汽集团杭州汽车发动机有限公司</td>
+<td class="shuju">杭州市萧山经济开发区红泰六路699号</td>
+<td class="shuju">311232</td>
+<td class="shuju">(0571)88078888</td>
+<td class="shuju">1434</td>
+<td class="shuju">423861</td>
+<td class="shuju">汽车用柴油机商品量85326台</td>
+</tr>
+<tr><td class="zhibiao">杭州奇碟离合器有限公司</td>
+<td class="shuju">杭州市萧山区湘湖农场</td>
+<td class="shuju">311258</td>
+<td class="shuju">(0571)82766272</td>
+<td class="shuju">127</td>
+<td class="shuju">12815</td>
+<td class="shuju">重汽.云内.迪尔.上汽离合器从动盘总成49.4万只;重汽.云内.迪尔.上汽离合器盖.中压板及压盘22.7万件</td>
+</tr>
+<tr><td class="zhibiao">浙江万达汽车方向机有限公司</td>
+<td class="shuju">杭州巿萧山区闻堰镇亚太路1833号</td>
+<td class="shuju">311258</td>
+<td class="shuju">(0571)82301099</td>
+<td class="shuju">740</td>
+<td class="shuju">42901</td>
+<td class="shuju">LZW.JMC.解放.出口等转向机总成1401536台;FVW.LZW转向管柱138万只</td>
+</tr>
+<tr><td class="zhibiao">浙江万达集团公司</td>
+<td class="shuju">杭州巿萧山区闻堰镇三江路8号</td>
+<td class="shuju">311258</td>
+<td class="shuju">(0571)82301088</td>
+<td class="shuju">1726</td>
+<td class="shuju">86987</td>
+<td class="shuju">五金工具905万把</td>
+</tr>
+<tr><td class="zhibiao">浙江龙生汽车部件股份有限公司</td>
+<td class="shuju">浙江省桐庐县富春江镇机械工业区</td>
+<td class="shuju">311504</td>
+<td class="shuju">(0571)64667288</td>
+<td class="shuju">568</td>
+<td class="shuju">32738</td>
+<td class="shuju">汽车配件32788万元</td>
+</tr>
+<tr><td class="zhibiao">万安集团有限公司</td>
+<td class="shuju">浙江省诸暨市店口镇万安科技园区</td>
+<td class="shuju">311835</td>
+<td class="shuju">(0575)87658802</td>
+<td class="shuju">2081</td>
+<td class="shuju">160000</td>
+<td class="shuju">EQ.SX.宇通.JAC制动比例阀1170万只;BYD.SQR低压油管1985700根;LZW.SY.BYD.SQR离合器总泵112万只</td>
+</tr>
+<tr><td class="zhibiao">浙江车灯有限公司</td>
+<td class="shuju">浙江省绍兴巿人民东路1433号</td>
+<td class="shuju">312000</td>
+<td class="shuju">(0575)88906801</td>
+<td class="shuju">270</td>
+<td class="shuju">4520</td>
+<td class="shuju">大长江摩托车车灯总成180万只;长丰车灯总成17.5万只</td>
+</tr>
+<tr><td class="zhibiao">绍兴绍良汽车钢板弹簧有限公司</td>
+<td class="shuju">浙江省绍兴市越城区鉴湖镇谢墅(车管所后面)</td>
+<td class="shuju">312001</td>
+<td class="shuju">(0575)88332582</td>
+<td class="shuju">12</td>
+<td class="shuju">119</td>
+<td class="shuju">汽车钢板弹簧总成3707架</td>
+</tr>
+<tr><td class="zhibiao">索密克汽车配件有限公司</td>
+<td class="shuju">浙江省绍兴县柯岩街道丁巷村</td>
+<td class="shuju">312030</td>
+<td class="shuju">(0575)84311990</td>
+<td class="shuju">1305</td>
+<td class="shuju">127621</td>
+<td class="shuju">汽车球头销857.4万只;汽车转向节主销839.2万只;汽车转向横直拉杆270.2万件</td>
+</tr>
+<tr><td class="zhibiao">浙江长泰机械有限公司</td>
+<td class="shuju">浙江省绍兴县华舍街道解放村</td>
+<td class="shuju">312033</td>
+<td class="shuju">(0575)84080966</td>
+<td class="shuju">338</td>
+<td class="shuju">11256</td>
+<td class="shuju">三环.LF.EQ.五征等手动变速器总成31500台</td>
+</tr>
+<tr><td class="zhibiao">浙江省汽车仪表有限公司</td>
+<td class="shuju">浙江省绍兴市袍江工业区洋江东路21号</td>
+<td class="shuju">312071</td>
+<td class="shuju">(0575)88207186</td>
+<td class="shuju">681</td>
+<td class="shuju">18238</td>
+<td class="shuju">SY.北汽.EQ.CC.CA.JAC等汽车组合仪表56.46万只</td>
+</tr>
+<tr><td class="zhibiao">延锋伟世通怡东汽车仪表有限公司</td>
+<td class="shuju">浙江省绍兴县柯桥镇经济开发区</td>
+<td class="shuju">312081</td>
+<td class="shuju">(0575)84317417</td>
+<td class="shuju">825</td>
+<td class="shuju">38037</td>
+<td class="shuju">汽车组合仪表110.14万只;汽车传感器101.07万只;汽车蜂鸣器;报警器26.38万只</td>
+</tr>
+<tr><td class="zhibiao">浙江太阳股份有限公司</td>
+<td class="shuju">浙江省上虔市城东路258号</td>
+<td class="shuju">312300</td>
+<td class="shuju">(0575)82213728</td>
+<td class="shuju">758</td>
+<td class="shuju">22299</td>
+<td class="shuju">BJ.JAC.JL.常柴.TJ等曲轴64.1万根</td>
+</tr>
+<tr><td class="zhibiao">上鹰市内燃机配件有限公司</td>
+<td class="shuju">浙江省虞市经济开发区中塘</td>
+<td class="shuju">312352</td>
+<td class="shuju">(0575)82052087</td>
+<td class="shuju">330</td>
+<td class="shuju">14228</td>
+<td class="shuju">杭发.上柴气门挺柱179万根</td>
+</tr>
+<tr><td class="zhibiao">万丰奥特控股集团有限公司</td>
+<td class="shuju">浙江省新昌县万丰科技园</td>
+<td class="shuju">312500</td>
+<td class="shuju">(0575)86298359</td>
+<td class="shuju">6550</td>
+<td class="shuju">501710</td>
+<td class="shuju">汽车.出口铝车轮总成1030万只;摩托车.出口铝车轮总成2185万只</td>
+</tr>
+<tr><td class="zhibiao">浙江新龙实业有限公司</td>
+<td class="shuju">浙江省绍兴新昌七星街道五龙岙</td>
+<td class="shuju">312500</td>
+<td class="shuju">(0575)86296968</td>
+<td class="shuju">576</td>
+<td class="shuju">10760</td>
+<td class="shuju">空调管组件</td>
+</tr>
+<tr><td class="zhibiao">浙江美力科技股份有限公司</td>
+<td class="shuju">浙江省新昌县新昌大道西路1365号</td>
+<td class="shuju">312560</td>
+<td class="shuju">(0575)86060880</td>
+<td class="shuju">420</td>
+<td class="shuju">15850</td>
+<td class="shuju">汽车弹簧32000万只;汽车悬架弹簧260万件</td>
+</tr>
+<tr><td class="zhibiao">浙江德宏汽车电子电器股份有限公司</td>
+<td class="shuju">浙江省湖州市南太湖大道1888号</td>
+<td class="shuju">313000</td>
+<td class="shuju">(0572)2756127</td>
+<td class="shuju">366</td>
+<td class="shuju">40078</td>
+<td class="shuju">JMC.大柴.CY.YC.潍柴等发电机775400台</td>
+</tr>
+<tr><td class="zhibiao">湖州东方汽车有限公司</td>
+<td class="shuju">浙江省湖州市南浔镇虹阳路338号</td>
+<td class="shuju">313009</td>
+<td class="shuju">(0572)3912567</td>
+<td class="shuju">105</td>
+<td class="shuju">5503</td>
+<td class="shuju">改装重型汽车336辆</td>
+</tr>
+<tr><td class="zhibiao">嘉兴汽车标准件总厂</td>
+<td class="shuju">浙江省嘉兴市长板路58号</td>
+<td class="shuju">314000</td>
+<td class="shuju">(0573)82312277</td>
+<td class="shuju">210</td>
+<td class="shuju">7054</td>
+<td class="shuju">杭发.济南动力标准件3753万元;杭发.济南动力缸盖螺栓790万杭发.济南动力连杆螺栓251万只</td>
+</tr>
+<tr><td class="zhibiao">桐乡市易锋机械厂</td>
+<td class="shuju">浙江省嘉兴市石门镇工业园区创业路201号</td>
+<td class="shuju">314000</td>
+<td class="shuju">(0573)88616388</td>
+<td class="shuju">254</td>
+<td class="shuju">21392</td>
+<td class="shuju">汽车配件</td>
+</tr>
+<tr><td class="zhibiao">合克萨斯精工(嘉兴)有限公司</td>
+<td class="shuju">浙江省嘉兴市昌盛东路1002号</td>
+<td class="shuju">314003</td>
+<td class="shuju">(0573)83918269</td>
+<td class="shuju">215</td>
+<td class="shuju">26567</td>
+<td class="shuju">汽车标准件25503万元</td>
+</tr>
+<tr><td class="zhibiao">嘉兴峰牌汽车钢圈厂</td>
+<td class="shuju">浙江省嘉兴市中环南路亚澳路725号</td>
+<td class="shuju">314006</td>
+<td class="shuju">(0573)82583277</td>
+<td class="shuju">275</td>
+<td class="shuju">10184</td>
+<td class="shuju">徐重.NJ.杭汽.中联钢圈总成32万只</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

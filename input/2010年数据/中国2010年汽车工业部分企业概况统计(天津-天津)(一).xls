@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2010年汽车工业部分企业概况统计(天津-天津)(一)        </div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table id="tab0" class="tb">
+<tr><td class="biaotou">企业名称</td>
+<td class="biaotou">通讯地址</td>
+<td class="biaotou">邮编</td>
+<td class="biaotou">电话</td>
+<td class="biaotou">年末从业人员合计人</td>
+<td class="biaotou">营业收入万元</td>
+<td class="biaotou">主要配套企业.产品名称.型号及产量</td>
+</tr>
+<tr><td class="zhibiao">爱三(天津)汽车部件有限公司</td>
+<td class="shuju">天津市空港物流加工区西九道169号</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)24891145</td>
+<td class="shuju">-</td>
+<td class="shuju">4501</td>
+<td class="shuju">节流阀403983台</td>
+</tr>
+<tr><td class="zhibiao">富来精工(天津)有限公司</td>
+<td class="shuju">天津市空港物流加工区航空路49号</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)24893177</td>
+<td class="shuju">-</td>
+<td class="shuju">6183</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">元一精密仪器(天津)有限公司</td>
+<td class="shuju">天津市空港物流加工区紫荆道13号</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)84909170</td>
+<td class="shuju">-</td>
+<td class="shuju">11202</td>
+<td class="shuju">汽车零部件</td>
+</tr>
+<tr><td class="zhibiao">天津铁钧汽车部件有限公司</td>
+<td class="shuju">天津空港物流加工区西十道99号-1</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)24892192</td>
+<td class="shuju">-</td>
+<td class="shuju">2093</td>
+<td class="shuju">汽车油管39.8万支</td>
+</tr>
+<tr><td class="zhibiao">天津马鲁雅斯管路系统有限公司</td>
+<td class="shuju">天津空港物流加工区航空路80号</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)24890501</td>
+<td class="shuju">-</td>
+<td class="shuju">19229</td>
+<td class="shuju">汽车高压油管199万根;汽车低压油管199万根</td>
+</tr>
+<tr><td class="zhibiao">天津太平洋汽车部件有限公司</td>
+<td class="shuju">天津空港物流加工区西十道99号</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)24896298</td>
+<td class="shuju">-</td>
+<td class="shuju">37983</td>
+<td class="shuju">汽车零部件140万件</td>
+</tr>
+<tr><td class="zhibiao">天津汽车模具股份有限公司</td>
+<td class="shuju">天津空港物流加工区航天路77号</td>
+<td class="shuju">300308</td>
+<td class="shuju">(022)24896756</td>
+<td class="shuju">1011</td>
+<td class="shuju">73386</td>
+<td class="shuju">汽车冲压模具</td>
+</tr>
+<tr><td class="zhibiao">天津市永兴赛福机械制造有限公司</td>
+<td class="shuju">天津市津南区八里台镇工业同区(南区)</td>
+<td class="shuju">300350</td>
+<td class="shuju">-</td>
+<td class="shuju">180</td>
+<td class="shuju">3266</td>
+<td class="shuju">天津柳工驾驶室及车身总成4290台</td>
+</tr>
+<tr><td class="zhibiao">东海化成(天津)汽车部品有限公司</td>
+<td class="shuju">天津市津南经济开发区聚英路6号</td>
+<td class="shuju">300350</td>
+<td class="shuju">(022)58790711</td>
+<td class="shuju">375</td>
+<td class="shuju">19416</td>
+<td class="shuju">门板扶手37万个;工具箱盖32万个</td>
+</tr>
+<tr><td class="zhibiao">天津市鸿远汽车部件制造有限公司</td>
+<td class="shuju">天津巿津南开发区(西区)旺港路4号增1号</td>
+<td class="shuju">300350</td>
+<td class="shuju">(022)28571296</td>
+<td class="shuju">37</td>
+<td class="shuju">1113</td>
+<td class="shuju">转向横直拉杆53.6万件</td>
+</tr>
+<tr><td class="zhibiao">天津市嘉禾机动车配件有限公司</td>
+<td class="shuju">天津市津南区小站镇原黄台工业区</td>
+<td class="shuju">300350</td>
+<td class="shuju">(022)88629323</td>
+<td class="shuju">46</td>
+<td class="shuju">701</td>
+<td class="shuju">济南轻骑摩托车消声器总成6950只</td>
+</tr>
+<tr><td class="zhibiao">天津市精志诚拉线厂</td>
+<td class="shuju">天津市津南区双港工业园鑫港三号路</td>
+<td class="shuju">300350</td>
+<td class="shuju">(022)28594367</td>
+<td class="shuju">30</td>
+<td class="shuju">358</td>
+<td class="shuju">汽车拉线</td>
+</tr>
+<tr><td class="zhibiao">天津市先达精密压铸有限公司</td>
+<td class="shuju">天津市津南区开发区(西区)上海街6号</td>
+<td class="shuju">300350</td>
+<td class="shuju">(022)28573500</td>
+<td class="shuju">345</td>
+<td class="shuju">12978</td>
+<td class="shuju">SQR离合器总成97695台;SQR手动变速器总成93671台</td>
+</tr>
+<tr><td class="zhibiao">天津亚星散热器有限公司</td>
+<td class="shuju">天津市津南区双港工业园区鑫港三号路9号</td>
+<td class="shuju">300350</td>
+<td class="shuju">(022)88718198</td>
+<td class="shuju">475</td>
+<td class="shuju">14629</td>
+<td class="shuju">BYD.JL空凋蒸发器300万台</td>
+</tr>
+<tr><td class="zhibiao">天津津晨汽车缸盖有限公司</td>
+<td class="shuju">天津市津南区八里台镇双闸村</td>
+<td class="shuju">300353</td>
+<td class="shuju">(022)88528456</td>
+<td class="shuju">110</td>
+<td class="shuju">2900</td>
+<td class="shuju">夏利.天津丰田制动盘36万只;沈阳新光消声器排气管5万只</td>
+</tr>
+<tr><td class="zhibiao">天津津荣天利汽车零部件有限公司</td>
+<td class="shuju">天津市南区小站镇黄台工业区致业路11号</td>
+<td class="shuju">300353</td>
+<td class="shuju">(022)28571030</td>
+<td class="shuju">25</td>
+<td class="shuju">1558</td>
+<td class="shuju">汽车密封件1604万元</td>
+</tr>
+<tr><td class="zhibiao">天津市华瑞得利汽车配件有限公司</td>
+<td class="shuju">天津市津南区小站镇营盘圈村</td>
+<td class="shuju">300353</td>
+<td class="shuju">(022)88620585</td>
+<td class="shuju">60</td>
+<td class="shuju">1505</td>
+<td class="shuju">汽车后桥壳2万只</td>
+</tr>
+<tr><td class="zhibiao">天津一汽夏利汽车股份有限公司</td>
+<td class="shuju">天津巿西青区中北斜乡李楼南</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)87915019</td>
+<td class="shuju">6921</td>
+<td class="shuju">892932</td>
+<td class="shuju">TJ7101.TJ7101U.威乐.威志.V2基本型乘用车250456辆</td>
+</tr>
+<tr><td class="zhibiao">天津一汽丰田发动机有限公司</td>
+<td class="shuju">天津市西青区西青道266号</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)58685816</td>
+<td class="shuju">1618</td>
+<td class="shuju">519534</td>
+<td class="shuju">汽车用汽油机商品量344023台</td>
+</tr>
+<tr><td class="zhibiao">天津津河电工有限公司</td>
+<td class="shuju">天津市西青区中北工业园(南园)海光路13号</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)27396830</td>
+<td class="shuju">645</td>
+<td class="shuju">22183</td>
+<td class="shuju">汽车线束</td>
+</tr>
+<tr><td class="zhibiao">天津戴卡汽车零部件有限公司</td>
+<td class="shuju">天津巿西青区中化工业园星光路11号</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)25295086</td>
+<td class="shuju">15</td>
+<td class="shuju">5661</td>
+<td class="shuju">汽车零部件51835万元</td>
+</tr>
+<tr><td class="zhibiao">天津惠德汽车进气系统有限公司</td>
+<td class="shuju">天津市西青区中北工业南园红运路19号</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)23832109</td>
+<td class="shuju">105</td>
+<td class="shuju">3002</td>
+<td class="shuju">JL.LF进排气歧管251129只</td>
+</tr>
+<tr><td class="zhibiao">天津双协机械工业有限公司</td>
+<td class="shuju">天津市西青区中北镇营建支路</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)58110000</td>
+<td class="shuju">562</td>
+<td class="shuju">81733</td>
+<td class="shuju">花冠驾驶室及车身总成82695台;花冠车架总成82945台</td>
+</tr>
+<tr><td class="zhibiao">天津市捷威动力工业有限公司</td>
+<td class="shuju">天津市西青区汽车工业区开源路11号</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)58669000</td>
+<td class="shuju">359</td>
+<td class="shuju">50</td>
+<td class="shuju">新能源汽车动力锂离子电池</td>
+</tr>
+<tr><td class="zhibiao">天津新和科技有限公司</td>
+<td class="shuju">天津市西青区辛口工业区</td>
+<td class="shuju">300380</td>
+<td class="shuju">(022)27996603</td>
+<td class="shuju">348</td>
+<td class="shuju">26642</td>
+<td class="shuju">三轮摩托车630辆</td>
+</tr>
+<tr><td class="zhibiao">天津客车桥有限公司</td>
+<td class="shuju">天津市西青区津静公路十字渠桥北</td>
+<td class="shuju">300384</td>
+<td class="shuju">(022)23792329</td>
+<td class="shuju">502</td>
+<td class="shuju">15744</td>
+<td class="shuju">TJ7100.TJ7130转向节184602只;TJ7100.TJ7130盘式制动器总成184602台;TJ7100.TJ7130转向橫横直拉杆184602件</td>
+</tr>
+<tr><td class="zhibiao">川田通商(天津)电气有限公司</td>
+<td class="shuju">天津市南开区俊城浅水湾46-3-101</td>
+<td class="shuju">300384</td>
+<td class="shuju">(022)83959756</td>
+<td class="shuju">16</td>
+<td class="shuju">1017</td>
+<td class="shuju">汽车零部件2010万件</td>
+</tr>
+<tr><td class="zhibiao">天津市益中汽车安全带厂</td>
+<td class="shuju">天津市西青区经济开发区大寺工业园鸿泽路5号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)23883310</td>
+<td class="shuju">375</td>
+<td class="shuju">15255</td>
+<td class="shuju">TJ.CA.SQR.长城等安全带3074460条</td>
+</tr>
+<tr><td class="zhibiao">天津电装空调有限公司</td>
+<td class="shuju">天津市西青经济开发区赛达国际工业城B1-1</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)23883738</td>
+<td class="shuju">427</td>
+<td class="shuju">49485</td>
+<td class="shuju">汽车空调软管</td>
+</tr>
+<tr><td class="zhibiao">天津富奥电装空调有限公司</td>
+<td class="shuju">天津巿西青经济开发区赛达二大道22号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)23889188</td>
+<td class="shuju">501</td>
+<td class="shuju">224634</td>
+<td class="shuju">一汽丰田.四川丰田.一汽-大众等空调装置770798台</td>
+</tr>
+<tr><td class="zhibiao">天津阿斯莫汽车微电机有限公司</td>
+<td class="shuju">天津市西青经济开发区赛达四支路2号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)83961808</td>
+<td class="shuju">869</td>
+<td class="shuju">138618</td>
+<td class="shuju">天津一汽丰田.北京现代.起亚.SGM等刮水器总成1817200只;微电机1278万台.风窗玻璃洗涤器2893400件</td>
+</tr>
+<tr><td class="zhibiao">天津佰安汽车用品有限公司</td>
+<td class="shuju">大津市西青经济开发区赛达汇亚工业园14号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)23979798</td>
+<td class="shuju">150</td>
+<td class="shuju">11757</td>
+<td class="shuju">汽车脚垫60万套</td>
+</tr>
+<tr><td class="zhibiao">天津三国有限公司</td>
+<td class="shuju">天津市西青经济开发区兴华二支路</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)23973920</td>
+<td class="shuju">413</td>
+<td class="shuju">13044</td>
+<td class="shuju">汽车零部件1489万个;摩托车零部件4030万个</td>
+</tr>
+<tr><td class="zhibiao">松美可(天津)汽车配件有限公司</td>
+<td class="shuju">天津市西青经济开发区兴华宏源道7号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)83983031</td>
+<td class="shuju">200</td>
+<td class="shuju">31293</td>
+<td class="shuju">天丰.广丰稳定杆120万只</td>
+</tr>
+<tr><td class="zhibiao">天津日特固防音配件有限公司</td>
+<td class="shuju">天津市西青经济开发区赛达工业园9号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)23889388</td>
+<td class="shuju">135</td>
+<td class="shuju">7152</td>
+<td class="shuju">汽车减振器;隔音配件等</td>
+</tr>
+<tr><td class="zhibiao">天津京洛塑料有限公司</td>
+<td class="shuju">天津巿西青经济开发区集美工业园18号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)83989509</td>
+<td class="shuju">200</td>
+<td class="shuju">7669</td>
+<td class="shuju">汽车行李板.空调管道.散热风扇</td>
+</tr>
+<tr><td class="zhibiao">捷太格特汽车部件(天津)有限公司</td>
+<td class="shuju">天津市西青经济开发区兴华二支路16号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)83989580</td>
+<td class="shuju">190</td>
+<td class="shuju">38877</td>
+<td class="shuju">天丰.四川丰田转向机总成290472台;天丰.广丰半轴327978根;广丰.长丰等动力转向泵238984只</td>
+</tr>
+<tr><td class="zhibiao">古河(天津)精密铝业有限公司</td>
+<td class="shuju">天津市西青经济开发区兴华一支路20号</td>
+<td class="shuju">300385</td>
+<td class="shuju">(022)83982800</td>
+<td class="shuju">1887</td>
+<td class="shuju">13574</td>
+<td class="shuju">扁管1915t</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国汽车工业年鉴2011》</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+xlwt.egg-info/PKG-INFO
+xlwt.egg-info/SOURCES.txt
+xlwt.egg-info/dependency_links.txt
+xlwt.egg-info/not-zip-safe
+xlwt.egg-info/top_level.txt
